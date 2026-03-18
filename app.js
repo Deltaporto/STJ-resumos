@@ -336,6 +336,20 @@ document.addEventListener('DOMContentLoaded', () => {
             .slice(0, 5);
     };
 
+    const extractRelatores = (content) => {
+        const matches = content.matchAll(/-\s*\*\*Relator:\*\*\s*(?:Min\.)?\s*([^\*\n\r]+)/gi);
+        const relatores = [];
+        for (const match of matches) {
+            if (match[1]) {
+                const name = match[1].trim().replace(/[\.,]+$/, '');
+                if (name.length > 3) {
+                    relatores.push(name);
+                }
+            }
+        }
+        return [...new Set(relatores)];
+    };
+
     const extractTheses = (content) => {
         const lines = content.split('\n');
         const theses = [];
@@ -461,9 +475,12 @@ document.addEventListener('DOMContentLoaded', () => {
             summary: extractLeadParagraph(session.content),
             highlights: extractHighlights(session.content),
             theses: extractTheses(session.content),
-            stats: extractStats(session.content)
+            stats: extractStats(session.content),
+            relatores: extractRelatores(session.content)
         };
     });
+
+    const allRelatores = [...new Set(sessions.flatMap(s => s.relatores))].sort();
 
     const updateResultsInfo = (filteredSessions, filter) => {
         if (!resultsInfo) {
@@ -803,13 +820,20 @@ document.addEventListener('DOMContentLoaded', () => {
     const renderSidebar = (filter = '') => {
         const normalizedFilter = filter.trim().toLowerCase();
         sessionsList.innerHTML = '';
+        
+        const relatorSelect = document.getElementById('relatorSelect');
+        const relatorFilter = relatorSelect ? relatorSelect.value : '';
 
-        const filteredSessions = sessions.filter((session) => (
-            !normalizedFilter
-            || session.title.toLowerCase().includes(normalizedFilter)
-            || session.orgao.toLowerCase().includes(normalizedFilter)
-            || session.date.toLowerCase().includes(normalizedFilter)
-        ));
+        const filteredSessions = sessions.filter((session) => {
+            const matchesText = !normalizedFilter
+                || session.title.toLowerCase().includes(normalizedFilter)
+                || session.orgao.toLowerCase().includes(normalizedFilter)
+                || session.date.toLowerCase().includes(normalizedFilter);
+                
+            const matchesRelator = !relatorFilter || session.relatores.includes(relatorFilter);
+            
+            return matchesText && matchesRelator;
+        });
 
         updateResultsInfo(filteredSessions, filter);
 
@@ -1171,6 +1195,38 @@ document.addEventListener('DOMContentLoaded', () => {
             toggleAllBtn.setAttribute('aria-label', allExpanded ? 'Recolher todos os processos' : 'Expandir todos os processos');
         });
 
+        // Filtragem interna por relator selecionado
+        const relatorSelect = document.getElementById('relatorSelect');
+        const currentRelator = relatorSelect ? relatorSelect.value : '';
+        if (currentRelator) {
+            const headers = markdownBody.querySelectorAll('.process-accordion-header');
+            let firstMatch = true;
+            
+            headers.forEach((h) => {
+                const content = h.nextElementSibling;
+                const isContentMatch = content && content.textContent.toLowerCase().includes(`relator: min. ${currentRelator.toLowerCase()}`);
+                const isTitleMatch = h.textContent.toLowerCase().includes(currentRelator.toLowerCase());
+                
+                if (isContentMatch || isTitleMatch) {
+                    h.style.display = '';
+                    if (content) {
+                        content.style.display = '';
+                        setAccordionOpenState(h, content, true);
+                    }
+                    if (firstMatch) {
+                        firstMatch = false;
+                        setTimeout(() => h.scrollIntoView({ behavior: 'smooth', block: 'start' }), 300);
+                    }
+                } else {
+                    h.style.display = 'none';
+                    if (content) {
+                        content.style.display = 'none';
+                        h.classList.remove('open');
+                    }
+                }
+            });
+        }
+
         documentViewer.scrollTop = 0;
 
         // Focus management (Phase 5.2)
@@ -1281,6 +1337,24 @@ document.addEventListener('DOMContentLoaded', () => {
     searchInput.addEventListener('input', (event) => {
         renderSidebar(event.target.value);
     });
+
+    const relatorSelect = document.getElementById('relatorSelect');
+    if (relatorSelect) {
+        allRelatores.forEach(relator => {
+            const option = document.createElement('option');
+            option.value = relator;
+            option.textContent = relator;
+            relatorSelect.appendChild(option);
+        });
+        
+        relatorSelect.addEventListener('change', () => {
+            renderSidebar(searchInput.value);
+            if (activeSessionId) {
+                const session = sessions.find(s => s.id === activeSessionId);
+                if (session) renderDocument(session);
+            }
+        });
+    }
 
     copyBtn.addEventListener('click', async () => {
         if (!activeSessionId) {
