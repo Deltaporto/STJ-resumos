@@ -14,148 +14,167 @@ const resumosData = [
 
 ## Processos Julgados
 
-### N. ARESP 29.704/RS - Créditos extraconcursais e alienação fiduciária (Início: 29:10)
+### N. AREsp 29704/RS - Créditos Extraconcursais em Recuperação Judicial (Início: 00:29:06)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento
 - **Votação:** Unânime
-- **Tese fixada:** Os créditos garantidos por cessão ou alienação fiduciária são extraconcursais à luz do art. 49, § 3º, da Lei n. 11.101/2005, sendo dispensável o registro no momento da performação.
-- **Resumo da discussão:** O processo foi inicialmente apregoado com erro na numeração e posteriormente corrigido. O Relator informou ter reajustado seu voto para alinhar-se ao entendimento pacificado pela Terceira Seção, no sentido de que a ausência de registro não afasta a natureza extraconcursal do crédito fiduciário, fazendo a ressalva de seu entendimento pessoal em sentido contrário. A Turma acompanhou o Relator de forma unânime e proclamou o resultado.
+- **Resumo da discussão:** O processo foi inicialmente anunciado por equívoco como AREsp 2.541.857/GO, sendo prontamente corrigido na sessão para o recurso do Rio Grande do Sul. O relator informou que reajustou o seu voto após um destaque para adequá-lo à jurisprudência pacificada do Tribunal. O entendimento adotado foi de que os créditos garantidos por cessão ou alienação fiduciária possuem natureza extraconcursal, conforme o art. 49, § 3º, da Lei n. 11.101/2005, sendo dispensável o registro do momento da "performação". O ministro fez a ressalva do seu entendimento pessoal — de que não deveria existir garantia real sem registro —, mas curvou-se à posição majoritária já consagrada.
 
-### N. ARESP 2.561.401/[UF não identificada] - [Tema não identificado] (Início: 31:11)
+### N. AREsp 2.561.401/[UF não identificada] - [Tema não identificado] (Início: 00:31:08)
 - **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Julgado (Dispositivo omitido na transcrição)
+- **Resultado:** Aprovado nos termos do voto do relator
 - **Votação:** Unânime
-- **Resumo da discussão:** O processo, que correspondia ao número 3 da pauta, possuía um destaque formulado pela Ministra Maria Isabel Gallotti, o qual foi expressamente retirado por ela durante a sessão. O Presidente do Colegiado procedeu à proclamação do julgamento em bloco, mas a transcrição não registra a leitura da ementa ou os detalhes do dispositivo final.
+- **Resumo da discussão:** O processo contava com um destaque prévio da Ministra Maria Isabel Gallotti. A ministra comunicou a retirada de seu destaque, o que levou o presidente a proclamar imediatamente o resultado acompanhando o voto do relator de forma unânime, sem debates sobre o mérito ou leitura da parte dispositiva.
 
-### N. [Processos não identificados] - Lei do Distrato e percentual de retenção (Início: 31:54)
+### N. AREsp 2.24584/SP - Natureza Alimentar dos Honorários Sucumbenciais (Início: 00:32:44)
 - **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Julgados
+- **Resultado:** Aprovado nos termos do voto do relator
 - **Votação:** Unânime
-- **Tese fixada:** Para contratos firmados antes da Lei do Distrato, não havendo convenção em contrário, o percentual de retenção aplicável é de 25%.
-- **Resumo da discussão:** O Presidente fez um alerta geral aos pares acerca de um bloco de processos de sua relatoria que envolviam a aplicação da Lei do Distrato. Comunicou que reajustou seus votos para aplicar o percentual fixo de retenção de 25% para rescisões de contratos anteriores à legislação de regência. A mudança teve como intuito aderir à jurisprudência da Seção e convergir com a posição dos demais ministros, facilitando o julgamento em bloco e a retirada de eventuais destaques pendentes.
+- **Resumo da discussão:** A Ministra Maria Isabel Gallotti declarou expressamente estar de acordo com o voto proferido pelo relator. Na sequência, o presidente iniciou a leitura da ementa, apontando tratar-se de controvérsia eminentemente de direito. O voto assentou que a verba honorária sucumbencial possui inegável natureza alimentar e não se enquadra na exceção prevista no § 2º do art. 833 do CPC.
 
-### N. ARESP 2.245.084/SP - Honorários sucumbenciais e impenhorabilidade (Início: 32:55)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Julgado (Dispositivo interrompido na transcrição)
-- **Votação:** Unânime
-- **Resumo da discussão:** A Ministra Maria Isabel Gallotti informou sua concordância integral com o voto do Relator e retirou formalmente seu destaque (processo número 14 da pauta). A ementa lida assentou que a verba honorária sucumbencial, a despeito de sua estrita natureza alimentar, não se enquadra na exceção de penhorabilidade prevista no parágrafo 2º do art. 833 do CPC. O trecho foi interrompido antes do término da proclamação.
-
-### N. AgInt em [Processo não identificado]/[UF não identificada] - Penhora de honorários e prestação alimentícia (Início: 00:33:34)
+### N. Agravo Interno [Processo não identificado]/[Não identificada] - Penhora e honorários advocatícios (Início: 00:33:34)
 - **Relator:** [Não identificado]
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** O colegiado concluiu de forma célere a apreciação do agravo, ratificando a interpretação do artigo 863 do CPC. A fundamentação pautou-se no entendimento pacífico da Corte Especial do STJ de que os honorários advocatícios não se equiparam à prestação alimentícia para fins de penhora.
+- **Resumo da discussão:** O colegiado analisou brevemente a possibilidade de penhora para o pagamento de prestação alimentícia. Foi destacado o entendimento pacífico na Corte, inclusive na Corte Especial, de que os honorários advocatícios não se equiparam à prestação alimentícia para fins de exceção à impenhorabilidade (art. 833, § 2º, do CPC). O agravo interno foi desprovido à unanimidade, nos termos do voto do relator.
 
-### N. REsp 1.903.596/SP - Honorários advocatícios em execução de alimentos (Início: 00:34:18 e 01:02:45)
+### N. REsp 1.903.596/SP - Honorários advocatícios em execução de alimentos (Início: 00:34:08)
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Parcialmente provido
-- **Votação:** Maioria quanto ao conhecimento (vencido o Min. Antônio Carlos Ferreira) e unânime quanto ao mérito.
-- **Tese fixada:** Aplicam-se por analogia as regras de execução por quantia certa ao cumprimento de sentença de obrigação de prestar alimentos, sendo possível a redução dos honorários na hipótese de pagamento tempestivo.
-- **Resumo da discussão:** Inicialmente houve debate sobre prequestionamento implícito versus prequestionamento ficto (art. 1.025 do CPC), com o Min. Antônio Carlos Ferreira votando pelo não conhecimento do recurso. Superada a admissibilidade e uma questão de ordem sobre gratuidade de justiça (julgada prejudicada), o mérito centrou-se na omissão do CPC sobre honorários sucumbenciais em cumprimento de sentença de alimentos pago no prazo de 3 dias. O relator votou por afastar totalmente os honorários. A Min. Maria Isabel Gallotti apontou que o provimento deveria respeitar o princípio da congruência e limitar-se ao pedido da parte (redução a 5%). O relator reajustou seu voto para prover o recurso apenas na extensão pleiteada, viabilizando o julgamento unânime no mérito.
+- **Votação:** Conhecimento por maioria (vencido o Min. Antônio Carlos Ferreira); Provimento parcial por unanimidade (após reajuste de voto do relator)
+- **Resumo da discussão:** O caso discute a incidência, a base de cálculo e a possível redução de honorários advocatícios em execução provisória de alimentos extinta após o pagamento do débito pelo devedor no prazo de três dias, sob pena de prisão. O Min. Antônio Carlos Ferreira divergiu para não conhecer do recurso especial, argumentando ausência de prequestionamento e deficiência de fundamentação. O relator defendeu o prequestionamento implícito e apresentou voto detalhado no sentido de que, diante da omissão legislativa específica, aplica-se por analogia o regramento da execução por quantia certa (art. 827 do CPC), fixando-se honorários de 10% no despacho inicial, reduzidos pela metade em caso de pagamento em três dias. O relator inicialmente dava provimento integral para afastar a condenação, mas a Min. Maria Isabel Gallotti apontou que o provimento deveria ser limitado ao pedido do próprio recorrente (incidência de 5% sobre o valor pago) para evitar julgamento *ultra petita*. Diante disso, o relator reajustou seu voto para dar parcial provimento ao recurso, limitando os honorários a 5%, alcançando-se a unanimidade no mérito.
 
-### N. AgInt no REsp 1.975.317/DF - Violação de Direitos Autorais e Danos Materiais (Início: 01:19:43)
+### N. AgInt no REsp 1.975.317/DF - Direitos Autorais e Indenização (Início: [01:19:43])
 - **Relator:** Min. Antônio Carlos Ferreira
 - **Resultado:** Desprovido
-- **Votação:** Maioria (3x2). Votaram pelo desprovimento o Relator, o Desembargador Convocado Bzon e a Min. Daniela Teixeira. Vencidos a Min. Maria Isabel Gallotti e o Min. Raul Araújo.
-- **Resumo da discussão:** O julgamento estava empatado em virtude do impedimento do Min. João Otávio de Noronha. A Min. Daniela Teixeira (da 3ª Turma) foi excepcionalmente convocada e proferiu voto de Minerva, acompanhando integralmente o Relator. Firmou-se que os danos materiais e morais oriundos de infração a direitos autorais são presumidos (*in re ipsa*). Rejeitou-se a limitação do montante à quantidade de exemplares da Lei de Direitos Autorais, determinando apuração em liquidação de sentença, e manteve-se a verba honorária fundamentada no CPC/73.
+- **Votação:** Maioria (3x2), vencidos os Ministros Raul Araújo e Maria Isabel Gallotti
+- **Resumo da discussão:** O julgamento foi retomado com o voto-desempate da Min. Daniela Teixeira, convocada da 3ª Turma devido ao impedimento do Min. João Otávio de Noronha. O caso tratava de ação indenizatória movida contra o Distrito Federal por violação de direito autoral (contrafação). A Min. Daniela Teixeira acompanhou integralmente o relator, fundamentando que os danos materiais e morais oriundos de violação a direito autoral devem ser presumidos (*in re ipsa*), impedindo que o infrator se beneficie da própria torpeza. Determinou que o montante indenizatório não deve ser limitado de imediato à quantidade de exemplares do art. 103, parágrafo único, da Lei de Direitos Autorais, devendo ser apurado em liquidação de sentença. Manteve-se o percentual de 20% de honorários contra a Fazenda Pública.
 
-### N. AgInt no REsp 2.785.058/GO - Validade da Cláusula de *Res Sperata* (Início: 01:29:54)
+### N. AgInt no REsp 2.785.058/GO - Res Sperata em Shopping Center (Início: [01:29:52])
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** Após a retirada de destaque pela Min. Maria Isabel Gallotti, o relator ressaltou que o recurso esbarrava nas Súmulas 211 do STJ e 283 do STF. Assinalou também a incidência das Súmulas 5 e 7 do STJ, pois a avaliação da constatação de que o empreendimento não detinha condição de *shopping center* exigiria revolvimento probatório e análise contratual.
+- **Resumo da discussão:** O processo foi chamado à pauta após a Min. Maria Isabel Gallotti retirar seu pedido de destaque. O relator negou provimento ao agravo interno, afirmando a incidência da Súmula 211 do STJ, Súmula 283 do STF (aplicada por analogia) e das Súmulas 5 e 7 do STJ. A controvérsia envolvia a validade de uma cláusula de *res sperata* à luz do art. 54 da Lei do Inquilinato. O colegiado entendeu que rever a conclusão da origem de que o empreendimento se tratava de um shopping center exigiria o reexame probatório e de cláusulas contratuais.
 
-### N. AREsp 2.541.857/GO - Retenção de 25% (Início: 01:31:58 e 01:32:24)
-- **Relator:** [Não identificado]
+### N. 14 da pauta (AgInt no AREsp 2.541.857/GO) - Retenção de 25% (Início: [01:31:58])
+- **Relator:** Min. [Não identificado]
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** O processo, identificado como número 14 da pauta, teve seu pedido de destaque retirado pela Min. Maria Isabel Gallotti. Na sequência, o relator adaptou seu voto à jurisprudência da turma para validar o percentual de retenção de 25%, e o agravo interno foi desprovido sem maiores debates.
+- **Resumo da discussão:** A Min. Maria Isabel Gallotti registrou a retirada de destaque do processo. O relator informou que adaptou seu voto ao entendimento da Turma, negando provimento ao agravo interno e mantendo o entendimento pela retenção de 25%. O processo foi julgado em bloco após a retirada de destaque.
 
-### N. AREsp 26119[...]/[UF não identificada] - Retenção de 25% em contrato imobiliário (Início: 01:33:33)
-- **Relator:** [Não identificado]
+### N. AREsp 26.119 / [UF não identificada] - Retenção de 25% (Início: 01:33:36)
+- **Relator:** Min. [Não identificado]
 - **Resultado:** Provido
 - **Votação:** Unânime
-- **Resumo da discussão:** Discutiu-se contrato anterior à Lei 13.786. O colegiado concluiu que deve prevalecer a retenção de 25% sobre os valores pagos, nos termos da jurisprudência da Segunda Seção. 
+- **Resumo da discussão:** O colegiado proveu o agravo interno para conhecer do recurso especial e dar-lhe provimento. A fundamentação destacou que, em contratos anteriores à Lei n. 13.786 (Lei do Distrato), deve prevalecer o percentual de retenção de 25% dos valores pagos, conforme o entendimento pacificado da Segunda Seção.
 
-### N. AREsp 2.629.8[...]/SP - Indenização por fruição de imóvel (Início: 01:34:03)
-- **Relator:** [Não identificado]
+### N. 15 da pauta (AREsp 2.629.8[xx]) / SP - Indenização por fruição de imóvel (Início: 01:34:04)
+- **Relator:** Min. [Não identificado]
+- **Resultado:** Provido / Acompanhando o relator
+- **Votação:** Unânime
+- **Resumo da discussão:** Processo inicialmente destacado pela Ministra Maria Isabel Gallotti, que retirou o destaque durante a sessão para manifestar seu acordo com o relator. O colegiado reiterou a orientação do STJ de que a indenização pela fruição do imóvel incide por todo o período de ocupação (desde a transferência da posse até a devolução das chaves), sendo indevidas restrições que limitavam a incidência apenas ao período de inadimplemento.
+
+### N. 16 da pauta (AREsp 2.632.8[xx]) / [UF não identificada] - [Tema não especificado] (Início: 01:34:57)
+- **Relator:** Min. [Não identificado]
 - **Resultado:** Provido
 - **Votação:** Unânime
-- **Tese fixada:** A indenização pela fruição do imóvel incide por todo o período de ocupação, desde a transferência da posse até a devolução da chave.
-- **Resumo da discussão:** Destacado pela Min. Maria Isabel Gallotti (item 15 da pauta), que concordou com o relator. O colegiado assentou que restringir a indenização apenas ao período de inadimplemento contraria a jurisprudência da Corte.
+- **Resumo da discussão:** O processo foi apregoado e, sem debates adicionais, o colegiado acompanhou o relator. O agravo em recurso especial foi conhecido para dar provimento ao recurso especial.
 
-### N. AREsp 2.632.8[...]/[UF não identificada] - [Tema não identificado] (Início: 01:34:56)
-- **Relator:** [Não identificado]
+### N. 18 da pauta / [UF não identificada] - Retenção de 25% (Início: 01:35:35)
+- **Relator:** Min. [Não identificado]
 - **Resultado:** Provido
 - **Votação:** Unânime
-- **Resumo da discussão:** O processo de número 16 da pauta foi apregoado e julgado de forma rápida no bloco, com o colegiado acompanhando o relator para conhecer do agravo e dar provimento ao recurso especial.
+- **Resumo da discussão:** Mais um processo da pauta com destaque retirado. Tratava-se da mesma matéria de retenção de 25%. O agravo interno foi provido à unanimidade, nos termos do voto do relator, aplicando-se a jurisprudência pacífica sobre o tema.
 
-### N. [Processo não identificado]/[UF não identificada] - Retenção de 25% (Início: 01:35:35)
-- **Relator:** [Não identificado]
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** Tratava-se do processo de número 18 da pauta. Após a retirada do destaque, o colegiado aplicou a jurisprudência pacífica atinente à validade da retenção de 25%, provendo o recurso.
-
-### N. [Processo não identificado]/[UF não identificada] - Multa de 50% em sociedade de propósito específico (Início: 01:36:11)
+### N. 19 da pauta / [UF não identificada] - Sociedade de Propósito Específico e Multa de 50% (Início: 01:36:11)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Adiado
-- **Votação:** Não aplicável
-- **Resumo da discussão:** No julgamento deste processo (número 19 da pauta), a Min. Maria Isabel Gallotti apontou um possível equívoco na ementa, observando que o contrato havia sido assinado em 2019 e envolvia uma Sociedade de Propósito Específico (SPE). O relator adiou o caso para reexame.
+- **Votação:** N/A
+- **Resumo da discussão:** Processo destacado pela Ministra Maria Isabel Gallotti, que alertou o relator sobre um provável equívoco na ementa. Ela apontou que o caso não envolvia contrato anterior à Lei n. 13.786, mas sim um contrato assinado em 2019 envolvendo uma Sociedade de Propósito Específico (SPE) e a incidência de multa de 50%. Diante do apontamento, o Ministro João Otávio de Noronha adiou o julgamento para a próxima sessão para reexaminar os autos.
 
-### N. REsp 2.125.46[...]/PR - Dano moral por erro em jornal (Início: 01:39:40)
-- **Relator:** Min. Maria Isabel Gallotti
-- **Resultado:** Pendente (Julgamento em andamento)
-- **Votação:** Maioria em formação (Divergência iniciada)
-- **Resumo da discussão:** A Editora Gazeta do Povo S.A. recorreu contra condenação por danos morais por publicar resultado equivocado da Mega-Sena. A relatora votou pelo provimento do recurso, argumentando que o mero equívoco do jornal não ofende direitos da personalidade. O Min. Luís Carlos Gamboza abriu divergência (fixando indenização de R$ 10.000,00) e foi acompanhado pelo Min. Antônio Carlos Ferreira. A divergência gerou severas críticas da Presidência (Min. João Otávio de Noronha) contra a vulgarização e "indústria do dano moral" no Brasil.
-
-### N. [Habeas Corpus não identificado]/SC - Acolhimento institucional de menores e guarda por família extensa (Início: 01:37:31, 02:34:14 e 03:03:54)
+### N. RHC 23.252/SC (11 da pauta) - Acolhimento institucional de adolescentes e guarda por família extensa (Início: 01:37:31)
 - **Relator:** Min. Raul Araújo
-- **Resultado:** Provido (Ordem concedida)
-- **Votação:** Maioria (Vencida a Min. Maria Isabel Gallotti)
-- **Resumo da discussão:** Ordem de *habeas corpus* impetrada por tia paterna contra o acolhimento institucional de suas duas sobrinhas adolescentes (12 e 14 anos). As menores foram abrigadas após relatório social indicar que a tia não acreditava nos abusos cometidos pelo genitor, o que poderia prejudicar a persecução penal. Houve interrupção por pedido de vista. Retomado, a Min. Maria Isabel Gallotti abriu divergência pela denegação da ordem, alegando inadequação do HC para dilação probatória e prioridade do juízo cível e da proteção integral frente à persecução. O relator concedeu a ordem de ofício, ratificando que o acolhimento é medida extrema, os vínculos afetivos devem ser prestigiados e as suspeitas sobre a guardiã baseavam-se apenas em conjecturas de risco à prova criminal, não justificando a supressão do direito à convivência com a família extensa. 
+- **Resultado:** Ordem concedida
+- **Votação:** Maioria (vencida a Min. Maria Isabel Gallotti)
+- **Resumo da discussão:** O colegiado debateu a manutenção da guarda provisória de duas adolescentes (15 e 12 anos) com a tia paterna em meio a apurações de suposto assédio e violência pelo genitor. O juízo de origem determinara o abrigamento institucional apontando que a tia paterna não acreditava nos abusos e permitia convivência esporádica com o pai. O Relator solicitou vista regimental e, ao retomar o julgamento, votou por conceder a ordem para restabelecer a guarda à tia, argumentando que o interesse social na investigação criminal não pode prevalecer sobre o princípio do melhor interesse da criança; o acolhimento institucional exige risco concreto e não deve se basear em conjecturas de influência em depoimentos. A Min. Maria Isabel Gallotti divergiu pela denegação da segurança, enfatizando que a decisão de origem visava à segurança absoluta das adolescentes. Prevaleceu o entendimento do Relator, garantindo a guarda à tia paterna sem prejuízo das investigações criminais contra o genitor.
 
-### N. AREsp 2.159.911/[UF não identificada] - Execução de Título Extrajudicial / Cédula de Crédito Bancário (Início: 03:12:57)
+### N. REsp 2.125.46[x] / PR - Dano moral por publicação errada de loteria (Início: 01:39:48)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Maioria (vencidos os Ministros Antônio Carlos Ferreira e Luís Carlos)
+- **Resumo da discussão:** O processo contou com sustentação oral do advogado da Editora Gazeta do Povo S.A. Discutia-se a configuração de dano moral decorrente de erro do jornal na publicação dos números sorteados na Mega-Sena, o que gerou a falsa expectativa de prêmio no autor. A relatora votou por dar provimento ao recurso especial (afastando o dano moral), sob o fundamento de que se trata de mero aborrecimento cotidiano, sem exposição da imagem do autor. O Ministro Luís Carlos abriu divergência, reconhecendo a culpa concorrente e reduzindo a indenização por entender que a falha afetou a credibilidade do jornal e causou real sofrimento, sendo acompanhado pelo Ministro Antônio Carlos Ferreira. O Ministro João Otávio de Noronha acompanhou a relatora, proferindo críticas à banalização das condenações por dano moral no Brasil. O recurso foi provido por maioria.
+
+### N. AREsp 2.018.438/RJ - Rescisão contratual e adimplemento substancial (Início: 02:04:00)
 - **Relator:** Min. Antônio Carlos Ferreira
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Tese fixada:** A juntada da via original da Cédula de Crédito Bancário (CCB) não constitui requisito de admissibilidade da petição inicial de execução de título extrajudicial. A apresentação do documento original físico é mera faculdade do julgador, salvo alegação específica de fraude.
-- **Resumo da discussão:** O relator reforçou que a legislação (Lei 11.419/2006) equipara as cópias digitalizadas aos originais e obriga a guarda física pelo detentor. A Min. Maria Isabel Gallotti justificou que pedira destaque justamente para propiciar a fixação de tese sobre o tema, aderindo de forma integral ao voto, com o fim de unificar a jurisprudência que, outrora, possuía julgados conflitantes na Turma.
+- **Resumo da discussão:** Trata-se do julgamento de dois agravos internos interpostos contra decisão monocrática. A advogada da compradora realizou sustentação oral defendendo a aplicação da teoria do adimplemento substancial (pagamento de 97% do preço do imóvel). O relator negou provimento aos recursos, afirmando que a aplicação da referida teoria não se limita ao aspecto quantitativo, exigindo análise qualitativa e a consideração dos interesses do credor. Asseverou também que a rescisão do contrato e o retorno das partes ao estado anterior implicam o pagamento de indenização pelo tempo em que a compradora ocupou o imóvel. O recurso interposto pelo vendedor também foi desprovido por inovação recursal.
 
-### N. AREsp 1.824.777/SC - Juros de Mora e Correção Monetária (Início: 03:16:27)
+### N. AREsp 2.6474/MT - Inadmissibilidade recursal e Súmula 182/STJ (Início: 02:15:41)
+- **Relator:** Min. [Não identificado no trecho]
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** O caso cuida de agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo devido à ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade. O relator pontuou a incidência do art. 932, III, do CPC e da Súmula 182 do STJ, destacando que caberia à parte demonstrar a inaplicabilidade da Súmula 83 do STJ, o que não foi feito.
+
+### N. AREsp 2.294.622/SP - Remoção de conteúdo no YouTube e direitos autorais (Início: 02:19:15)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** A controvérsia cinge-se à legitimidade da remoção de canais e vídeos (contendo trechos de jogos de futebol e comentários) pelo YouTube, sob alegação de violação de direitos autorais. O Tribunal de origem havia considerado a remoção abusiva. O relator reformou o acórdão, aplicando a jurisprudência consolidada do STJ que reconhece como lícita a remoção de conteúdos por provedores de aplicação de internet com base em regras de compliance interno, amparada pela Lei de Direitos Autorais e pelo Marco Civil da Internet. A pretensão autoral foi julgada improcedente.
+
+### N. AgInt no REsp 2.115.305/SP - Honorários de sucumbência em incidente de desconsideração da personalidade jurídica (Início: 02:22:00)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Parcialmente provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Discute-se o arbitramento de honorários em favor do causídico de parte indevidamente incluída em incidente de desconsideração da personalidade jurídica julgado improcedente. O relator destacou que, como a exclusão do recorrido não extinguiu a dívida e a execução principal prossegue (ultrapassando R$ 25 milhões), o proveito econômico obtido é inestimável, justificando a fixação por apreciação equitativa. Contudo, considerou irrisória a quantia fixada pelas instâncias ordinárias (R$ 1.000,00). A verba honorária foi majorada para R$ 300.000,00 (cerca de 1% da execução).
+
+### N. AREsp 2.159.011 - Execução de Título Extrajudicial / Cédula de Crédito Bancário (Início: 03:12:54)
 - **Relator:** Min. Antônio Carlos Ferreira
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** Discutia-se a possibilidade de fixação de ofício de juros e correção. O relator ressaltou tratar-se de matéria de ordem pública e incidiu o óbice da Súmula 7/STJ. A Min. Maria Isabel Gallotti, sem observar divergências materiais, retirou o destaque, garantindo a celeridade do julgamento.
+- **Resumo da discussão:** Julgamento envolvendo exceção de pré-executividade na qual se alegava inépcia da petição inicial pela ausência de apresentação física da cédula de crédito bancário original. O Relator sublinhou que a legislação processual civil e a lei do processo eletrônico conferem às reproduções digitais os mesmos efeitos legais dos originais (art. 425, VI, do CPC), cabendo ao julgador avaliar a necessidade de apresentação do documento físico. O recurso foi levado a destaque pela Min. Maria Isabel Gallotti para uniformizar o entendimento e fixar tese na Turma.
+
+### N. AREsp 1.824.777/SC - Juros de Mora e Correção Monetária / Pedido Implícito (Início: 03:16:27)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Agravo interno interposto contra decisão monocrática. O Relator afastou a alegação de ofensa à colegialidade, ressaltando que o reexame fático probatório é obstado pela Súmula 7 do STJ. Ademais, reafirmou a tese de que a correção monetária e os juros de mora configuram matérias de ordem pública e encerram pedidos implícitos, podendo ser apreciados e modificados até mesmo de ofício, sem caracterizar vício de decisão *extra petita*.
 
 ### N. REsp 2.236.646/ES - Averiguação Oficiosa de Paternidade (Início: 03:18:54)
 - **Relator:** Min. Maria Isabel Gallotti
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** O Ministério Público requeria a intimação judicial formal da genitora para confirmar sua recusa em informar o nome do suposto pai, registrada administrativamente no cartório. A relatora sustentou que o procedimento tem natureza administrativa e que o seu arquivamento não inviabiliza futura ação de investigação de paternidade pela criança, frisando-se a necessidade de tutelar a segurança da mãe, não a forçando ou expondo a eventuais violências e vulnerabilidades.
+- **Resumo da discussão:** Processo sob segredo de justiça pertinente a um procedimento de averiguação oficiosa de paternidade. A genitora compareceu perante o oficial de registro civil e se recusou a indicar o nome do suposto pai, culminando no arquivamento administrativo. O MP recorreu, sustentando a necessidade de intimação judicial formal da mãe. A Relatora rechaçou o pleito, argumentando que a intervenção estatal deve ponderar o direito da criança e a segurança da mulher, que frequentemente se omite por razões de violência doméstica e vulnerabilidade. O arquivamento sem intimação judicial não fulmina o direito do menor de ajuizar ação de investigação de paternidade futura.
 
-### N. Processos 25, 26, 27, 28 e 29 da pauta - [Temas não identificados] (Início: [Não aplicável])
+### N. 25 a 29 da pauta - [Processos não identificados] (Início: Não identificado)
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Adiados
-- **Votação:** Não aplicável
-- **Resumo da discussão:** Os processos foram adiados em bloco para a próxima sessão colegiada devido à indisponibilidade técnica dos votos do relator no sistema do Tribunal no exato momento do pregão.
+- **Votação:** N/A
+- **Resumo da discussão:** Ocorreu o adiamento em bloco dos processos de números 25 a 29 da pauta pelo fato de os votos ainda não estarem disponibilizados no sistema eletrônico da sessão.
 
 ## Destaques da Sessão
-- A sessão ordinária iniciou-se com a aprovação unânime da ata da sessão anterior (realizada em 10/03/2026), a qual contabilizou o julgamento de 16 processos, havendo saudação aos estudantes de direito do Centro Universitário de Brasília (CEUB).
-- Observou-se notável colegialidade e um padrão focado na otimização da pauta, marcado por recuos nos votos dos relatores (adaptando-os à jurisprudência da Seção em temas de Lei do Distrato, fruição, juros e retenções) e por expressivas retiradas de pedidos de destaque pela Ministra Maria Isabel Gallotti, gerando um alto índice de julgamentos em bloco unânimes.
-- Destaque processual na convocação emergencial da Ministra Daniela Teixeira, da Terceira Turma, para colmatar o impedimento do Ministro João Otávio de Noronha e desempatar a votação acerca do caráter presumido (*in re ipsa*) dos danos envolvendo direitos autorais e propriedade industrial.
-- Discussões doutrinárias acirradas ganharam corpo nos julgados atinentes: (i) aos limites do prequestionamento implícito versus o princípio da congruência no arbitramento de honorários em sede de execução de alimentos; (ii) à inadequada banalização do dano moral nas publicações errôneas da imprensa ("indústria do dano moral"); e (iii) à tensão nevrálgica entre a conveniência estatal de proteção à prova em processos criminais e o direito primordial dos menores à convivência afetuosa em seio de família extensa (julgamento do Habeas Corpus).
-- A Turma pacificou sua jurisprudência processual mitigando formalismos e assentando a higidez das execuções aparelhadas exclusivamente com cópias digitalizadas das Cédulas de Crédito Bancário.
-- A sessão teve informes institucionais prolongados a respeito de campanhas contra golpes e avanços na acessibilidade do órgão e foi encerrada antecipando que o próximo encontro (07/04) será presencial.
+- **Retenção na Lei do Distrato (Julgamentos em Bloco):** O Ministro João Otávio de Noronha informou o reajuste de seus votos para alinhar-se à jurisprudência da Segunda Seção. A Turma analisou em sequência diversos agravos sobre a retenção de 25% em contratos de promessa de compra e venda anteriores à Lei do Distrato, consolidando a matéria e permitindo agilidade procedimental e a retirada de destaques.
+- **Ajuste Colaborativo de Voto e Limites do Pedido:** Dinâmica processual expressiva no julgamento do REsp 1.903.596/SP, em que o relator reajustou seu voto de ofício, concedendo 5% em honorários em vez de afastá-los integralmente, acatando apontamento da Min. Maria Isabel Gallotti sobre o risco de julgamento *ultra petita*.
+- **Convocação para Voto-Desempate:** A sessão contou com a participação da Min. Daniela Teixeira (da 3ª Turma), convocada excepcionalmente para proferir voto-desempate em caso de direito autoral devido ao impedimento do Min. João Otávio de Noronha.
+- **Debate sobre Dano Moral e Responsabilidade:** O caso de publicação equivocada de resultados de loteria gerou discussões sobre a responsabilidade dos meios de comunicação e a contraposição sobre a banalização das condenações por dano moral no judiciário brasileiro perante falhas que resultam apenas em aborrecimento e decepção.
+- **Teoria do Adimplemento Substancial:** Importante fixação de que o adimplemento substancial (mesmo com 97% do preço pago) não pode ser mensurado apenas pelo viés quantitativo, exigindo análise qualitativa e dos interesses do credor em rescisões contratuais.
+- **Majoração de Honorários por Equidade:** Decisão incisiva na correção do aviltamento de honorários em incidentes de desconsideração da personalidade jurídica rejeitados, elevando a verba de R$ 1.000 para R$ 300.000 em razão do proveito econômico inestimável ligado a uma execução de R$ 25 milhões.
+- **Remoção de Conteúdo no YouTube:** Reafirmação da validade de ações unilaterais de moderação e remoção de canais/vídeos feitas pela plataforma baseada em *compliance* e direitos autorais, afastando a tese de violação ao Marco Civil da Internet.
+- **Acolhimento Institucional vs. Família Extensa:** Intenso conflito jurídico envolvendo o direito do Estado de apurar denúncias de assédio por parte do genitor frente à necessidade de manter adolescentes acolhidas sob a guarda provisória de uma tia paterna (melhor interesse do menor), evitando os riscos da institucionalização.
+- **Segurança Jurídica sobre Cédulas de Crédito Digitais:** Uso estratégico do destaque pela Min. Maria Isabel Gallotti para fixar tese colegiada reconhecendo que a juntada da cédula de crédito bancário física não é requisito de procedibilidade da execução no processo eletrônico, equiparando as reproduções digitais aos originais (AREsp 2.159.011).
+- **Averiguação Oficiosa de Paternidade e Atuação Estatal:** Prevalência do entendimento sobre os limites da intervenção do Ministério Público, firmando que o arquivamento sem intimação judicial da genitora que se recusa a nomear o suposto pai no cartório atende à segurança da mulher sem suprimir o direito futuro do menor à investigação.
+- **Momento de Descontração e Saudações:** A sessão teve registro da presença de estudantes do UniCEUB, brincadeiras envolvendo arbitragem de futebol, comentários informais da Min. Daniela Teixeira sobre as instalações da Turma e comentários bem-humorados sobre "erro essencial contra a pessoa" anular casamento.
+- **Atenção Procedimental:** Foram registrados proativos adiamentos preventivos (para checar premissas fáticas de contratos em SPEs) e em bloco (devido a lentidões sistêmicas na disponibilização dos votos).
 
 ## Estatísticas
-- Total de processos julgados: 20 registros avaliados (incluindo julgados singulares, grupos referenciados e um bloco formal de adiamento).
-- Providos: 5 itens
-- Desprovidos: 8 itens
-- Parcialmente providos: 1 item
-- Outros: 6 itens (julgamentos em andamento, adiamentos, ou resultados incompletos/omitidos da proclamação na transcrição)
+- Total de processos julgados: 27 (incluindo 5 adiados em bloco)
+- Providos: 7
+- Desprovidos: 10
+- Parcialmente providos: 2
+- Outros: 8 (adiamentos e aprovações sem explicitação de dispositivo)
 
 ---
-*Resumo gerado via Gemini Pro em 2026-03-18 18:46.*`
+*Resumo gerado via Gemini Pro em 2026-03-18 19:04.*`
   },
   {
     id: "2026-03-05_segunda_secao",
