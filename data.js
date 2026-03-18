@@ -171,10 +171,7 @@ const resumosData = [
 - Providos: 7
 - Desprovidos: 10
 - Parcialmente providos: 2
-- Outros: 8 (adiamentos e aprovações sem explicitação de dispositivo)
-
----
-*Resumo gerado via Gemini Pro em 2026-03-18 19:04.*`
+- Outros: 8 (adiamentos e aprovações sem explicitação de dispositivo)`
   },
   {
     id: "2026-03-05_segunda_secao",
@@ -262,10 +259,7 @@ const resumosData = [
 - **Providos:** 2 
 - **Desprovidos:** 3
 - **Parcialmente providos:** 3 
-- **Outros:** 5 (Sendo 4 adiados por pedidos de vista/vista regimental e 1 homologação de acordo/desistência).
-
----
-*Resumo gerado via Gemini Pro em 2026-03-08 18:05.*`
+- **Outros:** 5 (Sendo 4 adiados por pedidos de vista/vista regimental e 1 homologação de acordo/desistência).`
   },
   {
     id: "2026-03-03_quarta_turma",
@@ -400,10 +394,7 @@ const resumosData = [
 - **Providos:** 1
 - **Desprovidos:** 9
 - **Parcialmente providos:** 0
-- **Outros:** 10 (Pedidos de Vista, Adiamentos, Remessa à Seção Competente ou Apenas Apregoados)
-
----
-*Resumo gerado via Gemini Pro em 2026-03-08 17:20.*`
+- **Outros:** 10 (Pedidos de Vista, Adiamentos, Remessa à Seção Competente ou Apenas Apregoados)`
   },
   {
     id: "cMG0Br5RjbQ",
@@ -480,10 +471,7 @@ const resumosData = [
 - **Não conhecidos:** 3
 - **Conflitos de Competência decididos:** 1
 - **Adiados/Suspensos:** 5 (incluindo recursos repetitivos e agravos internos)
-- **Consultas/Pauta:** 1
-
----
-*Resumo gerado via Gemini Pro em 2026-03-12 14:41.*`
+- **Consultas/Pauta:** 1`
   },
   {
     id: "X4eUhDKzfLc",
@@ -664,10 +652,7 @@ const resumosData = [
 - Providos: 7
 - Desprovidos: 5
 - Parcialmente providos: 2
-- Outros: 12 (Inclui Pedidos de Vista, Adiamentos, Homologações e Questões de Ordem)
-
----
-*Resumo gerado via Gemini Pro em 2026-03-12 14:49.*`
+- Outros: 12 (Inclui Pedidos de Vista, Adiamentos, Homologações e Questões de Ordem)`
   }
 ];
 
