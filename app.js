@@ -1149,7 +1149,7 @@ document.addEventListener('DOMContentLoaded', () => {
             asideCard1.appendChild(ul);
         } else {
             const noHighlights = document.createElement('p');
-            noHighlights.textContent = 'Nenhuma tese vinculante extraída para esta sessão.';
+            noHighlights.textContent = 'Nenhuma tese extraída para esta sessão.';
             asideCard1.appendChild(noHighlights);
         }
 
