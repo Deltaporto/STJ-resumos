@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumos - Julgamentos STJ</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238e3140' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m16 16 3-8 3 8c-1 1.8-2.3 3-3 3s-2-.9-3-3Z'/><path d='m2 16 3-8 3 8c-1 1.8-2.3 3-3 3s-2-.9-3-3Z'/><path d='M7 21h10'/><path d='M12 3v18'/><path d='M3 7h18'/></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="#documentViewer" class="skip-link">Pular para o conteudo</a>
+
+    <!-- SVG noise filter -->
+    <svg aria-hidden="true" style="position:absolute;width:0;height:0">
+        <filter id="noiseFilter">
+            <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/>
+            <feColorMatrix type="saturate" values="0"/>
+        </filter>
+    </svg>
+
+    <div class="page-noise" aria-hidden="true"></div>
+
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-inner">
+                <div class="sidebar-header">
+                    <div class="brand-mark">
+                        <i data-lucide="scale" class="logo-icon"></i>
+                    </div>
+                    <div class="logo-text">
+                        <p class="logo-kicker">Caderno de Sessao</p>
+                        <h1>Resumos do STJ</h1>
+                        <span>Leitura editorial de julgamentos</span>
+                    </div>
+                </div>
+
+                <div class="sidebar-intro">
+                    <p class="sidebar-intro-title">Arquivo vivo de sessoes</p>
+                    <p class="sidebar-intro-copy">Uma interface pensada para leitura longa: pauta filtravel, destaque institucional e abertura processo a processo.</p>
+                </div>
+
+                <div class="search-panel" role="search">
+                    <label class="sr-only" for="searchInput">Buscar em resumos</label>
+                    <i data-lucide="search" class="search-icon"></i>
+                    <input type="text" id="searchInput" placeholder="Buscar por turma, data ou orgao" aria-describedby="searchHelp" autocomplete="off">
+                    <span class="search-shortcut" aria-hidden="true">Ctrl+K</span>
+                </div>
+                <span id="searchHelp" class="sr-only">Filtre por data, turma ou orgao julgador.</span>
+
+                <div class="results-info" id="resultsInfo" aria-live="polite"></div>
+
+                <nav class="sessions-list" id="sessionsList" aria-label="Lista de sessoes">
+                    <!-- Lista sera populada pelo JS -->
+                </nav>
+
+                <div class="sidebar-footer">
+                    <div class="theme-panel">
+                        <p class="theme-panel-label">Modo de leitura</p>
+                        <button type="button" id="themeToggle" class="theme-toggle" aria-pressed="false">
+                            <i data-lucide="moon" class="theme-icon-dark"></i>
+                            <i data-lucide="sun" class="theme-icon-light" style="display: none;"></i>
+                            <span class="theme-text">Modo Noturno</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <header class="content-header">
+                <button type="button" id="hamburgerBtn" class="hamburger-btn" aria-label="Abrir menu lateral" aria-expanded="false">
+                    <i data-lucide="menu"></i>
+                </button>
+
+                <div class="doc-meta" id="docMeta" aria-live="polite">
+                    <!-- Metadados injetados aqui -->
+                </div>
+
+                <div id="headerHud" class="header-hud" aria-hidden="true"></div>
+
+                <div class="header-actions">
+                    <a id="watchBtn" class="watch-btn" href="#" target="_blank" rel="noopener noreferrer" hidden>
+                        <i data-lucide="youtube" class="watch-btn-icon"></i>
+                        <span class="watch-label">Assistir sessao</span>
+                    </a>
+
+                    <button type="button" class="action-btn" title="Copiar resumo em Markdown" aria-label="Copiar resumo em Markdown" id="copyBtn">
+                        <i data-lucide="copy" class="action-btn-icon"></i>
+                        <span class="action-label">Copiar</span>
+                    </button>
+
+                    <button type="button" class="action-btn" title="Imprimir ou salvar em PDF" aria-label="Imprimir ou salvar em PDF" id="printBtn">
+                        <i data-lucide="printer" class="action-btn-icon"></i>
+                        <span class="action-label">PDF</span>
+                    </button>
+                </div>
+            </header>
+
+            <article class="document-viewer" id="documentViewer">
+                <div class="empty-state">
+                    <i data-lucide="file-text" class="empty-state-icon"></i>
+                    <p class="empty-state-kicker">Selecione uma sessao</p>
+                    <h2>O resumo abre como um caderno de leitura.</h2>
+                    <p>Escolha uma sessao no menu lateral para explorar os processos, os destaques e o contexto institucional.</p>
+                </div>
+            </article>
+        </main>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
