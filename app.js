@@ -103,6 +103,51 @@ document.addEventListener('DOMContentLoaded', () => {
         .replace(/[\u0300-\u036f]/g, '')
         .toLowerCase();
 
+    const relatorCanonicalMap = {
+        'joao otavio noronha': 'João Otávio de Noronha',
+        'joao otavio de noronha': 'João Otávio de Noronha',
+        'joao otavio d': 'João Otávio de Noronha',
+        'noronha': 'João Otávio de Noronha',
+        'antonio carlos ferreira': 'Antonio Carlos Ferreira',
+        'moura ribeiro': 'Moura Ribeiro',
+        'nancy andrighi': 'Nancy Andrighi',
+        'raul araujo': 'Raul Araújo',
+        'maria isabel gallotti': 'Maria Isabel Gallotti',
+        'isabel gallotti': 'Maria Isabel Gallotti',
+        'marco buzzi': 'Marco Buzzi',
+        'ricardo villas boas cueva': 'Ricardo Villas Bôas Cueva',
+        'villas boas cueva': 'Ricardo Villas Bôas Cueva',
+        'villas boas': 'Ricardo Villas Bôas Cueva',
+        'humberto martins': 'Humberto Martins',
+        'daniela teixeira': 'Daniela Teixeira',
+        'luis carlos gambogi': 'Luis Carlos Gambogi',
+        'luis carlos gamboza': 'Luis Carlos Gambogi',
+        'messod azulay': 'Messod Azulay Neto',
+        'messod azulay neto': 'Messod Azulay Neto',
+        'afrânio vilela': 'Afrânio Vilela',
+        'afranio vilela': 'Afrânio Vilela',
+        'bzon': 'Des. Convocado Bzon'
+    };
+
+    const normalizeRelatorName = (name) => {
+        if (!name) return '';
+        let clean = name.replace(/^(Min\.|Ministro|Ministra|Des\.|Desembargador|Desembargadora|Convocado|Convocada|Des\.\s+Convocado)\s+/gi, '')
+                        .trim()
+                        .replace(/[\.,]+$/, '');
+        
+        const id = normalizeText(clean);
+        if (relatorCanonicalMap[id]) return relatorCanonicalMap[id];
+        
+        // Basic Title Case if not in map
+        return clean.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ');
+    };
+
+    const getRelatorId = (name) => {
+        if (!name) return '';
+        const normalized = normalizeRelatorName(name);
+        return normalizeText(normalized);
+    };
+
     const sanitizeUrl = (url) => (/^https?:\/\//i.test(url.trim()) ? url.trim() : '#');
 
     const applyInlineFormatting = (text) => text
@@ -339,17 +384,26 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const extractRelatores = (content) => {
-        const matches = content.matchAll(/-\s*\*\*Relator:\*\*\s*(?:Min\.)?\s*([^\*\n\r]+)/gi);
+        // Regex mais específica para evitar capturar "para acórdão" como parte do nome
+        const matches = content.matchAll(/-\s*\*\*(?:Relator|Relator para acórdão):\*\*\s*(?:Min\.)?\s*([^\*\n\r]+)/gi);
         const relatores = [];
         for (const match of matches) {
             if (match[1]) {
-                const name = match[1].trim().replace(/[\.,]+$/, '');
-                if (name.length > 3) {
-                    relatores.push(name);
-                }
+                // Separar relatores múltiplos preservando nomes compostos
+                // Evitamos dar split em " de ", " da ", " do "
+                const refinedNames = match[1].split(/[\/;,]|\s+e\s+|\s+ou\s+/i);
+                
+                refinedNames.forEach(rawName => {
+                    const name = rawName.trim();
+                    // Limpeza adicional de resíduos de markdown que possam ter sobrado
+                    const cleanName = name.replace(/\*\*$/, '').trim();
+                    if (cleanName.length > 3 && !cleanName.toLowerCase().includes('nao identificado')) {
+                        relatores.push(normalizeRelatorName(cleanName));
+                    }
+                });
             }
         }
-        return [...new Set(relatores)];
+        return [...new Set(relatores)].filter(Boolean).sort();
     };
 
     const extractTheses = (content) => {
@@ -482,7 +536,6 @@ document.addEventListener('DOMContentLoaded', () => {
         };
     });
 
-    const allRelatores = [...new Set(sessions.flatMap(s => s.relatores))].sort();
 
     const updateResultsInfo = (filteredSessions, filter) => {
         if (!resultsInfo) {
@@ -825,6 +878,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const relatorSelect = document.getElementById('relatorSelect');
         const relatorFilter = relatorSelect ? relatorSelect.value : '';
+        const relatorIdFilter = getRelatorId(relatorFilter);
 
         const filteredSessions = sessions.filter((session) => {
             const matchesText = !normalizedFilter
@@ -832,7 +886,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 || session.orgao.toLowerCase().includes(normalizedFilter)
                 || session.date.toLowerCase().includes(normalizedFilter);
                 
-            const matchesRelator = !relatorFilter || session.relatores.includes(relatorFilter);
+            const matchesRelator = !relatorIdFilter || session.relatores.some(r => getRelatorId(r) === relatorIdFilter);
             
             return matchesText && matchesRelator;
         });
@@ -1200,16 +1254,22 @@ document.addEventListener('DOMContentLoaded', () => {
         // Filtragem interna por relator selecionado
         const relatorSelect = document.getElementById('relatorSelect');
         const currentRelator = relatorSelect ? relatorSelect.value : '';
-        if (currentRelator) {
+        const currentRelatorId = getRelatorId(currentRelator);
+
+        if (currentRelatorId) {
             const headers = markdownBody.querySelectorAll('.process-accordion-header');
             let firstMatch = true;
             
             headers.forEach((h) => {
                 const content = h.nextElementSibling;
-                const isContentMatch = content && content.textContent.toLowerCase().includes(`relator: min. ${currentRelator.toLowerCase()}`);
-                const isTitleMatch = h.textContent.toLowerCase().includes(currentRelator.toLowerCase());
+                // Check if any relator in the content matches the normalized ID
+                const text = (h.textContent + ' ' + (content ? content.textContent : '')).toLowerCase();
+                const normalizedText = normalizeText(text);
                 
-                if (isContentMatch || isTitleMatch) {
+                // Procurar por "relator: [nome]" de forma mais robusta
+                const isMatch = normalizedText.includes(currentRelatorId);
+                
+                if (isMatch) {
                     h.style.display = '';
                     if (content) {
                         content.style.display = '';
@@ -1228,6 +1288,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
         }
+        
+        updateActiveFilterDisplay();
 
         documentViewer.scrollTop = 0;
 
@@ -1340,9 +1402,47 @@ document.addEventListener('DOMContentLoaded', () => {
         renderSidebar(event.target.value);
     });
 
+    const updateActiveFilterDisplay = () => {
+        const display = document.getElementById('activeFilterDisplay');
+        if (!display) return;
+
+        const relatorSelect = document.getElementById('relatorSelect');
+        const currentRelator = relatorSelect ? relatorSelect.value : '';
+
+        if (!currentRelator) {
+            display.style.display = 'none';
+            display.innerHTML = '';
+            return;
+        }
+
+        display.style.display = 'flex';
+        display.innerHTML = '';
+
+        const badge = document.createElement('div');
+        badge.className = 'filter-badge';
+        badge.innerHTML = `<span>Relator: ${currentRelator}</span>`;
+
+        const clearBtn = document.createElement('button');
+        clearBtn.className = 'filter-clear';
+        clearBtn.title = 'Remover filtro de relator';
+        clearBtn.appendChild(createIcon('x'));
+        
+        clearBtn.addEventListener('click', () => {
+            relatorSelect.value = '';
+            relatorSelect.dispatchEvent(new Event('change'));
+        });
+
+        badge.appendChild(clearBtn);
+        display.appendChild(badge);
+        renderIcons(display);
+    };
+
     const relatorSelect = document.getElementById('relatorSelect');
     if (relatorSelect) {
-        allRelatores.forEach(relator => {
+        // Obter relatores normalizados únicos de todas as sessões
+        const uniqueRelatores = [...new Set(sessions.flatMap(s => s.relatores))].sort();
+
+        uniqueRelatores.forEach(relator => {
             const option = document.createElement('option');
             option.value = relator;
             option.textContent = relator;
@@ -1354,6 +1454,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (activeSessionId) {
                 const session = sessions.find(s => s.id === activeSessionId);
                 if (session) renderDocument(session);
+            } else {
+                updateActiveFilterDisplay();
             }
         });
     }
