@@ -155,6 +155,264 @@ const resumosData = [
 - Outros: 6 itens (julgamentos em andamento, adiamentos, ou resultados incompletos/omitidos da proclamação na transcrição)`
   },
   {
+    id: "2026-03-11_segunda_secao",
+    title: "Segunda Seção - 11/03/2026",
+    date: "11/03/2026",
+    orgao: "Segunda Seção",
+    content: `# Resumo - Segunda Seção - 11/03/2026
+
+**Vídeo:** [Segunda Seção - STJ -  11/03/2026](https://www.youtube.com/watch?v=cMG0Br5RjbQ)
+**Data:** 11/03/2026
+**Órgão:** Segunda Seção
+
+---
+
+## Processos Julgados
+
+### 1. REsp 2.153.672/SP, REsp 2.167.502/SP, REsp 2.136.720/SP e REsp 2.167.050/SP - Cobertura de terapias para portadores de Transtorno do Espectro Autista (TEA) (Tema Repetitivo 1295) (Início: 28:51)
+- **Relator:** Min. Moura Ribeiro / Min. Antônio Carlos Ferreira
+- **Resultado:** Providos (REsp 2.153.672 e REsp 2.136.720) e Não conhecido (REsp 2.167.050)
+- **Votação:** Unânime quanto à tese; por maioria quanto à redação da ementa (5 a 3)
+- **Tese fixada:** É abusiva a limitação do número de sessões de terapia multidisciplinar (psicologia, fonoaudiologia, fisioterapia e terapia ocupacional) prescritas ao paciente com transtorno do espectro autista (TEA).
+- **Resumo da discussão:** Julgamento conjunto de recursos afetados ao rito dos repetitivos que discutem a legalidade da limitação quantitativa de sessões e da intensidade da carga horária para o tratamento de beneficiários com TEA. O debate inicial focou na sustentação oral das operadoras de saúde, que alegaram a existência de um "complexo industrial do autismo" com prescrições de cargas horárias excessivas (superiores a 40 horas semanais) sem evidência científica. Contudo, o colegiado reafirmou que a definição da intensidade e do tipo de terapia cabe ao profissional de saúde especializado, sendo abusiva qualquer restrição que impeça o tratamento multidisciplinar e intensivo (método ABA). Houve divergência pontual sobre a redação da ementa: os Ministros Raul Araújo e Noronha propuseram ressalvar a possibilidade de fiscalização de fraudes e uso de juntas médicas pela ANS; prevaleceu, porém, o entendimento do Relator de que tais mecanismos já estão previstos na regulação geral, sendo desnecessário e potencialmente prejudicial incluí-los na tese vinculante, sob risco de estimular a procrastinação de tratamentos essenciais.
+
+### 2. REsp 2.165.670/SP e REsp 2.170.574/SP (ref. REsp 2.065.670 e 2.197.574) - Dano moral por recusa de cobertura de plano de saúde (Tema Repetitivo) (Início: 02:10:10)
+- **Relator:** Min. Ricardo Villas Bôas Cueva (Relatora para o acórdão no REsp 2.170.574: Min. Nancy Andrighi)
+- **Resultado:** Desprovidos
+- **Votação:** Por maioria quanto à tese (vencida a Min. Daniela Teixeira); No caso concreto do REsp 2.170.574, negado provimento por maioria; No REsp 2.165.670, desprovimento unânime.
+- **Tese fixada:** A simples recusa indevida de cobertura médico-assistencial por operadora de plano de saúde não gera, por si só, dano moral presumido (in re ipsa), sendo imprescindível a presença de outros elementos capazes de constatar a alteração anímica da vítima em grau suficiente para ultrapassar o mero aborrecimento ou dissabor.
+- **Resumo da discussão:** A Seção definiu que o dano moral decorrente de negativa de cobertura por plano de saúde não é automático, afastando o caráter *in re ipsa*. O Ministro Villas Bôas Cueva defendeu que recusas baseadas em dúvidas interpretativas legítimas não devem gerar indenização presumida. A Ministra Nancy Andrighi apresentou voto-vista ponderando que, embora a tese geral afaste o automatismo, o dano deve ser reconhecido quando a recusa impactar pacientes em situações de urgência, doenças graves ou hipervulneráveis. No julgamento do caso concreto do REsp 2.170.574, a divergência aberta pela Min. Nancy prevaleceu para manter a condenação por danos morais, considerando que a recusa afetou uma criança com TEA, o que extrapola o mero descumprimento contratual. Por sugestão do Min. Raul Araújo, a tese utilizou o termo "constatar" a alteração anímica, visando um equilíbrio probatório.
+
+### 3. Reclamação 46.717/SP (ref. REsp 1.632.766) - Cabimento de reclamação constitucional e descumprimento de julgado (Início: 116:43)
+- **Relator:** Min. Nancy Andrighi (Relator para acórdão: Min. João Otávio de Noronha)
+- **Resultado:** Não conhecida
+- **Votação:** Maioria (5 a 3) - Vencidos a Relatora e os Ministros Raul Araújo e Daniela Teixeira
+- **Resumo da discussão:** Discussão sobre o cabimento de reclamação para garantir a autoridade de decisão da Terceira Turma. A Relatora votou pelo conhecimento, vendo afronta direta ao comando do STJ. Inaugurando a divergência, o Min. João Otávio de Noronha argumentou que a reclamação funcionava como sucedâneo recursal sem esgotamento das instâncias ordinárias. Ressaltou-se que a controvérsia (envolvendo cálculos e juros) ainda é objeto de Agravos em Recurso Especial pendentes, o que torna a via da reclamação inadequada para dirimir dúvidas interpretativas complexas de julgados anteriores.
+
+### 4. Conflito de Competência 216.077/CE - Definição de competência para ação de guarda e convivência de menor (Início: 108:38)
+- **Relator:** Min. Nancy Andrighi
+- **Resultado:** Conhecido para declarar competente o Juízo da Vara Única da Comarca de Exu/PE
+- **Votação:** Unânime
+- **Resumo da discussão:** Conflito para decidir o juízo competente em razão de dúvida sobre o domicílio da guardiã na divisa entre Pernambuco e Ceará. Aplicando a Súmula 383 do STJ e o princípio do melhor interesse da criança, a Relatora decidiu pela prevenção do juízo de Exu/PE, onde a ação já tramitava com citação realizada, decisão de alimentos e estudo psicossocial em curso, evitando procrastinação indevida.
+
+### 5. REsp 2.035.405/RJ, REsp 2.035.244/RJ e REsp 2.035.524/RJ - Natureza jurídica dos créditos condominiais (Início: 108:52)
+- **Relator:** Min. Nancy Andrighi
+- **Resultado:** Adiado
+- **Resumo da discussão:** Processos tratam da divergência entre a Terceira e a Quarta Turma sobre a natureza dos débitos condominiais. O julgamento foi adiado a pedido do Min. Ricardo Villas Bôas Cueva em razão do quórum reduzido e da saúde da Relatora.
+
+### 6. AgInt nos EREsp 1.583.051/PR - Seguro habitacional e apólice pública (Início: 02:43:13)
+- **Relator:** Min. João Otávio Noronha
+- **Resultado:** Adiado
+- **Resumo da discussão:** O julgamento foi suspenso para verificar se a apólice em questão possui natureza pública, o que poderia deslocar a competência da matéria para a Primeira Seção.
+
+### 7. Ação Rescisória 6.263/SP - Consulta processual sobre voto-vista (Início: 02:44:49)
+- **Relator:** Min. Marco Buzzi
+- **Resultado:** Pautado para a próxima sessão para proclamação de resultado
+- **Resumo da discussão:** Consulta da Min. Nancy Andrighi sobre a continuidade do julgamento. A Ministra acompanhou o relator e o revisor pela improcedência da ação, formando maioria. O resultado formal será proclamado na sessão seguinte.
+
+### 8. REsp 2.164.4[incompleto] - Adiamento (Início: 28:51)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Adiado
+- **Resumo da discussão:** O processo foi retirado de pauta por indicação do relator no início dos trabalhos.
+
+## Destaques da Sessão
+- **Homenagens e Pesar:** Condolências à Ministra Nancy Andrighi pelo falecimento de sua mãe, Anari Ferry Andrighi, e tributo ao Ministro aposentado Félix Fischer.
+- **Composição:** Boas-vindas ao Desembargador convocado Luís Carlos Gambogi (TJMG), que passou a integrar o colegiado.
+- **Impacto Social:** A aprovação unânime de tese garantindo terapias ilimitadas para autistas foi destacada como decisão de alto relevo social, equilibrando a proteção ao paciente com o debate sobre a sustentabilidade e o combate a fraudes no sistema mutualista.
+- **Intercorrências Técnicas e de Saúde:** A sessão enfrentou dificuldades de conexão devido a uma tempestade em Brasília. A Ministra Nancy Andrighi, mesmo com problemas de saúde decorrentes de procedimento dentário, participou ativamente para julgar temas prioritários antes do adiamento de matérias complexas.
+- **Curiosidade Cultural:** Menção à Comarca de Exu/PE como terra de Luiz Gonzaga durante o julgamento de conflito de competência.
+
+## Estatísticas
+- **Total de processos decididos:** 8 (4 TEA, 2 Dano Moral, 1 Conflito de Competência, 1 Reclamação)
+- **Providos:** 2
+- **Desprovidos:** 2
+- **Não conhecidos:** 3
+- **Conflitos de Competência decididos:** 1
+- **Adiados/Suspensos:** 5 (incluindo recursos repetitivos e agravos internos)
+- **Consultas/Pauta:** 1`
+  },
+  {
+    id: "2026-03-10_quarta_turma",
+    title: "Quarta Turma - 10/03/2026",
+    date: "10/03/2026",
+    orgao: "Quarta Turma",
+    content: `# Resumo - Quarta Turma - 10/03/2026
+
+**Vídeo:** [Quarta Turma - STJ -  10/03/2026](https://www.youtube.com/watch?v=X4eUhDKzfLc)
+**Data:** 10/03/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### N. Questão de Ordem (sem número identificado) - Classificação de crédito de ACC em recuperação judicial (Início: 00:40:38)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Deliberado pelo julgamento na Turma (não afetação à Seção)
+- **Votação:** Unânime
+- **Resumo da discussão:** O colegiado discutiu questão de ordem sobre a classificação de créditos decorrentes de Adiantamento de Contrato de Câmbio (ACC) em processos de recuperação judicial. O debate centrou-se em definir se o principal e seus acessórios (juros e encargos) possuem natureza concursal ou extraconcursal. O Presidente mencionou divergência entre a Terceira Turma (que considera acessórios concursais) e precedentes da Quarta Turma. Por unanimidade, os ministros decidiram processar e julgar a matéria no âmbito da própria Turma, em vez de afetá-la à Segunda Seção, visando consolidar o entendimento interno antes de eventual embargo de divergência.
+
+### N. AREsp 2.448.450/SP - Execução de título extrajudicial e validade de leilão (Início: 00:45:32)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Julgamento suspenso por pedido de vista
+- **Votação:** Proferido voto pelo relator negando provimento; aguarda vista do Min. Raul Araújo
+- **Resumo da discussão:** Trata-se de agravo contra decisão que inadmitiu recurso especial em sede de execução de título extrajudicial. A parte agravante alegou nulidade do leilão por ausência de enfrentamento de teses, impenhorabilidade de bem de família, falta de intimação de credor hipotecário e defasagem na avaliação dos imóveis realizada em 2016. O Relator votou pelo desprovimento, aplicando as Súmulas 7 e 284/STF. O Ministro Raul Araújo divergiu quanto à avaliação, argumentando que a mera correção monetária não alcança a valorização extraordinária de imóveis nos últimos dez anos, solicitando vista antecipada.
+
+### N. REsp 1.797.345/RS - Rateio de cotas condominiais e critério de isonomia (Início: 00:59:51)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Recurso que discutia a legalidade do critério de rateio de despesas no Condomínio Residencial Atmosfera Ecoclube. A convenção estabelecia que casas de maior área pagariam o dobro das básicas, ignorando metragens intermediárias. O Tribunal de origem reformou a norma por violação à isonomia. A Turma manteve o acórdão, fundamentando que, embora o art. 1.336, I, do Código Civil permita liberdade na escolha do critério, esta deve ser proporcional e não pode gerar tratamento desigual injustificado, devendo prevalecer a fração ideal quando o critério convencional for abusivo.
+
+### N. REsp 2.183.183/RJ - Rompimento de testamento e herdeiro necessário preterido (Início: 01:13:22)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** A controvérsia girava em torno da aplicação do art. 1.973 do Código Civil (rompimento de testamento) em caso de reconhecimento de paternidade pós-morte. A Turma decidiu que não ocorre o rompimento automático do testamento quando o testador, mesmo ciente da existência da suposta filha e das ações judiciais em curso antes de falecer, opta por não alterar suas disposições. Entendeu-se que o interesse da herdeira necessária é protegido pela redução das disposições que excederem a legítima (art. 1.967), preservando-se a vontade do testador quanto à parte disponível.
+
+### N. AREsp 2.005.713 - Prescrição da pretensão de cobrança de honorários advocatícios (Início: 01:28:07)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Julgamento suspenso por pedido de vista
+- **Votação:** Relator votou pelo desprovimento; Min. Raul Araújo divergiu; Min. Antonio Carlos Ferreira pediu vista antecipada.
+- **Resumo da discussão:** Definição do termo inicial do prazo prescricional para a cobrança de honorários contratuais pactuados de forma parcelada. O Relator defendeu que, violado o direito (inadimplemento da parcela), inicia-se o prazo prescricional para cada prestação individualmente. A divergência inaugurada pelo Min. Raul Araújo sustenta que, pela natureza fiduciária da relação advogado-cliente, o prazo só deve fluir com o rompimento ou conclusão definitiva do contrato, evitando o ajuizamento de ações na vigência da relação profissional.
+
+### N. REsp 1.765.8[incompleto] e AREsp 1.941.022/SP - Homologação de acordo envolvendo o Fundo Garantidor de Créditos - FGC (Início: 01:47:22)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Homologado o acordo e julgado prejudicado o recurso
+- **Votação:** Unânime
+- **Resumo da discussão:** Questão de Ordem em julgamento conjunto de recursos oriundos de ação de cobrança movida por LAR contra o FGC. O Relator submeteu ao colegiado a homologação de transação de elevado valor financeiro e a manutenção de segredo de justiça. O ajuste contou com a oitiva do MPF e do Banco Central (amicus curiae), que não se opuseram. A Turma homologou o acordo e declarou a perda de objeto dos recursos.
+
+### N. REsp 2.232.324/AL - Indenização por danos decorrentes do fenômeno de subsidência em Maceió/AL (Início: 02:02:13)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Pedido de indenização por danos morais formulado por ex-porteiro de condomínio desocupado devido ao afundamento do solo em Maceió, causado pela Braskem. A Relatora fundamentou que a responsabilidade civil ambiental é objetiva (risco integral) e abrange danos indiretos. Destacou que a desocupação compulsória de bairros inteiros foi a causa direta da perda do emprego do autor após 30 anos no local, configurando o "dano por ricochete" e o dever de indenizar.
+
+### N. AREsp 2.652.554/SP - Tempestividade e Gratuidade de Justiça - Entidade Filantrópica (Início: 02:19:00)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Pedido de vista
+- **Votação:** Relator negou provimento; Min. Luís Carlos Gamboja solicitou vista
+- **Resumo da discussão:** A controvérsia envolve entidade filantrópica que reivindica gratuidade de justiça com base no Estatuto do Idoso, que dispensaria a comprovação de insuficiência de recursos para entidades de assistência integral à saúde do idoso. O julgamento foi suspenso para análise da imunidade de custas.
+
+### N. AREsp 2.673.[não identificado] - Recuperação Judicial - Crédito extraconcursal e competência do juízo (Início: 02:24:24)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** O recurso discute a submissão de crédito oriundo de alienação de soja ao plano de recuperação judicial. O Relator reafirmou que o juízo da recuperação não possui competência universal absoluta sobre créditos extraconcursais, especialmente após o decurso do stay period, permitindo o prosseguimento da execução individual fora do plano recuperacional.
+
+### N. AREsp 2.815.330 - Resolução Contratual - Onerosidade Excessiva e Reequilíbrio (Início: 02:27:21)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Pedido de vista
+- **Votação:** Relator votou pela resolução; Min. Gamboja divergiu pelo reequilíbrio; Min. João Otávio de Noronha pediu vista.
+- **Resumo da discussão:** Debate sobre a resolução de contrato de compra e venda de imóvel. A divergência sugere que, pela boa-fé objetiva e conservação dos negócios, seria mais adequado o reequilíbrio econômico (divisão da atualização pela Selic) em vez da extinção do contrato.
+
+### N. REsp 1.898.396 - Simulação de Negócio Jurídico e Regra de Transição (Início: 02:32:39)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Parcialmente provido
+- **Votação:** Maioria (vencido o Min. João Otávio de Noronha)
+- **Resumo da discussão:** Ação anulatória de compra e venda entre ascendente e descendente envolvendo 13 imóveis. A Turma discutiu os prazos sob a égide do CC/1916 e CC/2002. Reconheceu a prescrição de dois imóveis. Quanto aos demais (simulação por interposta pessoa), entendeu-se que, sob o CC/02, a simulação gera nulidade absoluta insuscetível de prescrição. O Min. Noronha divergiu, sustentando tratar-se de prazo decadencial.
+
+### N. [Agravo Interno não identificado] (Item 10) - Juros de mora e Súmula 54/STJ (Início: 02:42:26)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Provimento para adequar o termo inicial dos juros de mora em caso de responsabilidade extracontratual, observando o teor da Súmula 54 do STJ.
+
+### N. RHC 232.552/SC (e Item 14 Pauta) - Guarda e abrigamento de adolescentes (Início: 02:44:11)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Adiado
+- **Resumo da discussão:** Apreciação de medida liminar sobre o abrigamento institucional de duas adolescentes. O relator havia deferido liminar para manter a guarda com a tia paterna (família extensa), revertendo acolhimento baseado em suspeita de abuso pelo genitor. O Ministério Público pleiteou o acolhimento para evitar influência no depoimento das menores. O julgamento foi adiado para análise mais detalhada do quadro fático.
+
+### N. AREsp 2.806.355/SP (Item 15) - Revisão contratual e Método Gauss (Início: 02:48:37)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Julgamento suspenso por pedido de vista
+- **Votação:** Relator negou provimento; Min. Maria Isabel Gallotti pediu vista antecipada.
+- **Resumo da discussão:** Exame da legalidade da utilização do "Método Gauss" em contratos bancários e de financiamento.
+
+### N. AREsp 2.780.132/GO (Item 16) - Tempestividade recursal e feriado local (Início: 02:49:30)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Discussão sobre a aplicação da Lei 14.939 e a comprovação posterior de feriado local. A Turma seguiu o entendimento pacificado da Corte Especial que não autoriza a reforma do acórdão de origem.
+
+### N. [Agravo Interno não identificado] (Item 17) - Rescisão de contrato de imóvel e danos morais (Início: 02:51:27)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Rescisão por culpa exclusiva do vendedor com devolução integral (Súmula 543/STJ), incluindo corretagem. A Turma rejeitou a limitação da atualização pela Lei de Recuperação Judicial e confirmou danos morais pelo atraso excessivo na entrega.
+
+### N. AREsp 2.770.705 (Item 19) - Prestação de contas e técnica de julgamento ampliado (Início: 02:53:31)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Parcialmente provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Validação do julgamento ampliado (art. 942 CPC) em embargos de declaração. No mérito, aplicou as Súmulas 7 e 211/STJ para vedar o reexame da metodologia pericial.
+
+### N. REsp 2.113.889/MS - Vale-pedágio e prazo prescricional (Início: 02:56:16)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Reconhecimento do prazo prescricional de 12 meses para a multa de indenização do vale-pedágio, conforme a Lei 14.229. A ação foi considerada prescrita por ter sido proposta após o decurso do prazo da lei nova.
+
+### N. [AREsp não identificado] (Item 20) - Foro de eleição (Início: 02:58:20)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Reconhecimento da validade de cláusula de foro de eleição em contrato firmado entre o Banco do Brasil e sociedade de advocacia.
+
+### N. [Agravo Interno não identificado] (Item 21) - Cessão de crédito e notificação do devedor (Início: 02:59:00)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Validade de pagamento feito ao credor originário após ciência inequívoca da cessão de crédito. O pagamento realizado quatro anos após a notificação foi considerado indevido.
+
+### N. AREsp 2.158.796 (Item 25) - [Tema não identificado] (Início: 03:01:05)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Adiado
+- **Resumo da discussão:** Processo adiado por indicação do relator.
+
+### N. REsp 2.224.501/SP (Item 31) - Registro Civil e Multiparentalidade (Início: 03:01:25)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** A Turma autorizou a alteração do nome de filha maior para incluir sobrenome socioafetivo e excluir o patronímico materno biológico. Decidiu-se que a autonomia da vontade do titular permite a exclusão, mas o registro da genitora deve permanecer íntegro no assento para preservar a ancestralidade e evitar impedimentos matrimoniais por desconhecimento de parentesco.
+
+### N. [Pauta Item 32] - Sigilo de exame de gravidez em menor e dever de notificação (Início: 03:06:06)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Ação contra laboratório que realizou teste de gravidez em menor de 14 anos sem notificar a família. A Turma decidiu que o laboratório deve comunicar o resultado à rede de proteção (Conselho Tutelar), mas tem o dever de sigilo em relação aos pais se a menor solicitar, visando sua segurança. Respeitou-se a autonomia progressiva da adolescente maior de 12 anos e o sigilo médico.
+
+### N. [Pauta Item 33] - [Tema não identificado] (Início: 03:10:08)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Adiado
+- **Resumo da discussão:** Julgamento adiado solicitado pelo relator.
+
+### N. [Pauta Item 34] - Recuperação judicial e créditos condominiais propter rem (Início: 03:10:17)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Julgamento suspenso por pedido de vista
+- **Votação:** Relatora votou pela concursalidade; Min. João Otávio de Noronha pediu vista antecipada.
+- **Resumo da discussão:** Debate sobre a sujeição de taxas condominiais anteriores ao pedido de recuperação judicial. A Relatora seguiu a Terceira Turma (natureza concursal). O Min. Noronha divergiu preliminarmente, sustentando que a natureza propter rem afasta o regime recuperacional para não sacrificar as demais famílias do condomínio.
+
+### N. [Pauta Item 35] - [Tema não identificado] (Início: 03:15:22)
+- **Resultado:** Adiado
+- **Resumo da discussão:** Julgamento adiado para aguardar a presença do Min. Antonio Carlos Ferreira.
+
+## Destaques da Sessão
+- **Responsabilidade Braskem:** Reconhecimento da responsabilidade civil ambiental objetiva pelo "dano por ricochete" a trabalhadores de áreas desocupadas em Maceió.
+- **Prescrição e Simulação:** Debate doutrinário profundo sobre a imprescritibilidade dos atos nulos no Código Civil de 2002 versus a regra de transição do código anterior.
+- **Estatuto da Advocacia:** Divergência sobre a especificidade da relação fiduciária entre advogado e cliente para fins de fluência do prazo prescricional de honorários.
+- **Autonomia da Adolescente:** Reconhecimento do direito ao sigilo médico em exames de gravidez para menores de 14 anos em face da rede de proteção e da família.
+- **Modernização Institucional:** Divulgação das políticas de acessibilidade do STJ e do cronograma de reabertura da biblioteca para 09 de abril de 2026.
+- **Homenagem:** Celebração do aniversário do Ministro Antônio Carlos Ferreira com manifestações de todos os integrantes da Turma.
+
+## Estatísticas
+- Total de processos julgados: 26
+- Providos: 7
+- Desprovidos: 5
+- Parcialmente providos: 2
+- Outros: 12 (Inclui Pedidos de Vista, Adiamentos, Homologações e Questões de Ordem)`
+  },
+  {
     id: "2026-03-05_segunda_secao",
     title: "Segunda Seção - 05/03/2026",
     date: "05/03/2026",
@@ -376,264 +634,6 @@ const resumosData = [
 - **Desprovidos:** 9
 - **Parcialmente providos:** 0
 - **Outros:** 10 (Pedidos de Vista, Adiamentos, Remessa à Seção Competente ou Apenas Apregoados)`
-  },
-  {
-    id: "cMG0Br5RjbQ",
-    title: "Segunda Seção",
-    date: "",
-    orgao: "Segunda Seção",
-    content: `# Resumo - Segunda Seção - data desconhecida
-
-**Vídeo:** [Segunda Seção - STJ -  11/03/2026](https://www.youtube.com/watch?v=cMG0Br5RjbQ)
-**Data:** data desconhecida
-**Órgão:** Segunda Seção
-
----
-
-## Processos Julgados
-
-### 1. REsp 2.153.672/SP, REsp 2.167.502/SP, REsp 2.136.720/SP e REsp 2.167.050/SP - Cobertura de terapias para portadores de Transtorno do Espectro Autista (TEA) (Tema Repetitivo 1295) (Início: 28:51)
-- **Relator:** Min. Moura Ribeiro / Min. Antônio Carlos Ferreira
-- **Resultado:** Providos (REsp 2.153.672 e REsp 2.136.720) e Não conhecido (REsp 2.167.050)
-- **Votação:** Unânime quanto à tese; por maioria quanto à redação da ementa (5 a 3)
-- **Tese fixada:** É abusiva a limitação do número de sessões de terapia multidisciplinar (psicologia, fonoaudiologia, fisioterapia e terapia ocupacional) prescritas ao paciente com transtorno do espectro autista (TEA).
-- **Resumo da discussão:** Julgamento conjunto de recursos afetados ao rito dos repetitivos que discutem a legalidade da limitação quantitativa de sessões e da intensidade da carga horária para o tratamento de beneficiários com TEA. O debate inicial focou na sustentação oral das operadoras de saúde, que alegaram a existência de um "complexo industrial do autismo" com prescrições de cargas horárias excessivas (superiores a 40 horas semanais) sem evidência científica. Contudo, o colegiado reafirmou que a definição da intensidade e do tipo de terapia cabe ao profissional de saúde especializado, sendo abusiva qualquer restrição que impeça o tratamento multidisciplinar e intensivo (método ABA). Houve divergência pontual sobre a redação da ementa: os Ministros Raul Araújo e Noronha propuseram ressalvar a possibilidade de fiscalização de fraudes e uso de juntas médicas pela ANS; prevaleceu, porém, o entendimento do Relator de que tais mecanismos já estão previstos na regulação geral, sendo desnecessário e potencialmente prejudicial incluí-los na tese vinculante, sob risco de estimular a procrastinação de tratamentos essenciais.
-
-### 2. REsp 2.165.670/SP e REsp 2.170.574/SP (ref. REsp 2.065.670 e 2.197.574) - Dano moral por recusa de cobertura de plano de saúde (Tema Repetitivo) (Início: 02:10:10)
-- **Relator:** Min. Ricardo Villas Bôas Cueva (Relatora para o acórdão no REsp 2.170.574: Min. Nancy Andrighi)
-- **Resultado:** Desprovidos
-- **Votação:** Por maioria quanto à tese (vencida a Min. Daniela Teixeira); No caso concreto do REsp 2.170.574, negado provimento por maioria; No REsp 2.165.670, desprovimento unânime.
-- **Tese fixada:** A simples recusa indevida de cobertura médico-assistencial por operadora de plano de saúde não gera, por si só, dano moral presumido (in re ipsa), sendo imprescindível a presença de outros elementos capazes de constatar a alteração anímica da vítima em grau suficiente para ultrapassar o mero aborrecimento ou dissabor.
-- **Resumo da discussão:** A Seção definiu que o dano moral decorrente de negativa de cobertura por plano de saúde não é automático, afastando o caráter *in re ipsa*. O Ministro Villas Bôas Cueva defendeu que recusas baseadas em dúvidas interpretativas legítimas não devem gerar indenização presumida. A Ministra Nancy Andrighi apresentou voto-vista ponderando que, embora a tese geral afaste o automatismo, o dano deve ser reconhecido quando a recusa impactar pacientes em situações de urgência, doenças graves ou hipervulneráveis. No julgamento do caso concreto do REsp 2.170.574, a divergência aberta pela Min. Nancy prevaleceu para manter a condenação por danos morais, considerando que a recusa afetou uma criança com TEA, o que extrapola o mero descumprimento contratual. Por sugestão do Min. Raul Araújo, a tese utilizou o termo "constatar" a alteração anímica, visando um equilíbrio probatório.
-
-### 3. Reclamação 46.717/SP (ref. REsp 1.632.766) - Cabimento de reclamação constitucional e descumprimento de julgado (Início: 116:43)
-- **Relator:** Min. Nancy Andrighi (Relator para acórdão: Min. João Otávio de Noronha)
-- **Resultado:** Não conhecida
-- **Votação:** Maioria (5 a 3) - Vencidos a Relatora e os Ministros Raul Araújo e Daniela Teixeira
-- **Resumo da discussão:** Discussão sobre o cabimento de reclamação para garantir a autoridade de decisão da Terceira Turma. A Relatora votou pelo conhecimento, vendo afronta direta ao comando do STJ. Inaugurando a divergência, o Min. João Otávio de Noronha argumentou que a reclamação funcionava como sucedâneo recursal sem esgotamento das instâncias ordinárias. Ressaltou-se que a controvérsia (envolvendo cálculos e juros) ainda é objeto de Agravos em Recurso Especial pendentes, o que torna a via da reclamação inadequada para dirimir dúvidas interpretativas complexas de julgados anteriores.
-
-### 4. Conflito de Competência 216.077/CE - Definição de competência para ação de guarda e convivência de menor (Início: 108:38)
-- **Relator:** Min. Nancy Andrighi
-- **Resultado:** Conhecido para declarar competente o Juízo da Vara Única da Comarca de Exu/PE
-- **Votação:** Unânime
-- **Resumo da discussão:** Conflito para decidir o juízo competente em razão de dúvida sobre o domicílio da guardiã na divisa entre Pernambuco e Ceará. Aplicando a Súmula 383 do STJ e o princípio do melhor interesse da criança, a Relatora decidiu pela prevenção do juízo de Exu/PE, onde a ação já tramitava com citação realizada, decisão de alimentos e estudo psicossocial em curso, evitando procrastinação indevida.
-
-### 5. REsp 2.035.405/RJ, REsp 2.035.244/RJ e REsp 2.035.524/RJ - Natureza jurídica dos créditos condominiais (Início: 108:52)
-- **Relator:** Min. Nancy Andrighi
-- **Resultado:** Adiado
-- **Resumo da discussão:** Processos tratam da divergência entre a Terceira e a Quarta Turma sobre a natureza dos débitos condominiais. O julgamento foi adiado a pedido do Min. Ricardo Villas Bôas Cueva em razão do quórum reduzido e da saúde da Relatora.
-
-### 6. AgInt nos EREsp 1.583.051/PR - Seguro habitacional e apólice pública (Início: 02:43:13)
-- **Relator:** Min. João Otávio Noronha
-- **Resultado:** Adiado
-- **Resumo da discussão:** O julgamento foi suspenso para verificar se a apólice em questão possui natureza pública, o que poderia deslocar a competência da matéria para a Primeira Seção.
-
-### 7. Ação Rescisória 6.263/SP - Consulta processual sobre voto-vista (Início: 02:44:49)
-- **Relator:** Min. Marco Buzzi
-- **Resultado:** Pautado para a próxima sessão para proclamação de resultado
-- **Resumo da discussão:** Consulta da Min. Nancy Andrighi sobre a continuidade do julgamento. A Ministra acompanhou o relator e o revisor pela improcedência da ação, formando maioria. O resultado formal será proclamado na sessão seguinte.
-
-### 8. REsp 2.164.4[incompleto] - Adiamento (Início: 28:51)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Adiado
-- **Resumo da discussão:** O processo foi retirado de pauta por indicação do relator no início dos trabalhos.
-
-## Destaques da Sessão
-- **Homenagens e Pesar:** Condolências à Ministra Nancy Andrighi pelo falecimento de sua mãe, Anari Ferry Andrighi, e tributo ao Ministro aposentado Félix Fischer.
-- **Composição:** Boas-vindas ao Desembargador convocado Luís Carlos Gambogi (TJMG), que passou a integrar o colegiado.
-- **Impacto Social:** A aprovação unânime de tese garantindo terapias ilimitadas para autistas foi destacada como decisão de alto relevo social, equilibrando a proteção ao paciente com o debate sobre a sustentabilidade e o combate a fraudes no sistema mutualista.
-- **Intercorrências Técnicas e de Saúde:** A sessão enfrentou dificuldades de conexão devido a uma tempestade em Brasília. A Ministra Nancy Andrighi, mesmo com problemas de saúde decorrentes de procedimento dentário, participou ativamente para julgar temas prioritários antes do adiamento de matérias complexas.
-- **Curiosidade Cultural:** Menção à Comarca de Exu/PE como terra de Luiz Gonzaga durante o julgamento de conflito de competência.
-
-## Estatísticas
-- **Total de processos decididos:** 8 (4 TEA, 2 Dano Moral, 1 Conflito de Competência, 1 Reclamação)
-- **Providos:** 2
-- **Desprovidos:** 2
-- **Não conhecidos:** 3
-- **Conflitos de Competência decididos:** 1
-- **Adiados/Suspensos:** 5 (incluindo recursos repetitivos e agravos internos)
-- **Consultas/Pauta:** 1`
-  },
-  {
-    id: "X4eUhDKzfLc",
-    title: "Quarta Turma",
-    date: "",
-    orgao: "Quarta Turma",
-    content: `# Resumo - Quarta Turma - data desconhecida
-
-**Vídeo:** [Quarta Turma - STJ -  10/03/2026](https://www.youtube.com/watch?v=X4eUhDKzfLc)
-**Data:** data desconhecida
-**Órgão:** Quarta Turma
-
----
-
-## Processos Julgados
-
-### N. Questão de Ordem (sem número identificado) - Classificação de crédito de ACC em recuperação judicial (Início: 00:40:38)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Deliberado pelo julgamento na Turma (não afetação à Seção)
-- **Votação:** Unânime
-- **Resumo da discussão:** O colegiado discutiu questão de ordem sobre a classificação de créditos decorrentes de Adiantamento de Contrato de Câmbio (ACC) em processos de recuperação judicial. O debate centrou-se em definir se o principal e seus acessórios (juros e encargos) possuem natureza concursal ou extraconcursal. O Presidente mencionou divergência entre a Terceira Turma (que considera acessórios concursais) e precedentes da Quarta Turma. Por unanimidade, os ministros decidiram processar e julgar a matéria no âmbito da própria Turma, em vez de afetá-la à Segunda Seção, visando consolidar o entendimento interno antes de eventual embargo de divergência.
-
-### N. AREsp 2.448.450/SP - Execução de título extrajudicial e validade de leilão (Início: 00:45:32)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Julgamento suspenso por pedido de vista
-- **Votação:** Proferido voto pelo relator negando provimento; aguarda vista do Min. Raul Araújo
-- **Resumo da discussão:** Trata-se de agravo contra decisão que inadmitiu recurso especial em sede de execução de título extrajudicial. A parte agravante alegou nulidade do leilão por ausência de enfrentamento de teses, impenhorabilidade de bem de família, falta de intimação de credor hipotecário e defasagem na avaliação dos imóveis realizada em 2016. O Relator votou pelo desprovimento, aplicando as Súmulas 7 e 284/STF. O Ministro Raul Araújo divergiu quanto à avaliação, argumentando que a mera correção monetária não alcança a valorização extraordinária de imóveis nos últimos dez anos, solicitando vista antecipada.
-
-### N. REsp 1.797.345/RS - Rateio de cotas condominiais e critério de isonomia (Início: 00:59:51)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Desprovido
-- **Votação:** Unânime
-- **Resumo da discussão:** Recurso que discutia a legalidade do critério de rateio de despesas no Condomínio Residencial Atmosfera Ecoclube. A convenção estabelecia que casas de maior área pagariam o dobro das básicas, ignorando metragens intermediárias. O Tribunal de origem reformou a norma por violação à isonomia. A Turma manteve o acórdão, fundamentando que, embora o art. 1.336, I, do Código Civil permita liberdade na escolha do critério, esta deve ser proporcional e não pode gerar tratamento desigual injustificado, devendo prevalecer a fração ideal quando o critério convencional for abusivo.
-
-### N. REsp 2.183.183/RJ - Rompimento de testamento e herdeiro necessário preterido (Início: 01:13:22)
-- **Relator:** Min. Maria Isabel Gallotti
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** A controvérsia girava em torno da aplicação do art. 1.973 do Código Civil (rompimento de testamento) em caso de reconhecimento de paternidade pós-morte. A Turma decidiu que não ocorre o rompimento automático do testamento quando o testador, mesmo ciente da existência da suposta filha e das ações judiciais em curso antes de falecer, opta por não alterar suas disposições. Entendeu-se que o interesse da herdeira necessária é protegido pela redução das disposições que excederem a legítima (art. 1.967), preservando-se a vontade do testador quanto à parte disponível.
-
-### N. AREsp 2.005.713 - Prescrição da pretensão de cobrança de honorários advocatícios (Início: 01:28:07)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Julgamento suspenso por pedido de vista
-- **Votação:** Relator votou pelo desprovimento; Min. Raul Araújo divergiu; Min. Antonio Carlos Ferreira pediu vista antecipada.
-- **Resumo da discussão:** Definição do termo inicial do prazo prescricional para a cobrança de honorários contratuais pactuados de forma parcelada. O Relator defendeu que, violado o direito (inadimplemento da parcela), inicia-se o prazo prescricional para cada prestação individualmente. A divergência inaugurada pelo Min. Raul Araújo sustenta que, pela natureza fiduciária da relação advogado-cliente, o prazo só deve fluir com o rompimento ou conclusão definitiva do contrato, evitando o ajuizamento de ações na vigência da relação profissional.
-
-### N. REsp 1.765.8[incompleto] e AREsp 1.941.022/SP - Homologação de acordo envolvendo o Fundo Garantidor de Créditos - FGC (Início: 01:47:22)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Homologado o acordo e julgado prejudicado o recurso
-- **Votação:** Unânime
-- **Resumo da discussão:** Questão de Ordem em julgamento conjunto de recursos oriundos de ação de cobrança movida por LAR contra o FGC. O Relator submeteu ao colegiado a homologação de transação de elevado valor financeiro e a manutenção de segredo de justiça. O ajuste contou com a oitiva do MPF e do Banco Central (amicus curiae), que não se opuseram. A Turma homologou o acordo e declarou a perda de objeto dos recursos.
-
-### N. REsp 2.232.324/AL - Indenização por danos decorrentes do fenômeno de subsidência em Maceió/AL (Início: 02:02:13)
-- **Relator:** Min. Maria Isabel Gallotti
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** Pedido de indenização por danos morais formulado por ex-porteiro de condomínio desocupado devido ao afundamento do solo em Maceió, causado pela Braskem. A Relatora fundamentou que a responsabilidade civil ambiental é objetiva (risco integral) e abrange danos indiretos. Destacou que a desocupação compulsória de bairros inteiros foi a causa direta da perda do emprego do autor após 30 anos no local, configurando o "dano por ricochete" e o dever de indenizar.
-
-### N. AREsp 2.652.554/SP - Tempestividade e Gratuidade de Justiça - Entidade Filantrópica (Início: 02:19:00)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Pedido de vista
-- **Votação:** Relator negou provimento; Min. Luís Carlos Gamboja solicitou vista
-- **Resumo da discussão:** A controvérsia envolve entidade filantrópica que reivindica gratuidade de justiça com base no Estatuto do Idoso, que dispensaria a comprovação de insuficiência de recursos para entidades de assistência integral à saúde do idoso. O julgamento foi suspenso para análise da imunidade de custas.
-
-### N. AREsp 2.673.[não identificado] - Recuperação Judicial - Crédito extraconcursal e competência do juízo (Início: 02:24:24)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Desprovido
-- **Votação:** Unânime
-- **Resumo da discussão:** O recurso discute a submissão de crédito oriundo de alienação de soja ao plano de recuperação judicial. O Relator reafirmou que o juízo da recuperação não possui competência universal absoluta sobre créditos extraconcursais, especialmente após o decurso do stay period, permitindo o prosseguimento da execução individual fora do plano recuperacional.
-
-### N. AREsp 2.815.330 - Resolução Contratual - Onerosidade Excessiva e Reequilíbrio (Início: 02:27:21)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Pedido de vista
-- **Votação:** Relator votou pela resolução; Min. Gamboja divergiu pelo reequilíbrio; Min. João Otávio de Noronha pediu vista.
-- **Resumo da discussão:** Debate sobre a resolução de contrato de compra e venda de imóvel. A divergência sugere que, pela boa-fé objetiva e conservação dos negócios, seria mais adequado o reequilíbrio econômico (divisão da atualização pela Selic) em vez da extinção do contrato.
-
-### N. REsp 1.898.396 - Simulação de Negócio Jurídico e Regra de Transição (Início: 02:32:39)
-- **Relator:** Min. Maria Isabel Gallotti
-- **Resultado:** Parcialmente provido
-- **Votação:** Maioria (vencido o Min. João Otávio de Noronha)
-- **Resumo da discussão:** Ação anulatória de compra e venda entre ascendente e descendente envolvendo 13 imóveis. A Turma discutiu os prazos sob a égide do CC/1916 e CC/2002. Reconheceu a prescrição de dois imóveis. Quanto aos demais (simulação por interposta pessoa), entendeu-se que, sob o CC/02, a simulação gera nulidade absoluta insuscetível de prescrição. O Min. Noronha divergiu, sustentando tratar-se de prazo decadencial.
-
-### N. [Agravo Interno não identificado] (Item 10) - Juros de mora e Súmula 54/STJ (Início: 02:42:26)
-- **Relator:** Min. Maria Isabel Gallotti
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** Provimento para adequar o termo inicial dos juros de mora em caso de responsabilidade extracontratual, observando o teor da Súmula 54 do STJ.
-
-### N. RHC 232.552/SC (e Item 14 Pauta) - Guarda e abrigamento de adolescentes (Início: 02:44:11)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Adiado
-- **Resumo da discussão:** Apreciação de medida liminar sobre o abrigamento institucional de duas adolescentes. O relator havia deferido liminar para manter a guarda com a tia paterna (família extensa), revertendo acolhimento baseado em suspeita de abuso pelo genitor. O Ministério Público pleiteou o acolhimento para evitar influência no depoimento das menores. O julgamento foi adiado para análise mais detalhada do quadro fático.
-
-### N. AREsp 2.806.355/SP (Item 15) - Revisão contratual e Método Gauss (Início: 02:48:37)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Julgamento suspenso por pedido de vista
-- **Votação:** Relator negou provimento; Min. Maria Isabel Gallotti pediu vista antecipada.
-- **Resumo da discussão:** Exame da legalidade da utilização do "Método Gauss" em contratos bancários e de financiamento.
-
-### N. AREsp 2.780.132/GO (Item 16) - Tempestividade recursal e feriado local (Início: 02:49:30)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Desprovido
-- **Votação:** Unânime
-- **Resumo da discussão:** Discussão sobre a aplicação da Lei 14.939 e a comprovação posterior de feriado local. A Turma seguiu o entendimento pacificado da Corte Especial que não autoriza a reforma do acórdão de origem.
-
-### N. [Agravo Interno não identificado] (Item 17) - Rescisão de contrato de imóvel e danos morais (Início: 02:51:27)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Desprovido
-- **Votação:** Unânime
-- **Resumo da discussão:** Rescisão por culpa exclusiva do vendedor com devolução integral (Súmula 543/STJ), incluindo corretagem. A Turma rejeitou a limitação da atualização pela Lei de Recuperação Judicial e confirmou danos morais pelo atraso excessivo na entrega.
-
-### N. AREsp 2.770.705 (Item 19) - Prestação de contas e técnica de julgamento ampliado (Início: 02:53:31)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Parcialmente provido
-- **Votação:** Unânime
-- **Resumo da discussão:** Validação do julgamento ampliado (art. 942 CPC) em embargos de declaração. No mérito, aplicou as Súmulas 7 e 211/STJ para vedar o reexame da metodologia pericial.
-
-### N. REsp 2.113.889/MS - Vale-pedágio e prazo prescricional (Início: 02:56:16)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** Reconhecimento do prazo prescricional de 12 meses para a multa de indenização do vale-pedágio, conforme a Lei 14.229. A ação foi considerada prescrita por ter sido proposta após o decurso do prazo da lei nova.
-
-### N. [AREsp não identificado] (Item 20) - Foro de eleição (Início: 02:58:20)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** Reconhecimento da validade de cláusula de foro de eleição em contrato firmado entre o Banco do Brasil e sociedade de advocacia.
-
-### N. [Agravo Interno não identificado] (Item 21) - Cessão de crédito e notificação do devedor (Início: 02:59:00)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Desprovido
-- **Votação:** Unânime
-- **Resumo da discussão:** Validade de pagamento feito ao credor originário após ciência inequívoca da cessão de crédito. O pagamento realizado quatro anos após a notificação foi considerado indevido.
-
-### N. AREsp 2.158.796 (Item 25) - [Tema não identificado] (Início: 03:01:05)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Adiado
-- **Resumo da discussão:** Processo adiado por indicação do relator.
-
-### N. REsp 2.224.501/SP (Item 31) - Registro Civil e Multiparentalidade (Início: 03:01:25)
-- **Relator:** Min. Maria Isabel Gallotti
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** A Turma autorizou a alteração do nome de filha maior para incluir sobrenome socioafetivo e excluir o patronímico materno biológico. Decidiu-se que a autonomia da vontade do titular permite a exclusão, mas o registro da genitora deve permanecer íntegro no assento para preservar a ancestralidade e evitar impedimentos matrimoniais por desconhecimento de parentesco.
-
-### N. [Pauta Item 32] - Sigilo de exame de gravidez em menor e dever de notificação (Início: 03:06:06)
-- **Relator:** Min. Isabel Gallotti
-- **Resultado:** Provido
-- **Votação:** Unânime
-- **Resumo da discussão:** Ação contra laboratório que realizou teste de gravidez em menor de 14 anos sem notificar a família. A Turma decidiu que o laboratório deve comunicar o resultado à rede de proteção (Conselho Tutelar), mas tem o dever de sigilo em relação aos pais se a menor solicitar, visando sua segurança. Respeitou-se a autonomia progressiva da adolescente maior de 12 anos e o sigilo médico.
-
-### N. [Pauta Item 33] - [Tema não identificado] (Início: 03:10:08)
-- **Relator:** Min. Raul Araújo
-- **Resultado:** Adiado
-- **Resumo da discussão:** Julgamento adiado solicitado pelo relator.
-
-### N. [Pauta Item 34] - Recuperação judicial e créditos condominiais propter rem (Início: 03:10:17)
-- **Relator:** Min. Isabel Gallotti
-- **Resultado:** Julgamento suspenso por pedido de vista
-- **Votação:** Relatora votou pela concursalidade; Min. João Otávio de Noronha pediu vista antecipada.
-- **Resumo da discussão:** Debate sobre a sujeição de taxas condominiais anteriores ao pedido de recuperação judicial. A Relatora seguiu a Terceira Turma (natureza concursal). O Min. Noronha divergiu preliminarmente, sustentando que a natureza propter rem afasta o regime recuperacional para não sacrificar as demais famílias do condomínio.
-
-### N. [Pauta Item 35] - [Tema não identificado] (Início: 03:15:22)
-- **Resultado:** Adiado
-- **Resumo da discussão:** Julgamento adiado para aguardar a presença do Min. Antonio Carlos Ferreira.
-
-## Destaques da Sessão
-- **Responsabilidade Braskem:** Reconhecimento da responsabilidade civil ambiental objetiva pelo "dano por ricochete" a trabalhadores de áreas desocupadas em Maceió.
-- **Prescrição e Simulação:** Debate doutrinário profundo sobre a imprescritibilidade dos atos nulos no Código Civil de 2002 versus a regra de transição do código anterior.
-- **Estatuto da Advocacia:** Divergência sobre a especificidade da relação fiduciária entre advogado e cliente para fins de fluência do prazo prescricional de honorários.
-- **Autonomia da Adolescente:** Reconhecimento do direito ao sigilo médico em exames de gravidez para menores de 14 anos em face da rede de proteção e da família.
-- **Modernização Institucional:** Divulgação das políticas de acessibilidade do STJ e do cronograma de reabertura da biblioteca para 09 de abril de 2026.
-- **Homenagem:** Celebração do aniversário do Ministro Antônio Carlos Ferreira com manifestações de todos os integrantes da Turma.
-
-## Estatísticas
-- Total de processos julgados: 26
-- Providos: 7
-- Desprovidos: 5
-- Parcialmente providos: 2
-- Outros: 12 (Inclui Pedidos de Vista, Adiamentos, Homologações e Questões de Ordem)`
   }
 ];
 
