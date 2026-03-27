@@ -1486,4 +1486,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
+    renderIcons();
 });
