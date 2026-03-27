@@ -439,7 +439,9 @@ body::after {
         linear-gradient(180deg, rgba(255, 255, 255, 0.74), rgba(255, 255, 255, 0.48)),
         linear-gradient(135deg, rgba(142, 49, 64, 0.05), rgba(31, 69, 107, 0.06));
     border-radius: var(--radius-md);
-    padding: 12px 12px 12px 14px;
+    padding: 12px 16px 12px 16px;
+    flex-shrink: 0;
+    min-height: min-content;
     text-align: left;
     color: inherit;
     cursor: pointer;
@@ -1387,7 +1389,7 @@ body::after {
     }
 
     .sessions-list {
-        max-height: 360px;
+        max-height: 480px;
     }
 
     .overview-strip {
