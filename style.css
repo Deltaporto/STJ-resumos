@@ -140,9 +140,11 @@ body::after {
 
 .sidebar {
     position: relative;
+    z-index: 10;
     border-right: 1px solid var(--border-color);
     background: var(--surface-sidebar);
     backdrop-filter: blur(24px);
+    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.05);
 }
 
 .sidebar::after {
@@ -309,7 +311,10 @@ body::after {
 
 .search-panel {
     position: relative;
-    padding: 12px 16px 12px 48px;
+    min-height: 48px;
+    display: flex;
+    align-items: center;
+    padding: 6px 16px 6px 44px;
     border-radius: 999px;
     background: var(--surface-panel);
     border: 1px solid var(--border-color);
@@ -319,7 +324,7 @@ body::after {
 
 .search-panel:focus-within {
     border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(var(--accent-rgb, 142, 49, 64), 0.1);
+    box-shadow: 0 0 0 3px rgba(142, 49, 64, 0.1);
 }
 
 .search-icon {
@@ -332,15 +337,25 @@ body::after {
     color: var(--text-tertiary);
 }
 
-#searchInput {
+#searchInput, #relatorSelect {
     width: 100%;
     border: 0;
     background: transparent;
     color: var(--text-primary);
-    font-size: 16px;
+    font-size: 15px;
     font-family: var(--font-ui);
     outline: none;
-    padding-right: 60px; /* Espaço para o atalho Ctrl+K */
+    cursor: text;
+}
+
+#relatorSelect {
+    cursor: pointer;
+    appearance: none;
+    padding-right: 20px;
+}
+
+#searchInput {
+    padding-right: 60px; /* Space for Ctrl+K */
 }
 
 #searchInput::placeholder {
