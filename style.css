@@ -350,8 +350,12 @@ body::after {
 
 #relatorSelect {
     cursor: pointer;
-    -webkit-appearance: menulist !important;
-    appearance: menulist !important;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2376695a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'%3E%3C/path%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    padding-right: 28px;
     padding-left: 2px;
 }
 
@@ -680,7 +684,7 @@ body::after {
 
 .doc-meta {
     min-width: 0;
-    margin-left: 10px;
+    margin-left: 40px; /* Increased margin to avoid sidebar overlap */
 }
 
 .doc-meta-compact {
