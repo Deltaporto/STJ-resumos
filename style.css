@@ -140,7 +140,7 @@ body::after {
 
 .sidebar {
     position: relative;
-    z-index: 100;
+    z-index: 1000;
     border-right: 1px solid var(--border-color);
     background: var(--surface-sidebar);
     backdrop-filter: blur(28px);
@@ -350,6 +350,8 @@ body::after {
 
 #relatorSelect {
     cursor: pointer;
+    -webkit-appearance: menulist !important;
+    appearance: menulist !important;
     padding-left: 2px;
 }
 
@@ -678,6 +680,7 @@ body::after {
 
 .doc-meta {
     min-width: 0;
+    margin-left: 10px;
 }
 
 .doc-meta-compact {

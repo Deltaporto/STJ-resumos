@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
         check: '<path d="M20 6 9 17l-5-5"></path>',
         'calendar-days': '<path d="M8 2v4"></path><path d="M16 2v4"></path><rect x="3" y="4" width="18" height="18" rx="2"></rect><path d="M3 10h18"></path><path d="M8 14h.01"></path><path d="M12 14h.01"></path><path d="M16 14h.01"></path><path d="M8 18h.01"></path><path d="M12 18h.01"></path><path d="M16 18h.01"></path>',
         'rows-3': '<path d="M21 6H3"></path><path d="M21 12H3"></path><path d="M21 18H3"></path>',
-        gavel: '<path d="m14 13-5 5 5 5"></path><path d="m3 21 2-2"></path><path d="m9 15 10-10a2 2 0 1 1 3 3L12 18Z"></path><path d="m11 17 3 3"></path><path d="m13 15 3 3"></path>'
+        gavel: '<path d="m14 13-5 5 5 5"></path><path d="m3 21 2-2"></path><path d="m9 15 10-10a2 2 0 1 1 3 3L12 18Z"></path>'
     };
 
     const sessionsList = document.getElementById('sessionsList');
