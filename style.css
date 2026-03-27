@@ -140,11 +140,11 @@ body::after {
 
 .sidebar {
     position: relative;
-    z-index: 10;
+    z-index: 100;
     border-right: 1px solid var(--border-color);
     background: var(--surface-sidebar);
-    backdrop-filter: blur(24px);
-    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(28px);
+    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.08);
 }
 
 .sidebar::after {
@@ -344,14 +344,13 @@ body::after {
     color: var(--text-primary);
     font-size: 15px;
     font-family: var(--font-ui);
+    padding: 0;
     outline: none;
-    cursor: text;
 }
 
 #relatorSelect {
     cursor: pointer;
-    appearance: none;
-    padding-right: 20px;
+    padding-left: 2px;
 }
 
 #searchInput {
@@ -655,7 +654,11 @@ body::after {
 }
 
 .content-header {
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 80;
+    background: rgba(var(--bg-base-rgb, 252, 246, 238), 0.75);
+    backdrop-filter: blur(12px);
     display: grid;
     grid-template-columns: auto minmax(0, 1fr) auto;
     align-items: center;

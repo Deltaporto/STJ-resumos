@@ -49,11 +49,10 @@
                     <span class="search-shortcut" aria-hidden="true">Ctrl+K</span>
                 </div>
                 
-                <div class="filter-panel" style="margin-top: 4px; padding: 0 4px;">
-                    <div class="search-panel" style="background: rgba(var(--accent-rgb, 142, 49, 64), 0.04); min-height: 40px; padding-left: 40px;">
-                        <label class="sr-only" for="relatorSelect">Filtrar por Relator</label>
-                        <i data-lucide="gavel" class="search-icon" style="opacity: 0.8; left: 14px; width: 16px;"></i>
-                        <select id="relatorSelect">
+                <div class="filter-panel" style="margin-top: 4px; padding: 0 4px; position: relative; z-index: 2;">
+                    <div class="search-panel" style="background: rgba(var(--accent-rgb, 142, 49, 64), 0.04); min-height: 40px; padding: 2px 8px 2px 42px;">
+                        <i data-lucide="gavel" class="search-icon" style="opacity: 0.8; left: 14px; width: 18px;"></i>
+                        <select id="relatorSelect" aria-label="Filtrar processos por relator">
                             <option value="">Todos os Relatores</option>
                         </select>
                     </div>
