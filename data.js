@@ -4,6 +4,7 @@ const resumosData = [
     title: "Quarta Turma - 14/04/2026",
     date: "14/04/2026",
     orgao: "Quarta Turma",
+    theses: [],
     content: `# Resumo - Quarta Turma - 14/04/2026
     
 **Vídeo:** [Quarta Turma - STJ -  14/04/2026](https://www.youtube.com/watch?v=hQAXad0KTUY)
@@ -107,6 +108,7 @@ const resumosData = [
     title: "Segunda Seção - 08/04/2026",
     date: "08/04/2026",
     orgao: "Segunda Seção",
+    theses: [{"text": "[Tese proposta pelo Relator, pendente de aprovação: \"A classificação das despesas, débitos, cotas condominiais, em créditos de natureza concursal sujeitos aos efeitos da recuperação judicial do devedor ou extraconcursal, não sujeitos aos efeitos da recuperação judicial do devedor, deve observar o corte temporal estabelecido no artigo 49, caput da lei 11.101 de 2005.\"]", "processTitle": "N. REsp 2.235.542/RJ, REsp 2.262.922/RJ e REsp 2.206.333/PR - Cobrança de condomínio na recuperação judicial (Início: 44:02)"}],
     content: `# Resumo - Segunda Seção - 08/04/2026
     
 **Vídeo:** [Segunda Seção - STJ -  08/04/2026](https://www.youtube.com/watch?v=FM_VYBSsI4M)
@@ -209,6 +211,7 @@ const resumosData = [
     title: "Quarta Turma - 07/04/2026",
     date: "07/04/2026",
     orgao: "Quarta Turma",
+    theses: [],
     content: `# Resumo - Quarta Turma - 07/04/2026
     
 **Vídeo:** [Quarta Turma - STJ -  07/04/2026](https://www.youtube.com/watch?v=EYM7y22BqpY)
@@ -369,6 +372,7 @@ const resumosData = [
     title: "Quarta Turma - 17/03/2026",
     date: "17/03/2026",
     orgao: "Quarta Turma",
+    theses: [],
     content: `# Resumo - Quarta Turma - 17/03/2026
     
 **Vídeo:** [Quarta Turma - STJ -  17/03/2026](https://www.youtube.com/watch?v=fR4fdYa4i30)
@@ -543,6 +547,7 @@ const resumosData = [
     title: "Segunda Seção - 11/03/2026",
     date: "11/03/2026",
     orgao: "Segunda Seção",
+    theses: [{"text": "É abusiva a limitação do número de sessões de terapia multidisciplinar (psicologia, fonoaudiologia, fisioterapia e terapia ocupacional) prescritas ao paciente com transtorno do espectro autista (TEA).", "processTitle": "1. REsp 2.153.672/SP, REsp 2.167.502/SP, REsp 2.136.720/SP e REsp 2.167.050/SP - Cobertura de terapias para portadores de Transtorno do Espectro Autista (TEA) (Tema Repetitivo 1295) (Início: 28:51)"}, {"text": "A simples recusa indevida de cobertura médico-assistencial por operadora de plano de saúde não gera, por si só, dano moral presumido (in re ipsa), sendo imprescindível a presença de outros elementos capazes de constatar a alteração anímica da vítima em grau suficiente para ultrapassar o mero aborrecimento ou dissabor.", "processTitle": "2. REsp 2.165.670/SP e REsp 2.170.574/SP (ref. REsp 2.065.670 e 2.197.574) - Dano moral por recusa de cobertura de plano de saúde (Tema Repetitivo) (Início: 02:10:10)"}],
     content: `# Resumo - Segunda Seção - 11/03/2026
     
 **Vídeo:** [Segunda Seção - STJ -  11/03/2026](https://www.youtube.com/watch?v=cMG0Br5RjbQ)
@@ -620,6 +625,7 @@ const resumosData = [
     title: "Quarta Turma - 10/03/2026",
     date: "10/03/2026",
     orgao: "Quarta Turma",
+    theses: [],
     content: `# Resumo - Quarta Turma - 10/03/2026
     
 **Vídeo:** [Quarta Turma - STJ -  10/03/2026](https://www.youtube.com/watch?v=X4eUhDKzfLc)
@@ -801,6 +807,7 @@ const resumosData = [
     title: "Segunda Seção - 05/03/2026",
     date: "05/03/2026",
     orgao: "Segunda Seção",
+    theses: [{"text": "As inovações trazidas pela Lei 14.454/2022 aplicam-se de imediato aos contratos de plano de saúde, inclusive aos anteriores à sua vigência.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)"}, {"text": "O sistema de infusão contínua de insulina não se enquadra nas exceções dos incisos VI e VII do art. 10 da Lei 9.656/98 (uso domiciliar e órteses/próteses), sendo inválidas as cláusulas que excluam sua cobertura.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)"}, {"text": "A análise judicial da obrigatoriedade de custeio deve observar os parâmetros do STF na ADI 7.265.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)"}, {"text": "Consideram-se preenchidos os requisitos gerais da ADI 7.265: inexistência de negativa expressa da ANS; comprovação de eficácia e segurança; e desnecessidade de análise de ato de não incorporação.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)"}, {"text": "O Judiciário deve verificar no caso concreto: prescrição médica, ausência de alternativa adequada no rol da ANS e registro na Anvisa.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)"}, {"text": "Exige-se ainda a verificação de prévio requerimento administrativo e consulta a órgãos técnicos (NAT-JUS/peritos), devendo a ANS ser oficiada em caso de deferimento. (Nota: Por sugestão da Min. Nancy Andrighi, adotou-se a expressão inclusiva \"pessoas com diabetes\" em substituição a \"pessoas portadoras de diabetes\").", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)"}, {"text": "\"Para os fins do artigo 43, parágrafo 2º, do CDC, é válida a comunicação ao consumidor realizada por meio eletrônico, desde que comprovados o envio da notificação e a respectiva entrega ao destinatário.\"", "processTitle": "2. REsp 2.171.003/RS, REsp 2.171.277/RS e REsp 2.175.268/RS - Validade de notificação prévia por meio eletrônico em cadastros de inadimplência (Art. 43, § 2º, CDC)"}, {"text": "\"A resilição unilateral pela operadora do contrato de plano de saúde coletivo empresarial com menos de 30 beneficiários é válida desde que apresentada motivação idônea.\"", "processTitle": "3. REsp 1.856.311/SP e REsp 1.845.692/SP - Resilição unilateral de plano de saúde coletivo empresarial com menos de 30 vidas (Tema Repetitivo 1.082)"}],
     content: `# Resumo - Segunda Seção - 05/03/2026
     
 **Vídeo:** [Segunda Seção - STJ -  05/03/2026](https://www.youtube.com/watch?v=1-s28g8rRC4)
@@ -889,6 +896,7 @@ const resumosData = [
     title: "Quarta Turma - 03/03/2026",
     date: "03/03/2026",
     orgao: "Quarta Turma",
+    theses: [{"text": "Na conversão automática de mandado monitório em título executivo por inércia do devedor, é indevida nova fixação de honorários de sucumbência (art. 85, § 2º). Fica mantido o percentual legal de 5% da inicial, só cabendo nova fixação num futuro e eventual cumprimento de sentença.", "processTitle": "20. Ação Monitória e Honorários"}],
     content: `# Resumo - Quarta Turma - 03/03/2026
     
 **Vídeo:** [Quarta Turma - STJ -  03/03/2026](https://www.youtube.com/watch?v=3aInfsDJtzI)
@@ -1024,6 +1032,7 @@ const resumosData = [
     title: "Segunda Seção - 11/02/2026",
     date: "11/02/2026",
     orgao: "Segunda Seção",
+    theses: [],
     content: `# Resumo - Segunda Seção - 11/02/2026
     
 **Vídeo:** [Segunda Seção - STJ -  11/02/2026](https://www.youtube.com/watch?v=Z1TKJpCSIr4)
@@ -1067,6 +1076,7 @@ const resumosData = [
     title: "Quarta Turma - 10/02/2026",
     date: "10/02/2026",
     orgao: "Quarta Turma",
+    theses: [],
     content: `# Resumo - Quarta Turma - 10/02/2026
     
 **Vídeo:** [Quarta Turma - STJ -  10/02/2026](https://www.youtube.com/watch?v=Fw03lG-Lsp4)
@@ -1099,6 +1109,7 @@ const resumosData = [
     title: "Quarta Turma",
     date: "",
     orgao: "Quarta Turma",
+    theses: [{"text": "A responsabilidade civil ambiental não se restringe aos danos materiais causados diretamente ao meio ambiente ou aos proprietários de imóveis atingidos, estendendo-se também aos efeitos reflexos sobre trabalhadores e moradores.", "processTitle": "N. [Processo não identificado] - Indenização a trabalhador por desastre ambiental (Início: 00:00)"}],
     content: `# Resumo - Quarta Turma - data desconhecida
     
 **Vídeo:** [Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió](https://www.youtube.com/watch?v=ViLuxExqgS8)
@@ -1128,6 +1139,7 @@ const resumosData = [
     title: "Quarta Turma",
     date: "",
     orgao: "Quarta Turma",
+    theses: [],
     content: `# Resumo - Quarta Turma - data desconhecida
     
 **Vídeo:** [Exame de gravidez em menor sem responsável presente não gera dano moral, decide Quarta Turma](https://www.youtube.com/watch?v=VKEGwnxAepc)
