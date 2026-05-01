@@ -1020,6 +1020,81 @@ const resumosData = [
 - **Outros:** 10 (Pedidos de Vista, Adiamentos, Remessa à Seção Competente ou Apenas Apregoados)`
   },
   {
+    id: "2026-02-11_segunda_secao",
+    title: "Segunda Seção - 11/02/2026",
+    date: "11/02/2026",
+    orgao: "Segunda Seção",
+    content: `# Resumo - Segunda Seção - 11/02/2026
+    
+**Vídeo:** [Segunda Seção - STJ -  11/02/2026](https://www.youtube.com/watch?v=Z1TKJpCSIr4)
+**Data:** 11/02/2026
+**Órgão:** Segunda Seção
+
+---
+
+## Processos Julgados
+
+### 1. AgInt no CC 211.762/MG - Competência sobre renovação de contrato de seguro de vida coletivo (Início: 28:46)
+- **Relator:** Min. Humberto Martins
+- **Resultado:** Pedido de vista
+- **Votação:** Aguardando os demais (após o voto do relator negando provimento)
+- **Resumo da discussão:** Trata-se de agravo interno em conflito negativo de competência instaurado pela 46ª Vara do Trabalho de Belo Horizonte em face da 5ª Vara da Fazenda Pública da mesma comarca. A controvérsia cinge-se a definir a competência jurisdicional (Justiça Comum ou Justiça do Trabalho) para julgar ação de cobrança movida contra a CEMIG e seguradora, em que se discute a legalidade de modificações onerosas em apólice de seguro de vida coletivo de ex-empregados aposentados instituído na década de 1970. A agravante (CEMIG) sustentou em tribuna que as alterações encontram respaldo em Acordo Coletivo de Trabalho (ACT) validado pelo Tema 1.046 da Repercussão Geral do STF, o que exigiria a análise de suposto direito adquirido trabalhista e atrairia a competência da 46ª Vara do Trabalho de Belo Horizonte. Em contrapartida, a defesa do segurado argumentou que a demanda possui natureza exclusivamente civil, apontando para a ocorrência de ilícito perpetrado pela estipulante por excesso de mandato, ao reduzir o capital segurado sem obter a anuência prévia de 3/4 do grupo, contrariando o art. 801, § 2º, do Código Civil e normas da SUSEP. O Ministro Relator, Humberto Martins, votou por negar provimento ao agravo interno para manter a competência na Justiça Comum Estadual (5ª Vara da Fazenda Pública e Autarquias de Belo Horizonte). Fundamentou seu voto afirmando que a competência é fixada objetivamente pelos pedidos e pela causa de pedir descritos na exordial, os quais possuem contornos eminentemente civis e securitários, de modo que a discussão a respeito do Acordo Coletivo de Trabalho surge de forma apenas reflexa ou indireta. Após a prolação do voto do relator, a Ministra Isabel Gallotti pediu vista dos autos.
+
+### 2. CC 216.539/BA - Competência territorial em ação de obrigação de fazer decorrente de confissão de dívida societária (Início: 00:58:08)
+- **Relator:** Min. Humberto Martins
+- **Resultado:** Conhecido para declarar a competência do juízo suscitante (1ª Vara de Feira de Santana/BA)
+- **Votação:** Unânime
+- **Resumo da discussão:** Trata-se de conflito de competência suscitado no bojo de uma ação de obrigação de fazer motivada pelo descumprimento de um termo de confissão de dívida, originado por ocasião da dissolução de uma sociedade empresária na qual o autor atuava como sócio investidor. O advogado de uma das partes sustentou oralmente a competência do juízo do Distrito Federal (13ª Vara Cível de Brasília) para o caso, sob o argumento de que, no momento da distribuição da ação, um dos requeridos era lá domiciliado, além de ser o foro de eleição dos termos de confissão de dívida firmados em cartório, sendo o Distrito Federal igualmente a sede da empresa (atraindo o art. 53, inciso III, alínea "d", do Código de Processo Civil). No entanto, o relator, Min. Humberto Martins, em diálogo produtivo com a Min. Isabel Gallotti acerca da redação da ementa, fundamentou que o conflito versa sobre competência territorial (relativa) no âmbito de uma ação de obrigação de fazer. O relator esclareceu que, por se cuidar de competência relativa, não cabe ao juízo destinatário declinar de ofício de sua competência, atraindo a incidência da Súmula 33 do STJ. Ademais, destacou-se na fundamentação que, uma vez transitada em julgado a decisão que acolheu a exceção de incompetência oposta originalmente, fica precluso o direito das partes de opor nova exceção de incompetência. A Segunda Seção, de forma unânime, acompanhou o relator para conhecer do conflito e declarar competente o juízo suscitante baiano.
+
+## Destaques da Sessão
+- Anunciada no início da sessão a ausência justificada da Ministra Nancy Andrighi, do Ministro João Otávio de Noronha e do Ministro Marco Buzzi.
+- O Ministro Antônio Carlos Ferreira registrou o adiamento de um recurso de sua relatoria que estava pautado, justificando a medida em razão da ausência do Ministro João Otávio de Noronha, que havia solicitado destaque no processo.
+- Amplo debate acerca dos critérios de fixação de competência material no Superior Tribunal de Justiça. Evidenciou-se a tensão entre a caracterização de litígios como de origem trabalhista (baseada em acordos coletivos e na aplicação do Tema 1.046 do STF) e relações eminentemente civis ou securitárias (sustentadas por normas do Código Civil e determinações da SUSEP). O Ministro Humberto Martins reiterou jurisprudência da Corte de que o enquadramento do juízo competente deve observar o princípio da congruência, focando precipuamente no pedido e na causa de pedir deduzidos na petição inicial, não sendo alterado por eventuais teses defensivas.
+- Suspensão do julgamento que envolvia o agravo interno da CEMIG em razão de pedido de vista formulado pela Ministra Isabel Gallotti, o que indica uma análise aprofundada da Segunda Seção sobre a matéria.
+- Houve um alinhamento procedimental colaborativo entre o Min. Humberto Martins e a Min. Isabel Gallotti para aprimorar a clareza da ementa do julgamento do CC 216.539/BA. A alteração assegurou que ficassem explícitos os dois fundamentos autônomos da decisão: a preclusão para a oposição de nova exceção de incompetência e a impossibilidade de declinação de ofício em casos de incompetência relativa (Súmula 33/STJ).
+- Momento de homenagem e emoção encabeçado pelo Presidente da sessão, Ministro Moura Ribeiro, que parabenizou a Ministra Daniela Teixeira pelo fato de o seu filho, Gabriel, ter recebido a carteira da Ordem dos Advogados do Brasil (OAB) na manhã da data do julgamento. Ao encerramento da sessão, os ministros registraram em ata efusivos votos de sucesso e felicitações.
+- Ocorreu um momento de descontração na despedida dos trabalhos, provocado por um lapso em que foram desejados votos de um feliz "Natal", sendo prontamente corrigido em clima leve para os votos de um bom feriado de Carnaval.
+
+## Estatísticas
+- Total de processos julgados: 2
+- Providos: 0
+- Desprovidos: 0
+- Parcialmente providos: 0
+- Outros: 2 (1 pedido de vista, 1 conhecido para declarar competência)`
+  },
+  {
+    id: "2026-02-10_quarta_turma",
+    title: "Quarta Turma - 10/02/2026",
+    date: "10/02/2026",
+    orgao: "Quarta Turma",
+    content: `# Resumo - Quarta Turma - 10/02/2026
+    
+**Vídeo:** [Quarta Turma - STJ -  10/02/2026](https://www.youtube.com/watch?v=Fw03lG-Lsp4)
+**Data:** 10/02/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### N. 1 - AREsp 2.828.135/SC - Destituição do poder familiar e cerceamento de defesa (Início: 39:41)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido (Conhecido do agravo para negar provimento ao recurso especial)
+- **Votação:** Unânime (votos expressos do Min. Antônio Carlos e da Presidência)
+- **Resumo da discussão:** O processo trata de ação de destituição do poder familiar ajuizada pelo Ministério Público do Estado de Santa Catarina contra a genitora e o pai registral de uma criança de origem indígena, com habilitação da FUNAI. As instâncias ordinárias julgaram o pedido procedente para decretar a perda do poder familiar e determinar a colocação da menor em família substituta, preferencialmente indígena. A genitora interpôs recurso alegando cerceamento de defesa devido ao indeferimento do pedido de sua intimação pessoal para arrolamento de testemunhas. O Ministro Relator rejeitou a tese, fundamentando que o magistrado é o destinatário da prova e que o acervo probatório (incluindo laudos antropológicos, psicológicos, sociais e parecer do MPF) já era robusto para a elucidação do caso. Os relatórios evidenciaram a total inaptidão da mãe para o cuidado da filha, apontando histórico de alcoolismo grave, violência, negligência, instabilidade familiar, ausência de vínculos afetivos com a menor, desinteresse em buscar tratamento, abandono de outro filho recém-nascido na UTI e até um episódio de tentativa de sufocamento da própria criança. Com base no princípio do livre convencimento motivado, a Turma reafirmou a jurisprudência de que não configura cerceamento de defesa o indeferimento de novas provas quando o magistrado constata elementos suficientes para embasar a decisão. Diante da gravidade e sensibilidade do caso, o colegiado manteve a destituição do poder familiar para resguardar a segurança e o adequado desenvolvimento da menor.
+
+## Destaques da Sessão
+- **Acessibilidade e Inclusão:** Extensa divulgação das ferramentas de acessibilidade do STJ, incluindo audiodescrição e Vlibras no portal, sessões com tradução em Libras, OCR para leitura de processos, ouvidoria em Libras, adaptações físicas nas dependências da Corte e o recebimento do selo "Tribunal Amigo da Pessoa Idosa".
+- **Balanço Estatístico e Produtividade:** Apresentação da redução do acervo em todos os colegiados (Direito Privado com redução de mais de 21.000 processos; Direito Público com mais de 135.000 decisões; e Direito Penal com quase 30.000 processos reduzidos do estoque). Também foi destacado o alcance da marca de 100 temas repetitivos afetados.
+- **Equidade e Direitos Humanos:** Implementação de um marcador processual automático para monitorar casos que envolvam equidade racial e a criação de uma área exclusiva no site com resumos de decisões da Corte Interamericana de Direitos Humanos.
+- **Aproximação com o Cidadão e Advogados:** Lançamento de resumos de andamentos processuais e notícias em "Linguagem Simples", modernização da Biblioteca Digital Jurídica (BDJU), melhorias no "Espaço do Advogado" e disponibilização de certidão automatizada de indisponibilidade dos sistemas para prorrogação de prazos.
+- **Dinâmica da Sessão e Quórum:** A sessão da Quarta Turma foi presidida pela Ministra Maria Isabel Gallotti. Houve o registro de ausência justificada dos Ministros João Otávio de Noronha e Marco Buzzi, resultando em um quórum reduzido para o julgamento. O colegiado decidiu adiar os processos da pauta que pudessem suscitar maiores debates ou divergências, chamando a julgamento apenas o AREsp 2.828.135/SC por considerá-lo apto a ser apreciado. Após a proclamação do resultado deste único feito, a sessão foi encerrada.
+
+## Estatísticas
+- Total de processos julgados: 1
+- Providos: 0 | Desprovidos: 1 | Parcialmente providos: 0 | Outros: 0`
+  },
+  {
     id: "ViLuxExqgS8",
     title: "Quarta Turma",
     date: "",
@@ -1070,34 +1145,6 @@ const resumosData = [
 
 ## Destaques da Sessão
 - A sessão destacou o entendimento de que a realização de exame de gravidez em menor de idade (13 anos) sem o acompanhamento de um responsável não gera dano moral presumido (*in re ipsa*) para os genitores, exigindo-se a demonstração de prejuízo concreto decorrente do ato.
-
-## Estatísticas
-- Total de processos julgados: 1
-- Providos: 1 | Desprovidos: 0 | Parcialmente providos: 0 | Outros: 0`
-  },
-  {
-    id: "lyiaGkiB6pY",
-    title: "Quarta Turma",
-    date: "",
-    orgao: "Quarta Turma",
-    content: `# Resumo - Quarta Turma - data desconhecida
-    
-**Vídeo:** [Quarta Turma autoriza uso do Serp-Jud para localizar bens em execuções civis](https://www.youtube.com/watch?v=lyiaGkiB6pY)
-**Data:** data desconhecida
-**Órgão:** Quarta Turma
-
----
-
-## Processos Julgados
-
-### 1. REsp [Processo não identificado]/SC - Uso do SERPJud em execuções civis (Início: 00:04)
-- **Relator:** Desembargador Convocado Luís Carlos Gambo
-- **Resultado:** Provido
-- **Resumo da discussão:** O processo teve origem na execução de um título extrajudicial em Pomerode, Santa Catarina, onde o Tribunal de Justiça estadual negou o pedido de consulta ao SERPJud por entender que não haveria previsão legal para a utilização do sistema na localização de bens penhoráveis e que seu uso estaria restrito às funções institucionais do judiciário. O relator, por sua vez, ressaltou que o Código de Processo Civil consagra o princípio da cooperação e confere amplos poderes ao juiz para determinar as medidas necessárias à satisfação do crédito, incluindo o uso de meios tecnológicos. Ao fazer analogia com sistemas consolidados como Bacenjud, Renajud e Infojud, o relator argumentou que a jurisprudência do STJ já admite o uso dessas ferramentas para a localização de patrimônio independentemente do esgotamento prévio de diligências extrajudiciais. A Turma concluiu que essa mesma interpretação deve ser estendida ao SERPJud, admitindo o uso da ferramenta para busca de bens desde que amparado por decisão judicial fundamentada.
-
-## Destaques da Sessão
-- A Quarta Turma firmou posicionamento admitindo a utilização do Sistema Eletrônico dos Registros Públicos (SERPJud) para a localização de bens penhoráveis em processos civis, mediante decisão judicial fundamentada.
-- Houve o estabelecimento de um paralelo direto entre o SERPJud e outras ferramentas de busca de patrimônio (Bacenjud, Renajud e Infojud), dispensando-se a exigência de esgotamento prévio de diligências extrajudiciais por parte do credor para a sua utilização.
 
 ## Estatísticas
 - Total de processos julgados: 1
