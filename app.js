@@ -530,7 +530,7 @@ document.addEventListener('DOMContentLoaded', () => {
             videoUrl: extractYoutubeUrl(session.content),
             summary: extractLeadParagraph(session.content),
             highlights: extractHighlights(session.content),
-            theses: extractTheses(session.content),
+            theses: session.theses && session.theses.length ? session.theses : extractTheses(session.content),
             stats: extractStats(session.content),
             relatores: extractRelatores(session.content)
         };
