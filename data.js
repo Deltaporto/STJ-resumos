@@ -4,7 +4,7 @@ const resumosData = [
     title: "Quarta Turma - 14/04/2026",
     date: "14/04/2026",
     orgao: "Quarta Turma",
-    theses: [],
+    theses: [{"text": "A citação de sociedade empresária estrangeira na pessoa de empresa brasileira pertencente ao mesmo grupo econômico apenas é válida quando demonstrado que esta última atua como representante legal daquela ou que ambas exploram o mesmo mercado, não bastando a mera ligação societária para a aplicação da teoria da aparência.", "processTitle": "1. REsp [Processo não identificado]/RJ - Nulidade de citação de pessoa jurídica estrangeira (Início: 33:46 e 00:34:41)"}, {"text": "O Código de Defesa do Consumidor não se aplica a contratos celebrados entre sociedades empresárias quando o bem ou serviço destina-se ao incremento da atividade produtiva e não ao consumo final (ausência de destinatário final). É válida a cláusula de retenção de recebíveis em contratos de afiliação a sistemas de pagamento para garantir a solvabilidade de transações sob suspeita de fraude.", "processTitle": "4. [Processo não identificado] - Inaplicabilidade do CDC em contratos interempresariais e retenção de recebíveis (Início: 01:06:44)"}, {"text": "Após o trânsito em julgado, opera-se a eficácia preclusiva da coisa julgada (preclusão máxima), reputando-se repelidas todas as defesas que a parte poderia ter oposto na fase de conhecimento. A prescrição, conquanto reconhecível de ofício, é exceção substancial sujeita a renúncia, não autorizando o ajuizamento de ação rescisória por violação literal de lei quando não suscitada oportunamente.", "processTitle": "5. REsp 1.781.587/SP - Ação rescisória e prescrição não alegada na fase de conhecimento (Início: 01:11:33)"}, {"text": "O poder geral de cautela previsto no art. 297 do CPC autoriza o magistrado a adotar medidas acautelatórias incidentais em processos de execução de título extrajudicial para garantir a efetividade da jurisdição, ressalvada a incidência da Súmula 7/STJ para a revisão dos requisitos fáticos da medida.", "processTitle": "7. AREsp 2.803.509/SP - Poder geral de cautela em execução (Início: 01:49:38)"}, {"text": "A desconsideração de laudo pericial técnico pelas instâncias ordinárias exige fundamentação idônea e baseada em elementos técnicos robustos presentes nos autos (arts. 371 e 479 do CPC). A ausência dessa motivação permite ao STJ a revaloração da prova para restabelecer a sentença fundamentada no laudo, sem que isso configure reexame fático vedado pela Súmula 7/STJ.", "processTitle": "8. AREsp 2.760.773/SP - Indenização por erro médico e valoração de prova pericial (Início: 01:53:10)"}],
     content: `# Resumo - Quarta Turma - 14/04/2026
     
 **Vídeo:** [Quarta Turma - STJ -  14/04/2026](https://www.youtube.com/watch?v=hQAXad0KTUY)
@@ -19,6 +19,7 @@ const resumosData = [
 - **Relator:** Min. Antônio Carlos Ferreira (vencido) / Voto vencedor: Min. Maria Isabel Gallotti
 - **Resultado:** Provido
 - **Votação:** Maioria (Venceram os Ministros Maria Isabel Gallotti, Raul Araújo e João Otávio de Noronha; Vencidos os Ministros Antônio Carlos Ferreira e Marco Aurélio/Marco Buzzi)
+- **Tese fixada:** A citação de sociedade empresária estrangeira na pessoa de empresa brasileira pertencente ao mesmo grupo econômico apenas é válida quando demonstrado que esta última atua como representante legal daquela ou que ambas exploram o mesmo mercado, não bastando a mera ligação societária para a aplicação da teoria da aparência.
 - **Resumo da discussão:** O feito foi apregoado pelo Presidente da Turma, Min. João Otávio de Noronha, como renovação de julgamento na qual ele próprio proferiria o voto de desempate. Após a sustentação oral da patrona da recorrente, a discussão centrou-se na validade da citação da empresa sul-coreana Hyundai Corporation por meio da brasileira Hyundai CAOA do Brasil. O relator originário havia negado provimento ao recurso com base nas Súmulas 5 e 7 do STJ. A Ministra Maria Isabel Gallotti inaugurou divergência para reconhecer a nulidade da citação, argumentando que a CAOA não é representante legal da Hyundai Corporation, atua em mercado distinto (veículos automotores versus celulares) e não tem vínculo que justifique a presunção de representação. O Ministro Noronha acompanhou a divergência e declarou a nulidade de todos os atos processuais desde a citação.
 
 ### 2. AgInt no REsp [1.4749...]/PI - [Tema não identificado] (Início: 01:02:20)
@@ -35,12 +36,14 @@ const resumosData = [
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Agravo em recurso especial desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** Devido à falha técnica no sistema que impedia a visualização do voto pelos pares, o relator leu a ementa integralmente em plenário. O colegiado reafirmou que o CDC não incide em contratos interempresariais destinados ao fomento da atividade (sem destinatário final). Concluiu-se pela validade da cláusula de retenção de recebíveis em contrato de sistema de pagamento eletrônico, isentando a credenciadora por cancelamentos (*chargebacks*) motivados por inobservância de deveres da lojista, que contribuiu para a fraude. O Min. Noronha acompanhou o relator e destacou a necessidade de preservar o pacto e a segurança jurídica do financiamento no varejo. Aplicou-se também a Súmula 7 do STJ.
+- **Tese fixada:** O Código de Defesa do Consumidor não se aplica a contratos celebrados entre sociedades empresárias quando o bem ou serviço destina-se ao incremento da atividade produtiva e não ao consumo final (ausência de destinatário final). É válida a cláusula de retenção de recebíveis em contratos de afiliação a sistemas de pagamento para garantir a solvabilidade de transações sob suspeita de fraude.
+- **Resumo da discussão:** Devido à falha técnica no sistema que impedia a visualização do voto pelos pares, o relator leu a ementa integralmente em plenário. O colegiado reafirmou que o CDC não incide em contratos interempresariais destinados ao fomento da atividade (sem destinatário final). Concluiu-se pela validade da cláusula de retenção de recebíveis em contrato de sistema de pagamento eletrônico, isentando a credenciadora por cancelamentos (*chargebacks*) motivados por inobservância de deveres da lojista, que contribuiu para a fraude. O Min. Noronha acompanhou le relator e destacou a necessidade de preservar o pacto e a segurança jurídica do financiamento no varejo. Aplicou-se também a Súmula 7 do STJ.
 
 ### 5. REsp 1.781.587/SP - Ação rescisória e prescrição não alegada na fase de conhecimento (Início: 01:11:33)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Conhecido em parte e, nessa extensão, desprovido
 - **Votação:** Unânime
+- **Tese fixada:** Após o trânsito em julgado, opera-se a eficácia preclusiva da coisa julgada (preclusão máxima), reputando-se repelidas todas as defesas que a parte poderia ter oposto na fase de conhecimento. A prescrição, conquanto reconhecível de ofício, é exceção substancial sujeita a renúncia, não autorizando o ajuizamento de ação rescisória por violação literal de lei quando não suscitada oportunamente.
 - **Resumo da discussão:** Retomado com o voto-vista do Min. Raul Araújo, que acompanhou o relator. A controvérsia analisou o cabimento de ação rescisória para reconhecer prescrição não arguida na fase de conhecimento. A Turma concluiu que, após o trânsito em julgado, incide a eficácia preclusiva da coisa julgada (art. 508, CPC/1973; art. 474, CPC/2015), repelindo defesas não deduzidas. A Min. Gallotti acrescentou que, embora reconhecível de ofício, a prescrição é exceção substancial sujeita a renúncia tácita (art. 191, CC), sendo inviável seu reconhecimento extemporâneo via rescisória.
 
 ### 6. [Processo 210403]/SP - Direito de imagem de árbitro de futebol (Início: 01:22:43 e 01:33:13)
@@ -53,47 +56,27 @@ const resumosData = [
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Agravo conhecido para não conhecer do recurso especial
 - **Votação:** Unânime
+- **Tese fixada:** O poder geral de cautela previsto no art. 297 do CPC autoriza o magistrado a adotar medidas acautelatórias incidentais em processos de execução de título extrajudicial para garantir a efetividade da jurisdição, ressalvada a incidência da Súmula 7/STJ para a revisão dos requisitos fáticos da medida.
 - **Resumo da discussão:** Julgado com pedido de preferência, o caso envolve um Fundo de Investimento Multimercado. O relator aplicou por analogia a Súmula 283 do STF pela ausência de impugnação específica aos fundamentos do acórdão. No mérito, firmou-se que o poder geral de cautela (art. 297, CPC) autoriza o magistrado a adotar medidas acautelatórias em execução extrajudicial. A verificação dos requisitos e da necessidade de caução esbarra na Súmula 7 do STJ.
 
-### 8. AREsp 1.835.108/RS - [Tema não identificado] (Início: 01:52:45)
-- **Resultado:** Adiado
-- **Resumo da discussão:** Processo adiado automaticamente para a sessão seguinte devido à restrição de horário para o encerramento dos trabalhos. As sustentações orais previamente agendadas foram mantidas para a próxima data.
-
-### 9. [Recurso] 2.168.349/RJ - [Tema não identificado] (Início: 01:52:45)
-- **Resultado:** Adiado
-- **Resumo da discussão:** Da mesma forma que o item anterior, foi adiado em bloco por falta de tempo, asseguradas as sustentações orais.
-
-### 10. AgInt no AREsp 2.760.773/SP - Erro médico e valoração de prova pericial (Início: 01:53:09)
-- **Resultado:** Provido
+### 8. AREsp 2.760.773/SP - Indenização por erro médico e valoração de prova pericial (Início: 01:53:10)
+- **Relator:** Min. [Não identificado nominalmente]
+- **Resultado:** Agravo interno provido para dar provimento ao recurso especial
 - **Votação:** Unânime
-- **Resumo da discussão:** Ação de indenização por óbito de recém-nascido. O TJSP havia condenado os médicos solidariamente, contrariando o laudo pericial oficial (que afastava culpa e nexo causal). A Turma proveu o agravo para restabelecer a sentença de improcedência, assentando que desconsiderar prova pericial em matéria médica complexa sem fundamentação técnica idônea viola os arts. 371 e 479 do CPC, o que afasta o óbice da Súmula 7 do STJ.
-
-### 11. [Agravo Interno - Pauta 12] / SP - Prescrição em inadimplemento contratual (Início: 01:56:21 e 02:03:23)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Desprovido
-- **Votação:** Maioria (Vencidos a Min. Maria Isabel Gallotti e o Min. Raul Araújo)
-- **Resumo da discussão:** Ação de indenização por inadimplemento parcial em contrato de compra e venda de frutas (entrega de laranjas inferior ao pactuado). O julgamento iniciou com uma confusão procedimental temporária da Min. Gallotti, que consultava autos distintos. Superado o equívoco, a divergência de mérito focou no prazo prescricional. O relator votou pelo desprovimento, aplicando o prazo quinquenal (art. 206, § 5º, I, CC) por entender ser cobrança de dívida líquida apurável por cálculo aritmético. A divergência (Min. Gallotti e Min. Raul Araújo) defendeu a aplicação da prescrição decenal (art. 205, CC) por ver no caso um ilícito contratual dependente de liquidação e dilação probatória. Prevaleceu o voto do relator.
-
-### 12. 13 AgInt [Processo não identificado] - Anulação de contrato de franquia e cumprimento de sentença (Início: 02:22:50)
-- **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Desprovido
-- **Votação:** Unânime
-- **Resumo da discussão:** Cumprimento de sentença atrelado à anulação de contrato envolvendo a Rede Mister Franquia. O relator aplicou as Súmulas 283 e 284 do STF por falta de impugnação adequada da decisão recorrida, além da Súmula 7 do STJ. Destacou-se que a alínea "c" ficou prejudicada ante os óbices na alínea "a" e à falta de cotejo analítico e similitude fática.
+- **Tese fixada:** A desconsideração de laudo pericial técnico pelas instâncias ordinárias exige fundamentação idônea e baseada em elementos técnicos robustos presentes nos autos (arts. 371 e 479 do CPC). A ausência dessa motivação permite ao STJ a revaloração da prova para restabelecer a sentença fundamentada no laudo, sem que isso configure reexame fático vedado pela Súmula 7/STJ.
+- **Resumo da discussão:** Trata-se de agravo interno em ação de indenização por óbito de recém-nascido. O Tribunal de origem havia condenado os réus baseando-se em convicção subjetiva, contrariando o laudo pericial que atestou a ausência de nexo causal e erro médico. O colegiado proveu o recurso para restabelecer a sentença de improcedência, reafirmando que o afastamento da perícia não pode ser arbitrário.
 
 ## Destaques da Sessão
-- **Abertura e Avisos Formais:** A 7ª sessão ordinária foi aberta com vídeos institucionais (acessibilidade, equidade racial). A ata da sessão anterior foi aprovada. A sessão sofreu encurtamento (limite até 16h15) devido a uma sessão administrativa agendada para logo após.
-- **Falhas no Sistema Eletrônico:** Problemas operacionais impediram que os ministros visualizassem os votos de processos previamente liberados, ocasionando adiamentos e a necessidade de leitura integral em plenário pelo relator.
-- **Controle de Pauta e Adiamentos:** O Presidente Min. Noronha criticou abertamente interferências indevidas e pedidos excessivos de adiamento por advogados terceiros. O adiantado da hora gerou o adiamento em bloco de processos com sustentações orais agendadas.
-- **Debates Econômicos e Contratuais:** Destaque para o aparte econômico do Presidente enfatizando a segurança jurídica de operações de crédito para lojistas e a intensa divisão do colegiado (5 vs 10 anos) quanto à prescrição no inadimplemento de contratos de entrega de bens fungíveis.
-- **Direito Desportivo e Imagem:** A Turma iniciou a análise de um litígio massivo sobre o uso da imagem de árbitros de futebol em patrocínios de uniformes, traçando os limites entre direito individual e direito de arena.
-- **Descontração Colegiada:** O ambiente da Turma demonstrou forte cordialidade, com momentos de descontração acerca de futebol (Cruzeiro, Flamengo, Vasco), piadas sobre "juiz amigo" no futebol e elogios do Presidente qualificando-a como a "melhor turma do STJ".
+- **Crise de Acessibilidade Digital:** A sessão foi marcada por sucessivas falhas no sistema eletrônico do STJ, impedindo os ministros de visualizarem os votos uns dos outros, o que forçou o relator (Min. Raul Araújo) a realizar a leitura oral integral das ementas e adiou processos prioritários.
+- **Rigor Ético no Judiciário:** Desabafo contundente do Min. João Otávio de Noronha sobre interferências indevidas e tentativas de lobismo em seu gabinete no caso Hyundai, alertando publicamente contra a prática de "venda de votos" em Brasília.
+- **Consolidação da Coisa Julgada:** Reafirmação da tese de preclusão máxima, impedindo que a rescisória seja usada como "segunda chance" para alegar prescrição esquecida na fase de conhecimento.
+- **Defesa da Prova Técnica:** Fixação de limites para o livre convencimento motivado do juiz frente a laudos periciais em temas complexos (saúde e erro médico).
 
 ## Estatísticas
-- Total de processos julgados: 12
-- Providos: 2
-- Desprovidos: 4
-- Parcialmente providos: 0
-- Outros: 6 (4 Adiados, 1 Suspenso/Pedido de vista, 1 Agravo conhecido para não conhecer)`
+- Total de processos julgados/apregoados: 12
+- Providos: 3
+- Desprovidos: 2
+- Adiados/Suspensos: 7`
   },
   {
     id: "2026-04-08_segunda_secao",
