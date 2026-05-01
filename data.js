@@ -885,6 +885,141 @@ const resumosData = [
 - **Outros:** 5 (Sendo 4 adiados por pedidos de vista/vista regimental e 1 homologação de acordo/desistência).`
   },
   {
+    id: "2026-03-03_quarta_turma",
+    title: "Quarta Turma - 03/03/2026",
+    date: "03/03/2026",
+    orgao: "Quarta Turma",
+    content: `# Resumo - Quarta Turma - 03/03/2026
+    
+**Vídeo:** [Quarta Turma - STJ -  03/03/2026](https://www.youtube.com/watch?v=3aInfsDJtzI)
+**Data:** 03/03/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. AgInt no REsp 1.965.774/CE - Execução de honorários advocatícios e exceção de pré-executividade
+- **Relatora:** Min. Maria Isabel Gallotti
+- **Resultado:** Desprovido (Negado provimento ao agravo interno e não conhecido o recurso especial).
+- **Votação:** Maioria (vencido o Min. Raul Araújo). O Min. convocado não votou por não ter assistido à sustentação oral prévia.
+- **Resumo da discussão:** A executada opôs exceção de pré-executividade alegando iliquidez do título (honorários em recuperação judicial) devido à renúncia antecipada do mandato pelos advogados. O Min. Raul Araújo divergiu da relatora votando pela extinção da execução pela iliquidez. Contudo, prevaleceu o voto da relatora, acompanhada pelo Presidente, no sentido de que aferir o cumprimento integral ou parcial do contrato exigiria dilação probatória, incabível na estreita via da exceção de pré-executividade e obstada em sede de REsp.
+
+### 2. REsp 2.246.423/RJ - Propriedade Industrial / Indicação Geográfica (Champanhe)
+- **Relatora:** Min. Maria Isabel Gallotti
+- **Resultado:** Desprovido.
+- **Votação:** Unânime.
+- **Resumo da discussão:** O Comitê Interprofissional do Vinho de Champagne tentava anular o registro da marca "Rosa Champanhe" para classe de vestuário. O Colegiado concluiu que a indicação geográfica remete a vinhos de *terroir* específico e, por pertencerem a segmentos de mercado totalmente distintos, não há risco de confusão do consumidor ou captação indevida de clientela.
+
+### 3. [Recurso] 2.228.772/SP - Nova Geração Energia
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Apenas apregoado (pedido de preferência, sem início de julgamento).
+
+### 4. [Processo não identificado] - Direito de regresso de avalistas nos mesmos autos
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Desprovido.
+- **Votação:** Unânime.
+- **Resumo da discussão:** Avalistas, após terem contas bloqueadas, pleiteavam regredir contra o devedor principal de forma simultânea e nos mesmos autos, antes da quitação total da dívida. A Turma negou o pleito, reafirmando que o credor originário possui preferência sobre o sub-rogado parcial.
+
+### 5. REsp 2.003.520/PR - Reserva de honorários contratuais em face de compensação de dívida
+- **Relatora:** Min. Maria Isabel Gallotti
+- **Resultado:** Desprovido.
+- **Votação:** Unânime.
+- **Resumo da discussão:** A Turma decidiu que, quando o proveito econômico obtido pela empresa vencedora é integralmente compensado com uma dívida preexistente maior junto à parte contrária, não há saldo livre para o juízo reter e destinar aos honorários contratuais do advogado (art. 22, § 4º, Estatuto OAB), devendo o causídico cobrar diretamente de seu cliente.
+
+### 6. AgInt no REsp 2.113.647/GO - Nulidade de leilão extrajudicial e intimação pessoal
+- **Relator:** [Não identificado]
+- **Resultado:** Suspenso por pedido de vista.
+- **Resumo da discussão:** Discute-se a nulidade de leilão de imóvel por ausência de intimação pessoal das datas de praceamento. O relator votou pelo desprovimento, não admitindo suprimento por e-mail. A Min. Maria Isabel Gallotti pediu vista antecipada para analisar especificamente os reflexos do princípio *tempus regit actum*, já que os atos ocorreram em 2010, antes das alterações da Lei nº 9.514/97.
+
+### 7. AgInt no REsp 1.854.678 / [UF] - Anulação de sentença arbitral (Mercado Livre de Energia)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Suspenso por pedido de vista.
+- **Votação:** Maioria formada pelo desprovimento (Mins. Noronha, Buzzi e Antônio Carlos).
+- **Resumo da discussão:** Ação para anular procedimento arbitral envolvendo quebra de contratos de energia. A Turma ratificou a competência da Segunda Seção (natureza de direito privado) e aplicou os óbices das Súmulas 5 e 7 para não reexaminar o regulamento da câmara arbitral. O Min. Raul Araújo pediu vista após a formação de maioria.
+
+### 8. REsp [1.19.958 e 1.38.258] - Legitimidade Ativa da CCEE
+- **Relator:** Min. Presidente
+- **Resultado:** Suspenso por pedido de vista.
+- **Resumo da discussão:** A CCEE cobra suposta fraude de R$ 60 milhões na venda de energia a descoberto. O Relator negou a legitimidade ativa extraordinária da CCEE, exigindo ata de assembleia das associadas. O Min. Antônio Carlos inaugurou divergência, defendendo que a CCEE atua validamente na proteção sistêmica do mercado como câmara de compensação. Pedido de vista do Min. Raul Araújo.
+
+### 9. REsp 1.380.258 - Legitimidade passiva de sócios e Desconsideração da Personalidade
+- **Relator:** Min. Presidente
+- **Resultado:** Suspenso por pedido de vista.
+- **Resumo da discussão:** Desdobramento do caso anterior. O Relator afastou a legitimidade dos sócios da empresa de energia, exigindo prova material prévia do art. 50 do CC. O Min. Antônio Carlos divergiu, acolhendo a legitimidade dos sócios via Teoria da Asserção (acusação direta de fraude na inicial) e apontando preclusão da matéria. Pedido de vista do Min. Raul Araújo.
+
+### 10. AREsp 2.259.12... - Execução de título extrajudicial e art. 942 do CPC
+- **Relator:** Min. Presidente
+- **Resultado:** Desprovido (Unânime).
+- **Resumo da discussão:** A Turma confirmou que a técnica de ampliação do colegiado (art. 942, CPC) é inaplicável a processos executivos, pois exige acórdão de mérito em ação de conhecimento ou agravo de instrumento.
+
+### 11. AREsp 2.267.96.../SP - Prescrição em inadimplemento contratual
+- **Relator:** Min. Presidente
+- **Resultado:** Suspenso.
+- **Resumo da discussão:** O Relator votava por aplicar a prescrição quinquenal para dívida oriunda de quebra de contrato (compra de frutas). A Min. Maria Isabel Gallotti pediu vista em mesa antes da proclamação.
+
+### 12. AREsp 2.390.19.../SP - Encargos em Adiantamento de Contrato de Câmbio (ACC) na Recuperação Judicial
+- **Relator:** Min. Presidente
+- **Resultado:** Adiado (pedido de vista regimental).
+- **Resumo da discussão:** Debatia-se se os encargos de mora do ACC ficam sujeitos à RJ. O Relator, inicialmente, votou que sim. Após intervenção em plenário de seus pares ponderando que "o acessório segue o principal" (o ACC em si é extraconcursal), ele reconsiderou o prosseguimento e solicitou vista regimental.
+
+### 13. RHC 227.145/MG - Intimação por WhatsApp e Prisão Civil
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Provido (Ordem de HC concedida). Vencida a Min. Maria Isabel Gallotti.
+- **Resumo da discussão:** O colegiado declarou ilegal a decretação de prisão civil do devedor de alimentos cuja intimação para execução ocorreu unicamente via WhatsApp, sem prévio cadastro perante o Judiciário. O relator privilegiou o formalismo da lei e normativas do CNJ. A divergência alertou para os riscos à eficácia das execuções alimentares ante manobras de evasão à citação convencional.
+
+### 14. [Processo nº 2.768]/SC - Responsabilidade por Despesas Condominiais
+- **Resultado:** Adiado / Chamada cancelada.
+- **Resumo da discussão:** O caso discutia o Tema 886/STJ. A leitura foi interrompida para adequação e análise de questões factuais.
+
+### 15. EDcl no REsp 1.894.758/DF
+- **Resultado:** Suspenso por pedido de vista do Min. João Otávio de Noronha.
+
+### 16. REsp 2.217.616/SP - Responsabilidade de Plataforma de Comércio Eletrônico (Elo7)
+- **Relatora:** Min. Maria Isabel Gallotti
+- **Resultado:** Desprovido (Unânime).
+- **Resumo da discussão:** Aplicação do Marco Civil e jurisprudência pacífica de que provedores só respondem de forma solidária por pirataria ou violações autorais se não removerem o anúncio imediatamente após notificação.
+
+### 17. AgInt no AREsp 3.29.934/PR - Princípio da Dialeticidade
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Desprovido (Unânime).
+- **Resumo da discussão:** O recurso foi rejeitado por não combater especificamente todos os fundamentos da decisão de inadmissibilidade (Súmula 182/STJ).
+
+### 18. AREsp 27.013/[UF] - Fraude em Medidor de Energia
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Remessa à Primeira Seção (Direito Público).
+- **Resumo da discussão:** A Min. Gallotti apontou, em questão de ordem, a incompetência da Turma, uma vez que a fraude afeta concessionárias de serviço público. O Relator concordou com a redistribuição.
+
+### 19. AgInt em Lama Participações S/A e Alienação Fiduciária
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido (Unânime).
+- **Resumo da discussão:** Entendimento de que o credor não é obrigado a executar extrajudicialmente a garantia fiduciária e pode acionar a Justiça para buscar outros bens do devedor, sem que isso implique renúncia tácita de sua garantia material.
+
+### 20. Ação Monitória e Honorários
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido (Unânime).
+- **Tese fixada:** Na conversão automática de mandado monitório em título executivo por inércia do devedor, é indevida nova fixação de honorários de sucumbência (art. 85, § 2º). Fica mantido o percentual legal de 5% da inicial, só cabendo nova fixação num futuro e eventual cumprimento de sentença.
+
+---
+
+## Destaques da Sessão
+
+- **Estreia e Boas-Vindas:** A sessão marcou a estreia do Desembargador convocado Luís Carlos Gamboa (TJMG) na Quarta Turma, recebido com homenagens pelo perfil pacificador. Houve também a saudação de boas-vindas à Dra. Laura Noemi dos Santos (MPF) e o registro do retorno médico do Min. Raul Araújo.
+- **Avanços no Tribunal:** Transmissão de campanhas evidenciando o pioneirismo do STJ em acessibilidade, equidade racial (marcador para processos de racismo), linguagem simples para jurisdicionados e os 100 temas repetitivos consolidados.
+- **Rigor Regimental e Transparência:** Casos ilustraram a lealdade processual entre os Ministros: um relator assumiu o erro de focar apenas no aspecto de tempestividade esquecendo a competência pública do feito (fraude de energia), enquanto outro aceitou mudar sua linha de raciocínio (encargos ACC na Recuperação Judicial) pedindo vista imediata para preservar a lógica de que "o acessório segue o principal".
+- **Encerramento Antecipado:** Por problemas físicos (dores no ombro do presidente) aliados a compromissos e reuniões institucionais, a sessão terminou mais cedo. Sete processos pautados não chegaram a ser apregoados e ficaram para a próxima semana.
+
+---
+
+## Estatísticas
+
+- **Total de Processos Abordados:** 20 processos (iniciados, julgados ou discutidos)
+- **Providos:** 1
+- **Desprovidos:** 9
+- **Parcialmente providos:** 0
+- **Outros:** 10 (Pedidos de Vista, Adiamentos, Remessa à Seção Competente ou Apenas Apregoados)`
+  },
+  {
     id: "ViLuxExqgS8",
     title: "Quarta Turma",
     date: "",
