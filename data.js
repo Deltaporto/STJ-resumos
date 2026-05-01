@@ -634,6 +634,33 @@ const resumosData = [
 - **Desprovidos:** 9
 - **Parcialmente providos:** 0
 - **Outros:** 10 (Pedidos de Vista, Adiamentos, Remessa à Seção Competente ou Apenas Apregoados)`
+  },
+  {
+    id: "ViLuxExqgS8",
+    title: "Quarta Turma",
+    date: "",
+    orgao: "Quarta Turma",
+    content: `# Resumo - Quarta Turma - data desconhecida
+    
+**Vídeo:** [Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió](https://www.youtube.com/watch?v=ViLuxExqgS8)
+**Data:** data desconhecida
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. [Processo não identificado]/AL - Responsabilidade civil ambiental e indenização por danos reflexos (Caso Braskem) (Início: 00:03)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Provido
+- **Resumo da discussão:** Trata-se de recurso interposto contra acórdão do Tribunal de Justiça de Alagoas (TJ/AL) que havia negado o pedido de indenização a um trabalhador que atuou como porteiro por quase 30 anos em um condomínio localizado em área afetada pelo afundamento do solo em Maceió/AL, causado pela mineração de sal-gema pela petroquímica Braskem S.A. O tribunal de origem fundamentou a negativa na suposta ausência de relação causal direta e imediata entre a exploração do subsolo e a demissão do trabalhador, ocorrida após a desocupação compulsória do prédio. A relatora, Ministra Isabel Gallotti, destacou em seu voto que a responsabilidade civil ambiental abrange não apenas os danos materiais causados diretamente ao meio ambiente ou aos proprietários de imóveis, mas estende-se também aos efeitos reflexos (danos em ricochete) suportados por moradores e trabalhadores da região atingida. A Quarta Turma firmou o entendimento de que a demissão do trabalhador não configurou uma decisão autônoma e voluntária do empregador, mas sim uma consequência direta e inevitável do desastre ambiental. O colegiado deu provimento ao recurso, restabelecendo a sentença de primeiro grau que condenou a empresa ao pagamento de indenização ao ex-porteiro no valor de R$ 20.000,00, com acréscimo de juros e correção monetária.
+
+## Destaques da Sessão
+- O grande destaque do julgamento foi o reconhecimento da aplicação da teoria dos danos reflexos (ou em ricochete) no âmbito da responsabilidade civil ambiental por parte da Quarta Turma. O colegiado garantiu a legitimidade para pleitear indenização a trabalhadores que perderam seus empregos em decorrência do esvaziamento compulsório de áreas atingidas por desastres ambientais, afastando a tese de que a rescisão contratual seria um ato isolado e autônomo do empregador.
+
+## Estatísticas
+- Total de processos julgados: 1
+- Providos: 1 | Desprovidos: 0 | Parcialmente providos: 0 | Outros: 0`
   }
 ];
 
