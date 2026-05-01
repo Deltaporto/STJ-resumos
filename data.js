@@ -15,93 +15,85 @@ const resumosData = [
 
 ## Processos Julgados
 
-### N. REsp [Numeração aproximada: 2.000.024]/RJ - Nulidade de citação de pessoa jurídica estrangeira (Início: 33:24 / 00:34:41)
-- **Relator:** Min. Antônio Carlos Ferreira
+### 1. REsp [Processo não identificado]/RJ - Nulidade de citação de pessoa jurídica estrangeira (Início: 33:46 e 00:34:41)
+- **Relator:** Min. Antônio Carlos Ferreira (vencido) / Voto vencedor: Min. Maria Isabel Gallotti
 - **Resultado:** Provido
-- **Votação:** Maioria (Votos vencedores: Min. Maria Isabel Gallotti, Min. Raul Araújo, Min. João Otávio de Noronha; Votos vencidos: Min. Antônio Carlos Ferreira e Min. Marco Buzzi)
-- **Resumo da discussão:** O processo foi chamado a feito pelo presidente da Turma, Ministro João Otávio de Noronha, como o primeiro item da pauta para renovação de julgamento e prolação de voto de desempate. O processo foi apregoado para sustentação oral, sendo concedida a palavra à advogada da recorrente. Trata-se de recurso especial interposto pela Hyundai Corporation (inicialmente transcrita como John Deere no início da sessão) no qual se discutia a nulidade de sua citação em ação de rescisão de contrato cumulada com perdas e danos promovida pela empresa Teixeira Nunes Empreendimentos Imobiliários Ltda. A autora da ação alegou o pagamento de cerca de 2 milhões de dólares, em 1999, por mercadorias não entregues e defendeu a validade da citação efetivada na pessoa jurídica Hyundai CAOA do Brasil, com base na teoria da aparência e em documentos que sugeririam ligação societária. A recorrente, por sua vez, sustentou inexistir qualquer representação legal, vínculo societário ou comercial entre a Hyundai Corporation (focada em eletroeletrônicos e celulares) e a Hyundai CAOA (focada em automóveis). O Ministro João Otávio de Noronha, proferindo o voto de desempate, acompanhou a divergência inaugurada pela Ministra Maria Isabel Gallotti. Concluiu-se que não restou demonstrado que a CAOA explorava o mesmo mercado ou detinha poderes para representar a empresa estrangeira em juízo no Brasil, afastando-se assim a aplicação das Súmulas 5 e 7 do STJ. Com isso, deu-se provimento ao recurso especial para decretar a nulidade dos atos processuais desde a citação.
+- **Votação:** Maioria (Venceram os Ministros Maria Isabel Gallotti, Raul Araújo e João Otávio de Noronha; Vencidos os Ministros Antônio Carlos Ferreira e Marco Aurélio/Marco Buzzi)
+- **Resumo da discussão:** O feito foi apregoado pelo Presidente da Turma, Min. João Otávio de Noronha, como renovação de julgamento na qual ele próprio proferiria o voto de desempate. Após a sustentação oral da patrona da recorrente, a discussão centrou-se na validade da citação da empresa sul-coreana Hyundai Corporation por meio da brasileira Hyundai CAOA do Brasil. O relator originário havia negado provimento ao recurso com base nas Súmulas 5 e 7 do STJ. A Ministra Maria Isabel Gallotti inaugurou divergência para reconhecer a nulidade da citação, argumentando que a CAOA não é representante legal da Hyundai Corporation, atua em mercado distinto (veículos automotores versus celulares) e não tem vínculo que justifique a presunção de representação. O Ministro Noronha acompanhou a divergência e declarou a nulidade de todos os atos processuais desde a citação.
 
-### N. AgInt no REsp [Processo não identificado]/PI - [Tema não identificado] (Início: 01:02:22)
+### 2. AgInt no REsp [1.4749...]/PI - [Tema não identificado] (Início: 01:02:20)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Adiado
-- **Votação:** Empatada (na sessão anterior)
-- **Resumo da discussão:** O processo encontrava-se com a votação empatada em razão do impedimento da Ministra Maria Isabel Gallotti. Para a solução do empate, havia sido convocado o Ministro Ricardo Villas Bôas Cueva. O julgamento, no entanto, não ocorreu e foi adiado, pois o ministro convocado comunicou que não poderia comparecer à presente sessão.
+- **Resumo da discussão:** O julgamento encontrava-se empatado em razão do impedimento da Ministra Maria Isabel Gallotti. O processo aguardava o voto de desempate do Ministro Ricardo Villas Bôas Cueva (convocado), mas foi adiado devido à ausência justificada de Sua Excelência na sessão.
 
-### N. AREsp [Processo não identificado]/SP - [Tema não identificado] (Início: 01:03:50)
+### 3. AREsp [2.4575...]/SP - [Tema não identificado] (Início: 01:03:40)
 - **Relator:** Min. Raul Araújo
-- **Resultado:** Apregoado / Suspenso
-- **Votação:** Pendente
-- **Resumo da discussão:** O processo, que envolve as partes Ifit Story Confecções e Tio Instituição de Pagamento, foi chamado a julgamento por preferência. Contudo, ao iniciar a apreciação, constatou-se uma falha de sincronização no sistema eletrônico do Tribunal: embora o Ministro Relator afirmasse ter liberado o voto, os demais ministros relataram que constava apenas o relatório disponível em suas telas, impossibilitando a continuidade imediata da análise do mérito.
+- **Resultado:** Adiado
+- **Resumo da discussão:** Apregoado como preferência, o julgamento foi inviabilizado por uma inconsistência no sistema eletrônico do Tribunal. Embora constassem como liberados para o relator, apenas o relatório estava acessível na tela dos demais ministros, impedindo a continuidade da análise.
 
-### N. AREsp [Processo não identificado]/[UF não identificada] - Contratos interempresariais e retenção de recebíveis (Início: 01:06:44)
-- **Relator:** Min. [Não identificado]
-- **Resultado:** Desprovido
+### 4. [Processo não identificado] - Inaplicabilidade do CDC em contratos interempresariais e retenção de recebíveis (Início: 01:06:44)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Agravo em recurso especial desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** A discussão versou sobre a inaplicabilidade do Código de Defesa do Consumidor em contratos interempresariais destinados ao fomento da atividade empresarial, por não haver configuração de destinatário final na relação. O colegiado reafirmou a validade da cláusula de retenção de recebíveis em contrato de afiliação ao sistema de pagamento eletrônico, baseada no princípio *pacta sunt servanda*, observando-se a boa-fé e a função social do contrato. A responsabilização exclusiva do lojista em casos de contestações e cancelamentos (*chargeback*) foi admitida apenas quando a sua conduta for decisiva para o sucesso do ato fraudulento. O recurso não foi provido em virtude do óbice da Súmula 7 do STJ e da ausência de comprovação adequada de dissídio jurisprudencial.
+- **Resumo da discussão:** Devido à falha técnica no sistema que impedia a visualização do voto pelos pares, o relator leu a ementa integralmente em plenário. O colegiado reafirmou que o CDC não incide em contratos interempresariais destinados ao fomento da atividade (sem destinatário final). Concluiu-se pela validade da cláusula de retenção de recebíveis em contrato de sistema de pagamento eletrônico, isentando a credenciadora por cancelamentos (*chargebacks*) motivados por inobservância de deveres da lojista, que contribuiu para a fraude. O Min. Noronha acompanhou o relator e destacou a necessidade de preservar o pacto e a segurança jurídica do financiamento no varejo. Aplicou-se também a Súmula 7 do STJ.
 
-### N. REsp 1.781.587/SP - Ação rescisória e prescrição não alegada na fase de conhecimento (Início: 01:11:15)
-- **Relator:** Min. João Otávio de Noronha (Voto-vista: Min. Raul Araújo)
+### 5. REsp 1.781.587/SP - Ação rescisória e prescrição não alegada na fase de conhecimento (Início: 01:11:33)
+- **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Conhecido em parte e, nessa extensão, desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** O debate centrou-se no cabimento de ação rescisória cujo fundamento era a ocorrência de prescrição não suscitada pela parte durante a ação originária. Por meio do voto-vista do Ministro Raul Araújo, que acompanhou o relator, fixou-se o entendimento de que, após o trânsito em julgado, operam-se os efeitos da preclusão máxima, reputando-se repelidas todas as defesas que a parte poderia opor atempadamente (art. 474 do CPC/73 e art. 508 do CPC/15). O colegiado ressaltou que a prescrição constitui exceção substancial; embora o magistrado possa reconhecê-la de ofício, a sua não arguição pela parte interessada impede que a questão seja revivida por meio de ação rescisória, preservando-se assim a renúncia à prescrição e a segurança jurídica.
+- **Resumo da discussão:** Retomado com o voto-vista do Min. Raul Araújo, que acompanhou o relator. A controvérsia analisou o cabimento de ação rescisória para reconhecer prescrição não arguida na fase de conhecimento. A Turma concluiu que, após o trânsito em julgado, incide a eficácia preclusiva da coisa julgada (art. 508, CPC/1973; art. 474, CPC/2015), repelindo defesas não deduzidas. A Min. Gallotti acrescentou que, embora reconhecível de ofício, a prescrição é exceção substancial sujeita a renúncia tácita (art. 191, CC), sendo inviável seu reconhecimento extemporâneo via rescisória.
 
-### N. REsp [Processo 210403]/SP - Direito de imagem e direito de arena de árbitro de futebol (Início: 01:22:43 / 01:33:13)
+### 6. [Processo 210403]/SP - Direito de imagem de árbitro de futebol (Início: 01:22:43 e 01:33:13)
 - **Relator:** Min. Raul Araújo
-- **Resultado:** Pedido de vista antecipado
+- **Resultado:** Julgamento suspenso (Pedido de vista)
 - **Votação:** Pendente
-- **Resumo da discussão:** O litígio aborda a suposta utilização não autorizada da imagem do árbitro de futebol Ângelo (recorrente) pela empresa Sky Brasil (recorrida), cuja marca era estampada nos uniformes de arbitragem. A defesa argumentou da tribuna que o uso ocorreu sem autorização expressa, gerando enriquecimento sem causa. O Min. Raul Araújo antecipou a ementa de seu voto, conhecendo parcialmente do recurso e negando-lhe provimento, sustentando que a patrocinadora adquiriu legitimamente o espaço da CBF e que a mera exibição da marca não configura exploração individualizada da imagem, além de árbitros não serem titulares de direito de arena. O advogado da recorrida corroborou a tese. O julgamento foi suspenso por um pedido de vista antecipado do Min. Luiz Carlos (Gamboes).
+- **Resumo da discussão:** Ação indenizatória de árbitro contra patrocinadora (Sky Brasil) por exibição de logomarca nas mangas do uniforme. O patrono do autor sustentou uso comercial não autorizado e citou precedente favorável da Terceira Turma (REsp 2.185.438). A defesa alegou aquisição legítima do espaço da CBF. O relator votou por conhecer em parte e negar provimento ao recurso, argumentando que a exibição genérica da marca não viola o direito de imagem individual, não se confunde com direito de arena, e que eventual responsabilidade recairia sobre a organizadora do evento esportivo. Em seguida, o julgamento foi suspenso por pedido de vista antecipado.
 
-### N. AREsp 2.803.509/SP - Ausência de impugnação específica e poder geral de cautela (Início: 01:49:38)
+### 7. AREsp 2.803.509/SP - Poder geral de cautela em execução (Início: 01:49:38)
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Agravo conhecido para não conhecer do recurso especial
 - **Votação:** Unânime
-- **Resumo da discussão:** O processo foi chamado a julgamento com pedido de preferência. A ementa destacou que a ausência de impugnação específica dos fundamentos suficientes para manter o acórdão atrai, por analogia, a incidência da Súmula 283/STF. Ademais, o acórdão recorrido assentou que o poder geral de cautela (art. 297 do CPC) autoriza o magistrado a adotar medidas acautelatórias na execução de título extrajudicial. A alteração da conclusão exigiria o reexame fático-probatório, vedado pela Súmula 7/STJ.
+- **Resumo da discussão:** Julgado com pedido de preferência, o caso envolve um Fundo de Investimento Multimercado. O relator aplicou por analogia a Súmula 283 do STF pela ausência de impugnação específica aos fundamentos do acórdão. No mérito, firmou-se que o poder geral de cautela (art. 297, CPC) autoriza o magistrado a adotar medidas acautelatórias em execução extrajudicial. A verificação dos requisitos e da necessidade de caução esbarra na Súmula 7 do STJ.
 
-### N. AREsp 1.835.108/RS - Adiamento (Início: 01:52:45)
-- **Relator:** Min. [Não identificado]
+### 8. AREsp 1.835.108/RS - [Tema não identificado] (Início: 01:52:45)
 - **Resultado:** Adiado
-- **Votação:** Não iniciada
-- **Resumo da discussão:** Em razão do adiantado da hora e da necessidade de encerramento da sessão às 16h15, o processo, que possuía pedido de sustentação oral, foi automaticamente adiado para a próxima pauta. Os advogados presentes foram dispensados e o direito à sustentação oral foi mantido para a sessão futura.
+- **Resumo da discussão:** Processo adiado automaticamente para a sessão seguinte devido à restrição de horário para o encerramento dos trabalhos. As sustentações orais previamente agendadas foram mantidas para a próxima data.
 
-### N. AREsp 2.168.349/RJ - Adiamento (Início: 01:52:45)
-- **Relator:** Min. [Não identificado]
+### 9. [Recurso] 2.168.349/RJ - [Tema não identificado] (Início: 01:52:45)
 - **Resultado:** Adiado
-- **Votação:** Não iniciada
-- **Resumo da discussão:** Assim como o processo anterior, este recurso foi automaticamente adiado para a sessão seguinte devido ao encerramento iminente da sessão, ficando garantido o direito à sustentação oral previamente requerida.
+- **Resumo da discussão:** Da mesma forma que o item anterior, foi adiado em bloco por falta de tempo, asseguradas as sustentações orais.
 
-### N. AgInt no AREsp 2.760.773/SP - Indenização por erro médico e valoração de prova pericial (Início: 01:53:08)
-- **Relator:** Min. [Não identificado]
-- **Resultado:** Agravo interno provido
+### 10. AgInt no AREsp 2.760.773/SP - Erro médico e valoração de prova pericial (Início: 01:53:09)
+- **Resultado:** Provido
 - **Votação:** Unânime
-- **Resumo da discussão:** Trata-se de agravo interno em ação de indenização por óbito de recém-nascido decorrente de suposto erro médico. O TJSP havia reformado a sentença para condenar os réus solidariamente, contrariando a perícia judicial que atestou a inexistência de culpa. O relator deu provimento ao agravo interno e ao recurso especial para restabelecer a sentença de improcedência, fundamentando que a desconsideração de laudo pericial sem fundamentação técnica idônea viola os arts. 371 e 479 do CPC, o que afasta o óbice da Súmula 7/STJ para a revaloração da prova.
+- **Resumo da discussão:** Ação de indenização por óbito de recém-nascido. O TJSP havia condenado os médicos solidariamente, contrariando o laudo pericial oficial (que afastava culpa e nexo causal). A Turma proveu o agravo para restabelecer a sentença de improcedência, assentando que desconsiderar prova pericial em matéria médica complexa sem fundamentação técnica idônea viola os arts. 371 e 479 do CPC, o que afasta o óbice da Súmula 7 do STJ.
 
-### N. AgInt no AREsp [Processo não identificado]/SP - Prescrição em cobrança por inadimplemento contratual (Início: 01:56:21 / 02:03:23)
+### 11. [Agravo Interno - Pauta 12] / SP - Prescrição em inadimplemento contratual (Início: 01:56:21 e 02:03:23)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Desprovido
-- **Votação:** Maioria (3 a 2). Vencidos a Min. Maria Isabel Gallotti e o Min. Raul Araújo.
-- **Resumo da discussão:** A controvérsia definiu o prazo prescricional aplicável a uma ação pleiteando o pagamento por adimplemento parcial de contrato particular de compra e venda (entrega de safra de laranjas). O relator votou pelo desprovimento do agravo, mantendo a prescrição quinquenal, por entender tratar-se de cobrança de dívida líquida baseada em mera conta aritmética (notas fiscais e cláusula contratual). A Ministra Maria Isabel Gallotti inaugurou divergência, acompanhada pelo Ministro Raul Araújo, sustentando a incidência do prazo decenal por se tratar de ação indenizatória decorrente de descumprimento contratual, exigindo dilação probatória. Sagrou-se vencedor o voto do relator.
+- **Votação:** Maioria (Vencidos a Min. Maria Isabel Gallotti e o Min. Raul Araújo)
+- **Resumo da discussão:** Ação de indenização por inadimplemento parcial em contrato de compra e venda de frutas (entrega de laranjas inferior ao pactuado). O julgamento iniciou com uma confusão procedimental temporária da Min. Gallotti, que consultava autos distintos. Superado o equívoco, a divergência de mérito focou no prazo prescricional. O relator votou pelo desprovimento, aplicando o prazo quinquenal (art. 206, § 5º, I, CC) por entender ser cobrança de dívida líquida apurável por cálculo aritmético. A divergência (Min. Gallotti e Min. Raul Araújo) defendeu a aplicação da prescrição decenal (art. 205, CC) por ver no caso um ilícito contratual dependente de liquidação e dilação probatória. Prevaleceu o voto do relator.
 
-### N. Agravo Interno [Processo não identificado] - Cumprimento de Sentença e Anulação de Contrato de Franquia (Início: 02:22:46)
+### 12. 13 AgInt [Processo não identificado] - Anulação de contrato de franquia e cumprimento de sentença (Início: 02:22:50)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** Após a retirada do pedido de destaque por um dos ministros, o relator apresentou o dispositivo em mesa para julgamento mais célere nos minutos finais. A controvérsia envolvia o cumprimento de sentença de anulação de contrato de franquia com pedido de rescisão cumulado com danos morais. O relator votou pelo desprovimento, reconhecendo a incidência das Súmulas 283 e 284 do STF pela ausência de impugnação de todos os fundamentos, e da Súmula 7 do STJ. Consignou ser inviável o conhecimento pela alínea "c" por ausência de cotejo analítico e demonstração de similitude fática. O voto foi acompanhado por unanimidade.
+- **Resumo da discussão:** Cumprimento de sentença atrelado à anulação de contrato envolvendo a Rede Mister Franquia. O relator aplicou as Súmulas 283 e 284 do STF por falta de impugnação adequada da decisão recorrida, além da Súmula 7 do STJ. Destacou-se que a alínea "c" ficou prejudicada ante os óbices na alínea "a" e à falta de cotejo analítico e similitude fática.
 
 ## Destaques da Sessão
-- **Abertura e Encerramento:** A sessão foi aberta após a exibição de vídeos institucionais (acessibilidade, campanhas, BDJur) e encerrada de forma antecipada para viabilizar a participação dos ministros em uma sessão administrativa. Isso resultou no adiamento em bloco dos últimos processos com sustentação oral e na retirada de um pedido de destaque para julgamento imediato em mesa.
-- **Clima Cordial:** A sessão foi marcada por momentos de descontração e comentários futebolísticos antes de seu início e em seu encerramento, ocasião em que o Presidente referiu-se à Quarta Turma como "a melhor turma do STJ".
-- **Repúdio a Interferências Indevidas:** O Min. João Otávio de Noronha fez um desabafo público relatando excesso de pedidos de audiência e interferências de terceiros em seu gabinete (caso Hyundai), advertindo duramente contra condutas de "venda de voto" em Brasília.
-- **Inconsistências no Sistema Eletrônico:** Registrou-se instabilidade técnica no sistema do STJ, que não disponibilizou para o colegiado os votos já liberados por um relator, exibindo apenas o relatório e forçando a suspensão temporária do item.
-- **Debate Doutrinário em Ação Rescisória:** Aprofundado debate jurídico que reafirmou o entendimento de que, transitada em julgado a decisão, opera-se a preclusão máxima; a prescrição não suscitada atempadamente pela parte na fase de conhecimento não pode fundamentar ação rescisória por violação literal de lei.
-- **Valoração Pericial e Súmula 7:** Fixação do entendimento de que o afastamento de um laudo técnico pericial pelas instâncias ordinárias exige fundamentação técnica idônea e robusta, viabilizando, na sua ausência, a superação da Súmula 7/STJ.
-- **Direito de Arena e Imagem de Árbitros:** Intenso debate sobre a exploração comercial da imagem de árbitros pelas patrocinadoras dos uniformes, culminando em pedido de vista para melhor análise entre os direitos individuais e os direitos cedidos à organização desportiva.
+- **Abertura e Avisos Formais:** A 7ª sessão ordinária foi aberta com vídeos institucionais (acessibilidade, equidade racial). A ata da sessão anterior foi aprovada. A sessão sofreu encurtamento (limite até 16h15) devido a uma sessão administrativa agendada para logo após.
+- **Falhas no Sistema Eletrônico:** Problemas operacionais impediram que os ministros visualizassem os votos de processos previamente liberados, ocasionando adiamentos e a necessidade de leitura integral em plenário pelo relator.
+- **Controle de Pauta e Adiamentos:** O Presidente Min. Noronha criticou abertamente interferências indevidas e pedidos excessivos de adiamento por advogados terceiros. O adiantado da hora gerou o adiamento em bloco de processos com sustentações orais agendadas.
+- **Debates Econômicos e Contratuais:** Destaque para o aparte econômico do Presidente enfatizando a segurança jurídica de operações de crédito para lojistas e a intensa divisão do colegiado (5 vs 10 anos) quanto à prescrição no inadimplemento de contratos de entrega de bens fungíveis.
+- **Direito Desportivo e Imagem:** A Turma iniciou a análise de um litígio massivo sobre o uso da imagem de árbitros de futebol em patrocínios de uniformes, traçando os limites entre direito individual e direito de arena.
+- **Descontração Colegiada:** O ambiente da Turma demonstrou forte cordialidade, com momentos de descontração acerca de futebol (Cruzeiro, Flamengo, Vasco), piadas sobre "juiz amigo" no futebol e elogios do Presidente qualificando-a como a "melhor turma do STJ".
 
 ## Estatísticas
-- Total de processos julgados/apregoados: 12
+- Total de processos julgados: 12
 - Providos: 2
-- Desprovidos: 3
+- Desprovidos: 4
 - Parcialmente providos: 0
-- Outros: 7 (incluindo adiamentos, suspensões, pedidos de vista e recursos conhecidos em parte)`
+- Outros: 6 (4 Adiados, 1 Suspenso/Pedido de vista, 1 Agravo conhecido para não conhecer)`
   },
   {
     id: "2026-04-08_segunda_secao",
