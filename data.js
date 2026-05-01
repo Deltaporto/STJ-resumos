@@ -642,7 +642,7 @@ const resumosData = [
     orgao: "Quarta Turma",
     content: `# Resumo - Quarta Turma - data desconhecida
     
-**Vídeo:** [Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió](https://www.youtube.com/watch?v=ViLuxExqgS8)
+**Vídeo:** [Quarta Turma autoriza uso do Serp-Jud para localizar bens em execuções civis](https://www.youtube.com/watch?v=lyiaGkiB6pY)
 **Data:** data desconhecida
 **Órgão:** Quarta Turma
 
@@ -650,13 +650,70 @@ const resumosData = [
 
 ## Processos Julgados
 
-### 1. [Processo não identificado]/AL - Responsabilidade civil ambiental e indenização por danos reflexos (Caso Braskem) (Início: 00:03)
-- **Relator:** Min. Isabel Gallotti
+### 1. REsp [Processo não identificado]/SC - Uso do SERPJud em execuções civis (Início: 00:04)
+- **Relator:** Desembargador Convocado Luís Carlos Gambo
 - **Resultado:** Provido
-- **Resumo da discussão:** Trata-se de recurso interposto contra acórdão do Tribunal de Justiça de Alagoas (TJ/AL) que havia negado o pedido de indenização a um trabalhador que atuou como porteiro por quase 30 anos em um condomínio localizado em área afetada pelo afundamento do solo em Maceió/AL, causado pela mineração de sal-gema pela petroquímica Braskem S.A. O tribunal de origem fundamentou a negativa na suposta ausência de relação causal direta e imediata entre a exploração do subsolo e a demissão do trabalhador, ocorrida após a desocupação compulsória do prédio. A relatora, Ministra Isabel Gallotti, destacou em seu voto que a responsabilidade civil ambiental abrange não apenas os danos materiais causados diretamente ao meio ambiente ou aos proprietários de imóveis, mas estende-se também aos efeitos reflexos (danos em ricochete) suportados por moradores e trabalhadores da região atingida. A Quarta Turma firmou o entendimento de que a demissão do trabalhador não configurou uma decisão autônoma e voluntária do empregador, mas sim uma consequência direta e inevitável do desastre ambiental. O colegiado deu provimento ao recurso, restabelecendo a sentença de primeiro grau que condenou a empresa ao pagamento de indenização ao ex-porteiro no valor de R$ 20.000,00, com acréscimo de juros e correção monetária.
+- **Resumo da discussão:** O processo teve origem na execução de um título extrajudicial em Pomerode, Santa Catarina, onde o Tribunal de Justiça estadual negou o pedido de consulta ao SERPJud por entender que não haveria previsão legal para a utilização do sistema na localização de bens penhoráveis e que seu uso estaria restrito às funções institucionais do judiciário. O relator, por sua vez, ressaltou que o Código de Processo Civil consagra o princípio da cooperação e confere amplos poderes ao juiz para determinar as medidas necessárias à satisfação do crédito, incluindo o uso de meios tecnológicos. Ao fazer analogia com sistemas consolidados como Bacenjud, Renajud e Infojud, o relator argumentou que a jurisprudência do STJ já admite o uso dessas ferramentas para a localização de patrimônio independentemente do esgotamento prévio de diligências extrajudiciais. A Turma concluiu que essa mesma interpretação deve ser estendida ao SERPJud, admitindo o uso da ferramenta para busca de bens desde que amparado por decisão judicial fundamentada.
 
 ## Destaques da Sessão
-- O grande destaque do julgamento foi o reconhecimento da aplicação da teoria dos danos reflexos (ou em ricochete) no âmbito da responsabilidade civil ambiental por parte da Quarta Turma. O colegiado garantiu a legitimidade para pleitear indenização a trabalhadores que perderam seus empregos em decorrência do esvaziamento compulsório de áreas atingidas por desastres ambientais, afastando a tese de que a rescisão contratual seria um ato isolado e autônomo do empregador.
+- A Quarta Turma firmou posicionamento admitindo a utilização do Sistema Eletrônico dos Registros Públicos (SERPJud) para a localização de bens penhoráveis em processos civis, mediante decisão judicial fundamentada.
+- Houve o estabelecimento de um paralelo direto entre o SERPJud e outras ferramentas de busca de patrimônio (Bacenjud, Renajud e Infojud), dispensando-se a exigência de esgotamento prévio de diligências extrajudiciais por parte do credor para a sua utilização.
+
+## Estatísticas
+- Total de processos julgados: 1
+- Providos: 1 | Desprovidos: 0 | Parcialmente providos: 0 | Outros: 0`
+  },
+  {
+    id: "VKEGwnxAepc",
+    title: "Quarta Turma",
+    date: "",
+    orgao: "Quarta Turma",
+    content: `# Resumo - Quarta Turma - data desconhecida
+    
+**Vídeo:** [Quarta Turma autoriza uso do Serp-Jud para localizar bens em execuções civis](https://www.youtube.com/watch?v=lyiaGkiB6pY)
+**Data:** data desconhecida
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. REsp [Processo não identificado]/SC - Uso do SERPJud em execuções civis (Início: 00:04)
+- **Relator:** Desembargador Convocado Luís Carlos Gambo
+- **Resultado:** Provido
+- **Resumo da discussão:** O processo teve origem na execução de um título extrajudicial em Pomerode, Santa Catarina, onde o Tribunal de Justiça estadual negou o pedido de consulta ao SERPJud por entender que não haveria previsão legal para a utilização do sistema na localização de bens penhoráveis e que seu uso estaria restrito às funções institucionais do judiciário. O relator, por sua vez, ressaltou que o Código de Processo Civil consagra o princípio da cooperação e confere amplos poderes ao juiz para determinar as medidas necessárias à satisfação do crédito, incluindo o uso de meios tecnológicos. Ao fazer analogia com sistemas consolidados como Bacenjud, Renajud e Infojud, o relator argumentou que a jurisprudência do STJ já admite o uso dessas ferramentas para a localização de patrimônio independentemente do esgotamento prévio de diligências extrajudiciais. A Turma concluiu que essa mesma interpretação deve ser estendida ao SERPJud, admitindo o uso da ferramenta para busca de bens desde que amparado por decisão judicial fundamentada.
+
+## Destaques da Sessão
+- A Quarta Turma firmou posicionamento admitindo a utilização do Sistema Eletrônico dos Registros Públicos (SERPJud) para a localização de bens penhoráveis em processos civis, mediante decisão judicial fundamentada.
+- Houve o estabelecimento de um paralelo direto entre o SERPJud e outras ferramentas de busca de patrimônio (Bacenjud, Renajud e Infojud), dispensando-se a exigência de esgotamento prévio de diligências extrajudiciais por parte do credor para a sua utilização.
+
+## Estatísticas
+- Total de processos julgados: 1
+- Providos: 1 | Desprovidos: 0 | Parcialmente providos: 0 | Outros: 0`
+  },
+  {
+    id: "lyiaGkiB6pY",
+    title: "Quarta Turma",
+    date: "",
+    orgao: "Quarta Turma",
+    content: `# Resumo - Quarta Turma - data desconhecida
+    
+**Vídeo:** [Quarta Turma autoriza uso do Serp-Jud para localizar bens em execuções civis](https://www.youtube.com/watch?v=lyiaGkiB6pY)
+**Data:** data desconhecida
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. REsp [Processo não identificado]/SC - Uso do SERPJud em execuções civis (Início: 00:04)
+- **Relator:** Desembargador Convocado Luís Carlos Gambo
+- **Resultado:** Provido
+- **Resumo da discussão:** O processo teve origem na execução de um título extrajudicial em Pomerode, Santa Catarina, onde o Tribunal de Justiça estadual negou o pedido de consulta ao SERPJud por entender que não haveria previsão legal para a utilização do sistema na localização de bens penhoráveis e que seu uso estaria restrito às funções institucionais do judiciário. O relator, por sua vez, ressaltou que o Código de Processo Civil consagra o princípio da cooperação e confere amplos poderes ao juiz para determinar as medidas necessárias à satisfação do crédito, incluindo o uso de meios tecnológicos. Ao fazer analogia com sistemas consolidados como Bacenjud, Renajud e Infojud, o relator argumentou que a jurisprudência do STJ já admite o uso dessas ferramentas para a localização de patrimônio independentemente do esgotamento prévio de diligências extrajudiciais. A Turma concluiu que essa mesma interpretação deve ser estendida ao SERPJud, admitindo o uso da ferramenta para busca de bens desde que amparado por decisão judicial fundamentada.
+
+## Destaques da Sessão
+- A Quarta Turma firmou posicionamento admitindo a utilização do Sistema Eletrônico dos Registros Públicos (SERPJud) para a localização de bens penhoráveis em processos civis, mediante decisão judicial fundamentada.
+- Houve o estabelecimento de um paralelo direto entre o SERPJud e outras ferramentas de busca de patrimônio (Bacenjud, Renajud e Infojud), dispensando-se a exigência de esgotamento prévio de diligências extrajudiciais por parte do credor para a sua utilização.
 
 ## Estatísticas
 - Total de processos julgados: 1
