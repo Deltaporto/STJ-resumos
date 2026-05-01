@@ -14,92 +14,93 @@ const resumosData = [
 
 ## Processos Julgados
 
-### N. REsp 2.000.024/[UF não identificada] - Nulidade de Citação / Contrato Internacional (Início: [00:33:46] e 00:34:41)
+### N. REsp [Numeração aproximada: 2.000.024]/RJ - Nulidade de citação de pessoa jurídica estrangeira (Início: 33:24 / 00:34:41)
 - **Relator:** Min. Antônio Carlos Ferreira
 - **Resultado:** Provido
-- **Votação:** Maioria (Vencidos o relator Min. Antônio Carlos Ferreira e o Min. Marco Buzzi. Vencedora a divergência inaugurada pela Min. Maria Isabel Gallotti, acompanhada pelo Min. Raul Araújo e pelo Min. João Otávio de Noronha).
-- **Resumo da discussão:** O processo foi inicialmente apregoado pelo Ministro Presidente para proferir voto-desempate em uma renovação de julgamento. Trata-se de ação de rescisão de contrato cumulada com perdas e danos movida por Teixeira Nunes Empreendimentos Imobiliários Limitada contra a sul-coreana Hyundai Corporation (inicialmente referida foneticamente como "Die Corporation"), referente a uma compra de US$ 2 milhões em acessórios de celular em 1999, cujos produtos não foram entregues. A controvérsia central do recurso especial cingiu-se à validade da citação da empresa estrangeira, que ocorreu na pessoa da Hyundai Caoa do Brasil, concessionária de veículos. A maioria da Turma entendeu que as empresas atuam em mercados completamente distintos (veículos vs. eletrônicos) e que não ficou demonstrada a representação legal, societária ou fática da Hyundai Corporation pela Hyundai Caoa no país. Deu-se provimento ao recurso para reconhecer a nulidade desde a citação.
+- **Votação:** Maioria (Votos vencedores: Min. Maria Isabel Gallotti, Min. Raul Araújo, Min. João Otávio de Noronha; Votos vencidos: Min. Antônio Carlos Ferreira e Min. Marco Buzzi)
+- **Resumo da discussão:** O processo foi chamado a feito pelo presidente da Turma, Ministro João Otávio de Noronha, como o primeiro item da pauta para renovação de julgamento e prolação de voto de desempate. O processo foi apregoado para sustentação oral, sendo concedida a palavra à advogada da recorrente. Trata-se de recurso especial interposto pela Hyundai Corporation (inicialmente transcrita como John Deere no início da sessão) no qual se discutia a nulidade de sua citação em ação de rescisão de contrato cumulada com perdas e danos promovida pela empresa Teixeira Nunes Empreendimentos Imobiliários Ltda. A autora da ação alegou o pagamento de cerca de 2 milhões de dólares, em 1999, por mercadorias não entregues e defendeu a validade da citação efetivada na pessoa jurídica Hyundai CAOA do Brasil, com base na teoria da aparência e em documentos que sugeririam ligação societária. A recorrente, por sua vez, sustentou inexistir qualquer representação legal, vínculo societário ou comercial entre a Hyundai Corporation (focada em eletroeletrônicos e celulares) e a Hyundai CAOA (focada em automóveis). O Ministro João Otávio de Noronha, proferindo o voto de desempate, acompanhou a divergência inaugurada pela Ministra Maria Isabel Gallotti. Concluiu-se que não restou demonstrado que a CAOA explorava o mesmo mercado ou detinha poderes para representar a empresa estrangeira em juízo no Brasil, afastando-se assim a aplicação das Súmulas 5 e 7 do STJ. Com isso, deu-se provimento ao recurso especial para decretar a nulidade dos atos processuais desde a citação.
 
-### N. AgInt no REsp 1.474.9XX/PI - [Tema não identificado] (Início: 01:02:21)
+### N. AgInt no REsp [Processo não identificado]/PI - [Tema não identificado] (Início: 01:02:22)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Adiado
-- **Votação:** Não concluída
-- **Resumo da discussão:** O processo encontrava-se empatado em razão do impedimento da Ministra Maria Isabel Gallotti. O Ministro Ricardo Villas Bôas Cueva havia sido convocado para proferir o voto de desempate, mas não pôde comparecer à sessão, o que motivou o adiamento do julgamento do feito.
+- **Votação:** Empatada (na sessão anterior)
+- **Resumo da discussão:** O processo encontrava-se com a votação empatada em razão do impedimento da Ministra Maria Isabel Gallotti. Para a solução do empate, havia sido convocado o Ministro Ricardo Villas Bôas Cueva. O julgamento, no entanto, não ocorreu e foi adiado, pois o ministro convocado comunicou que não poderia comparecer à presente sessão.
 
-### N. AREsp 2.45X.X75/SP - [Tema não identificado] (Início: 01:03:40)
+### N. AREsp [Processo não identificado]/SP - [Tema não identificado] (Início: 01:03:50)
 - **Relator:** Min. Raul Araújo
-- **Resultado:** Adiado
-- **Votação:** Não iniciada
-- **Resumo da discussão:** Processo chamado com preferência de julgamento, envolvendo as partes Ifit Story Confecções e Tio Instituição de Pagamento. O julgamento não prosseguiu de imediato devido a uma divergência técnica no sistema eletrônico: enquanto o Relator visualizava que a ementa, o relatório e o voto já estavam liberados, os demais ministros informaram que apenas o relatório estava disponível em suas telas.
+- **Resultado:** Apregoado / Suspenso
+- **Votação:** Pendente
+- **Resumo da discussão:** O processo, que envolve as partes Ifit Story Confecções e Tio Instituição de Pagamento, foi chamado a julgamento por preferência. Contudo, ao iniciar a apreciação, constatou-se uma falha de sincronização no sistema eletrônico do Tribunal: embora o Ministro Relator afirmasse ter liberado o voto, os demais ministros relataram que constava apenas o relatório disponível em suas telas, impossibilitando a continuidade imediata da análise do mérito.
 
-### N. Agravo em Recurso Especial [Processo não identificado]/[UF não identificada] - Contratos Interempresariais e Retenção de Recebíveis (Início: 01:07:02)
+### N. AREsp [Processo não identificado]/[UF não identificada] - Contratos interempresariais e retenção de recebíveis (Início: 01:06:44)
 - **Relator:** Min. [Não identificado]
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** O colegiado analisou a validade de cláusula de retenção de recebíveis em contrato de afiliação a sistema de pagamento eletrônico. Firmou-se o entendimento de que não incide o Código de Defesa do Consumidor em contratos interempresariais destinados ao fomento da atividade, prevalecendo as condições pactuadas e a força obrigatória dos contratos. A responsabilidade da credenciadora por contestações e fraudes (*chargeback*) foi afastada em razão do descumprimento de deveres pelo lojista, além do óbice da Súmula 7 do STJ. Destacou-se a relevância do acórdão para a segurança do sistema de adiantamento de crédito para o setor lojista.
+- **Resumo da discussão:** A discussão versou sobre a inaplicabilidade do Código de Defesa do Consumidor em contratos interempresariais destinados ao fomento da atividade empresarial, por não haver configuração de destinatário final na relação. O colegiado reafirmou a validade da cláusula de retenção de recebíveis em contrato de afiliação ao sistema de pagamento eletrônico, baseada no princípio *pacta sunt servanda*, observando-se a boa-fé e a função social do contrato. A responsabilização exclusiva do lojista em casos de contestações e cancelamentos (*chargeback*) foi admitida apenas quando a sua conduta for decisiva para o sucesso do ato fraudulento. O recurso não foi provido em virtude do óbice da Súmula 7 do STJ e da ausência de comprovação adequada de dissídio jurisprudencial.
 
-### N. REsp 1.781.587/SP - Ação Rescisória e Prescrição (Início: 01:11:15)
+### N. REsp 1.781.587/SP - Ação rescisória e prescrição não alegada na fase de conhecimento (Início: 01:11:15)
 - **Relator:** Min. João Otávio de Noronha (Voto-vista: Min. Raul Araújo)
 - **Resultado:** Conhecido em parte e, nessa extensão, desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** A controvérsia cingiu-se ao cabimento de ação rescisória para análise de prescrição não alegada na ação ordinária originária. O Min. Raul Araújo apresentou voto-vista acompanhando o relator para negar provimento ao recurso. Fundamentou-se que a prescrição, embora matéria de ordem pública, constitui exceção substancial e não se sobrepõe à coisa julgada quando não debatida na fase de conhecimento. A Turma concluiu que a ação rescisória não serve para inovar ou reparar omissões defensivas preclusas.
+- **Resumo da discussão:** O debate centrou-se no cabimento de ação rescisória cujo fundamento era a ocorrência de prescrição não suscitada pela parte durante a ação originária. Por meio do voto-vista do Ministro Raul Araújo, que acompanhou o relator, fixou-se o entendimento de que, após o trânsito em julgado, operam-se os efeitos da preclusão máxima, reputando-se repelidas todas as defesas que a parte poderia opor atempadamente (art. 474 do CPC/73 e art. 508 do CPC/15). O colegiado ressaltou que a prescrição constitui exceção substancial; embora o magistrado possa reconhecê-la de ofício, a sua não arguição pela parte interessada impede que a questão seja revivida por meio de ação rescisória, preservando-se assim a renúncia à prescrição e a segurança jurídica.
 
-### N. REsp 210403/SP - Direito de Imagem de Árbitro de Futebol (Início: 01:12:43 e 01:33:13)
+### N. REsp [Processo 210403]/SP - Direito de imagem e direito de arena de árbitro de futebol (Início: 01:22:43 / 01:33:13)
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Pedido de vista antecipado
-- **Votação:** Não concluída
-- **Resumo da discussão:** A lide versa sobre a exibição da logomarca da empresa Sky do Brasil no uniforme do árbitro de futebol recorrente durante as partidas. A defesa sustentou a nulidade do acórdão de origem e defendeu a ocorrência de uso não autorizado da imagem com fins comerciais (art. 20 do CC), invocando recente precedente da Terceira Turma (REsp 2.185.438). Em contrapartida, a recorrida defendeu que adquiriu o espaço publicitário legitimamente junto à CBF, sem exploração individualizada do árbitro. O relator apresentou ementa votando pelo conhecimento parcial e desprovimento, fixando o entendimento de que a conduta da patrocinadora é lícita, que a responsabilidade recairia, em tese, sobre a entidade desportiva, e que os árbitros não são titulares de direito de arena. Após as sustentações, houve pedido de vista antecipado.
+- **Votação:** Pendente
+- **Resumo da discussão:** O litígio aborda a suposta utilização não autorizada da imagem do árbitro de futebol Ângelo (recorrente) pela empresa Sky Brasil (recorrida), cuja marca era estampada nos uniformes de arbitragem. A defesa argumentou da tribuna que o uso ocorreu sem autorização expressa, gerando enriquecimento sem causa. O Min. Raul Araújo antecipou a ementa de seu voto, conhecendo parcialmente do recurso e negando-lhe provimento, sustentando que a patrocinadora adquiriu legitimamente o espaço da CBF e que a mera exibição da marca não configura exploração individualizada da imagem, além de árbitros não serem titulares de direito de arena. O advogado da recorrida corroborou a tese. O julgamento foi suspenso por um pedido de vista antecipado do Min. Luiz Carlos (Gamboes).
 
-### N. AREsp 2.803.509/SP - Execução de Título Extrajudicial e Poder Geral de Cautela (Início: 01:49:38)
+### N. AREsp 2.803.509/SP - Ausência de impugnação específica e poder geral de cautela (Início: 01:49:38)
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Agravo conhecido para não conhecer do recurso especial
 - **Votação:** Unânime
-- **Resumo da discussão:** O relator destacou a incidência da Súmula 283 do STF por ausência de impugnação específica. Adicionalmente, ressaltou que o poder geral de cautela (art. 297 do CPC) autoriza o magistrado a adotar medidas acautelatórias na execução de título extrajudicial (como condicionar o reforço de penhora à caução). Alterar essa conclusão demandaria reexame fático-probatório, incidindo a Súmula 7 do STJ.
+- **Resumo da discussão:** O processo foi chamado a julgamento com pedido de preferência. A ementa destacou que a ausência de impugnação específica dos fundamentos suficientes para manter o acórdão atrai, por analogia, a incidência da Súmula 283/STF. Ademais, o acórdão recorrido assentou que o poder geral de cautela (art. 297 do CPC) autoriza o magistrado a adotar medidas acautelatórias na execução de título extrajudicial. A alteração da conclusão exigiria o reexame fático-probatório, vedado pela Súmula 7/STJ.
 
-### N. AREsp 1.835.108/RS - [Tema não identificado] (Início: 01:52:45)
-- **Relator:** [Não identificado]
+### N. AREsp 1.835.108/RS - Adiamento (Início: 01:52:45)
+- **Relator:** Min. [Não identificado]
 - **Resultado:** Adiado
-- **Votação:** N/A
-- **Resumo da discussão:** Diante da exiguidade do tempo restante e da necessidade de encerrar os trabalhos até as 16h15, o presidente da sessão dispensou os advogados e determinou o adiamento automático do julgamento para a próxima sessão, garantindo o direito às sustentações orais.
+- **Votação:** Não iniciada
+- **Resumo da discussão:** Em razão do adiantado da hora e da necessidade de encerramento da sessão às 16h15, o processo, que possuía pedido de sustentação oral, foi automaticamente adiado para a próxima pauta. Os advogados presentes foram dispensados e o direito à sustentação oral foi mantido para a sessão futura.
 
-### N. AREsp 2.168.349/RJ - [Tema não identificado] (Início: 01:52:45)
-- **Relator:** [Não identificado]
+### N. AREsp 2.168.349/RJ - Adiamento (Início: 01:52:45)
+- **Relator:** Min. [Não identificado]
 - **Resultado:** Adiado
-- **Votação:** N/A
-- **Resumo da discussão:** Processo teve seu julgamento adiado de ofício em bloco juntamente com o anterior pelo adiantado da hora, ficando preservado o agendamento da sustentação oral para a sessão subsequente.
+- **Votação:** Não iniciada
+- **Resumo da discussão:** Assim como o processo anterior, este recurso foi automaticamente adiado para a sessão seguinte devido ao encerramento iminente da sessão, ficando garantido o direito à sustentação oral previamente requerida.
 
-### N. AgInt no AREsp 2.760.773/[UF não identificada] - Erro Médico e Valoração de Prova Pericial (Início: 01:53:08)
-- **Relator:** [Não identificado]
+### N. AgInt no AREsp 2.760.773/SP - Indenização por erro médico e valoração de prova pericial (Início: 01:53:08)
+- **Relator:** Min. [Não identificado]
 - **Resultado:** Agravo interno provido
 - **Votação:** Unânime
-- **Resumo da discussão:** Ação de indenização por danos morais devido ao óbito de recém-nascido, por suposto erro médico. O tribunal de origem havia reformado a sentença de improcedência e condenado os réus solidariamente, a despeito de laudo pericial atestando inexistência de culpa. O relator asseverou que a desconsideração da prova pericial em matéria de alta complexidade, sem fundamentação técnica idônea que a justifique, permite afastar a Súmula 7 do STJ. O agravo interno foi provido para restabelecer integralmente a sentença.
+- **Resumo da discussão:** Trata-se de agravo interno em ação de indenização por óbito de recém-nascido decorrente de suposto erro médico. O TJSP havia reformado a sentença para condenar os réus solidariamente, contrariando a perícia judicial que atestou a inexistência de culpa. O relator deu provimento ao agravo interno e ao recurso especial para restabelecer a sentença de improcedência, fundamentando que a desconsideração de laudo pericial sem fundamentação técnica idônea viola os arts. 371 e 479 do CPC, o que afasta o óbice da Súmula 7/STJ para a revaloração da prova.
 
-### N. AgInt no AREsp 2.796.[Processo com numeração incompleta]/SP - Ação de Cobrança e Prescrição (Início: 01:56:21 e 02:03:23)
-- **Relator:** Min. [Não identificado]
+### N. AgInt no AREsp [Processo não identificado]/SP - Prescrição em cobrança por inadimplemento contratual (Início: 01:56:21 / 02:03:23)
+- **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Desprovido
-- **Votação:** Maioria (Acompanharam o Relator os Ministros Antônio Carlos Ferreira e Luís Carlos Gambogi; Vencidos os Ministros Maria Isabel Gallotti e Raul Araújo)
-- **Resumo da discussão:** A controvérsia centrou-se na definição do prazo prescricional aplicável a uma ação de cobrança por inadimplemento parcial de um contrato de compra e venda de frutas (pagamento antecipado sem a entrega de todas as caixas de laranja). O Relator votou por manter o acórdão que aplicou a prescrição quinquenal (art. 206, § 5º, I, do CC), por considerar que a apuração do valor devido exigia apenas cálculos aritméticos a partir das notas fiscais, incidindo também as Súmulas 5 e 7 do STJ. A divergência defendeu o prazo decenal (art. 205 do CC), por entender se tratar de pretensão indenizatória cuja liquidez só foi efetivamente alcançada com a prolação da sentença. O colegiado, por maioria, negou provimento ao agravo interno.
+- **Votação:** Maioria (3 a 2). Vencidos a Min. Maria Isabel Gallotti e o Min. Raul Araújo.
+- **Resumo da discussão:** A controvérsia definiu o prazo prescricional aplicável a uma ação pleiteando o pagamento por adimplemento parcial de contrato particular de compra e venda (entrega de safra de laranjas). O relator votou pelo desprovimento do agravo, mantendo a prescrição quinquenal, por entender tratar-se de cobrança de dívida líquida baseada em mera conta aritmética (notas fiscais e cláusula contratual). A Ministra Maria Isabel Gallotti inaugurou divergência, acompanhada pelo Ministro Raul Araújo, sustentando a incidência do prazo decenal por se tratar de ação indenizatória decorrente de descumprimento contratual, exigindo dilação probatória. Sagrou-se vencedor o voto do relator.
 
-### N. Agravo Interno (Pauta n. 13) [Processo não identificado] - Anulação de contrato de franquia e cumprimento de sentença (Início: 02:22:46)
-- **Relator:** Min. [Não identificado]
+### N. Agravo Interno [Processo não identificado] - Cumprimento de Sentença e Anulação de Contrato de Franquia (Início: 02:22:46)
+- **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** Trata-se de agravo interno em caso de cumprimento de sentença e ação declaratória de anulação de contrato de franquia ("Rede Mister Franquia" e "Ribamar"). Após a retirada do pedido de destaque, foi a julgamento em bloco. O Relator votou pelo desprovimento com base nas Súmulas 283 e 284 do STF, Súmula 7 do STJ e inviabilidade de análise pela alínea "c" por ausência de cotejo analítico e prejuízo atrelado à alínea "a".
+- **Resumo da discussão:** Após a retirada do pedido de destaque por um dos ministros, o relator apresentou o dispositivo em mesa para julgamento mais célere nos minutos finais. A controvérsia envolvia o cumprimento de sentença de anulação de contrato de franquia com pedido de rescisão cumulado com danos morais. O relator votou pelo desprovimento, reconhecendo a incidência das Súmulas 283 e 284 do STF pela ausência de impugnação de todos os fundamentos, e da Súmula 7 do STJ. Consignou ser inviável o conhecimento pela alínea "c" por ausência de cotejo analítico e demonstração de similitude fática. O voto foi acompanhado por unanimidade.
 
 ## Destaques da Sessão
-
-- **Abertura e Clima do Colegiado:** A sessão (7ª ordinária da Quarta Turma) iniciou com a aprovação unânime da ata anterior e a exibição de vídeos institucionais do STJ (Espaço do Advogado, acessibilidade, etc.). O clima de descontração e brincadeiras futebolísticas sobre resultados de partidas do Cruzeiro e Atlético marcou tanto o início quanto o fim dos trabalhos, com o Presidente exaltando a modéstia do colegiado como "a melhor turma do STJ".
-- **Desabafo e Ética Profissional:** O Ministro João Otávio de Noronha fez um desabafo incisivo sobre o aumento de interferências indevidas no STJ, relatando contatos excessivos e pedidos de adiamento de terceiros não relacionados aos processos, aproveitando para elogiar a atuação técnica de advogados legitimamente constituídos.
-- **Ineditismo e Impacto no Direito Desportivo:** Profundo e relevante debate sobre a exploração comercial do uniforme da equipe de arbitragem, opondo o Direito de Imagem ao Direito de Arena frente a patrocinadores da CBF, culminando em pedido de vista devido à complexidade da matéria e à divergência em relação a precedentes da Terceira Turma.
-- **Valoração da Prova Pericial:** Reafirmação incisiva do entendimento de que tribunais locais não podem desconsiderar laudo pericial em temas de alta complexidade (como erro médico) sem lastro técnico idôneo, superando-se o óbice da Súmula 7/STJ para restabelecer a sentença originária.
-- **Problemas Técnicos e Gestão da Pauta:** A sessão enfrentou falhas de sincronização no sistema eletrônico de liberação de votos logo em seu início. Além disso, a sessão foi encerrada antecipadamente (às 16h15) para viabilizar o comparecimento dos ministros a uma sessão administrativa concomitante, resultando no adiamento em bloco de processos e reagendamento para a próxima sessão ordinária (5 de maio).
+- **Abertura e Encerramento:** A sessão foi aberta após a exibição de vídeos institucionais (acessibilidade, campanhas, BDJur) e encerrada de forma antecipada para viabilizar a participação dos ministros em uma sessão administrativa. Isso resultou no adiamento em bloco dos últimos processos com sustentação oral e na retirada de um pedido de destaque para julgamento imediato em mesa.
+- **Clima Cordial:** A sessão foi marcada por momentos de descontração e comentários futebolísticos antes de seu início e em seu encerramento, ocasião em que o Presidente referiu-se à Quarta Turma como "a melhor turma do STJ".
+- **Repúdio a Interferências Indevidas:** O Min. João Otávio de Noronha fez um desabafo público relatando excesso de pedidos de audiência e interferências de terceiros em seu gabinete (caso Hyundai), advertindo duramente contra condutas de "venda de voto" em Brasília.
+- **Inconsistências no Sistema Eletrônico:** Registrou-se instabilidade técnica no sistema do STJ, que não disponibilizou para o colegiado os votos já liberados por um relator, exibindo apenas o relatório e forçando a suspensão temporária do item.
+- **Debate Doutrinário em Ação Rescisória:** Aprofundado debate jurídico que reafirmou o entendimento de que, transitada em julgado a decisão, opera-se a preclusão máxima; a prescrição não suscitada atempadamente pela parte na fase de conhecimento não pode fundamentar ação rescisória por violação literal de lei.
+- **Valoração Pericial e Súmula 7:** Fixação do entendimento de que o afastamento de um laudo técnico pericial pelas instâncias ordinárias exige fundamentação técnica idônea e robusta, viabilizando, na sua ausência, a superação da Súmula 7/STJ.
+- **Direito de Arena e Imagem de Árbitros:** Intenso debate sobre a exploração comercial da imagem de árbitros pelas patrocinadoras dos uniformes, culminando em pedido de vista para melhor análise entre os direitos individuais e os direitos cedidos à organização desportiva.
 
 ## Estatísticas
-- Total de processos julgados: 12
+- Total de processos julgados/apregoados: 12
 - Providos: 2
 - Desprovidos: 3
 - Parcialmente providos: 0
-- Outros (Apregoados, Adiados, Pedidos de Vista e Não Conhecidos): 7`
+- Outros: 7 (incluindo adiamentos, suspensões, pedidos de vista e recursos conhecidos em parte)`
   },
   {
     id: "2026-04-08_segunda_secao",
@@ -116,102 +117,92 @@ const resumosData = [
 
 ## Processos Julgados
 
-### 1. REsp 2.235.542/RJ, REsp 2.262.922/RJ e REsp 2.206.333/PR - Cobrança de condomínio na recuperação judicial (Recursos Repetitivos) (Início: 44:02)
+### N. REsp 2.235.542/RJ, REsp 2.262.922/RJ e REsp 2.206.333/PR - Cobrança de condomínio na recuperação judicial (Início: 44:02)
 - **Relator:** Min. Ricardo Villas Bôas Cueva
-- **Resultado:** Pedido de vista (julgamento suspenso)
-- **Votação:** Aguardam os demais ministros
-- **Tese fixada:** [Proposta pelo Relator, pendente de aprovação] "A classificação das despesas, débitos, cotas condominiais, em créditos de natureza concursal sujeitos aos efeitos da recuperação judicial do devedor ou extraconcursal, não sujeitos aos efeitos da recuperação judicial do devedor, deve observar o corte temporal estabelecido no artigo 49, caput da Lei 11.101 de 2005."
-- **Resumo da discussão:** O relator, Ministro Villas Bôas Cueva, proferiu voto propondo a tese de que a sujeição dos débitos condominiais à recuperação judicial depende do corte temporal de seu vencimento, conforme o art. 49 da Lei 11.101/2005. Votou pelo conhecimento e provimento dos REsps originários do Rio de Janeiro, julgando prejudicado o recurso oriundo do Paraná em razão de acordo. Na sequência, o Ministro Raul Araújo pediu vista antecipada, suspendendo o julgamento.
-
-### 2. AgInt no CC 197.936/DF - Execução de seguro garantia em execução trabalhista contra empresa em recuperação judicial (Início: 49:12)
-- **Relatora:** Min. Nancy Andrighi
-- **Resultado:** Pedido de vista (julgamento suspenso)
-- **Votação:** Divergência inaugurada (Relatora nega provimento; Min. Noronha diverge)
-- **Resumo da discussão:** A relatora votou por negar provimento ao agravo interno, fundamentando que o trânsito em julgado na Justiça do Trabalho ocorreu antes do pedido de recuperação judicial, o que configuraria o sinistro e permitiria ao juízo trabalhista exigir o depósito da seguradora sem afetar a recuperanda. O Ministro João Otávio de Noronha abriu divergência, argumentando que a apólice e a SUSEP determinam que o sinistro apenas se configurou com a homologação da liquidação e inadimplemento. Como a liquidação ocorreu após a recuperação, Noronha concluiu ser impossível exigir o pagamento na execução trabalhista.
-
-### 3. Conflito de Competência [Processo não identificado]/[UF não identificada] - Seguro Garantia Judicial e Recuperação Judicial (Início: 01:04:14)
-- **Relator:** Min. Isabel Gallotti
-- **Resultado:** Suspenso por pedido de vista coletiva
-- **Votação:** Relatora e Min. Humberto Martins negam provimento; divergência inaugurada pelo provimento
-- **Resumo da discussão:** O recurso discute a definição do juízo competente para atos executórios de seguro garantia judicial de empresa em recuperação. A divergência argumentou que o sinistro é o fato gerador e que a sub-rogação da seguradora não altera a natureza da dívida anterior, sujeitando-a ao juízo recuperacional. O Min. Humberto Martins acompanhou a relatora (Isabel Gallotti) negando provimento, pois a determinação de pagamento é cabível dado que o sinistro foi caracterizado antes da recuperação. O julgamento foi suspenso por pedido de vista do Min. Raul Araújo, convertido regimentalmente em vista coletiva por ser a terceira do feito.
-
-### 4. EREsp 1.974.375/[UF não identificada] - Termo inicial da prescrição em revisão de contratos de mútuo sucessivos (Início: 01:10:34)
-- **Relatora:** Min. Nancy Andrighi
-- **Resultado:** Suspenso por pedido de vista
-- **Votação:** Relatora dá provimento; Min. João Otávio de Noronha e Min. Isabel Gallotti negam provimento
-- **Resumo da discussão:** Trata-se de renovação de julgamento sobre o termo inicial da prescrição para ação revisional de contratos de mútuo agrícola sucessivos. A relatora aplicou a tese da "obrigação como processo", em que a fluência da prescrição inicia apenas na data do último contrato firmado. O Min. João Otávio de Noronha divergiu, sustentando que sucessivas renegociações caracterizam novação contratual (extinguindo a obrigação anterior) e que a tese geraria imprescritibilidade fática. A Min. Isabel Gallotti acompanhou a divergência lastreada na teoria da *actio nata* objetiva. Após intenso debate, o feito foi suspenso por pedido de vista do Min. Ricardo Villas Bôas Cueva.
-
-### 5. Embargos de Divergência [Processo não identificado]/[UF não identificada] - Termo inicial da prescrição em renegociação sucessiva de mútuo (Início: 01:34:26)
-- **Relatora:** Ministra [não identificada]
 - **Resultado:** Julgamento suspenso por pedido de vista
-- **Votação:** Relatora votou pelo provimento; Min. João Otávio de Noronha e Min. Isabel Gallotti pelo desprovimento
-- **Resumo da discussão:** Em debate similar ao anterior, mas envolvendo entidade de previdência complementar fechada (Fundação Corsan), a relatora votou pelo provimento. O Min. Noronha abriu divergência pelo desprovimento, extensamente fundamentada pela Min. Isabel Gallotti. A divergência sustenta que cada repactuação é autônoma, e estender a revisão indefinidamente afetaria severamente o mutualismo dos fundos, que não possuem fins lucrativos. O Min. Humberto Martins interveio citando precedente da 3ª Turma que corrobora a tese divergente. Julgamento suspenso por vista do Min. Ricardo Villas Bôas Cueva.
+- **Votação:** Pedido de vista antecipada do Min. Raul Araújo
+- **Tese fixada:** [Tese proposta pelo Relator, pendente de aprovação: "A classificação das despesas, débitos, cotas condominiais, em créditos de natureza concursal sujeitos aos efeitos da recuperação judicial do devedor ou extraconcursal, não sujeitos aos efeitos da recuperação judicial do devedor, deve observar o corte temporal estabelecido no artigo 49, caput da lei 11.101 de 2005."]
+- **Resumo da discussão:** O julgamento trata de recursos especiais sob a sistemática dos repetitivos para definir se débitos condominiais vencidos antes do pedido de recuperação judicial se submetem aos seus efeitos. O Relator apresentou voto pelo provimento de dois dos recursos (REsp 2.235.542/RJ e REsp 2.262.922/RJ) e julgou prejudicado o terceiro (REsp 2.206.333/PR) em virtude de acordo homologado. O Relator fundamentou que a ausência de previsão na Lei 11.101/2005 afastando nominalmente os débitos condominiais impõe a aplicação da regra geral de corte temporal do art. 49, *caput*. Após a leitura da ementa e da proposta de tese, o Ministro Raul Araújo pediu vista antecipada, suspendendo o julgamento.
 
-### 6. Ação Rescisória [Processo não identificado]/[UF não identificada] - [Tema não especificado] (Início: 01:49:12)
-- **Relator:** Min. Marco Buzzi
+### N. AgInt no CC 197.936/DF - Competência e execução de seguro garantia judicial em face de empresa em recuperação judicial (Início: 49:12 e [01:04:14])
+- **Relatora:** Min. Nancy Andrighi
+- **Resultado:** Julgamento suspenso (pedido de vista coletiva)
+- **Votação:** Divergência inaugurada pelo Min. João Otávio de Noronha dando provimento ao agravo; Min. Humberto Martins acompanhou a relatora (negando provimento).
+- **Resumo da discussão:** Discute-se a competência do juízo trabalhista para determinar à seguradora o depósito de indenização decorrente de seguro garantia judicial, no curso de execução em face de tomadora que entrou em recuperação judicial. A Relatora votou por negar provimento ao agravo interno, mantendo a competência do juízo trabalhista, por entender que o sinistro se configurou antes do deferimento do pedido de recuperação judicial. O Ministro João Otávio de Noronha inaugurou divergência exaustiva, argumentando que a configuração do sinistro não depende apenas do trânsito em julgado, mas da determinação judicial de pagamento, que ocorreu após o pedido recuperacional, atraindo a competência do juízo universal. O Ministro Humberto Martins acompanhou a relatora. Em seguida, o Ministro Raul Araújo pediu vista, o que foi convertido em vista coletiva.
+
+### N. EREsp 1.974.375/[UF não identificada] - Termo inicial da prescrição em contratos bancários renovados sucessivamente (Início: [01:10:34])
+- **Relatora:** Min. Nancy Andrighi
+- **Resultado:** Julgamento suspenso (pedido de vista)
+- **Votação:** Em andamento (Relatora provendo os embargos; Min. João Otávio de Noronha e Min. Isabel Gallotti negando provimento)
+- **Resumo da discussão:** Discute-se o termo inicial do prazo prescricional para a pretensão revisional de contratos de mútuo (em especial crédito agrícola) objetos de sucessivas renovações. A Relatora aplicou o paradigma da "obrigação como processo", entendendo que o prazo de 10 anos conta-se apenas da celebração do último contrato. O Ministro João Otávio de Noronha divergiu contundentemente, argumentando que a sequência de novos contratos configura novação, extinguindo a obrigação anterior. A Ministra Isabel Gallotti adiantou fundamentos acompanhando a divergência, pontuando que a prescrição corre a partir da assinatura de cada contrato autônomo. O julgamento foi suspenso por pedido de vista do Ministro Ricardo Villas Bôas Cueva.
+
+### N. Embargos de Divergência [Processo não identificado] - Prescrição em ações revisionais de mútuos sucessivos com previdência complementar (Início: 01:34:26)
+- **Relatora:** Min. [Não identificada]
+- **Resultado:** Julgamento suspenso (pedido de vista)
+- **Votação:** Em andamento (Relatora votou pelo provimento; Min. João Otávio de Noronha abriu divergência negando provimento, acompanhado pela Min. Maria Isabel Gallotti).
+- **Resumo da discussão:** O debate foca na definição do termo inicial da prescrição para ações de revisão de contratos de mútuo sucessivos firmados com entidade de previdência privada fechada (Fundação Corsan). Em voto divergente, argumentou-se que a contagem do prazo prescricional deve ocorrer a partir da assinatura de cada contrato individualizado, pois pretender um "efeito cascata" na revisão ofenderia a boa-fé objetiva e afetaria o fundo comum sem fins lucrativos da entidade. O Min. Humberto Martins ponderou que a jurisprudência vinha considerando a data do último contrato em casos de inovação da dívida. O julgamento foi suspenso em virtude de pedido de vista do Min. Ricardo Villas Bôas Cueva.
+
+### N. Ação Rescisória [Processo não identificado] - Julgamento de mérito e regularidade procedimental (Início: 01:49:10)
+- **Relator originário:** Min. Marco Buzzi
 - **Resultado:** Improcedente
 - **Votação:** Unânime
-- **Resumo da discussão:** O julgamento prosseguiu mesmo com a ausência física do relator originário (Min. Marco Buzzi), referendando-se não haver nulidade no ato com base em precedente da 4ª Turma. O acórdão será assinado pelo Desembargador Convocado Gamboge. A Min. Nancy Andrighi acompanhou *in totum* a posição do relator e do revisor pela improcedência, consolidando o resultado unânime.
+- **Resumo da discussão:** Retomada do julgamento de ação rescisória. Inicialmente, deliberou-se, em atenção a precedente da Quarta Turma, que não haveria nulidade no prosseguimento do julgamento na ausência do Relator originário (que já havia votado pela improcedência), com o acórdão passando a ser assinado pelo Desembargador convocado substituto. No mérito, todos os Ministros votantes acompanharam a relatoria sem ressalvas, culminando na improcedência unânime do pleito.
 
-### 7. AgInt nos EREsp 2.100.644/MG - Base de cálculo de honorários sucumbenciais e astreintes em liquidação de sentença (Início: 01:54:41)
+### N. AgInt nos EREsp 2.100.644/MG - Base de cálculo de honorários sucumbenciais (Início: 01:54:36 e 02:03:50)
 - **Relator:** Min. Raul Araújo
 - **Resultado:** Desprovido
 - **Votação:** Unânime
-- **Resumo da discussão:** Agravo interno para definir se astreintes integram a base de cálculo de honorários em fase de liquidação. Após sustentações orais — nas quais o agravante (Vibra Energia) apontou iniquidade na conversão da vencedora em devedora de honorários (R$ 11,7 milhões) superiores ao próprio proveito econômico (R$ 5,6 milhões) — o relator negou provimento. Explicou que o acórdão embargado (3ª Turma) afastou a revisão do título pela Súmula 7 por não reconhecer dubiedade, enquanto o paradigma da 4ª Turma envolvia flagrante ambiguidade. O Min. João Otávio de Noronha concordou, alertando que embargos de divergência não servem para sanar desproporção de honorários se o Recurso Especial esbarra na Súmula 7, incidindo o óbice da Súmula 315.
+- **Resumo da discussão:** A controvérsia centrou-se na análise de admissibilidade de embargos de divergência sobre a interpretação de título executivo judicial para a definição do proveito econômico e consequente cálculo de honorários sucumbenciais (litígio entre Vibra e Posto Serenata). A agravante alegou que o juízo errou ao incluir astreintes decaídas na base de cálculo. O Relator concluiu pela ausência da indispensável similitude fático-jurídica, aplicando as Súmulas 7 e 315 do STJ, sob o fundamento de que o título executivo era claro. O Min. João Otávio de Noronha acompanhou o relator, ressaltando que a via não era adequada para rever a desproporcionalidade dos honorários.
 
-### 8. AgInt nos EREsp 2.171.803/PE - Cabimento de ação rescisória, necessidade de prequestionamento e lucros cessantes (Início: 02:13:54)
+### N. AgInt nos EREsp 2.171.803/PE - Ação rescisória, prescrição e lucros cessantes em contrato de arrendamento rural (Início: 02:13:59 e 02:33:03)
 - **Relator:** Min. Antônio Carlos Ferreira
-- **Resultado:** Julgamento suspenso (Pedido de vista)
-- **Votação:** Relator votou por negar provimento. Ministra Nancy Andrighi pediu vista.
-- **Resumo da discussão:** Ação rescisória milionária manejada pelo Banco do Brasil por rescisão de arrendamento rural. O embargante sustentou divergência sobre inexigibilidade de prequestionamento da norma na rescisória e impossibilidade de lucros cessantes hipotéticos. O relator votou negando provimento, ressaltando falta de similitude, pois o acórdão embargado tratou da ausência de enfrentamento de matéria (prescrição), enquanto os paradigmas focavam na superação da Súmula 7 e no prequestionamento. Após o voto do relator, a Ministra Nancy Andrighi pediu vista.
+- **Resultado:** Julgamento suspenso (pedido de vista)
+- **Votação:** Maioria não formada (aguardando vista após voto do relator negando provimento)
+- **Resumo da discussão:** Trata-se de agravo interno contra indeferimento liminar de embargos de divergência em ação rescisória ajuizada pelo Banco do Brasil (com condenação superior a R$ 500 milhões). A controvérsia envolve o cabimento de ação rescisória quando a matéria jurídica não foi enfrentada no acórdão rescindendo e lucros cessantes de atividade agrícola. Após sustentações orais, o Relator negou provimento ao agravo, ressaltando a ausência de similitude fático-jurídica, uma vez que os paradigmas cuidaram de temas distintos. A Ministra Nancy Andrighi antecipou pedido de vista dos autos.
 
-### 9. EDcl nos EREsp 2.095.475/SP - Alegação de omissão (Início: 02:36:29)
+### N. EDcl nos EREsp 2.095.475/SP - Requisitos de Admissibilidade e Alegação de Omissão (Início: 02:36:29)
 - **Relator:** Min. Moura Ribeiro
 - **Resultado:** Rejeitados
-- **Votação:** Unânime
-- **Resumo da discussão:** O embargante alegou omissão quanto ao mérito. O relator destacou que o recurso original não preencheu os pressupostos de admissibilidade, configurando o recurso como tentativa transversa de modificar o resultado, não havendo omissão de mérito a sanar. A multa protelatória não foi aplicada.
+- **Votação:** Unânime (com impedimento averbado do Min. Ricardo Villas Bôas Cueva)
+- **Resumo da discussão:** Embargos de declaração opostos por alegada omissão quanto ao mérito. O Relator esclareceu que não configura vício a ausência de pronunciamento sobre o mérito quando os requisitos de admissibilidade do recurso não são superados. A Seção rejeitou os embargos, mas afastou a aplicação da multa do art. 1.026, § 2º, do CPC, firmando que a mera rejeição não implica, automaticamente, o reconhecimento de caráter protelatório.
 
-### 10. Rcl 47.679/RS - Suposto descumprimento de decisão do STJ (Início: 02:38:31)
+### N. Rcl 47.679/RS - Cumprimento de Decisão do STJ e Ônus da Prova sobre Vale-Pedágio (Início: 02:38:31)
 - **Relatora:** Min. Nancy Andrighi
-- **Resultado:** Improcedente
+- **Resultado:** Conhecida e julgada improcedente
 - **Votação:** Unânime
-- **Resumo da discussão:** Reclamação para apurar se o TJRS descumpriu comando do STJ para análise concreta de provas sobre pagamento de vale-pedágio. A relatora observou que o tribunal local procedeu ao exame minucioso dos contratos de frete colacionados, cumprindo totalmente a determinação da Corte Superior e afastando a presunção genérica anteriormente adotada.
+- **Resumo da discussão:** Reclamação ajuizada sob a tese de que o TJRS teria descumprido ordem do STJ para afastar fundamentação genérica (baseada na notoriedade das praças de pedágio) e realizar análise concreta sobre o ônus probatório do transportador. A Seção concluiu que o Tribunal de origem, ao examinar detidamente os contratos de frete, observou fielmente a determinação da Corte Superior, sanando o vício e não incorrendo em usurpação de competência.
 
-### 11. AR 7.296/DF - Cabimento de ação rescisória e prequestionamento (Início: 02:41:26)
+### N. AR 7.296/DF - Cabimento de Rescisória frente a Acórdão Fundado em Ausência de Prequestionamento (Início: 02:41:26)
 - **Relatora:** Min. Nancy Andrighi
-- **Resultado:** Improcedente
+- **Resultado:** Julgada improcedente
 - **Votação:** Unânime
-- **Resumo da discussão:** Para formar jurisprudência frente ao volume impressionante de rescisórias, o colegiado concordou em ultrapassar preliminar levantada pelo revisor (que questionava se a decisão rescindenda seria de mérito ou *obiter dictum* por falta de prequestionamento). No mérito, julgaram o pedido improcedente, com a retificação do valor da causa (para R$ 1.980.374,99) e fixação de honorários em 10%.
+- **Resumo da discussão:** O julgamento iniciou-se com debate preliminar sobre o cabimento da rescisória, pois o acórdão rescindendo não havia conhecido o recurso por ausência de prequestionamento, sendo a análise de mérito mero *obiter dictum*. A relatora propôs o conhecimento com intuito pedagógico, devido ao alto volume de rescisórias. A Seção conheceu da demanda, mas julgou o pedido totalmente improcedente. Consolidou-se também o acolhimento da impugnação ao valor da causa.
 
-### 12. EREsp [Processo não identificado]/[UF não identificada] - Dano moral por atraso na entrega de imóvel (Início: 02:47:01)
+### N. EREsp [Processo não identificado]/[UF não identificada] - Dano Moral Presumido por Atraso na Entrega de Imóvel (Início: 02:47:01)
 - **Relator:** Min. João Otávio de Noronha
-- **Resultado:** Julgamento suspenso (Pedido de vista)
-- **Votação:** Relator votou pelo provimento. Ministro Ricardo Villas Bôas Cueva pediu vista.
-- **Resumo da discussão:** O recurso buscava pacificar divergência entre turmas sobre dano moral por atraso de 1 ano na entrega de imóvel. O relator encaminhou voto para excluir a condenação, argumentando que o mero atraso sem circunstâncias excepcionais é inadimplemento contratual, prevenindo a banalização do dano moral. O Min. Ricardo Villas Bôas Cueva pediu vista antecipada.
+- **Resultado:** Julgamento suspenso (pedido de vista)
+- **Votação:** Maioria não formada (aguardando vista após voto do relator provendo os embargos)
+- **Resumo da discussão:** A controvérsia gira em torno do cabimento de danos morais presumidos em virtude de atraso de um ano na entrega de imóvel, evidenciando divergência entre Terceira e Quarta Turmas. O Relator votou para afastar a condenação in re ipsa, fundamentando que o mero atraso constitui inadimplemento contratual que não autoriza a presunção do dano moral, a fim de evitar banalização do instituto. O Ministro Ricardo Villas Bôas Cueva pediu vista antecipada.
 
-### 13. EREsp 1.964.261/SP - Inclusão da PLR na base de cálculo de alimentos (Início: 02:50:45)
+### N. EREsp 1.964.261/SP - Inclusão de PLR na Base de Cálculo da Pensão Alimentícia (Início: 02:50:45)
 - **Relator:** Min. João Otávio de Noronha
 - **Resultado:** Retirado de pauta
-- **Votação:** Não finalizada
-- **Resumo da discussão:** O relator apresentou voto pela exclusão da PLR da base de cálculo de alimentos, por o alimentando não ser "sócio" do alimentante. Contudo, instaurou-se forte divergência institucional quanto à formatação do voto (elaborado com auxílio de IA), que gerou uma "tese" de ementa destacada. Diante do debate sobre o risco de firmar teses fora do rito de repetitivos, o relator retirou o processo de pauta para reflexão.
+- **Votação:** Não aplicável
+- **Resumo da discussão:** O processo debatia a inclusão da Participação nos Lucros e Resultados (PLR) na base de cálculo da pensão alimentícia. O Relator antecipou que proveria os embargos para excluir a verba. Contudo, o processo foi retirado de pauta pelo próprio relator na sequência de um intenso debate jurisprudencial sobre os riscos do uso de Inteligência Artificial para a redação de teses engessadas em ementas, comprometendo-se a excluir manualmente o segmento criado pela IA.
 
 ## Destaques da Sessão
-- Extensas e emocionadas homenagens aos três anos de falecimento do Ministro Paulo de Tarso Sanseverino, com discursos de ministros, do Ministério Público e da Advocacia, relembrando seu legado nos recursos repetitivos.
-- Presença de estudantes e registro da ausência inicial justificada do Ministro Humberto Martins, retornando ao longo dos trabalhos.
-- Profundo debate doutrinário envolvendo "obrigação como processo" vs. novação em sucessivas renegociações de crédito (agrícola e de previdência complementar). Foi evidenciado o impacto financeiro e atuarial perigoso de estender revisões no âmbito de fundos fechados.
-- Resolução de questões regimentais: autorizou-se a proclamação de resultado de julgamento na ausência física do relator (mediante assinatura do substituto) e aplicou-se a regra de conversão automática em vista coletiva para o terceiro pedido de vista.
-- Rigor na admissão de Embargos de Divergência: reiterou-se que não cabe o recurso (Súmula 315) para corrigir condenações de honorários supostamente desproporcionais quando a lide sequer transpõe o juízo de conhecimento (Súmula 7).
-- Alerta para o crescimento expressivo no ajuizamento de ações rescisórias direcionadas à Corte.
-- Intenso debate crítico sobre o uso de Inteligência Artificial para gerar "teses" em ementas de recursos não submetidos à sistemática dos repetitivos. O colegiado externou preocupação com a distorção da sistemática de precedentes e o risco de padronização excessiva no direito privado, cujos julgamentos dependem de balizas fáticas específicas.
-- Resgate histórico da técnica de redação de ementas, com elogios aos extintos Ministros Sálvio de Figueiredo Teixeira, Eduardo Ribeiro e Ruy Rosado. Fez-se crítica à excessiva extensão das ementas atuais e ventilou-se a hipótese de contratação de assessoria especializada de português para os gabinetes.
+- **Uso de Inteligência Artificial e redação de ementas:** O destaque institucional da sessão foi o severo debate procedimental sobre a utilização de IA para minutar teses nas ementas, especialmente em casos sem julgamento de mérito. Preocupou-se com o risco de confusão na comunidade jurídica em equiparar esses textos a precedentes vinculantes. Criticou-se também a atual extensão das ementas, propondo-se o resgate do modelo histórico de síntese e a possibilidade de apoio técnico de revisão linguística aos gabinetes judiciais.
+- **Rigor procedimental e admissibilidade:** A Segunda Seção demonstrou forte alinhamento na aplicação da jurisprudência defensiva. Destacou-se o rigor na exigência de inequívoca similitude fático-jurídica para conhecimento de Embargos de Divergência, o exame criterioso do cabimento de Ação Rescisória, e a formalização de que a ausência do Relator originário (desde que já tenha votado) não impede a conclusão de julgamentos.
+- **Homenagens institucionais:** A Seção promoveu extensas e unânimes homenagens póstumas ao Ministro Paulo de Tarso Vieira Sanseverino, lembrando sua vocação para a magistratura e o legado deixado na Corte, notadamente a inauguração da primeira audiência pública do Tribunal.
+- **Debates de Direito Civil e Recuperacional:** Elevado rigor técnico nos debates sobre o termo inicial de prescrição em contratos com sucessivas renegociações (com preocupações sobre o mutualismo na previdência fechada) e na aferição de marcos temporais para submissão de créditos (condominiais e apólices de garantia) aos efeitos da Lei n. 11.101/2005.
+- **Presenças ilustres:** Registro, pela presidência, da presença de estudantes em programas de incentivo vocacional.
 
 ## Estatísticas
-- Total de processos analisados: 15 (13 itens de pauta)
+- Total de processos julgados: 14 (apreciados na sessão)
 - Providos: 0
-- Desprovidos: 2
+- Desprovidos: 5 (inclui julgados improcedentes e embargos rejeitados)
 - Parcialmente providos: 0
-- Improcedentes: 3
-- Outros: 10 (9 suspensos por pedido de vista, 1 retirado de pauta)`
+- Outros: 9 (suspensos por pedido de vista e retirados de pauta)`
   },
   {
     id: "2026-04-07_quarta_turma",
@@ -507,6 +498,35 @@ const resumosData = [
 - **Desprovidos:** 9
 - **Parcialmente providos:** 0
 - **Outros:** 10 (Pedidos de Vista, Adiamentos, Remessa à Seção Competente ou Apenas Apregoados)`
+  },
+  {
+    id: "ViLuxExqgS8",
+    title: "Quarta Turma",
+    date: "",
+    orgao: "Quarta Turma",
+    content: `# Resumo - Quarta Turma - data desconhecida
+    
+**Vídeo:** [Quarta Turma condena Braskem a indenizar porteiro demitido após desastre ambiental em Maceió](https://www.youtube.com/watch?v=ViLuxExqgS8)
+**Data:** data desconhecida
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### N. [Processo não identificado] - Indenização a trabalhador por desastre ambiental (Início: 00:00)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Provido (Sentença restabelecida)
+- **Votação:** Unânime
+- **Tese fixada:** A responsabilidade civil ambiental não se restringe aos danos materiais causados diretamente ao meio ambiente ou aos proprietários de imóveis atingidos, estendendo-se também aos efeitos reflexos sobre trabalhadores e moradores.
+- **Resumo da discussão:** Ação ajuizada por ex-porteiro que trabalhou por quase 30 anos em um condomínio localizado na área afetada pelo afundamento do solo causado pela mineração de sal-gema da Braskem S.A. em Maceió (2023). O prédio foi desocupado compulsoriamente, resultando na demissão do trabalhador. O Tribunal de Justiça de Alagoas (TJ/AL) havia negado o pedido de indenização sob o fundamento de ausência de relação direta e imediata entre a atividade da empresa e a demissão. O Superior Tribunal de Justiça, sob relatoria da Ministra Isabel Gallotti, entendeu que a demissão não foi uma decisão autônoma do condomínio empregador, mas uma consequência direta do desastre ambiental (dano em ricochete ou reflexo). A Quarta Turma restabeleceu a sentença de primeiro grau, condenando a Braskem ao pagamento de indenização de R$ 20.000,00, acrescida de juros e correção monetária.
+
+## Destaques da Sessão
+- Reconhecimento da teoria do dano reflexo (ou em ricochete) na responsabilidade civil ambiental, ampliando o escopo de indenização para trabalhadores prejudicados indiretamente por desastres ambientais, como no caso do colapso da mina em Maceió.
+
+## Estatísticas
+- Total de processos julgados: 1
+- Providos: 1 | Desprovidos: 0 | Parcialmente providos: 0 | Outros: 0`
   }
 ];
 
