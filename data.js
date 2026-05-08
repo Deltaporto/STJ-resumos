@@ -1,5 +1,239 @@
 const resumosData = [
   {
+    id: "2026-05-07_segunda_secao",
+    title: "Segunda Seção - 07/05/2026",
+    date: "07/05/2026",
+    orgao: "Segunda Seção",
+    theses: [{"text": "\"Nas relações jurídicas de direito civil e empresarial, a desconsideração da personalidade jurídica requer a efetiva comprovação de abuso da personalidade caracterizado por desvio de finalidade ou por confusão patrimonial nos termos exigidos pelo artigo 50 do Código Civil, teoria maior, sendo insuficiente a mera inexistência de bens penhoráveis e ou de encerramento irregular das atividades da sociedade empresária.\"", "processTitle": "4. REsp 1.873.187/SP e REsp 1.873.811/SP - Desconsideração da personalidade jurídica (Início: [02:03:11])"}],
+    content: `# Resumo - Segunda Seção - 07/05/2026
+    
+**Vídeo:** [Segunda Seção - STJ - 07/05/2026](https://www.youtube.com/watch?v=RWYylIk_lgg)
+**Data:** 07/05/2026
+**Órgão:** Segunda Seção
+
+---
+
+## Processos Julgados
+
+### 1. Reclamação 48.281/DF - Erro de distribuição e competência da Corte Especial (Início: 21:05)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Questão de Ordem acolhida para anular as decisões proferidas e redistribuir o feito
+- **Votação:** Unânime
+- **Resumo da discussão:** Trata-se de questão de ordem suscitada pelo relator, Ministro João Otávio de Noronha, referente ao item 14 da pauta, para sanar um equívoco ocorrido na distribuição do processo. O Relator esclareceu que a competência para o processamento e julgamento dos embargos de divergência atrelados à Reclamação pertence à Corte Especial do STJ, e não à Segunda Seção. Diante disso, propôs a imediata anulação das decisões e dos julgamentos anteriores realizados de forma incompetente pela Segunda Seção, bem como a consequente redistribuição dos autos à Corte Especial. O colegiado acolheu integralmente a proposta de afetação por unanimidade e sem debates divergentes.
+
+### 2. CC 207.504/MG - Conflito positivo em ações simultâneas de reconhecimento de união estável post mortem (Início: 22:36)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Conflito conhecido em parte para declarar a competência do juízo da 12ª Vara de Família de São Paulo
+- **Votação:** Unânime
+- **Resumo da discussão:** A chamada a julgamento deste processo (item 10 da pauta) foi antecipada com deferimento de preferência pela Presidência, pelo fato de a advogada do espólio suscitante ser lactante. O litígio envolve a sucessão de um falecido em 2021 e a existência de seis processos distintos em tramitação nas esferas estadual e federal, nos quais três diferentes mulheres pleiteiam simultaneamente o reconhecimento de união estável e pensão por morte. A advogada da família argumentou pela reunião de todos os feitos na Justiça Estadual para instrução conjunta. O Ministro Relator destacou que a competência para o reconhecimento da relação jurídico-familiar é das Varas de Família (Justiça Estadual), enquanto a concessão do benefício previdenciário cabe à Justiça Federal. Como o Juízo Federal de Minas Gerais já havia reconhecido sua incompetência para julgar a união estável, concluiu-se não haver conflito positivo. Aplicou-se o critério da prevenção para evitar decisões conflitantes. A Segunda Seção declarou a competência do juízo da 12ª Vara de Família de São Paulo, local onde foi ajuizada a primeira ação, determinando a suspensão do processo em curso na 1ª Vara de Sucessões de Uberaba em virtude da prejudicialidade externa, e revogou liminar anteriormente deferida.
+
+### 3. [Processo não identificado] - Locação por plataformas digitais em condomínio residencial (Início: 34:09)
+- **Relator:** Min. Nancy Andrighi
+- **Resultado:** Desprovido
+- **Votação:** Maioria (5 a 4). Vencidos os Ministros Humberto Martins, Antônio Carlos Ferreira, Villas Bôas Cueva e Luís Carlos Gamboa.
+- **Resumo da discussão:** O debate centralizou-se na possibilidade de utilização de unidades autônomas em condomínios estritamente residenciais para locação por curtíssima temporada via plataformas digitais (como o Airbnb), à míngua de vedação expressa na convenção condominial. Nas sustentações orais, argumentou-se a proteção ao direito de propriedade e a inexistência de prestação de serviços hoteleiros. A Ministra Nancy Andrighi, no entanto, argumentou que a reiterada exploração econômica, a alta rotatividade de pessoas estranhas e a profissionalização do oferecimento de leitos assemelham-se a atividade comercial/hoteleira, descaracterizando a destinação exclusivamente residencial e trazendo transtornos ao sossego. Propôs que essas relações consistem em "contratos atípicos de curta estadia", cuja prática demandaria aprovação expressa de 2/3 dos condôminos. Inaugurando a divergência, o Ministro Antônio Carlos Ferreira defendeu a máxima efetividade do direito de propriedade, fundamentando que qualquer restrição convencional precisaria ser expressa; na ausência, a locação seria lícita. O Ministro João Otávio de Noronha acompanhou a Relatora, registrando expressamente uma mudança em seu entendimento prévio sobre o tema em face das repercussões fáticas negativas, passando a exigir autorização expressa da convenção. Ao fim, prevaleceu o voto da relatora.
+
+### 4. REsp 1.873.187/SP e REsp 1.873.811/SP - Desconsideração da personalidade jurídica (Início: [02:03:11])
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Provido (REsp 1.873.187/SP) e Desprovido (REsp 1.873.811/SP)
+- **Votação:** Maioria (4 a 3) - Vencida a divergência inaugurada pela Min. Nancy Andrighi, acompanhada pelas Ministras Isabel Gallotti e Daniela Teixeira.
+- **Tese fixada:** "Nas relações jurídicas de direito civil e empresarial, a desconsideração da personalidade jurídica requer a efetiva comprovação de abuso da personalidade caracterizado por desvio de finalidade ou por confusão patrimonial nos termos exigidos pelo artigo 50 do Código Civil, teoria maior, sendo insuficiente a mera inexistência de bens penhoráveis e ou de encerramento irregular das atividades da sociedade empresária."
+- **Resumo da discussão:** O julgamento em bloco debateu os requisitos para a aplicação da "teoria maior" da desconsideração da personalidade jurídica. O debate contraposto versou sobre a insuficiência do encerramento irregular da sociedade ante a necessidade de prova de efetivo abuso ou fraude. O Relator defendeu que o mero encerramento irregular não basta para decretar a desconsideração, sendo necessária a comprovação concreta de desvio de finalidade ou confusão patrimonial, de modo a não equiparar o regime do Direito Civil ao da "teoria menor" de outros ramos jurídicos. A Ministra Nancy Andrighi inaugurou divergência, sugerindo que o encerramento irregular geraria presunção relativa de abuso e inverteria o ônus da prova contra os sócios. O colegiado também debateu amplamente o ambiente de negócios brasileiro e as imensas dificuldades e burocracias para a extinção regular de sociedades, tese encampada pelo Ministro João Otávio de Noronha em apoio ao relator. A tese restritiva da teoria maior defendida pelo Ministro Raul Araújo sagrou-se vencedora.
+
+### 5. REsp 2.203.524/RJ, REsp [Processo não identificado]/RJ e REsp [Processo não identificado]/PR - Continuação de Julgamento Adiada (Início: [02:49:51])
+- **Relator:** Min. Villas Bôas Cueva
+- **Resultado:** Adiado
+- **Resumo da discussão:** Processos chamados a julgamento para a apresentação de voto-vista. O Ministro Raul Araújo informou que estava com o voto pronto, mas preferia trazê-lo na sessão seguinte. O Ministro Relator e o Presidente concordaram, ocorrendo o adiamento do julgamento dos três feitos para a sessão de quarta-feira.
+
+### 6. CC 210.510/SP - Conflito de Competência entre Justiça do Trabalho e Juízo Arbitral para análise de vínculo de emprego (Início: [02:51:10])
+- **Relator:** Min. Humberto Martins
+- **Resultado:** Declarada a competência da Justiça do Trabalho.
+- **Votação:** Maioria. Vencidos os Ministros Maria Isabel Gallotti, João Otávio de Noronha, Antônio Carlos Ferreira e Luís Carlos Gamboa. Houve empate de 4 a 4, resolvido com o voto de desempate do Presidente, Min. Moura Ribeiro, que acompanhou o relator.
+- **Resumo da discussão:** Retorno de vista da Ministra Isabel Gallotti em conflito suscitado entre a Vara do Trabalho de São Paulo e uma Câmara de Mediação e Arbitragem, decorrente de contrato de prestação de serviços com cláusula compromissória. O trabalhador ajuizou ação requerendo reconhecimento de vínculo ("pejotização"), e a empresa instaurou procedimento arbitral. A Ministra Isabel Gallotti inaugurou divergência defendendo, amparada no Tema 1.389 do STF (ADPF 324, ADC 48) e no princípio *Kompetenz-Kompetenz*, que caberia primeiramente ao juízo arbitral convencionado analisar a validade do contrato civil, afastando a Justiça do Trabalho num primeiro momento. O Relator, acompanhado pelos Ministros Raul Araújo e Villas Bôas Cueva, manteve a fundamentação pela competência da Justiça do Trabalho no caso em tela, ressaltando a assimetria na relação e os rigorosos requisitos celetistas de validade de cláusula arbitral. Diante de empate na Seção, o Presidente proferiu o voto de minerva, firmando a competência do juízo trabalhista.
+
+### 7. EREsp 189593/PA - Limites da matéria impugnada em apelação (Início: 03:28:44)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Retomada do julgamento dos embargos de divergência com o voto-vista do Min. Humberto Martins, que concordou integralmente com a fundamentação apresentada anteriormente pela relatora. O provimento determinou a cassação do acórdão de origem para que o Tribunal *a quo* se limite a analisar a matéria que foi efetivamente impugnada em sede de apelação.
+
+### 8. AgInt [Processo não identificado]/SP - Cobertura de tratamentos fora do rol da ANS e Lei 14.454/2022 (Início: 03:31:21)
+- **Relator:** Min. Moura Ribeiro
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Agravo interno referente à obrigatoriedade de cobertura de tratamentos não incluídos no rol da ANS, pautado na Lei 14.454/2022. O processo retornou com retirada de pedido de destaque pela Ministra Maria Isabel Gallotti. A Ministra ressaltou seu entendimento de que a obrigatoriedade deveria alcançar apenas tratamentos com sólidas evidências científicas, mas curvou-se à tese já firmada pela maioria da Seção em julgamento anterior, acompanhando o Relator na negativa de provimento.
+
+## Destaques da Sessão
+- **Informativos Institucionais e Acessibilidade:** Apresentação de um novo marcador processual para ações sobre equidade racial, reformas na Biblioteca Célio Borja e inovações em acessibilidade (petições em Libras na Ouvidoria e OCR com leitura de tela para pessoas com deficiência). A sessão também registrou homenagem e deferimento de preferência a uma advogada lactante por ocasião da aproximação do Dia das Mães.
+- **Limites do Direito de Propriedade em Condomínios e o Avanço das Plataformas Digitais:** A Seção travou embate profundo de interpretação do Direito Privado (resultado 5x4) para definir a natureza jurídica do aluguel em aplicativos de curta estadia. Prevaleceu a tese de "contrato atípico" submetido a aprovação de 2/3 dos condôminos, superando a tese de máxima efetividade da propriedade que demandaria vedação expressa. Registrou-se a pública mudança de convicção jurisprudencial do Ministro João Otávio de Noronha.
+- **Desconsideração da Personalidade Jurídica:** Consolidou-se tese repetitiva restringindo a aplicação do art. 50 do Código Civil, reafirmando que a mera inexistência de bens ou o encerramento irregular não invertem o ônus da prova e não autorizam a desconsideração sob a "teoria maior" sem demonstração efetiva de desvio de finalidade, após intenso debate em torno da realidade burocrática brasileira e o enfraquecimento das sociedades de responsabilidade limitada.
+- **Repercussão da Posição do STF sobre "Pejotização":** A Seção avaliou detidamente os impactos das teses do Supremo Tribunal Federal de validação das formas de contratação civil, com profunda divisão interna e empate resolvido pelo Presidente ao fixar a competência da Justiça do Trabalho frente à convenção arbitral.
+- **Dinâmica da Presidência:** A sessão exigiu condução compartilhada e transferência temporária da Presidência ao Ministro Villas Bôas Cueva em virtude de compromissos inadiáveis do Presidente da Turma e extensão temporal provocada pelos extensos debates, encerrando-se com votos colegiados para a pronta recuperação da saúde do Ministro Presidente.
+
+## Estatísticas
+- Total de processos julgados: 11
+- Providos: 2
+- Desprovidos: 3
+- Parcialmente providos: 0
+- Outros: 6`
+  },
+  {
+    id: "2026-05-05_quarta_turma",
+    title: "Quarta Turma - 05/05/2026",
+    date: "05/05/2026",
+    orgao: "Quarta Turma",
+    theses: [],
+    content: `# Resumo - Quarta Turma - 05/05/2026
+    
+**Vídeo:** [Quarta Turma - STJ -  05/05/2026](https://www.youtube.com/watch?v=IDq_UYbv1j4)
+**Data:** 05/05/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. [Processo não identificado] - Renovação de julgamento por empate (Início: 00:44:33)
+- **Relator:** [Não identificado]
+- **Resultado:** Adiado (Renovação de julgamento com vista)
+- **Votação:** [Empate anterior]
+- **Resumo da discussão:** O Presidente da Turma apregoou um processo cujo julgamento anterior terminou empatado. Foi declarada a renovação do julgamento, sendo concedida vista ao Min. Luís Carlos Gambo (em substituição ao Min. Buzzi) para proferir o voto de desempate. Determinou-se a consequente renovação das sustentações orais.
+
+### 2. REsp 2.026.646/RO e REsp 2.115.978/[UF não identificada com clareza] - Indenização ambiental e atividade pesqueira (Início: 00:45:36)
+- **Relator:** Min. Maria Isabel Gallotti (REsp 2.026.646) e Min. Antônio Carlos Ferreira (REsp 2.115.978)
+- **Resultado:** Providos
+- **Votação:** Unânime (com ressalva de fundamentação do Min. Antônio Carlos Ferreira)
+- **Resumo da discussão:** Os recursos tratam de litígios pulverizados buscando indenizações por supostos danos à atividade pesqueira decorrentes da implantação do complexo hidrelétrico do Rio Madeira. O colegiado assentou que não se pode presumir a legitimidade ad causam e a comprovação do dano, devendo a comprovação da condição de pescador artesanal e o efetivo impacto negativo ocorrerem na fase de conhecimento. Prevaleceu o provimento aos recursos para julgar improcedentes os pedidos indenizatórios.
+
+### 3. REsp 1.975.128/MS - Aplicação da teoria finalista mitigada do CDC a empresas (Início: 00:55:06)
+- **Relator:** Min. João Otávio de Noronha (vencido); Relatora para o acórdão: Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Maioria (vencido o relator)
+- **Resumo da discussão:** O julgamento debateu a aplicação do CDC e da teoria finalista mitigada a uma empresa do setor sucroalcooleiro (TSF Logística / Massa Falida São Fernando) na aquisição de colheitadeiras de elevado valor da fabricante Cummins. O relator votou negando provimento. A Min. Maria Isabel Gallotti inaugurou a divergência, argumentando que a teoria finalista mitigada não se aplica a grandes corporações com poder econômico e técnico, pois maquinário agrícola de alto custo traduz-se em insumo. Destacou-se que a inversão do ônus da prova pode ocorrer pela via do ônus dinâmico do CPC. A Turma acompanhou a divergência para dar provimento ao recurso, superando a Súmula 7 por se tratar de revaloração jurídica, afastando a incidência do CDC e determinando o retorno dos autos à origem para o prosseguimento da análise.
+
+### 4. [REsp 1.526...]/SP - Contrato de factoring e inoponibilidade de exceções em duplicatas sem lastro (Início: 01:23:50)
+- **Relator:** [Não identificado]
+- **Resultado:** Pedido de vista
+- **Votação:** Não concluída
+- **Resumo da discussão:** Embargos à execução opostos pela Volkswagen contra Daniele Banco Fomento Comercial, referentes à cobrança de duplicatas adquiridas via factoring alegadamente "frias" (fraude de funcionário terceirizado). Após sustentações orais, o relator votou pelo parcial provimento para julgar improcedentes os embargos, fundamentando que o endosso cambial a endossatário de boa-fé em factoring impede a oposição de exceções pessoais, e aplicando a teoria da aparência na falha *in vigilando* perante o preposto. O Ministro Raul Araújo pediu vista motivado por dúvidas sobre o suprimento do aceite na duplicata através do carimbo de recebimento na respectiva nota fiscal.
+
+### 5. REsp 1.863.879/DF - Nulidade de cláusula retroativa em união estável e fraude à meação (Início: 01:49:52)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Parcialmente provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Ação declaratória de nulidade de negócios jurídicos por simulação na aquisição de imóveis visando fraude à meação. A Relatora destacou a jurisprudência pacífica de que a alteração de regime de bens em união estável opera apenas com eficácia prospectiva (*ex nunc*), sendo inválida a retroatividade. Afastada a premissa das instâncias ordinárias de renúncia válida aos bens anteriores, deu-se parcial provimento para afastar a retroatividade e determinar o retorno à origem para examinar a alegada simulação na aquisição dos bens, com a ressalva expressa de que eventuais terceiros adquirentes de boa-fé não serão atingidos, resolvendo-se eventual prejuízo em perdas e danos.
+
+### 6. [Processo não identificado] - Exigibilidade de multa diária e intimação eletrônica (Início: 02:06:54)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Adiado por pedido de vista
+- **Votação:** Pendente
+- **Resumo da discussão:** Discussão sobre a validade de intimação enviada por e-mail para cumprimento de obrigação de fazer sob pena de multa diária. O Relator negou provimento, reafirmando que o Tema 1.296 e a Súmula 410 do STJ exigem a intimação pessoal do devedor para execução de astreintes, sendo insuficiente a mera comunicação por e-mail. O julgamento foi suspenso em razão de pedido de vista antecipada do Ministro Antônio Carlos Ferreira.
+
+### 7. REsp 2.168.349/RJ - Ação declaratória sobre limites de sentença estrangeira (Início: 02:23:39)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Discute-se o cabimento de ação declaratória no Brasil para interpretar os limites de sentenças proferidas nas Ilhas Cayman, ajuizada pelo Grupo Opportunity contra Luís Roberto Demarco, cumulada com tutela inibitória contra a propagação de narrativa de condenação criminal. O relator confirmou a competência do foro do Rio de Janeiro e concluiu que a interpretação dada pelo Tribunal estadual às decisões estrangeiras não configura ofensa à coisa julgada alienígena nem novo julgamento da lide, consubstanciando legítima valoração probatória para aferir a licitude da conduta do réu no Brasil. 
+
+### 8. AREsp 291.395/SP - Indenização por danos morais e Liberdade de Imprensa (Início: 02:56:32)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Agravo interno provido para conhecer do agravo e do recurso especial, negando-se provimento ao recurso
+- **Votação:** Unânime
+- **Resumo da discussão:** Litígio entre Opportunity e empresa jornalística sobre danos morais por publicação. O relator destacou que matérias jornalísticas sobre fatos verídicos de interesse público em investigações em curso configuram exercício regular da liberdade de imprensa. Inexistindo excesso de linguagem e estando presentes os ânimos de narrar e criticar, a imprensa não é obrigada a aguardar a conclusão de procedimentos judiciais, inexistindo o dever de indenizar.
+
+### 9. REsp 2.000.493/SP - Interpretação extensiva de cláusula penal em contrato paritário (Início: 02:59:57)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Resumo da discussão:** Ação de cobrança e rescisão de contrato de compra e venda de soja (entre CG 3S e Indiana Agro) por inadimplemento. Discutia-se a aplicação da multa da cláusula 6.2 aplicada pelas instâncias ordinárias. O relator votou pelo provimento do recurso para afastar a condenação, fixando o entendimento de que, em contratos empresariais paritários, a cláusula penal decorre da autonomia privada, exige interpretação estrita e não pode ser estendida pelo juízo a hipóteses de inadimplemento não expressamente previstas, sob pena de violar a segurança e a força obrigatória do contrato.
+
+### 10. AREsp 2.982.936/[UF não identificada] - Ausência de procuração e regularização processual (Início: 03:24:33)
+- **Relator:** Min. João Otávio de Noronha (Presidente)
+- **Resultado:** Desprovido
+- **Votação:** Unânime (com ressalva de entendimento do Min. Raul Araújo)
+- **Resumo da discussão:** Agravo interno contra decisão da Presidência que não conheceu do recurso especial por ausência de cadeia completa de substabelecimento. O relator aplicou a Súmula 115 do STJ, afastando, contudo, a incidência da multa do art. 1.021, § 4º, do CPC. O Ministro Raul Araújo fez uma ressalva registrando seu posicionamento pessoal divergente (menos formalista), mas acompanhou a jurisprudência consolidada da Corte.
+
+### 11. EDcl no [Processo não identificado]/[UF não identificada] - Requisitos para embargos de declaração (Início: 03:26:48)
+- **Relator:** Min. João Otávio de Noronha (Presidente)
+- **Resultado:** Rejeitados
+- **Votação:** Unânime
+- **Resumo da discussão:** Embargos de declaração rejeitados por ausência de omissão, obscuridade, contradição ou erro material. O relator consignou que os embargos possuem finalidade integrativa e não se prestam à reforma do entendimento ou rejulgamento, tratando-se de mero inconformismo da parte.
+
+### 12. AgInt no REsp 2.592.790/[UF não identificada] - Direito de preferência e depósito insuficiente (Início: 03:27:52)
+- **Relator:** Min. João Otávio de Noronha (Presidente)
+- **Resultado:** Adiado
+- **Votação:** Não concluída
+- **Resumo da discussão:** Disputa sobre o exercício de direito de preferência na aquisição de imóvel. O relator proferiu voto desprovendo o agravo interno, mantendo a premissa das instâncias ordinárias de que o valor depositado pela agravante era insuficiente e indicava má-fé. O Ministro Raul Araújo iniciou debate questionando como exercer a preferência senão pelo preço da escritura, ponderando que as partes originárias não poderiam firmar valor reduzido à revelia do titular do direito. Diante disso, o relator decidiu adiar o julgamento para reexaminar a questão.
+
+### 13. AREsp 2.272.041/GO - Omissão em acórdão sobre inexigibilidade de título (Início: 03:31:38)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Embargos de declaração acolhidos com efeitos modificativos (Recurso Especial provido)
+- **Votação:** Unânime
+- **Resumo da discussão:** A relatora identificou ofensa ao art. 1.022 do CPC por omissão no acórdão de origem, que afastou a inexigibilidade do título mediante reconhecimento de cessão de crédito presumida, sem enfrentar argumentos cruciais do credor. Os embargos foram acolhidos para dar provimento ao recurso especial, retornando os autos ao Tribunal local para suprir a falha de fundamentação.
+
+### 14. [Processo não identificado] - Cobrança de taxas condominiais e o Tema 886/STJ (Início: 03:33:46)
+- **Relator:** [Não identificado]
+- **Resultado:** Adiado
+- **Votação:** Não houve
+- **Resumo da discussão:** Discutia-se a responsabilidade por despesas de condomínio. O relator aplicava o Tema 886/STJ, que isenta o adquirente antes da entrega das chaves. Contudo, o Min. Raul Araújo realizou destaque apontando que, por se tratar de ação do próprio condomínio contra a construtora (proprietária registral), esta não poderia se esquivar, garantindo-se o direito de regresso, visto que o condomínio não pode ficar inerte. O relator concordou e determinou o adiamento para readequar seu voto.
+
+### 15. AgInt no AREsp 2.058.380/[UF não identificada] - [Tema não identificado] (Início: 03:39:01)
+- **Relator:** [Não identificado]
+- **Resultado:** Pedido de vista
+- **Votação:** Não concluída
+- **Resumo da discussão:** Após o relator informar que proveu o agravo interno e o recurso especial, o Ministro Raul Araújo pediu vista dos autos por constatar que matéria idêntica encontra-se em vias de análise pela Corte Especial do STJ, sendo prudente aguardar deliberação superior.
+
+### 16. [Processo não identificado] - [Tema não identificado] (Início: 03:39:47)
+- **Relator:** [Não identificado]
+- **Resultado:** Adiado
+- **Votação:** Não houve
+- **Resumo da discussão:** Processo apregoado brevemente pelo presidente da Turma que, devido à necessidade de aguardar um ministro específico para prosseguir com a votação, foi sumariamente adiado sem leitura de ementa.
+
+### 17. AREsp 3.090.844/[UF não identificada] - Acolhimento institucional de menores (Início: 03:39:58)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Agravo interno provido para reconsiderar a decisão; no mérito, recurso especial desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** Manutenção de acolhimento institucional emergencial de duas menores. A despeito da regra da manutenção no núcleo biológico, o relator baseou-se na doutrina da proteção integral (ECA) para concluir que os graves relatórios de negligência, abusos e incapacidade protetiva do genitor exigem a prevalência temporária do afastamento em respeito ao melhor interesse das crianças.
+
+### 18. REsp 2.162.139/DF - Liquidação e conversão de obrigação de fazer em perdas e danos (Início: 03:43:41)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Embargos de declaração parcialmente acolhidos
+- **Votação:** Unânime
+- **Resumo da discussão:** Litígio imobiliário de alta complexidade (Academia de Tênis). O relator acolheu embargos de três das partes para sanar obscuridades quanto aos parâmetros da liquidação de sentença: definiu-se que os danos emergentes derivarão do saldo de área inadimplida em metros quadrados, convertido em pecúnia mediante o preço de mercado da época da liquidação, momento a partir do qual incidirá a taxa Selic para evitar assimetrias inflacionárias.
+
+### 19. REsp 2.250.649/[UF não identificada] - Fornecimento de medicamento de uso domiciliar (Início: 03:57:31)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Recurso especial desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** O recurso contava com destaque da Min. Maria Isabel Gallotti fundamentado na preocupação sobre possível imposição de cobertura de medicamento domiciliar por operadora de saúde. Verificando que o voto do relator já esclarecia que essa imposição não configurava o escopo nem o comando da decisão, a ministra retirou o destaque e a Turma negou provimento em consenso.
+
+### 20. [Processo não identificado] - Fixação de tese (Início: 03:58:36)
+- **Resultado:** [Não identificado]
+- **Resumo da discussão:** Processo em que um dos ministros esclareceu ao colegiado que modificou a versão original de seu voto para excluir do acórdão a fixação de uma tese jurídica vinculante, limitando o comando decisório estritamente ao caso concreto em debate.
+
+### 21. [Processo não identificado] - Questão de Ordem (Início: 03:59:01)
+- **Relator:** Min. Luís Carlos Gamboze
+- **Resultado:** Adiado para a próxima sessão
+- **Resumo da discussão:** O colegiado, em comum acordo e devido à elevada complexidade de uma Questão de Ordem a ser relatada, deferiu o adiamento do feito, tendo em vista a necessidade de um dos ministros se ausentar antes do fim da sessão para cumprimento de compromisso em corte eleitoral.
+
+## Destaques da Sessão
+- **Programação Institucional e Adiamento de Pauta:** A sessão iniciou-se com campanhas relevantes de inclusão (combate ao racismo estrutural, ações de equidade e acessibilidade em LIBRAS). Ao término da assentada, por necessidade de quórum e pauta extensa, os trabalhos foram suspensos com convocação de sessão extraordinária, transferindo-se os debates mais complexos, como uma Questão de Ordem.
+- **Limites da Teoria Finalista Mitigada (CDC):** Debate de peso em voto divergente, definindo que empresas e corporações de grande porte, ao adquirirem insumos de alto custo, não gozam da presunção de vulnerabilidade típica da teoria finalista mitigada do Código de Defesa do Consumidor.
+- **Rigidez nos Contratos Empresariais Paritários:** Fortalecimento da segurança jurídica e da autonomia privada empresarial por meio de entendimento de que as cláusulas penais estipuladas entre partes iguais comportam apenas interpretação estritamente literal, vedada a extensão analógica pelo Judiciário.
+- **Relações Cambiárias e Factoring:** Reafirmação da inoponibilidade de exceções pessoais quando há transferência de duplicata a faturizadora de boa-fé. Discutiu-se paralelamente a teoria da aparência na emissão fraudulenta de títulos por terceirizados nas dependências da sacada.
+- **Direito de Família (União Estável e Menores):** Assentou-se a eficácia unicamente *ex nunc* (prospectiva) para as convenções de alteração de regime de bens entre companheiros; bem como prevaleceu o superior interesse da criança, com base no ECA, na manutenção da medida excepcional de acolhimento institucional perante graves vulnerabilidades no lar original.
+- **Comunicação Processual e Multas Combinatórias:** Distinção basilar da Quarta Turma reiterando o estrito rigor da Súmula 410, rechaçando validade de intimações eletrônicas comuns (e-mail) em substituição à intimação pessoal do devedor para eficácia e cobrança de astreintes.
+- **Competência em Decisões Estrangeiras:** O colegiado chancelou a validade da jurisdição nacional (Ação Declaratória) para interpretar exaustivamente e fixar contornos sobre os limites de decisões emanadas pelas Ilhas Cayman, visando prevenir condutas caluniosas no território brasileiro.
+- **Dinâmica Condominial (Tema 886):** Harmonização do precedente repetitivo para salvaguardar os condomínios: o proprietário registral (construtora) responde perante a coletividade pela cota condominial, mantendo-se o regresso posterior contra o promitente comprador imissão na posse.
+
+## Estatísticas
+- Total de processos julgados: 21 (incluindo processos julgados, apregoados, adiados ou com vista conjunta)
+- Providos: 4
+- Desprovidos: 5
+- Parcialmente providos: 2
+- Outros: 10 (adiamentos, pedidos de vista, embargos de declaração rejeitados ou questões resolvidas sem deliberação de mérito final)`
+  },
+  {
     id: "2026-04-14_quarta_turma",
     title: "Quarta Turma - 14/04/2026",
     date: "14/04/2026",
