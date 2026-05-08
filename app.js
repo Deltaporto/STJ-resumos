@@ -133,14 +133,40 @@ document.addEventListener('DOMContentLoaded', () => {
         'bzon': 'Des. Convocado Bzon'
     };
 
+    const relatorBlacklist = [
+        'nao identificado',
+        'nao identificada',
+        'presidente',
+        'relator',
+        'relatora',
+        'trecho',
+        'transcricao',
+        'mencionado',
+        'vencido'
+    ];
+
     const normalizeRelatorName = (name) => {
         if (!name) return '';
-        let clean = name.replace(/^(Min\.|Ministro|Ministra|Des\.|Desembargador|Desembargadora|Convocado|Convocada|Des\.\s+Convocado)\s+/gi, '')
-                        .trim()
-                        .replace(/[\.,]+$/, '');
+        
+        // Remove conteúdo entre parênteses e colchetes (ruído de transcrição ou observações)
+        let clean = name.replace(/\s*[\(\[][^\]\)]*[\)\]]\s*/g, ' ').trim();
+        
+        // Remove títulos e prefixos comuns
+        clean = clean.replace(/^(Min\.|Ministro|Ministra|Des\.|Desembargador|Desembargadora|Convocado|Convocada|Des\.\s+Convocado)\s+/gi, '')
+                     .trim()
+                     .replace(/[\.,]+$/, '');
         
         const id = normalizeText(clean);
+        
+        // Verifica se o termo está na blacklist
+        if (relatorBlacklist.some(term => id.includes(term))) {
+            return '';
+        }
+
         if (relatorCanonicalMap[id]) return relatorCanonicalMap[id];
+        
+        // Se for muito curto (ruído), descarta
+        if (clean.length < 4) return '';
         
         // Basic Title Case if not in map
         return clean.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ');
@@ -1443,10 +1469,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const relatorSelect = document.getElementById('relatorSelect');
     if (relatorSelect) {
-        // Obter relatores normalizados únicos de todas as sessões
-        const uniqueRelatores = [...new Set(sessions.flatMap(s => s.relatores))].sort();
+        // Obter relatores únicos de todas as sessões
+        // Prioriza o campo 'relatores' (pré-classificado) se existir no objeto da sessão
+        const allRelatores = sessions.flatMap(s => {
+            if (s.relatores && s.relatores.length > 0) {
+                return s.relatores;
+            }
+            // Fallback para extração dinâmica (legado/segurança)
+            return extractRelatores(s.content);
+        });
 
-        uniqueRelatores.forEach(relator => {
+        const uniqueRelatores = [...new Set(allRelatores)]
+            .map(r => normalizeRelatorName(r))
+            .filter(r => r && r.length > 5) // Filtra nomes vazios ou excessivamente curtos
+            .sort();
+
+        const finalUniqueRelatores = [...new Set(uniqueRelatores)];
+
+        finalUniqueRelatores.forEach(relator => {
             const option = document.createElement('option');
             option.value = relator;
             option.textContent = relator;
