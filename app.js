@@ -400,6 +400,8 @@ document.addEventListener('DOMContentLoaded', () => {
         return Math.max(h3Count, boldCount, 0);
     };
 
+    const formatProcessCount = (count) => `${count} ${count === 1 ? 'processo' : 'processos'}`;
+
     const extractHighlights = (content) => {
         const section = findSection(content, ['destaques', 'destaques institucionais', 'destaques da sessão']);
         if (!section) {
@@ -875,7 +877,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </span>
                 <span class="hero-chip">
                     <i data-lucide="rows-3"></i>
-                    ${escapeHtml(String(session.processCount))} processos
+                    ${escapeHtml(formatProcessCount(session.processCount))}
                 </span>
             </div>
         `;
@@ -893,7 +895,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="doc-meta-details">
                         <span class="doc-meta-detail">${escapeHtml(session.date)}</span>
                         <span class="doc-meta-detail">${escapeHtml(session.orgao)}</span>
-                        <span class="doc-meta-detail">${escapeHtml(String(session.processCount))} processos</span>
+                        <span class="doc-meta-detail">${escapeHtml(formatProcessCount(session.processCount))}</span>
                     </div>
                 </div>
             </div>
@@ -975,7 +977,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const countSpan = document.createElement('span');
             countSpan.className = 'session-count';
-            countSpan.textContent = `${session.processCount} processos`;
+            countSpan.textContent = formatProcessCount(session.processCount);
             topDiv.appendChild(countSpan);
 
             button.appendChild(topDiv);
