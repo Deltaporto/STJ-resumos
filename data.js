@@ -1,11 +1,283 @@
 const resumosData = [
   {
+    id: "2026-05-12_quarta_turma",
+    title: "Quarta Turma - 12/05/2026",
+    date: "12/05/2026",
+    orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=aBXU8XOc1zw", "https://www.youtube.com/watch?v=G3O3ZmNQDkk"],
+    theses: [{"text": "É cabível o manejo de oposição pelo ente público em demanda possessória entre particulares para a defesa de bem público, especialmente quando os réus da ação principal reconhecem a titularidade estatal e sua própria ilegitimidade passiva. A exigência de litisconsórcio passivo necessário na oposição (demandar ambos os polos do processo originário) pode ser mitigada pelo princípio da instrumentalidade das formas quando um dos opostos reconhece o pedido do opoente.", "processTitle": "1. N. AgInt no REsp 1.474.449/PI - Natureza jurídica e requisitos da ação de oposição para fins de defesa de bem público (Início: 24:25)", "type": "final"}, {"text": "Procede o pedido de destituição do poder familiar quando caracterizado o abandono material e afetivo, aliado à dependência química da genitora, situação de vulnerabilidade social e descumprimento injustificado dos deveres de sustento, guarda e educação, prevalecendo o princípio do melhor interesse da criança sobre a manutenção da família natural.", "processTitle": "2. N. AREsp 2.847.839/RJ - Destituição do poder familiar e proteção integral do menor (Início: 40:33)", "type": "final"}, {"text": "A alteração das conclusões das instâncias ordinárias acerca da existência ou não de bens remanescentes para fins de sobrepartilha após a homologação de divórcio exige o reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial pela Súmula 7/STJ.", "processTitle": "3. N. REsp 777.343 - Sobrepartilha em divórcio e acervo patrimonial (Início: 45:41)", "type": "final"}, {"text": "Em ação cautelar de sustação de protesto de elevado valor, onde não há proveito econômico imediato mensurável, admite-se a fixação dos honorários advocatícios por equidade, nos termos do art. 85, § 8º, do CPC/2015, evitando-se condenações desproporcionais em incidentes processuais.", "processTitle": "4. N. REsp 2.110.852 - Honorários advocatícios por equidade em ação cautelar de sustação de protesto (Início: 48:41)", "type": "final"}, {"text": "Compete à Segunda Seção do STJ uniformizar a jurisprudência quanto aos critérios de admissibilidade e prescrição nas ações de exigir contas relativas ao Fundo 157 (Decreto-Lei n. 157/1967).", "processTitle": "5. N. REsp 2.000.265/RS - Questão de Ordem: Fundo 157 e ação de exigir contas (Início: 59:10)", "type": "final"}, {"text": "É legítima a cobrança de tarifa sobre contas de poupança inativas no período anterior à vigência da Resolução CMN n. 2.303/1996, com base na autorização contida na Circular Bacen n. 1.323/1988.", "processTitle": "6. N. REsp 1.449.696/SP - Cobrança de tarifa sobre contas de poupança inativas (Início: 01:18:28)", "type": "final"}, {"text": "É cabível a fixação de honorários advocatícios por apreciação equitativa (art. 85, § 8º, do CPC) quando o acolhimento da exceção de pré-executividade implica apenas a exclusão de um litisconsorte passivo por erro material, sem extinção total da execução.", "processTitle": "10. N. REsp 2.125.569/SP - Honorários por equidade em exclusão de litisconsorte (Início: 01:37:31)", "type": "final"}, {"text": "A ausência de prequestionamento sobre a prejudicialidade de pedidos formulados em embargos à execução impede o conhecimento do recurso especial.", "processTitle": "11. N. REsp 2.136.723/SP - Nulidade de título executivo e omissão sobre danos morais (Início: 01:43:56)", "type": "final"}, {"text": "A gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro é lícita. A inviolabilidade do domicílio profissional do advogado não se estende a diálogos ocorridos em departamento jurídico de instituição de ensino com finalidade meramente administrativa e sem o exercício estrito da advocacia.", "processTitle": "12. N. REsp 1.969.798/DF - Licitude de gravação ambiental em departamento jurídico corporativo (Início: 01:46:31)", "type": "final"}, {"text": "Na linha colateral, o direito de representação limita-se aos filhos de irmãos do falecido (sobrinhos), não se estendendo aos netos de irmãos (sobrinhos-netos).", "processTitle": "13. N. AREsp 27 - Direito de representação na sucessão colateral (Início: 01:57:56)", "type": "final"}, {"text": "É cabível a fixação de honorários por equidade quando o incidente visa corrigir erro material na indicação do polo passivo imediatamente retificado pelo exequente.", "processTitle": "14. N. [Processo não identificado] - Honorários em exceção de pré-executividade por erro material (Início: 02:01:18)", "type": "final"}, {"text": "A pensão previdenciária (INSS) não pode ser compensada ou abatida da indenização civil por danos materiais (pensão alimentícia) devida pelo causador do ato ilícito, dada a autonomia e natureza jurídica distinta dos institutos.", "processTitle": "15. N. REsp 1.595.140/PR - Cumulação de pensão previdenciária e indenização civil por ato ilícito (Início: 02:03:21)", "type": "final"}, {"text": "A previsão de taxa anual superior ao duodécuplo da mensal, com cláusula expressa de capitalização diária, autoriza a cobrança da taxa contratada, sendo desnecessária a indicação numérica da taxa diária equivalente em contratos de longa duração.", "processTitle": "16. N. [Processo não identificado] / RS - Capitalização diária de juros e dever de informação (Início: 02:41:21)", "type": "final"}, {"text": "Nos termos do artigo 46, inciso VIII, da Lei 9.610/98 e da chamada \"regra dos três passos\", não configura violação a direitos autorais a utilização de trecho de obra preexistente em obra nova, desde que a reprodução não constitua o objetivo principal da obra, não haja prejuízo à exploração normal da obra original e não sejam verificados danos aos legítimos interesses do autor.", "processTitle": "19. REsp 1.727.970/[UF] - Direitos autorais e a \"regra dos três passos\" em obra didática (Início: 50:08)", "type": "final"}, {"text": "A presunção de veracidade que decorre da escritura pública (art. 215 do Código Civil) é relativa (iuris tantum) e não absoluta, podendo ser afastada por prova em contrário, produzida em contraditório judicial, especialmente quando demonstrada a simulação do preço real do negócio para fins de redução de carga tributária.", "processTitle": "20. AREsp 2.592.790/[UF] - Simulação de preço em escritura pública e direito de preferência (Início: 55:06)", "type": "final"}, {"text": "Fica registrada a prorrogação do prazo de vista regimental para análise do recurso.", "processTitle": "23. REsp 2.652.554/SP - Prorrogação de prazo de vista (Início: 01:34:57)", "type": "final"}, {"text": "Os embargos de declaração, ainda que não conhecidos por intempestividade ou outros vícios, possuem o condão de interromper o prazo para a interposição de outros recursos, em observância ao critério objetivo e à segurança jurídica.", "processTitle": "24. REsp 2.058.380/SP - Interrupção de prazo por Embargos de Declaração não conhecidos (Início: 01:35:56)", "type": "final"}, {"text": "A Súmula 308 do STJ, que trata da ineficácia da hipoteca perante o adquirente de boa-fé, não se aplica por analogia aos contratos de alienação fiduciária de imóveis regidos pela Lei 9.514/97, dada a diversidade de regimes jurídicos e a natureza da garantia.", "processTitle": "25. REsp 1.480.584/DF - Inaplicabilidade da Súmula 308 à alienação fiduciária (Início: 01:39:18)", "type": "final"}, {"text": "No contrato de construção sob o regime de administração ou preço de custo, não há relação de consumo tutelada pelo CDC, sendo a relação regida pela Lei 4.591/64, o que torna a construtora parte ilegítima para figurar no polo passivo de ação que visa anular leilão extrajudicial por aumento de preço.", "processTitle": "26. AREsp 2.580.766/SP - Ilegitimidade de construtora em regime de preço de custo (Início: 01:47:01)", "type": "final"}, {"text": "Em observância ao princípio da proteção integral e do melhor interesse da criança, deve-se preservar a situação fática consolidada de acolhimento em família substituta quando demonstrada a inaptidão psíquica e social dos genitores biológicos para o exercício do poder familiar.", "processTitle": "27. AREsp 2.110.850/RN - Destituição de poder familiar e melhor interesse da criança (Início: 01:49:37)", "type": "final"}, {"text": "O atropelamento de passageiro no interior de terminal rodoviário urbano por ônibus da transportadora caracteriza fortuito interno (risco da atividade), mas admite-se a redução equitativa da indenização caso comprovada a culpa concorrente da vítima (Art. 738, parágrafo único, do Código Civil).", "processTitle": "28. REsp 1.637.473/PR - Acidente em terminal rodoviário e culpa concorrente (Início: 01:54:08)", "type": "final"}, {"text": "Não caracteriza fraude à Lei de Loteamento (Lei 6.766/79) a alienação de frações ideais por incorporadora que não se responsabiliza pela execução direta da construção, desde que haja projeto aprovado e registro conforme o art. 29 da Lei 4.591/64.", "processTitle": "29. REsp 1.917.818/SP - Validade de incorporação com venda de frações ideais (Início: 01:58:33)", "type": "final"}, {"text": "A essencialidade de bens de capital garantidos por alienação fiduciária não afasta a extraconcursalidade do crédito, mas impede a retirada dos bens do estabelecimento do devedor durante o prazo de suspensão (stay period). Ademais, os empréstimos firmados entre cooperativa de crédito e seus associados configuram ato cooperativo típico (Art. 6º, § 13, da Lei n. 11.101/2005), o que os exclui dos efeitos da recuperação judicial.", "processTitle": "32. [Processo não identificado] - Recuperação judicial e ato cooperativo típico (Início: 05:22 - Seg. 5)", "type": "final"}, {"text": "A prisão civil do devedor de alimentos, fundamentada no artigo 528, § 3º, do CPC, não se justifica quando verificada a ausência de urgência da verba alimentar para a manutenção do alimentando, especialmente quando este já atingiu a maioridade civil e possui plena capacidade laborativa.", "processTitle": "33. [Processo não identificado]/SP - Prisão civil por alimentos e ausência de urgência (Início: 10:02 - Seg. 5)", "type": "final"}, {"text": "Salvo evidente risco à integridade física ou psíquica do menor, não é de seu melhor interesse o acolhimento institucional em detrimento da manutenção em ambiente familiar, devendo-se prestigiar o princípio da proteção integral até o esclarecimento de eventuais irregularidades no registro civil.", "processTitle": "34. [Processo não identificado]/SC - Guarda de menor e acolhimento institucional (Início: 12:04 - Seg. 5)", "type": "final"}],
+    relatores: ["Luis Felipe Salomão", "Raul Araújo", "Antônio Carlos Ferreira", "Marco Buzzi", "Luiz Carlos Gamboze", "Maria Isabel Gallotti", "João Otávio De Noronha"],
+    content: `# Resumo - Quarta Turma - 12/05/2026
+
+Resumo consolidado de 2 vídeos da sessão, reunindo as transmissões do mesmo órgão e data.
+
+**Vídeos da sessão:**
+- [Manhã: Quarta Turma - STJ -  12/05/2026 - Manhã](https://www.youtube.com/watch?v=aBXU8XOc1zw)
+- [Tarde: Quarta Turma - STJ - 12/05/2026 - Tarde](https://www.youtube.com/watch?v=G3O3ZmNQDkk)
+**Data:** 12/05/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+*Manhã: [Quarta Turma - STJ -  12/05/2026 - Manhã](https://www.youtube.com/watch?v=aBXU8XOc1zw).*
+
+### 1. N. AgInt no REsp 1.474.449/PI - Natureza jurídica e requisitos da ação de oposição para fins de defesa de bem público (Início: 24:25)
+- **Relator:** Min. João Otávio de Noronha (Voto de desempate: Min. Ricardo Villas Bôas Cueva)
+- **Resultado:** Desprovido
+- **Votação:** Maioria - Vencidos os Ministros Raul Araújo e Marco Buzzi. O Ministro Ricardo Cueva, convocado para desempatar devido ao impedimento da Ministra Maria Isabel Gallotti, acompanhou o relator.
+- **Tese fixada:** É cabível o manejo de oposição pelo ente público em demanda possessória entre particulares para a defesa de bem público, especialmente quando os réus da ação principal reconhecem a titularidade estatal e sua própria ilegitimidade passiva. A exigência de litisconsórcio passivo necessário na oposição (demandar ambos os polos do processo originário) pode ser mitigada pelo princípio da instrumentalidade das formas quando um dos opostos reconhece o pedido do opoente.
+- **Resumo da discussão:** O colegiado analisou a validade de uma ação de oposição ajuizada pelo Instituto de Terras do Piauí (Interpi) em face de uma demanda de reintegração de posse entre particulares. A controvérsia residia no fato de o Interpi ter ajuizado a ação contra apenas um dos polos da lide originária. O relator e o Ministro Cueva entenderam que, como os réus originais reconheceram ser partes ilegítimas e que a terra era pública, o prosseguimento da oposição contra o polo remanescente é válido para evitar decisões contraditórias e prestigiar a eficácia da sentença, afastando o rigorismo processual em prol da proteção do patrimônio público.
+
+### 2. N. AREsp 2.847.839/RJ - Destituição do poder familiar e proteção integral do menor (Início: 40:33)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** Procede o pedido de destituição do poder familiar quando caracterizado o abandono material e afetivo, aliado à dependência química da genitora, situação de vulnerabilidade social e descumprimento injustificado dos deveres de sustento, guarda e educação, prevalecendo o princípio do melhor interesse da criança sobre a manutenção da família natural.
+- **Resumo da discussão:** O recurso discutia a destituição do poder familiar de uma genitora usuária de drogas e em situação de rua. A criança estava em acolhimento institucional desde 2021. O tribunal ressaltou que, apesar da prioridade do ECA pela família natural, a inércia da genitora em aderir a tratamentos e o abandono caracterizado tornam a destituição necessária para resguardar a integridade da menor.
+
+### 3. N. REsp 777.343 - Sobrepartilha em divórcio e acervo patrimonial (Início: 45:41)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A alteração das conclusões das instâncias ordinárias acerca da existência ou não de bens remanescentes para fins de sobrepartilha após a homologação de divórcio exige o reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial pela Súmula 7/STJ.
+- **Resumo da discussão:** Tratava-se de pedido de sobrepartilha onde o tribunal de origem concluiu que o valor pleiteado pela ex-cônjuge não integrava o patrimônio comum do casal ao tempo da partilha original. A Turma manteve o entendimento por ausência de negativa de prestação jurisdicional e óbice probatório.
+
+### 4. N. REsp 2.110.852 - Honorários advocatícios por equidade em ação cautelar de sustação de protesto (Início: 48:41)
+- **Relator:** Min. João Otávio de Noronha (voto retificado)
+- **Resultado:** Parcialmente provido
+- **Votação:** Maioria - Vencido em parte o Ministro Antônio Carlos Ferreira, que defendia a fixação de honorários entre 10% e 20% sobre o valor da causa.
+- **Tese fixada:** Em ação cautelar de sustação de protesto de elevado valor, onde não há proveito econômico imediato mensurável, admite-se a fixação dos honorários advocatícios por equidade, nos termos do art. 85, § 8º, do CPC/2015, evitando-se condenações desproporcionais em incidentes processuais.
+- **Resumo da discussão:** O debate centrou-se na base de cálculo para honorários em cautelar envolvendo título de R$ 1,85 milhão. Prevaleceu a tese de que a natureza cautelar e a ausência de proveito econômico direto autorizam o arbitramento por equidade (fixado em 1% do valor da causa, ou R$ 18.500,00), mitigando a aplicação rígida do Tema Repetitivo 1076 em processos acessórios.
+
+### 5. N. REsp 2.000.265/RS - Questão de Ordem: Fundo 157 e ação de exigir contas (Início: 59:10)
+- **Relator:** Min. Luis Felipe Salomão
+- **Resultado:** Acolhida questão de ordem para afetação à Segunda Seção
+- **Votação:** Unânime
+- **Tese fixada:** Compete à Segunda Seção do STJ uniformizar a jurisprudência quanto aos critérios de admissibilidade e prescrição nas ações de exigir contas relativas ao Fundo 157 (Decreto-Lei n. 157/1967).
+- **Resumo da discussão:** O colegiado discutiu a viabilidade de ações que buscam prestação de contas de investimentos realizados há mais de 50 anos. Há divergência entre a Terceira Turma (que admite o prosseguimento limitado ao prazo prescricional) e a Quarta Turma (que exige prova mínima da conta e aponta impossibilidade prática de manutenção de documentos). A Ministra Isabel Gallotti alertou para o caráter de "litigância predatória" em muitas dessas demandas genéricas.
+
+### 6. N. REsp 1.449.696/SP - Cobrança de tarifa sobre contas de poupança inativas (Início: 01:18:28)
+- **Relator:** Min. Marco Buzzi
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** É legítima a cobrança de tarifa sobre contas de poupança inativas no período anterior à vigência da Resolução CMN n. 2.303/1996, com base na autorização contida na Circular Bacen n. 1.323/1988.
+- **Resumo da discussão:** Julgamento de ação civil pública sobre a legalidade de tarifas em contas sem movimentação. O colegiado entendeu que as instituições financeiras agiram sob amparo normativo da época, e a vedação à prática só ocorreu em 1996, não havendo ilegalidade retroativa.
+
+### 7. N. EDcl no REsp 2.113.003/BA - Levantamento de falência da Barramar e inexigibilidade de crédito (Início: 01:24:12)
+- **Relator:** Min. Marco Buzzi
+- **Resultado:** Adiado (Pedido de vista)
+- **Votação:** Em curso (Divergência aberta pelo Min. Raul Araújo)
+- **Tese fixada:** [PROPOSTA] É cabível a atribuição de efeitos infringentes aos embargos de declaração para desconstituir a sentença de quebra quando verificada a inexigibilidade do crédito que fundamentou a falência, permitindo o levantamento da quebra em prol do princípio da preservação da empresa.
+- **Resumo da discussão:** O Ministro Raul Araújo divergiu do relator para defender que erro de premissa sobre a exigibilidade do crédito justifica a revisão da quebra, mesmo após o trânsito em julgado. A Ministra Isabel Gallotti pediu vista para examinar os impactos na coisa julgada.
+
+### 8. N. REsp 1.913.092/DF - Taxas de condomínio em loteamentos irregulares no Distrito Federal (Início: 01:29:30)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Adiado (Sobra de pauta)
+- **Votação:** Em curso
+- **Tese fixada:** [PROPOSTA] A ocupação de lote em condomínio irregular no Distrito Federal gera a obrigação de contribuir com as taxas associativas quando comprovado o benefício decorrente dos serviços prestados, sob pena de enriquecimento sem causa.
+- **Resumo da discussão:** Debate sobre a natureza jurídica das taxas em condomínios de fato no DF. O julgamento foi suspenso para ser retomado em conjunto com processos análogos.
+
+### 9. N. REsp 1.913.???/DF - Desconsideração da personalidade jurídica e responsabilidade de sócio retirante (Início: 01:34:28)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Retirado de pauta
+- **Resumo da discussão:** O relator optou por revisar o voto para melhor delimitar a diferença entre a responsabilidade ordinária do sócio retirante (art. 1.032 CC) e a responsabilidade por abuso de direito (art. 50 CC).
+
+### 10. N. REsp 2.125.569/SP - Honorários por equidade em exclusão de litisconsorte (Início: 01:37:31)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** É cabível a fixação de honorários advocatícios por apreciação equitativa (art. 85, § 8º, do CPC) quando o acolhimento da exceção de pré-executividade implica apenas a exclusão de um litisconsorte passivo por erro material, sem extinção total da execução.
+- **Resumo da discussão:** A Turma manteve a verba de R$ 5.000,00 fixada na origem, entendendo que a exclusão de uma parte sem redução do débito principal justifica o arbitramento equitativo.
+
+### 11. N. REsp 2.136.723/SP - Nulidade de título executivo e omissão sobre danos morais (Início: 01:43:56)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Não conhecido
+- **Tese fixada:** A ausência de prequestionamento sobre a prejudicialidade de pedidos formulados em embargos à execução impede o conhecimento do recurso especial.
+- **Resumo da discussão:** O recurso não foi conhecido por falta de prequestionamento das matérias de omissão e danos morais após extinção de execução de duplicatas.
+
+### 12. N. REsp 1.969.798/DF - Licitude de gravação ambiental em departamento jurídico corporativo (Início: 01:46:31)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A gravação ambiental realizada por um dos interlocutores sem o conhecimento do outro é lícita. A inviolabilidade do domicílio profissional do advogado não se estende a diálogos ocorridos em departamento jurídico de instituição de ensino com finalidade meramente administrativa e sem o exercício estrito da advocacia.
+- **Resumo da discussão:** Um aluno gravou conversas no jurídico de uma faculdade para provar falha educacional. A Turma entendeu que o local não era um escritório de advocacia protegido pelo sigilo profissional, tratando-se de atuação administrativa comum.
+
+### 13. N. AREsp 27 - Direito de representação na sucessão colateral (Início: 01:57:56)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** Na linha colateral, o direito de representação limita-se aos filhos de irmãos do falecido (sobrinhos), não se estendendo aos netos de irmãos (sobrinhos-netos).
+- **Resumo da discussão:** Reafirmou-se a restrição do Código Civil quanto à representação na sucessão de colaterais a graus mais remotos que sobrinhos.
+
+### 14. N. [Processo não identificado] - Honorários em exceção de pré-executividade por erro material (Início: 02:01:18)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** É cabível a fixação de honorários por equidade quando o incidente visa corrigir erro material na indicação do polo passivo imediatamente retificado pelo exequente.
+- **Resumo da discussão:** Caso em que a parte foi incluída como pessoa física por erro, sendo mantida apenas como representante. A equidade foi considerada correta diante da retificação imediata.
+
+### 15. N. REsp 1.595.140/PR - Cumulação de pensão previdenciária e indenização civil por ato ilícito (Início: 02:03:21)
+- **Relator:** Min. Antônio Carlos Ferreira (para o acórdão)
+- **Resultado:** Provido
+- **Votação:** Maioria - Vencidos os Ministros Maria Isabel Gallotti e João Otávio de Noronha.
+- **Tese fixada:** A pensão previdenciária (INSS) não pode ser compensada ou abatida da indenização civil por danos materiais (pensão alimentícia) devida pelo causador do ato ilícito, dada a autonomia e natureza jurídica distinta dos institutos.
+- **Resumo da discussão:** Intensa discussão sobre a reparação integral. A corrente vencedora defendeu que o benefício do INSS decorre de relação contributiva e não deve beneficiar o causador do dano. A corrente vencida defendia o abatimento para manter o equilíbrio patrimonial e evitar enriquecimento sem causa.
+
+### 16. N. [Processo não identificado] / RS - Capitalização diária de juros e dever de informação (Início: 02:41:21)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A previsão de taxa anual superior ao duodécuplo da mensal, com cláusula expressa de capitalização diária, autoriza a cobrança da taxa contratada, sendo desnecessária a indicação numérica da taxa diária equivalente em contratos de longa duração.
+- **Resumo da discussão:** A Turma rejeitou a tese de que a ausência do percentual diário invalidaria o contrato. Entendeu-se que a informação das taxas mensal e anual efetivas é suficiente para a transparência exigida pelo CDC e que a exigência da taxa diária em contratos parcelados seria irrelevante para o consumidor.
+
+### 17. N. AREsp 2.980.084 - [Matéria não identificada]
+- **Resultado:** Adiado para a próxima sessão.
+- **Resumo da discussão:** O processo foi apenas anunciado e adiado para a próxima sessão, sem exposição de fundamentos ou debate de mérito suficiente para identificação segura da controvérsia.
+
+*Tarde: [Quarta Turma - STJ - 12/05/2026 - Tarde](https://www.youtube.com/watch?v=G3O3ZmNQDkk).*
+
+### 18. [Nenhum processo identificado - Conteúdo Institucional] (Início: 00:00)
+- **Resultado:** Sessão não iniciada / Vídeos Institucionais
+- **Resumo da discussão:** Sequência de vídeos institucionais e campanhas de utilidade pública abordando temas como a revitalização da Biblioteca do STJ, ferramentas de acessibilidade (Libras e tecnologia OCR), a implementação da "Linguagem Simples" nos informativos, o novo marcador de equidade racial em processos e alertas de segurança contra golpes.
+
+### 19. REsp 1.727.970/[UF] - Direitos autorais e a "regra dos três passos" em obra didática (Início: 50:08)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido o recurso da Editora; Prejudicado o recurso de Solange
+- **Votação:** Unânime
+- **Tese fixada:** Nos termos do artigo 46, inciso VIII, da Lei 9.610/98 e da chamada "regra dos três passos", não configura violação a direitos autorais a utilização de trecho de obra preexistente em obra nova, desde que a reprodução não constitua o objetivo principal da obra, não haja prejuízo à exploração normal da obra original e não sejam verificados danos aos legítimos interesses do autor.
+- **Resumo da discussão:** A controvérsia girou em torno do uso de um trecho do livro infantil "Malandro é o Gato" em uma obra didática para ilustrar uma lição de gramática. A Relatora aplicou a "regra dos três passos", concluindo que o uso foi legítimo, pois a reprodução era acessória ao objetivo pedagógico, não prejudicou a exploração comercial do livro original e não causou dano injustificado à autora. A condenação de retratação pública e a indenização por danos morais foram afastadas.
+
+### 20. AREsp 2.592.790/[UF] - Simulação de preço em escritura pública e direito de preferência (Início: 55:06)
+- **Relator:** Min. João Otávio de Noronha / Min. Luiz Carlos Gamboze (segmento consolidado)
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A presunção de veracidade que decorre da escritura pública (art. 215 do Código Civil) é relativa (*iuris tantum*) e não absoluta, podendo ser afastada por prova em contrário, produzida em contraditório judicial, especialmente quando demonstrada a simulação do preço real do negócio para fins de redução de carga tributária.
+- **Resumo da discussão:** Discutiu-se se, para o exercício do direito de preferência em condomínio *pro indiviso*, o condômino deve depositar o valor constante na escritura ou o valor real da transação. As instâncias ordinárias comprovaram que o valor real do negócio era significativamente superior ao declarado. O Tribunal concluiu que a fé pública protege a autenticidade formal, mas não torna irrefutável o conteúdo declaratório quando demonstrada a má-fé da parte que tenta exercer a preferência depositando apenas um terço do valor real.
+
+### 21. AREsp 2.648.863/SP - Embargos de Declaração em Agravo Interno (Início: 01:18:40)
+- **Relator:** Min. Luiz Carlos Gamboze
+- **Resultado:** Suspenso por pedido de vista
+- **Votação:** Pendente (Relator votou pela rejeição)
+- **Tese fixada:** [PROPOSTA] A alegação genérica de inaplicabilidade de súmula de óbice (como a Súmula 7/STJ), sem a demonstração específica da tese jurídica e do quadro fático fixado, não afasta a incidência da Súmula 182/STJ e viola o princípio da dialeticidade recursal.
+- **Resumo da discussão:** Trata-se de embargos contra acórdão que não conheceu de agravo por falta de impugnação específica. O embargante alega omissão quanto à Súmula 7. O relator votou pela rejeição, considerando a impugnação genérica. O Ministro Raul Araújo pediu vista antecipada.
+
+### 22. [Processo n. 18 da lista] - Responsabilidade pelo pagamento de taxas condominiais (Início: 01:23:21)
+- **Relator:** Min. Luiz Carlos Gamboze
+- **Resultado:** Suspenso por pedido de vista
+- **Votação:** Pendente (Relator votou pelo provimento do agravo)
+- **Tese fixada:** [PROPOSTA] A obrigação de pagamento de cotas condominiais possui natureza *propter rem*, gerando responsabilidade passiva concorrente entre o proprietário registral e o promitente comprador/possuidor, ressalvado o direito de regresso.
+- **Resumo da discussão:** O agravo discute a ilegitimidade do proprietário registral em ação de cobrança. O relator defende que o proprietário registral responde independentemente da entrega das chaves. O Ministro Raul Araújo abriu debate sobre a necessidade de flexibilização quando a relação material está dissociada do registro e pediu vista.
+
+### 23. REsp 2.652.554/SP - Prorrogação de prazo de vista (Início: 01:34:57)
+- **Relator:** [Não identificado]
+- **Resultado:** Prorrogado
+- **Votação:** Unânime
+- **Tese fixada:** Fica registrada a prorrogação do prazo de vista regimental para análise do recurso.
+- **Resumo da discussão:** Acolhimento formal de requerimento para prorrogação do prazo de vista de processo retirado anteriormente para análise.
+
+### 24. REsp 2.058.380/SP - Interrupção de prazo por Embargos de Declaração não conhecidos (Início: 01:35:56)
+- **Relator:** [Não identificado] (Voto-vista: Min. Raul Araújo)
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** Os embargos de declaração, ainda que não conhecidos por intempestividade ou outros vícios, possuem o condão de interromper o prazo para a interposição de outros recursos, em observância ao critério objetivo e à segurança jurídica.
+- **Resumo da discussão:** A Turma aplicou um critério objetivo para garantir que o manejo de embargos interrompa o prazo para recursos subsequentes, independentemente do desfecho do julgamento dos aclaratórios na origem, visando evitar insegurança processual.
+
+### 25. REsp 1.480.584/DF - Inaplicabilidade da Súmula 308 à alienação fiduciária (Início: 01:39:18)
+- **Relator:** [Não identificado]
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** A Súmula 308 do STJ, que trata da ineficácia da hipoteca perante o adquirente de boa-fé, não se aplica por analogia aos contratos de alienação fiduciária de imóveis regidos pela Lei 9.514/97, dada a diversidade de regimes jurídicos e a natureza da garantia.
+- **Resumo da discussão:** Debateu-se a extensão da Súmula 308 à alienação fiduciária. O colegiado entendeu que, neste regime, a propriedade é transferida ao credor fiduciário, preservando a higidez do sistema de garantias que viabiliza o crédito imobiliário, em detrimento da analogia com a hipoteca.
+
+### 26. AREsp 2.580.766/SP - Ilegitimidade de construtora em regime de preço de custo (Início: 01:47:01)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** No contrato de construção sob o regime de administração ou preço de custo, não há relação de consumo tutelada pelo CDC, sendo a relação regida pela Lei 4.591/64, o que torna a construtora parte ilegítima para figurar no polo passivo de ação que visa anular leilão extrajudicial por aumento de preço.
+- **Resumo da discussão:** Esclareceu-se que, no regime de administração, a construtora é mera contratada do condomínio, que detém a gestão financeira, inexistindo relação consumerista para fins de responsabilidade por leilão extrajudicial.
+
+### 27. AREsp 2.110.850/RN - Destituição de poder familiar e melhor interesse da criança (Início: 01:49:37)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** Em observância ao princípio da proteção integral e do melhor interesse da criança, deve-se preservar a situação fática consolidada de acolhimento em família substituta quando demonstrada a inaptidão psíquica e social dos genitores biológicos para o exercício do poder familiar.
+- **Resumo da discussão:** Mantida a destituição do poder familiar devido à negligência e inaptidão dos genitores, priorizando o vínculo afetivo já estabelecido com a família adotante há mais de um ano.
+
+### 28. REsp 1.637.473/PR - Acidente em terminal rodoviário e culpa concorrente (Início: 01:54:08)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido (Agravo Interno) e Parcialmente Provido (REsp)
+- **Votação:** Unânime
+- **Tese fixada:** O atropelamento de passageiro no interior de terminal rodoviário urbano por ônibus da transportadora caracteriza fortuito interno (risco da atividade), mas admite-se a redução equitativa da indenização caso comprovada a culpa concorrente da vítima (Art. 738, parágrafo único, do Código Civil).
+- **Resumo da discussão:** Atropelamento de criança em terminal rodoviário. Reconhecida a responsabilidade objetiva (fortuito interno), mas reduzida a indenização por danos morais pela metade em razão da culpa concorrente constatada na dinâmica do acidente.
+
+### 29. REsp 1.917.818/SP - Validade de incorporação com venda de frações ideais (Início: 01:58:33)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** Não caracteriza fraude à Lei de Loteamento (Lei 6.766/79) a alienação de frações ideais por incorporadora que não se responsabiliza pela execução direta da construção, desde que haja projeto aprovado e registro conforme o art. 29 da Lei 4.591/64.
+- **Resumo da discussão:** Validada a venda de frações ideais vinculada à construção futura por conta dos adquirentes, desde que cumpridos os requisitos de registro e aprovação municipal da incorporação.
+
+### 30. REsp 2.107.517/SP - Direito de regresso em terceirização ilícita (Início: 02:00:41)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Suspenso por pedido de vista
+- **Votação:** Pendente
+- **Tese fixada:** [PROPOSTA] O tomador de serviços não possui direito de regresso contra a empresa prestadora por condenações trabalhistas decorrentes de desvio de função ou terceirização ilícita praticados no interesse exclusivo e por ordem do próprio tomador.
+- **Resumo da discussão:** Instituição financeira buscava regresso por condenações trabalhistas. O relator votou por afastar o regresso por considerar a conduta ilícita do próprio banco tomador. A Min. Isabel Gallotti pediu vista.
+
+### 31. REsp 2.206.792/GO - Recuperação Judicial e Créditos de Proprietário (Início: 02:04:22)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Julgamento interrompido
+- **Votação:** Pendente
+- **Tese fixada:** [PROPOSTA] Os créditos de credores titulares da posição de proprietário fiduciário não se sujeitam aos efeitos da recuperação judicial, prevalecendo os direitos de propriedade e as condições contratuais.
+- **Resumo da discussão:** Discussão sobre a interpretação do Art. 49, §3º, da Lei 11.101/05 e a blindagem de créditos garantidos por propriedade fiduciária frente ao plano de recuperação judicial.
+
+### 32. [Processo não identificado] - Recuperação judicial e ato cooperativo típico (Início: 05:22 - Seg. 5)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** A essencialidade de bens de capital garantidos por alienação fiduciária não afasta a extraconcursalidade do crédito, mas impede a retirada dos bens do estabelecimento do devedor durante o prazo de suspensão (*stay period*). Ademais, os empréstimos firmados entre cooperativa de crédito e seus associados configuram ato cooperativo típico (Art. 6º, § 13, da Lei n. 11.101/2005), o que os exclui dos efeitos da recuperação judicial.
+- **Resumo da discussão:** Definiu-se que empréstimos entre cooperativa e associados são atos cooperativos típicos e extraconcursais. Sobre bens essenciais, o juízo recuperacional mantém competência apenas durante o *stay period*.
+
+### 33. [Processo não identificado]/SP - Prisão civil por alimentos e ausência de urgência (Início: 10:02 - Seg. 5)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Ordem concedida
+- **Votação:** Unânime
+- **Tese fixada:** A prisão civil do devedor de alimentos, fundamentada no artigo 528, § 3º, do CPC, não se justifica quando verificada a ausência de urgência da verba alimentar para a manutenção do alimentando, especialmente quando este já atingiu a maioridade civil e possui plena capacidade laborativa.
+- **Resumo da discussão:** Habeas Corpus concedido para afastar prisão civil de devedor cujo inadimplemento ocorreu após o alimentando completar 25 anos, inexistindo risco atual à subsistência que justifique a medida extrema.
+
+### 34. [Processo não identificado]/SC - Guarda de menor e acolhimento institucional (Início: 12:04 - Seg. 5)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Ordem concedida
+- **Votação:** Unânime
+- **Tese fixada:** Salvo evidente risco à integridade física ou psíquica do menor, não é de seu melhor interesse o acolhimento institucional em detrimento da manutenção em ambiente familiar, devendo-se prestigiar o princípio da proteção integral até o esclarecimento de eventuais irregularidades no registro civil.
+- **Resumo da discussão:** Caso de suspeita de "adoção à brasileira". A Turma entendeu que a separação abrupta da criança de sua genitora de fato para abrigo seria mais prejudicial do que a permanência na residência durante as investigações.
+
+## Destaques da Sessão
+- **Manhã:** **Fundo 157:** Afetação à Segunda Seção para pacificar a jurisprudência sobre investimentos de 50 anos e combater o que foi classificado como "litigância predatória".
+- **Manhã:** **Gravação Ambiental:** Relevante decisão clarificando que departamentos jurídicos corporativos não gozam da mesma imunidade de sigilo que escritórios de advocacia em atos administrativos.
+- **Manhã:** **Honorários Sucumbenciais:** Críticas do Ministro Noronha ao CPC/2015, afirmando que o excesso de detalhes transformou o STJ em uma "corte de honorários".
+- **Manhã:** **Indenização Civil vs. INSS:** Consolidação da tese da Turma pela não compensação das verbas previdenciárias nas indenizações por morte.
+- **Manhã:** **Quórum:** Participação do Min. Ricardo Cueva (3ª Turma) como vogal de desempate em caso possessório.
+- **Tarde:** **Ações de Acessibilidade:** Exibição de vídeos sobre o portal com atendimento em Libras, espaços adaptados e o compromisso do tribunal com a "Linguagem Simples" para facilitar o entendimento dos jurisdicionados.
+- **Tarde:** **Fé Pública e Simulação:** Debate relevante sobre a relativização da presunção de veracidade de escrituras públicas quando há prova robusta de simulação de preços em transações imobiliárias para fins fiscais.
+- **Tarde:** **Segurança Jurídica em Garantias:** Reafirmação da diferenciação técnica entre hipoteca e alienação fiduciária, impedindo a aplicação por analogia da Súmula 308 a contratos regidos pela Lei 9.514/97.
+- **Tarde:** **Direito de Família e Afetividade:** Ênfase na preservação de vínculos afetivos consolidados em detrimento de irregularidades registrais ou laços biológicos, visando evitar traumas ao menor.
+- **Tarde:** **Direito Bancário e Cooperativo:** Esclarecimento sobre o ato cooperativo típico na recuperação judicial e a responsabilidade trabalhista em casos de terceirização ilícita com desvio de função comandado pelo tomador.
+
+## Estatísticas
+- Total de processos mapeados: 34
+- Partes de vídeo consolidadas: 2`
+  },
+  {
     id: "2026-05-07_segunda_secao",
     title: "Segunda Seção - 07/05/2026",
     date: "07/05/2026",
     orgao: "Segunda Seção",
+    videoUrls: ["https://www.youtube.com/watch?v=RWYylIk_lgg"],
     theses: [{"text": "A competência para o julgamento dos referidos embargos de divergência é da Corte Especial, impondo-se a anulação das decisões proferidas pela Segunda Seção, ante a incompetência do órgão julgador.", "processTitle": "1. Rcl 48.281/DF - Questão de Ordem sobre Competência (Início: 21:01)", "type": "final"}, {"text": "A competência para processar e julgar ação de reconhecimento de união estável é da Justiça Estadual (Varas de Família). A análise da relação jurídica familiar pela Justiça Federal ocorre de forma meramente incidental para amparar pedido de benefício previdenciário (pensão por morte) e não irradia efeitos de coisa julgada material perante terceiros com interesse próprio que não participaram da lide. Havendo demandas propostas em juízos estaduais distintos, define-se a competência pelo critério da prevenção, fixada no juízo onde foi ajuizada a primeira ação.", "processTitle": "2. CC 207.504/MG - Conflito de Competência sobre Reconhecimento de Uniões Estáveis Simultâneas (Início: 22:29)", "type": "final"}, {"text": "A locação de unidades autônomas por curta duração via plataformas digitais possui caráter atípico e comercial, alterando a destinação do imóvel. Portanto, é proibida em condomínios com destinação estritamente residencial, salvo se houver autorização expressa na convenção condominial ou aprovação de modificação de destinação por quórum qualificado (2/3 dos condôminos), nos termos do art. 1.355 do Código Civil.", "processTitle": "3. Recurso Especial [Não identificado]/MG - Locação por plataformas digitais (Airbnb) em condomínios residenciais (Início: 00:34:09)", "type": "final"}, {"text": "Nas relações jurídicas de direito civil e empresarial, a desconsideração da personalidade jurídica requer a efetiva comprovação de abuso da personalidade caracterizado por desvio de finalidade ou por confusão patrimonial nos termos exigidos pelo artigo 50 do Código Civil, teoria maior, sendo insuficiente a mera inexistência de bens penhoráveis e ou de encerramento irregular das atividades da sociedade empresária.", "processTitle": "4. REsp 1.873.187/SP e REsp 1.873.811/SP - Desconsideração da Personalidade Jurídica / Teoria Maior (Início: 02:03:12)", "type": "final"}, {"text": "Compete à Justiça do Trabalho processar e julgar demanda em que se discute o reconhecimento de vínculo empregatício, mesmo diante de contrato de prestação de serviços com cláusula compromissória de arbitragem.", "processTitle": "6. CC 210.510/SP - Competência: Justiça do Trabalho x Juízo Arbitral (Início: 02:51:10)", "type": "final"}, {"text": "Cassado o acórdão proferido pelo Tribunal de origem, determinando que o julgamento se limite a analisar a matéria expressamente impugnada em sede de apelação.", "processTitle": "7. EREsp 189.593/PA - Limites da matéria impugnada em apelação (Início: 03:28:58)", "type": "final"}, {"text": "É devida a cobertura de exames ou tratamentos de saúde não incluídos no rol da ANS, consoante as alterações promovidas pela Lei 14.454/2022 na Lei 9.656/1998, conforme entendimento consolidado do colegiado.", "processTitle": "8. AgInt nos EDcl nos EAREsp [Não identificado] - Cobertura de tratamentos fora do rol da ANS (Início: 03:31:50)", "type": "final"}],
-    relatores: ["João Otávio De Noronha", "Moura Ribeiro", "Nancy Andrighi", "Villas Bôas Cueva", "Raul Araújo", "Maria Isabel Gallotti", "Humberto Martins"],
+    relatores: ["Raul Araújo", "Humberto Martins", "Villas Bôas Cueva", "Maria Isabel Gallotti", "Nancy Andrighi", "Moura Ribeiro", "João Otávio De Noronha"],
     content: `# Resumo - Segunda Seção - 07/05/2026
     
 **Vídeo:** [Segunda Seção - STJ - 07/05/2026](https://www.youtube.com/watch?v=RWYylIk_lgg)
@@ -92,8 +364,9 @@ const resumosData = [
     title: "Quarta Turma - 05/05/2026",
     date: "05/05/2026",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=IDq_UYbv1j4"],
     theses: [{"text": "A comprovação dos danos e da qualidade de pescador artesanal deve ocorrer na fase de conhecimento, não podendo ser relegada à fase de liquidação de sentença.", "processTitle": "2. REsp 2.012.646/RO e REsp 2.115.978/[UF não identificada] - Indenização por danos ambientais a pescadores (Complexo Rio Madeira) (Início: 00:48:48)", "type": "final"}, {"text": "A teoria finalista mitigada não se aplica para estender as normas do Código de Defesa do Consumidor a sociedades empresárias de grande porte na aquisição de equipamentos inerentes ao desenvolvimento de sua atividade econômica, devendo eventual dificuldade técnica probatória ser resolvida pela regra da distribuição dinâmica do ônus da prova prevista no art. 373 do CPC.", "processTitle": "4. REsp [Processo não identificado]/MT - Aplicação do CDC a sociedade empresária e mitigação da teoria finalista (Início: 01:07:17)", "type": "final"}, {"text": "A eleição ou alteração do regime de bens da união estável (ou por pacto antenupcial) possui eficácia ex nunc, sendo inválidas cláusulas que estabeleçam retroatividade dos efeitos patrimoniais. Em caso de alienação de bens a terceiros de boa-fé, não haverá cancelamento do registro, resolvendo-se o eventual prejuízo em perdas e danos (art. 182 do Código Civil).", "processTitle": "6. REsp 1.863.879/DF - Nulidade de Negócios Jurídicos e Regime de Bens em União Estável (Início: 01:49:52)", "type": "final"}, {"text": "A interpretação pelo Tribunal de Justiça de decisões estrangeiras invocadas não configura pretensão de novo julgamento da demanda alienígena nem violação à coisa julgada, mas simples valoração de documento probatório para aferir a licitude da conduta do réu em relação aos pedidos formulados no Brasil.", "processTitle": "8. REsp 2.168.349/RJ - Ação declaratória, inibitória e indenizatória sobre alcance de sentença estrangeira (Início: 02:23:39)", "type": "final"}, {"text": "Matéria jornalística fundada em fatos verídicos e de interesse público, noticiando investigação administrativa em andamento, suspeitas e negociações de termo de compromisso, utilizando linguagem moderada e sem animus injuriandi vel diffamandi, configura exercício regular da liberdade de imprensa, abrangendo as liberdades de informação e de crítica, e não gera dano moral indenizável. A imprensa não está obrigada a aguardar o término de procedimentos administrativos ou judiciais para só então divulgar fatos de interesse público.", "processTitle": "9. AREsp 291.395/SP - Indenização por danos morais / Liberdade de imprensa (Início: 02:56:32)", "type": "final"}, {"text": "A cláusula penal é convenção acessória que decorre exclusivamente da autonomia privada das partes. Não é legítimo ao intérprete, sem a efetiva existência de violação aos princípios da boa-fé e da função social do contrato, expandir a incidência de cláusula penal para situação não expressamente prevista pelos contratantes, sob pena de violação à autonomia privada e à segurança contratual nas relações paritárias.", "processTitle": "11. REsp 1.848.104/SP - Interpretação extensiva de cláusula penal em contrato paritário (Início: 03:02:04)", "type": "final"}, {"text": "A juntada de procuração ou substabelecimento com data posterior à do protocolo do recurso não supre o vício relacionado à ausência de poderes na cadeia de representação, conforme jurisprudência consolidada (Súmula 115 do STJ).", "processTitle": "12. AREsp 2.982.936/[Processo não identificado] - Ausência de cadeia completa de procuração (Início: 03:24:33)", "type": "final"}, {"text": "Configura ofensa ao art. 1.022 do CPC a ausência de manifestação do Tribunal de origem quanto a argumentos suscitados pelo credor, aptos, em tese, a infirmar a conclusão de inexigibilidade do título fundada em cessão de crédito presumida.", "processTitle": "15. AREsp 2.272.041/GO - Omissão em acórdão sobre inexigibilidade de título (Início: 03:31:38)", "type": "final"}, {"text": "Procede o pedido de destituição familiar e a consequente manutenção de acolhimento institucional quando revelada a ocorrência de maus-tratos, abandono e descumprimento dos deveres básicos de sustento, guarda e educação, devendo prevalecer os princípios da proteção integral e do melhor interesse da criança.", "processTitle": "19. AREsp 3.090.844/[UF não identificada] - Acolhimento institucional de menor (Início: 03:39:58)", "type": "final"}, {"text": "Na conversão de obrigação de fazer em reparação por perdas e danos (danos emergentes) em âmbito de empreendimento imobiliário, o valor da área efetivamente inadimplida deve ser convertido em pecúnia mediante avaliação do preço de mercado do imóvel na fase de liquidação, sendo atualizado pela taxa Selic a partir da data de fixação deste valor conversor.", "processTitle": "20. EDcl no REsp 2.162.139/DF - Conversão de obrigação de fazer em perdas e danos (Início: 03:43:41)", "type": "final"}],
-    relatores: ["João Otávio De Noronha", "Des. Conv. Luís Carlos Gambogi", "Raul Araújo", "Antônio Carlos Ferreira", "Maria Isabel Gallotti"],
+    relatores: ["Raul Araújo", "Antônio Carlos Ferreira", "Des. Conv. Luís Carlos Gambogi", "Maria Isabel Gallotti", "João Otávio De Noronha"],
     content: `# Resumo - Quarta Turma - 05/05/2026
     
 **Vídeo:** [Quarta Turma - STJ -  05/05/2026](https://www.youtube.com/watch?v=IDq_UYbv1j4)
@@ -268,8 +541,9 @@ const resumosData = [
     title: "Quarta Turma - 14/04/2026",
     date: "14/04/2026",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=hQAXad0KTUY"],
     theses: [{"text": "A citação de sociedade empresária estrangeira na pessoa de empresa brasileira pertencente ao mesmo grupo econômico apenas é válida quando demonstrado que esta última atua como representante legal daquela ou que ambas exploram o mesmo mercado, não bastando a mera ligação societária para a aplicação da teoria da aparência.", "processTitle": "1. REsp [Processo não identificado]/RJ - Nulidade de citação de pessoa jurídica estrangeira (Início: 33:46 e 00:34:41)", "type": "final"}, {"text": "O Código de Defesa do Consumidor não se aplica a contratos celebrados entre sociedades empresárias quando o bem ou serviço destina-se ao incremento da atividade produtiva e não ao consumo final (ausência de destinatário final). É válida a cláusula de retenção de recebíveis em contratos de afiliação a sistemas de pagamento para garantir a solvabilidade de transações sob suspeita de fraude.", "processTitle": "4. [Processo não identificado] - Inaplicabilidade do CDC em contratos interempresariais e retenção de recebíveis (Início: 01:06:44)", "type": "final"}, {"text": "Após o trânsito em julgado, opera-se a eficácia preclusiva da coisa julgada (preclusão máxima), reputando-se repelidas todas as defesas que a parte poderia ter oposto na fase de conhecimento. A prescrição, conquanto reconhecível de ofício, é exceção substancial sujeita a renúncia, não autorizando o ajuizamento de ação rescisória por violação literal de lei quando não suscitada oportunamente.", "processTitle": "5. REsp 1.781.587/SP - Ação rescisória e prescrição não alegada na fase de conhecimento (Início: 01:11:33)", "type": "final"}, {"text": "O poder geral de cautela previsto no art. 297 do CPC autoriza o magistrado a adotar medidas acautelatórias incidentais em processos de execução de título extrajudicial para garantir a efetividade da jurisdição, ressalvada a incidência da Súmula 7/STJ para a revisão dos requisitos fáticos da medida.", "processTitle": "7. AREsp 2.803.509/SP - Poder geral de cautela em execução (Início: 01:49:38)", "type": "final"}, {"text": "A desconsideração de laudo pericial técnico pelas instâncias ordinárias exige fundamentação idônea e baseada em elementos técnicos robustos presentes nos autos (arts. 371 e 479 do CPC). A ausência dessa motivação permite ao STJ a revaloração da prova para restabelecer a sentença fundamentada no laudo, sem que isso configure reexame fático vedado pela Súmula 7/STJ.", "processTitle": "8. AREsp 2.760.773/SP - Indenização por erro médico e valoração de prova pericial (Início: 01:53:10)", "type": "final"}],
-    relatores: ["Raul Araújo", "João Otávio De Noronha", "Voto Vencedor: Min. Maria Isabel Gallotti", "Antônio Carlos Ferreira"],
+    relatores: ["Antônio Carlos Ferreira", "Raul Araújo", "João Otávio De Noronha", "Voto Vencedor: Min. Maria Isabel Gallotti"],
     content: `# Resumo - Quarta Turma - 14/04/2026
     
 **Vídeo:** [Quarta Turma - STJ -  14/04/2026](https://www.youtube.com/watch?v=hQAXad0KTUY)
@@ -348,8 +622,9 @@ const resumosData = [
     title: "Segunda Seção - 08/04/2026",
     date: "08/04/2026",
     orgao: "Segunda Seção",
+    videoUrls: ["https://www.youtube.com/watch?v=FM_VYBSsI4M"],
     theses: [{"text": "[Tese proposta pelo Relator, pendente de aprovação: \"A classificação das despesas, débitos, cotas condominiais, em créditos de natureza concursal sujeitos aos efeitos da recuperação judicial do devedor ou extraconcursal, não sujeitos aos efeitos da recuperação judicial do devedor, deve observar o corte temporal estabelecido no artigo 49, caput da lei 11.101 de 2005.\"]", "processTitle": "N. REsp 2.235.542/RJ, REsp 2.262.922/RJ e REsp 2.206.333/PR - Cobrança de condomínio na recuperação judicial (Início: 44:02)", "type": "final"}],
-    relatores: ["João Otávio De Noronha", "Moura Ribeiro", "Ricardo Villas Bôas Cueva", "Raul Araújo", "Antônio Carlos Ferreira"],
+    relatores: ["Raul Araújo", "Antônio Carlos Ferreira", "Ricardo Villas Bôas Cueva", "Moura Ribeiro", "João Otávio De Noronha"],
     content: `# Resumo - Segunda Seção - 08/04/2026
     
 **Vídeo:** [Segunda Seção - STJ -  08/04/2026](https://www.youtube.com/watch?v=FM_VYBSsI4M)
@@ -452,8 +727,9 @@ const resumosData = [
     title: "Quarta Turma - 07/04/2026",
     date: "07/04/2026",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=EYM7y22BqpY"],
     theses: [],
-    relatores: ["João Otávio De Noronha", "Des. Conv. Luís Carlos Gambogi", "Raul Araújo", "Antônio Carlos Ferreira", "Maria Isabel Gallotti"],
+    relatores: ["Raul Araújo", "Antônio Carlos Ferreira", "Des. Conv. Luís Carlos Gambogi", "Maria Isabel Gallotti", "João Otávio De Noronha"],
     content: `# Resumo - Quarta Turma - 07/04/2026
     
 **Vídeo:** [Quarta Turma - STJ -  07/04/2026](https://www.youtube.com/watch?v=EYM7y22BqpY)
@@ -614,8 +890,9 @@ const resumosData = [
     title: "Quarta Turma - 17/03/2026",
     date: "17/03/2026",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=fR4fdYa4i30"],
     theses: [],
-    relatores: ["Raul Araújo", "João Otávio De Noronha", "Maria Isabel Gallotti", "Antônio Carlos Ferreira"],
+    relatores: ["Antônio Carlos Ferreira", "Maria Isabel Gallotti", "Raul Araújo", "João Otávio De Noronha"],
     content: `# Resumo - Quarta Turma - 17/03/2026
     
 **Vídeo:** [Quarta Turma - STJ -  17/03/2026](https://www.youtube.com/watch?v=fR4fdYa4i30)
@@ -790,8 +1067,9 @@ const resumosData = [
     title: "Segunda Seção - 11/03/2026",
     date: "11/03/2026",
     orgao: "Segunda Seção",
+    videoUrls: ["https://www.youtube.com/watch?v=cMG0Br5RjbQ"],
     theses: [{"text": "É abusiva a limitação do número de sessões de terapia multidisciplinar (psicologia, fonoaudiologia, fisioterapia e terapia ocupacional) prescritas ao paciente com transtorno do espectro autista (TEA).", "processTitle": "1. REsp 2.153.672/SP, REsp 2.167.502/SP, REsp 2.136.720/SP e REsp 2.167.050/SP - Cobertura de terapias para portadores de Transtorno do Espectro Autista (TEA) (Tema Repetitivo 1295) (Início: 28:51)", "type": "final"}, {"text": "A simples recusa indevida de cobertura médico-assistencial por operadora de plano de saúde não gera, por si só, dano moral presumido (in re ipsa), sendo imprescindível a presença de outros elementos capazes de constatar a alteração anímica da vítima em grau suficiente para ultrapassar o mero aborrecimento ou dissabor.", "processTitle": "2. REsp 2.165.670/SP e REsp 2.170.574/SP (ref. REsp 2.065.670 e 2.197.574) - Dano moral por recusa de cobertura de plano de saúde (Tema Repetitivo) (Início: 02:10:10)", "type": "final"}],
-    relatores: ["Moura Ribeiro", "Nancy Andrighi", "Ricardo Villas Bôas Cueva", "Raul Araújo", "João Otávio de Noronha", "Antônio Carlos Ferreira", "Marco Buzzi"],
+    relatores: ["Raul Araújo", "João Otávio de Noronha", "Antônio Carlos Ferreira", "Ricardo Villas Bôas Cueva", "Nancy Andrighi", "Moura Ribeiro", "Marco Buzzi"],
     content: `# Resumo - Segunda Seção - 11/03/2026
     
 **Vídeo:** [Segunda Seção - STJ -  11/03/2026](https://www.youtube.com/watch?v=cMG0Br5RjbQ)
@@ -869,8 +1147,9 @@ const resumosData = [
     title: "Quarta Turma - 10/03/2026",
     date: "10/03/2026",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=X4eUhDKzfLc"],
     theses: [],
-    relatores: ["Isabel Gallotti", "Raul Araújo", "João Otávio De Noronha", "Maria Isabel Gallotti"],
+    relatores: ["João Otávio De Noronha", "Isabel Gallotti", "Maria Isabel Gallotti", "Raul Araújo"],
     content: `# Resumo - Quarta Turma - 10/03/2026
     
 **Vídeo:** [Quarta Turma - STJ -  10/03/2026](https://www.youtube.com/watch?v=X4eUhDKzfLc)
@@ -1052,8 +1331,9 @@ const resumosData = [
     title: "Segunda Seção - 05/03/2026",
     date: "05/03/2026",
     orgao: "Segunda Seção",
+    videoUrls: ["https://www.youtube.com/watch?v=1-s28g8rRC4"],
     theses: [{"text": "As inovações trazidas pela Lei 14.454/2022 aplicam-se de imediato aos contratos de plano de saúde, inclusive aos anteriores à sua vigência.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)", "type": "final"}, {"text": "O sistema de infusão contínua de insulina não se enquadra nas exceções dos incisos VI e VII do art. 10 da Lei 9.656/98 (uso domiciliar e órteses/próteses), sendo inválidas as cláusulas que excluam sua cobertura.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)", "type": "final"}, {"text": "A análise judicial da obrigatoriedade de custeio deve observar os parâmetros do STF na ADI 7.265.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)", "type": "final"}, {"text": "Consideram-se preenchidos os requisitos gerais da ADI 7.265: inexistência de negativa expressa da ANS; comprovação de eficácia e segurança; e desnecessidade de análise de ato de não incorporação.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)", "type": "final"}, {"text": "O Judiciário deve verificar no caso concreto: prescrição médica, ausência de alternativa adequada no rol da ANS e registro na Anvisa.", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)", "type": "final"}, {"text": "Exige-se ainda a verificação de prévio requerimento administrativo e consulta a órgãos técnicos (NAT-JUS/peritos), devendo a ANS ser oficiada em caso de deferimento. (Nota: Por sugestão da Min. Nancy Andrighi, adotou-se a expressão inclusiva \"pessoas com diabetes\" em substituição a \"pessoas portadoras de diabetes\").", "processTitle": "1. REsp 2.168.627/SP, REsp 2.169.656/PR e REsp 2.062.627/[UF] - Cobertura de bomba de infusão contínua de insulina por planos de saúde (Tema Repetitivo 1316)", "type": "final"}, {"text": "\"Para os fins do artigo 43, parágrafo 2º, do CDC, é válida a comunicação ao consumidor realizada por meio eletrônico, desde que comprovados o envio da notificação e a respectiva entrega ao destinatário.\"", "processTitle": "2. REsp 2.171.003/RS, REsp 2.171.277/RS e REsp 2.175.268/RS - Validade de notificação prévia por meio eletrônico em cadastros de inadimplência (Art. 43, § 2º, CDC)", "type": "final"}, {"text": "\"A resilição unilateral pela operadora do contrato de plano de saúde coletivo empresarial com menos de 30 beneficiários é válida desde que apresentada motivação idônea.\"", "processTitle": "3. REsp 1.856.311/SP e REsp 1.845.692/SP - Resilição unilateral de plano de saúde coletivo empresarial com menos de 30 vidas (Tema Repetitivo 1.082)", "type": "final"}],
-    relatores: ["João Otávio De Noronha", "Nancy Andrighi", "Ricardo Villas Bôas Cueva", "Raul Araújo", "Antônio Carlos Ferreira", "Humberto Martins"],
+    relatores: ["Raul Araújo", "Antônio Carlos Ferreira", "Humberto Martins", "Ricardo Villas Bôas Cueva", "Nancy Andrighi", "João Otávio De Noronha"],
     content: `# Resumo - Segunda Seção - 05/03/2026
     
 **Vídeo:** [Segunda Seção - STJ -  05/03/2026](https://www.youtube.com/watch?v=1-s28g8rRC4)
@@ -1142,8 +1422,9 @@ const resumosData = [
     title: "Quarta Turma - 03/03/2026",
     date: "03/03/2026",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=3aInfsDJtzI"],
     theses: [{"text": "Na conversão automática de mandado monitório em título executivo por inércia do devedor, é indevida nova fixação de honorários de sucumbência (art. 85, § 2º). Fica mantido o percentual legal de 5% da inicial, só cabendo nova fixação num futuro e eventual cumprimento de sentença.", "processTitle": "20. Ação Monitória e Honorários", "type": "final"}],
-    relatores: ["Raul Araújo", "João Otávio De Noronha", "Antônio Carlos Ferreira"],
+    relatores: ["Antônio Carlos Ferreira", "Raul Araújo", "João Otávio De Noronha"],
     content: `# Resumo - Quarta Turma - 03/03/2026
     
 **Vídeo:** [Quarta Turma - STJ -  03/03/2026](https://www.youtube.com/watch?v=3aInfsDJtzI)
@@ -1279,6 +1560,7 @@ const resumosData = [
     title: "Segunda Seção - 11/02/2026",
     date: "11/02/2026",
     orgao: "Segunda Seção",
+    videoUrls: ["https://www.youtube.com/watch?v=Z1TKJpCSIr4"],
     theses: [],
     relatores: ["Humberto Martins"],
     content: `# Resumo - Segunda Seção - 11/02/2026
@@ -1324,6 +1606,7 @@ const resumosData = [
     title: "Quarta Turma - 10/02/2026",
     date: "10/02/2026",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=Fw03lG-Lsp4"],
     theses: [],
     relatores: ["Raul Araújo"],
     content: `# Resumo - Quarta Turma - 10/02/2026
@@ -1358,6 +1641,7 @@ const resumosData = [
     title: "Quarta Turma",
     date: "",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=ViLuxExqgS8"],
     theses: [{"text": "A responsabilidade civil ambiental não se restringe aos danos materiais causados diretamente ao meio ambiente ou aos proprietários de imóveis atingidos, estendendo-se também aos efeitos reflexos sobre trabalhadores e moradores.", "processTitle": "N. [Processo não identificado] - Indenização a trabalhador por desastre ambiental (Início: 00:00)", "type": "final"}],
     relatores: ["Isabel Gallotti"],
     content: `# Resumo - Quarta Turma - data desconhecida
@@ -1389,6 +1673,7 @@ const resumosData = [
     title: "Quarta Turma",
     date: "",
     orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=VKEGwnxAepc"],
     theses: [],
     relatores: ["Isabel Gallotti"],
     content: `# Resumo - Quarta Turma - data desconhecida

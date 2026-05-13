@@ -552,17 +552,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const sessions = rawSessions.map((session, index) => {
         const edition = index + 1;
+        const declaredVideoUrls = Array.isArray(session.videoUrls)
+            ? session.videoUrls.filter(Boolean)
+            : [];
+        const inferredVideoUrl = extractYoutubeUrl(session.content);
+        const videoUrls = declaredVideoUrls.length
+            ? [...new Set(declaredVideoUrls)]
+            : (inferredVideoUrl ? [inferredVideoUrl] : []);
+
         return {
             ...session,
             edition,
             editionLabel: String(edition).padStart(2, '0'),
             processCount: countProcesses(session.content),
-            videoUrl: extractYoutubeUrl(session.content),
+            videoUrls,
+            videoUrl: videoUrls[0] || null,
+            timestampVideoUrl: videoUrls.length === 1 ? videoUrls[0] : null,
             summary: extractLeadParagraph(session.content),
             highlights: extractHighlights(session.content),
             theses: session.theses && session.theses.length ? session.theses : extractTheses(session.content),
             stats: extractStats(session.content),
-            relatores: extractRelatores(session.content)
+            relatores: session.relatores && session.relatores.length ? session.relatores : extractRelatores(session.content)
         };
     });
 
@@ -820,7 +830,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 && /^(\d+|\[.*?\])\./.test(child.firstElementChild.textContent.trim());
 
             if (isHeadingProcess || isParagraphProcess) {
-                currentContent = enhanceAccordionHeader(child, session.videoUrl, body);
+                currentContent = enhanceAccordionHeader(child, session.timestampVideoUrl, body);
                 child.parentNode.insertBefore(currentContent, child.nextSibling);
                 return;
             }
