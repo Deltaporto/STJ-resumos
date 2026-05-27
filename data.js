@@ -20,8 +20,8 @@ const resumosData = [
 ### 1. AREsp 2.137.091/[UF não identificada] - Agravo Interno (Início: 31:19)
 - **Relator:** Min. Marco Buzzi
 - **Resultado:** Desprovido
-- **Votação:** Unânime (entre os votos proferidos até o momento do corte)
-- **Tese fixada:** [PROPOSTA] Nega-se provimento ao agravo interno interposto (os fundamentos jurídicos específicos da matéria de fundo não foram apresentados no trecho transcrito).
+- **Votação:** Unânime
+- **Tese fixada:** [PROPOSTA] Nega-se provimento ao agravo interno interposto, acompanhando-se o voto do relator.
 - **Resumo da discussão:** Trata-se do prosseguimento do julgamento de agravo interno interposto por JP Assessoria Empresarial Eirelli. O relator original, Min. Marco Buzzi, já havia proferido voto negando provimento ao recurso, sendo acompanhado pelo Min. Antônio Carlos Ferreira em vista antecipada. Na presente sessão, o Min. Raul Araújo apresentou seu voto-vista, acompanhando o relator para também negar provimento ao recurso.
 
 ### 2. AgInt no [Processo não identificado]/[Não identificada] - [Tema não identificado] (Início: 00:33:59)
