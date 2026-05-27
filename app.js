@@ -123,9 +123,20 @@ document.addEventListener('DOMContentLoaded', () => {
         'humberto martins': 'Humberto Martins',
         'daniela teixeira': 'Daniela Teixeira',
         'luis carlos gambogi': 'Des. Conv. Luís Carlos Gambogi',
+        'luiz carlos gambogi': 'Des. Conv. Luís Carlos Gambogi',
+        'luis carlos gamboa': 'Des. Conv. Luís Carlos Gambogi',
+        'luiz carlos gamboa': 'Des. Conv. Luís Carlos Gambogi',
+        'luis carlos gamboe': 'Des. Conv. Luís Carlos Gambogi',
+        'luiz carlos gamboe': 'Des. Conv. Luís Carlos Gambogi',
+        'luis carlos gamboze': 'Des. Conv. Luís Carlos Gambogi',
+        'luiz carlos gamboze': 'Des. Conv. Luís Carlos Gambogi',
         'luis carlos gamboza': 'Des. Conv. Luís Carlos Gambogi',
+        'luiz carlos gamboza': 'Des. Conv. Luís Carlos Gambogi',
         'gamboja': 'Des. Conv. Luís Carlos Gambogi',
         'gamboze': 'Des. Conv. Luís Carlos Gambogi',
+        'gamboza': 'Des. Conv. Luís Carlos Gambogi',
+        'gamboa': 'Des. Conv. Luís Carlos Gambogi',
+        'gamboe': 'Des. Conv. Luís Carlos Gambogi',
         'messod azulay': 'Messod Azulay Neto',
         'messod azulay neto': 'Messod Azulay Neto',
         'afrânio vilela': 'Afrânio Vilela',
@@ -152,7 +163,8 @@ document.addEventListener('DOMContentLoaded', () => {
         let clean = name.replace(/\s*[\(\[][^\]\)]*[\)\]]\s*/g, ' ').trim();
         
         // Remove títulos e prefixos comuns
-        clean = clean.replace(/^(Min\.|Ministro|Ministra|Des\.|Desembargador|Desembargadora|Convocado|Convocada|Des\.\s+Convocado)\s+/gi, '')
+        clean = clean.replace(/^(?:voto\s+vencedor|voto\s+vencido|relator\s+para\s+ac[oó]rd[aã]o)\s*:\s*/gi, '')
+                     .replace(/^(Min\.|Ministro|Ministra|Des\.|Desembargador|Desembargadora|Convocado|Convocada|Des\.\s+Convocado)\s+/gi, '')
                      .trim()
                      .replace(/[\.,]+$/, '');
         
