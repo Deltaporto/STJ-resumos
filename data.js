@@ -1,5 +1,265 @@
 const resumosData = [
   {
+    id: "2026-05-19_quarta_turma",
+    title: "Quarta Turma - 19/05/2026",
+    date: "19/05/2026",
+    orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=jgYv2hSI3Kg"],
+    theses: [{"text": "O princípio da não surpresa não impõe ao julgador o dever de informar previamente às partes os fundamentos jurídicos da decisão, permanecendo íntegra a presunção de conhecimento da lei e os limites do contraditório substancial (Súmula 83/STJ). É vedada, ademais, a revisão das conclusões das instâncias ordinárias que afastaram a necessidade de nova perícia fundamentando-se no conjunto fático-probatório (Súmula 7/STJ).", "processTitle": "13. REsp 1.930.[XXX]/DF - Avaliação de imóvel e nulidade de laudo pericial (Início: [01:25:44])", "type": "final"}, {"text": "Em matéria de instrução probatória, não se opera a preclusão pro judicato, permitindo ao juiz reavaliar a necessidade e a suficiência das provas produzidas antes do fim da fase instrutória. Além disso, a controvérsia sobre simulação de doações envolvendo terceiros configura questão de alta indagação, exigindo dilação probatória nas vias ordinárias, não comportando processamento apenas com prova documental nos próprios autos do inventário.", "processTitle": "14. AgInt no REsp 1.969.158/MG (ou 2.107.542/MG) - Colação e Sobrepartilha no Inventário (Início: 02:28:18)", "type": "final"}, {"text": "A desconstituição das premissas firmadas pelo Tribunal de origem acerca da suficiência das provas para atestar a validade do título executivo, do protesto e da exigibilidade da dívida demanda o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial pela Súmula 7 do STJ.", "processTitle": "16. AgInt no AREsp 2.159.463/SP - Validade de título executivo e protesto (Início: 03:04:54)", "type": "final"}, {"text": "A concessão de efeitos modificativos aos embargos de declaração é admissível apenas em hipóteses excepcionais, quando comprovada a existência de algum dos vícios elencados no artigo 1.022 do Código de Processo Civil, não se prestando o recurso para a rediscussão da causa.", "processTitle": "17. EDcl no AgInt no AREsp 1.652.067/[UF não identificada] - Inexistência de vícios no acórdão (Início: 03:06:24)", "type": "final"}, {"text": "A realização de depósito judicial a título de mera garantia do juízo, em sede de cumprimento provisório de sentença, não isenta o devedor do pagamento das consequências da mora (Tema 67/STJ), pois não se equipara ao efetivo pagamento da obrigação (art. 394 do CC) nem transfere a disponibilidade dos valores ao credor.", "processTitle": "20. AgInt no REsp 2.090.168/[UF não identificada] - Consectários da mora sobre depósito em garantia (Tema 67/STJ) (Início: 03:10:44)", "type": "final"}, {"text": "É juridicamente impossível o reconhecimento de usucapião familiar (art. 1.240-A do Código Civil) sobre uma fração ideal de imóvel (no caso, de até 250 m²) quando a área total do imóvel urbano superar o teto estabelecido em lei para a concessão do instituto, pois o limite objetivo se refere ao bem em sua integralidade.", "processTitle": "21. REsp 1.949.761/[UF não identificada] - Requisitos da usucapião familiar e limite de área (Início: 03:16:56)", "type": "final"}, {"text": "A suscitação de preliminar nas contrarrazões de apelação constitui forma adequada e processualmente cabível, à luz do art. 1.009, § 1º, do CPC/2015, para promover a devolução ao Tribunal de matéria impugnada originariamente por agravo retido na vigência do CPC/1973, aplicando-se à fase de processamento recursal a lei nova.", "processTitle": "22. REsp 2.200.469/SC - Reiteração de agravo retido sob a vigência do CPC/2015 (Início: 03:18:52)", "type": "final"}, {"text": "A desconstituição das conclusões do Tribunal de origem – que qualificou a dívida advinda de contrato de financiamento com aditivo como ilíquida, atraindo o prazo prescricional decenal geral do art. 205 do CC/2002 – exige a reinterpretação de cláusulas contratuais e o reexame do acervo fático-probatório, condutas vedadas pelas Súmulas 5 e 7 do STJ.", "processTitle": "23. REsp 2.251.778/SP - Prescrição decenal e liquidez de contrato com aditivo (Início: 03:21:42)", "type": "final"}],
+    relatores: ["Marco Buzzi", "Des. Conv. Luís Carlos Gambogi", "Raul Araújo", "Antônio Carlos Ferreira"],
+    content: `# Resumo - Quarta Turma - 19/05/2026
+    
+**Vídeo:** [Quarta Turma - STJ -  19/05/2026](https://www.youtube.com/watch?v=jgYv2hSI3Kg)
+**Data:** 19/05/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. AREsp 2.137.091/[UF não identificada] - Agravo Interno (Início: 31:19)
+- **Relator:** Min. Marco Buzzi
+- **Resultado:** Desprovido
+- **Votação:** Unânime (entre os votos proferidos até o momento do corte)
+- **Tese fixada:** [PROPOSTA] Nega-se provimento ao agravo interno interposto (os fundamentos jurídicos específicos da matéria de fundo não foram apresentados no trecho transcrito).
+- **Resumo da discussão:** Trata-se do prosseguimento do julgamento de agravo interno interposto por JP Assessoria Empresarial Eirelli. O relator original, Min. Marco Buzzi, já havia proferido voto negando provimento ao recurso, sendo acompanhado pelo Min. Antônio Carlos Ferreira em vista antecipada. Na presente sessão, o Min. Raul Araújo apresentou seu voto-vista, acompanhando o relator para também negar provimento ao recurso.
+
+### 2. AgInt no [Processo não identificado]/[Não identificada] - [Tema não identificado] (Início: 00:33:59)
+- **Relator:** Min. [Não identificado]
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Resumo da discussão:** O colegiado proferiu decisão rápida em bloco. A Turma, por unanimidade, negou provimento ao agravo interno, acompanhando integralmente o voto do relator. O presidente da sessão declarou que o resultado se aplicava a três votos exatos do mesmo bloco, sem debates orais sobre o mérito.
+
+### 3. AgInt no [Processo não identificado]/DF - Ação Pauliana / Fraude contra Credores (Início: 00:34:40)
+- **Relator:** Min. Marco Buzzi
+- **Resultado:** Desprovido (Em relação à agravante Brasília Empreendimentos). O agravo da Imobiliária Montecarlo teve divergência instaurada.
+- **Votação:** Maioria (com divergência do Min. Antônio Carlos Ferreira)
+- **Tese fixada:** [PROPOSTA] Em ação pauliana, o reconhecimento de consilium fraudis entre o devedor insolvente e terceiros adquirentes pode afastar a presunção relativa de veracidade da declaração de quitação em escritura pública, especialmente quando a sucessão de alienações ocorre rapidamente entre familiares e pessoas jurídicas atuantes no ramo imobiliário, sem comprovação de lastro financeiro.
+- **Resumo da discussão:** Agravos internos em Ação Pauliana movida contra devedores que alienaram imóveis a um filho de 19 anos, que os repassou rapidamente à Imobiliária Montecarlo e à Brasília Empreendimentos. O Relator negou provimento aos agravos. O Min. Raul Araújo proferiu voto-vista acompanhando o relator, destacando que a imobiliária não comprovou o desembolso do pagamento. O Min. Antônio Carlos Ferreira divergiu para dar provimento ao recurso da Imobiliária, defendendo que a boa-fé se presume e que a quitação em escritura possui presunção *juris tantum*. O agravo da Brasília Empreendimentos foi desprovido por unanimidade.
+
+### 4. [Processo não identificado]/DF - Desconsideração da Personalidade Jurídica (Início: 01:00:38)
+- **Relator:** Min. [Não identificado]
+- **Resultado:** Adiado (Retirado de pauta)
+- **Votação:** Não aplicável
+- **Tese fixada:** [PROPOSTA] A responsabilidade ordinária prevista no art. 1.032 do Código Civil (limite de 2 anos após a saída do sócio) não se confunde com a responsabilidade extraordinária decorrente da desconsideração da personalidade jurídica (art. 50 do Código Civil), que exige a comprovação efetiva de abuso de direito, desvio de finalidade ou confusão patrimonial.
+- **Resumo da discussão:** O processo discute desconsideração da personalidade jurídica para alcançar um ex-sócio. Durante a leitura do voto, o relator propunha afastar a ilegitimidade passiva, mas constatou que reverter a conclusão da origem sobre a ausência de provas de desvio de finalidade esbarraria na Súmula 7/STJ. Para evitar proferir um voto contraditório, decidiu retirar o processo de pauta e adiá-lo.
+
+### 5. Dois Processos [Não identificados]/[Não identificada] - Destaques (Início: 01:03:53)
+- **Relator:** Min. [Não identificado]
+- **Resultado:** Adiados
+- **Votação:** Não aplicável
+- **Resumo da discussão:** Apregoada a existência de dois casos na pauta com pedido de destaque feito pela Ministra Maria Isabel Gallotti. Devido à sua ausência justificada, ambos foram automaticamente adiados.
+
+### 6. REsp 1.930.092/[Não identificada] - [Tema não identificado] (Início: 01:04:25)
+- **Relator:** Min. [Não identificado]
+- **Resultado:** Adiado
+- **Votação:** Não aplicável
+- **Resumo da discussão:** Processo apregoado em mesa. Verificou-se que a Ministra Maria Isabel Gallotti detinha pedido de vista, ocasionando o adiamento do feito devido à sua ausência.
+
+### 7. AREsp 2.648.630/[Não identificada] - Embargos de Declaração (Início: 01:04:37)
+- **Relator:** Min. Luís Carlos Gambogi (Desembargador Convocado)
+- **Resultado:** Adiado
+- **Votação:** Não aplicável
+- **Resumo da discussão:** Processo apregoado. O Ministro Raul Araújo havia devolvido o processo após pedido de vista, mas notou-se que a Ministra Maria Isabel Gallotti também possuía voto-vista pendente, resultando no adiamento.
+
+### 8. AREsp 2.634.863/[UF não identificada] - Embargos de Declaração e Dialeticidade Recursal (Início: [01:05:47])
+- **Relator:** Min. Luís Carlos Gambogi
+- **Resultado:** Adiado (aguardando voto de desempate)
+- **Votação:** Empate (2 a 2). Min. Noronha acompanhou o relator; Min. Antônio Carlos acompanhou a divergência.
+- **Tese fixada:** [VOTO VENCIDO] A decisão de inadmissibilidade de recurso especial amparada de forma genérica na Súmula 7/STJ autoriza a flexibilização do rigor na exigência de impugnação específica, sendo suficiente o esforço argumentativo da parte para combater o óbice. [PROPOSTA] É necessária a impugnação específica da Súmula 7/STJ para fins de satisfação do requisito da dialeticidade recursal, não havendo omissão que autorize o acolhimento dos aclaratórios em caso de descumprimento.
+- **Resumo da discussão:** O relator votou pela rejeição dos embargos, sustentando a necessidade rigorosa de impugnação específica da Súmula 7/STJ. O Min. Raul Araújo divergiu para acolher os embargos, argumentando que a decisão de origem negou seguimento de forma genérica, não se podendo exigir da parte a impugnação de especificidades inexistentes. Diante do empate em 2 a 2, o presidente suspendeu o julgamento para aguardar o voto de desempate da Min. Maria Isabel Gallotti.
+
+### 9. REsp 2.631.38[X]/MT - Representação Processual e Lucros Cessantes (Início: [01:18:22])
+- **Relator:** Min. Luís Carlos Gambogi
+- **Resultado:** Pedido de vista antecipada (após voto do relator pelo não conhecimento)
+- **Votação:** Relator votou pelo não conhecimento; Min. Raul Araújo pediu vista.
+- **Tese fixada:** [PROPOSTA] A ausência de procuração nos autos enseja o não conhecimento do recurso, nos termos do art. 17, § 5º, do RISTJ. A inserção de imagem de assinatura digitalizada ou escaneada em instrumento de mandato (subestabelecimento) não se confunde com assinatura digital baseada em certificado emitido por autoridade credenciada e, portanto, não tem validade para regularizar a representação processual na instância especial. É inaplicável no recurso especial a dispensa prevista no art. 1.017, § 5º, do CPC/2015.
+- **Resumo da discussão:** O caso (envolvendo Biscoitos Mabel e Dias Alimentos) iniciou com pedido de inversão de pauta pelo advogado para localizar a procuração. Retomado, o mérito tratou de ofensa à coisa julgada na alteração da apuração de lucros cessantes (de média para soma), elevando a execução de R$ 14 milhões para mais de R$ 400 milhões. O relator acolheu a preliminar de irregularidade de representação (assinatura digitalizada sem certificado e regularização intempestiva) e não conheceu do recurso. O Min. Raul Araújo pediu vista antecipada, manifestando desconforto em aplicar rigor formal a um caso milionário, complexo e de longa duração.
+
+### 10. REsp [Processo não identificado] - [Tema não identificado] (Início: [01:23:33])
+- **Relator:** [Não identificado]
+- **Resultado:** Cancelado
+- **Votação:** N/A
+- **Resumo da discussão:** O pregão do processo correspondente ao número nove da pauta foi imediatamente cancelado pela presidência logo após o anúncio, sem debates.
+
+### 11. AREsp 2.302.072/RJ - [Tema não identificado] (Início: [01:23:58])
+- **Relator:** Min. Luís Carlos Gambogi
+- **Resultado:** Adiado
+- **Votação:** N/A
+- **Resumo da discussão:** Processo adiado em virtude de destaque formulado pela Min. Maria Isabel Gallotti, ausente na sessão.
+
+### 12. REsp [Processo não identificado] - [Tema não identificado] (Início: [01:24:45])
+- **Relator:** [Não identificado]
+- **Resultado:** Adiado
+- **Votação:** N/A
+- **Resumo da discussão:** Processo adiado expressamente em razão da ausência da Min. Maria Isabel Gallotti.
+
+### 13. REsp 1.930.[XXX]/DF - Avaliação de imóvel e nulidade de laudo pericial (Início: [01:25:44])
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** O princípio da não surpresa não impõe ao julgador o dever de informar previamente às partes os fundamentos jurídicos da decisão, permanecendo íntegra a presunção de conhecimento da lei e os limites do contraditório substancial (Súmula 83/STJ). É vedada, ademais, a revisão das conclusões das instâncias ordinárias que afastaram a necessidade de nova perícia fundamentando-se no conjunto fático-probatório (Súmula 7/STJ).
+- **Resumo da discussão:** A defesa sustentou oralmente nulidade de laudo que avaliou imóvel em R$ 50,9 milhões (contra R$ 2,7 milhões estimados no passado), ignorando desvalorização ambiental (odores) e usando apenas dois paradigmas inativos. Após a sustentação, como os demais ministros indicaram aderência ao relator, o Min. Raul leu a ementa de seu voto, rechaçando a nulidade e afirmando que rever a adoção do laudo pericial pelo método comparativo adotado na origem esbarraria na Súmula 7/STJ. A sustentação do recorrido foi dispensada para celeridade.
+
+### 14. AgInt no REsp 1.969.158/MG (ou 2.107.542/MG) - Colação e Sobrepartilha no Inventário (Início: 02:28:18)
+- **Relator:** Min. Marco Buzzi
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** Em matéria de instrução probatória, não se opera a preclusão *pro judicato*, permitindo ao juiz reavaliar a necessidade e a suficiência das provas produzidas antes do fim da fase instrutória. Além disso, a controvérsia sobre simulação de doações envolvendo terceiros configura questão de alta indagação, exigindo dilação probatória nas vias ordinárias, não comportando processamento apenas com prova documental nos próprios autos do inventário.
+- **Resumo da discussão:** O litígio envolveu pedido de herdeiras para processar colação e sobrepartilha nos autos do inventário, baseado em suposta ocultação em transferências internacionais. A defesa do agravado argumentou que apurar os fatos exigiria quebra de sigilo e oitiva de testemunhas (alta indagação). O Relator confirmou que o juízo pode reavaliar provas (inexistência de preclusão *pro judicato*) e manteve a remessa da discussão às vias ordinárias, sendo acompanhado à unanimidade.
+
+### 15. AREsp 2.111.552/PR - [Tema processual não especificado] (Início: 03:04:26)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** [PROPOSTA] Matéria meramente processual (conteúdo específico não detalhado na transcrição, aprovado em lista).
+- **Resumo da discussão:** Processo envolvendo matéria meramente processual que havia recebido destaque prévio pelo Ministro Antônio Carlos Ferreira. O destaque foi retirado na sessão, permitindo que o agravo interno fosse julgado em bloco juntamente com a lista.
+
+### 16. AgInt no AREsp 2.159.463/SP - Validade de título executivo e protesto (Início: 03:04:54)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A desconstituição das premissas firmadas pelo Tribunal de origem acerca da suficiência das provas para atestar a validade do título executivo, do protesto e da exigibilidade da dívida demanda o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial pela Súmula 7 do STJ.
+- **Resumo da discussão:** A agravante alegava cerceamento de defesa pela não realização de provas. O relator destacou que o Tribunal de origem considerou o conjunto probatório suficiente para atestar a validade do título. Concluiu-se que afastar essa premissa fática exigiria o revolvimento probatório (Súmula 7).
+
+### 17. EDcl no AgInt no AREsp 1.652.067/[UF não identificada] - Inexistência de vícios no acórdão (Início: 03:06:24)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Rejeitados
+- **Votação:** Unânime
+- **Tese fixada:** A concessão de efeitos modificativos aos embargos de declaração é admissível apenas em hipóteses excepcionais, quando comprovada a existência de algum dos vícios elencados no artigo 1.022 do Código de Processo Civil, não se prestando o recurso para a rediscussão da causa.
+- **Resumo da discussão:** O relator ressaltou a ausência de obscuridade, contradição, omissão ou erro material, afirmando que a via dos aclaratórios não autoriza a rediscussão de matéria já superada pelo colegiado.
+
+### 18. EDcl no AgInt no [Processo não identificado] - Inexistência de vícios e limites da rediscussão (Início: 03:07:17)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Pedido de vista
+- **Votação:** Aguardam os demais
+- **Tese fixada:** [PROPOSTA] Os embargos de declaração não permitem a rediscussão de tema já decidido, salvo em hipóteses excepcionais previstas no art. 1.022 do CPC, não configurando omissão, contradição ou obscuridade a mera prolação de decisão contrária aos interesses da parte.
+- **Resumo da discussão:** O relator propôs a rejeição dos embargos por considerar que a embargante buscava apenas rediscutir a matéria. Após o voto, o Ministro Raul Araújo formulou pedido de vista antecipado.
+
+### 19. EDcl no [Processo não identificado]/SP - Inexistência de vícios e limites da lide (Início: 03:09:32)
+- **Relator:** Min. [Não identificado]
+- **Resultado:** Pedido de vista
+- **Votação:** Aguardam os demais
+- **Tese fixada:** [PROPOSTA] A contradição que autoriza o acolhimento dos embargos de declaração deve ser interna ao julgado, não se configurando quando o acórdão estabelece claramente os limites da lide (no caso, restrita a um fármaco específico) e reafirma a necessidade de prova idônea dos desembolsos para fins de ressarcimento.
+- **Resumo da discussão:** Envolve disputa de saúde com a Volkswagen (fármaco Triumep). O relator votou para rejeitar os embargos, afastando a alegação de contradição, dada a clareza da decisão quanto aos limites do julgamento e prova de desembolsos. O Ministro João Otávio de Noronha pediu vista antecipada.
+
+### 20. AgInt no REsp 2.090.168/[UF não identificada] - Consectários da mora sobre depósito em garantia (Tema 67/STJ) (Início: 03:10:44)
+- **Relator:** Min. Marco Buzzi
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A realização de depósito judicial a título de mera garantia do juízo, em sede de cumprimento provisório de sentença, não isenta o devedor do pagamento das consequências da mora (Tema 67/STJ), pois não se equipara ao efetivo pagamento da obrigação (art. 394 do CC) nem transfere a disponibilidade dos valores ao credor.
+- **Resumo da discussão:** A agravante sustentou a inaplicabilidade do Tema 67 por força do princípio *tempus regit actum* (depósito anterior à alteração jurisprudencial). O relator destacou que não houve modulação de efeitos e que a mora subsiste até o efetivo pagamento, não podendo onerar o credor pela demora decorrente de recursos da devedora.
+
+### 21. REsp 1.949.761/[UF não identificada] - Requisitos da usucapião familiar e limite de área (Início: 03:16:56)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** É juridicamente impossível o reconhecimento de usucapião familiar (art. 1.240-A do Código Civil) sobre uma fração ideal de imóvel (no caso, de até 250 m²) quando a área total do imóvel urbano superar o teto estabelecido em lei para a concessão do instituto, pois o limite objetivo se refere ao bem em sua integralidade.
+- **Resumo da discussão:** Discutiu-se o reconhecimento de usucapião familiar sobre uma fração (até 250 m²) inserida em lote maior (360 m²). O relator esclareceu que a limitação legal do Código Civil é um requisito objetivo rigoroso aferido sobre a integralidade do bem.
+
+### 22. REsp 2.200.469/SC - Reiteração de agravo retido sob a vigência do CPC/2015 (Início: 03:18:52)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** A suscitação de preliminar nas contrarrazões de apelação constitui forma adequada e processualmente cabível, à luz do art. 1.009, § 1º, do CPC/2015, para promover a devolução ao Tribunal de matéria impugnada originariamente por agravo retido na vigência do CPC/1973, aplicando-se à fase de processamento recursal a lei nova.
+- **Resumo da discussão:** O Tribunal de origem não havia conhecido de um agravo retido (CPC/73) por falta de pedido expresso nas contrarrazões. O relator consignou que o ato de levar a questão ao Tribunal na fase de apelação atrai a aplicação do CPC/15, que permite a impugnação em preliminar de contrarrazões. O apelo foi provido para anular o acórdão estadual e determinar a apreciação.
+
+### 23. REsp 2.251.778/SP - Prescrição decenal e liquidez de contrato com aditivo (Início: 03:21:42)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Não conhecido
+- **Votação:** Unânime
+- **Tese fixada:** A desconstituição das conclusões do Tribunal de origem – que qualificou a dívida advinda de contrato de financiamento com aditivo como ilíquida, atraindo o prazo prescricional decenal geral do art. 205 do CC/2002 – exige a reinterpretação de cláusulas contratuais e o reexame do acervo fático-probatório, condutas vedadas pelas Súmulas 5 e 7 do STJ.
+- **Resumo da discussão:** A instituição financeira pleiteava prescrição quinquenal, alegando tratar-se de obrigação líquida. O relator asseverou que o Tribunal a quo qualificou a dívida como ilíquida de maneira fático-soberana, baseando-se no trâmite da execução e nas admissões da própria exequente, atraindo as Súmulas 5 e 7.
+
+## Destaques da Sessão
+- **Atualizações Institucionais:** Ampla divulgação inicial de campanhas do STJ sobre equidade racial, prevenção a golpes via WhatsApp, acessibilidade, modernização da biblioteca e adoção de linguagem simples no resumo de decisões.
+- **Impacto na Composição da Turma:** A ausência justificada da Ministra Maria Isabel Gallotti afetou sensivelmente o andamento da pauta, resultando no adiamento em massa de seus processos, de destaques, casos com seus votos-vistas pendentes e a impossibilidade de colher voto de desempate no AREsp 2.634.863.
+- **Eficiência e Dinâmica de Sustentação:** A presidência adotou medidas de celeridade, como dispensar a sustentação do advogado do recorrido quando os ministros sinalizaram concordância antecipada com o relator para desprover o recurso (REsp 1.930.XXX). Também se firmou o entendimento de que a sustentação deve englobar preliminares (ex: falta de procuração) e mérito de forma contígua.
+- **Casos de Alta Complexidade e Valores:** Forte debate sobre o rigor formal em processos de cifras expressivas. No caso Biscoitos Mabel (salto de R$ 14 milhões para R$ 400 milhões em liquidação), o Min. Raul Araújo pediu vista por desconforto em aplicar jurisprudência rigorosa contra assinatura digitalizada em procuração.
+- **Debate sobre Fraude contra Credores:** Intensa discussão teórica em Ação Pauliana sobre a força probante da escritura pública de quitação frente a indícios objetivos de *consilium fraudis* (rápidas alienações entre parentes e imobiliárias).
+- **Clima da Sessão:** A sessão mesclou o rigor técnico da aplicação de Súmulas (especialmente a Súmula 7) com momentos de cordialidade, elogios à combatividade da advocacia mineira e brincadeiras descontraídas sobre futebol e convocações da seleção brasileira afetando times locais.
+
+## Estatísticas
+- Total de itens de pauta registrados: 23
+- Providos: 1
+- Desprovidos: 8
+- Parcialmente providos: 0
+- Não conhecidos / Rejeitados: 2
+- Pedidos de vista / Empate técnico: 4
+- Adiados / Retirados / Cancelados: 8`
+  },
+  {
+    id: "2026-05-13_segunda_secao",
+    title: "Segunda Seção - 13/05/2026",
+    date: "13/05/2026",
+    orgao: "Segunda Seção",
+    videoUrls: ["https://www.youtube.com/watch?v=U6o2W_XPB10"],
+    theses: [{"text": "Os débitos condominiais, mesmo anteriores ao pedido de recuperação judicial, são créditos extraconcursais, não se submetendo ao juízo da recuperação judicial, podendo ser executados no juízo cível competente.", "processTitle": "1. REsp 2.203.524/RJ, REsp 2.206.292/RJ, REsp 2.220.204/[UF não identificada] e REsp 2.206.633/PR - Natureza concursal ou extraconcursal de débitos condominiais anteriores à recuperação judicial (Início: 18:02)", "type": "final"}, {"text": "O depósito em conta corrente e o contrato de financiamento são transações bancárias distintas e, portanto, recebem tratamentos jurídicos que não devem ser comparados diretamente.", "processTitle": "3. Embargos de Divergência [Processo não identificado]/[UF não identificada] - Tratamento jurídico de operações bancárias distintas (Início: 01:55:30)", "type": "final"}, {"text": "Nas hipóteses de restituição de valores de benefícios previdenciários complementares recebidos por força de decisão liminar posteriormente revogada, o prazo prescricional é o decenal (artigo 205 do Código Civil), pois o pagamento decorre de relação jurídica previamente existente (contrato de previdência complementar), que constitui causa jurídica suficiente para o recebimento dos valores, inserindo-se a restituição no contexto da própria relação contratual subjacente, não se reduzindo à lógica subsidiária do enriquecimento sem causa.", "processTitle": "5. EREsp 1.951.463/RS - Prazo prescricional para restituição de tutela antecipada revogada (Início: 02:32:54)", "type": "final"}],
+    relatores: ["Ricardo Villas Bôas Cueva", "Humberto Martins", "Isabel Gallotti", "João Otávio De Noronha"],
+    content: `# Resumo - Segunda Seção - 13/05/2026
+    
+**Vídeo:** [Segunda Seção - STJ -  13/05/2026](https://www.youtube.com/watch?v=U6o2W_XPB10)
+**Data:** 13/05/2026
+**Órgão:** Segunda Seção
+
+---
+
+## Processos Julgados
+
+### 1. REsp 2.203.524/RJ, REsp 2.206.292/RJ, REsp 2.220.204/[UF não identificada] e REsp 2.206.633/PR - Natureza concursal ou extraconcursal de débitos condominiais anteriores à recuperação judicial (Início: 18:02)
+- **Relator:** Min. Ricardo Villas Bôas Cueva (Relator para acórdão: Min. Raul Araújo)
+- **Resultado:** Desprovidos (REsp 2.206.292/RJ e REsp 2.220.204) e Prejudicado (REsp 2.206.633/PR)
+- **Votação:** Maioria (5 a 3). Vencidos o Relator, a Min. Daniela Teixeira e o Min. Humberto Martins. Acompanharam a divergência os Ministros Buzzi, João Otávio de Noronha, Isabel Gallotti e Antônio Carlos Ferreira.
+- **Tese fixada:** Os débitos condominiais, mesmo anteriores ao pedido de recuperação judicial, são créditos extraconcursais, não se submetendo ao juízo da recuperação judicial, podendo ser executados no juízo cível competente.
+- **Resumo da discussão:** O debate central visou pacificar a jurisprudência da Corte acerca da submissão dos débitos condominiais aos efeitos da recuperação judicial, sanando divergência histórica entre a Terceira e a Quarta Turma. O Relator originário, Min. Ricardo Villas Bôas Cueva, propôs a fixação de entendimento no sentido da submissão ao corte temporal do art. 49 da Lei n. 11.101/2005, classificando-os como créditos concursais em prol do princípio da preservação da empresa. Em seguida, o Ministro Raul Araújo inaugurou forte divergência sob um prisma lógico-teleológico. A maioria da Seção concluiu que a cota condominial possui natureza *propter rem* e caráter essencialmente civil, intimamente ligada à administração e manutenção do próprio imóvel, não se justificando sua atração pelo juízo universal. Decidiu-se pela aplicação analógica da regra do art. 84, inciso III, da Lei de Falências, qualificando os débitos como extraconcursais.
+
+### 2. EREsp 1.540.580/DF - Responsabilidade civil solidária de hospital por falha no dever de informação de médico (Início: 01:07:20)
+- **Relator:** Min. Humberto Martins
+- **Resultado:** Julgamento suspenso (Pedido de vista)
+- **Votação:** Aguardando
+- **Tese fixada:** [PROPOSTA] Os embargos de divergência não são conhecidos por ausência de similitude fático-jurídica entre o acórdão embargado e os paradigmas invocados, não servindo esta via para o rejulgamento da causa ou revisão de premissas fáticas já decididas nas instâncias ordinárias (ausência de termo de consentimento e extensão dos danos).
+- **Resumo da discussão:** O julgamento foi antecipado em atenção ao Estatuto do Idoso. A matéria cinge-se à responsabilidade civil de hospital em virtude de falha exclusivamente no dever prévio de informação (ausência de termo de consentimento acerca dos riscos de cirurgia neurológica), perpetrada por médico que atua sem vínculo com a instituição. As defesas argumentaram não haver erro médico na execução da cirurgia (imperícia, negligência ou imprudência), questionando a condenação pecuniária solidária calcada na teoria da causalidade adequada e em danos hipotéticos. O advogado do recorrido destacou as particularidades do caso (sequelas graves a um jovem de 19 anos). O Min. Humberto Martins votou pelo não conhecimento dos embargos, frisando que a via não se presta ao rejulgamento de fatos e da justiça da decisão. A Min. Daniela Teixeira pediu vista antecipada após as sustentações orais, suspendendo o julgamento.
+
+### 3. Embargos de Divergência [Processo não identificado]/[UF não identificada] - Tratamento jurídico de operações bancárias distintas (Início: 01:55:30)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Não conhecido
+- **Votação:** Unânime
+- **Tese fixada:** O depósito em conta corrente e o contrato de financiamento são transações bancárias distintas e, portanto, recebem tratamentos jurídicos que não devem ser comparados diretamente.
+- **Resumo da discussão:** A relatora pontuou que os embargos de divergência possuem finalidade estrita de uniformizar a jurisprudência, exigindo como pressuposto que, diante da mesma premissa de fato, tenham sido adotadas soluções conflitantes, não servindo para revisar eventual premissa fática equivocada do acórdão embargado. O colegiado, de forma unânime, acompanhou a relatora para não conhecer do recurso. Houve dispensa da sustentação oral do advogado da parte embargada.
+
+### 4. AR 4459/DF - Honorários sucumbenciais, erro de fato e perda superveniente de interesse (Início: 01:57:16)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Julgamento suspenso (Pedido de vista)
+- **Votação:** Aguardando
+- **Tese fixada:** [PROPOSTA] Cabe ação rescisória originária no STJ quando a decisão da Corte restabelece a sentença de primeiro grau, incorporando seus comandos. A condenação em honorários desproporcional ao ganho das partes viola frontalmente os arts. 20 e 21 do CPC/1973, cabendo a rescisão para readequação e fixação por equidade.
+- **Resumo da discussão:** Ação Rescisória ajuizada por instituição financeira visando desconstituir condenação em honorários (10% sobre o valor da causa de R$ 20 milhões) decorrente de ação anulatória de hipoteca da construtora Encol. O banco sustentou que o réu obteve a anulação apenas sobre sua sala comercial (0,09% da área total), tornando a verba milionária desproporcional. A defesa alegou prescrição da pretensão executiva original, argumentando falta de interesse de agir e legitimidade ativa supervenientes. A Ministra Isabel Gallotti votou pela procedência, afastando preliminares, invertendo a sucumbência e propondo honorários por equidade em R$ 100 mil. O Ministro Antônio Carlos (revisor) divergiu pela improcedência, alegando que a readequação demandaria reexame de provas (óbice da Súmula 7). O julgamento foi suspenso por pedido de vista do Ministro Villas Bôas Cueva. O Ministro Humberto Martins ressaltou perplexidade com a expressiva diferença de valores discutida no feito. Foi registrado impedimento do Min. João Otávio de Noronha.
+
+### 5. EREsp 1.951.463/RS - Prazo prescricional para restituição de tutela antecipada revogada (Início: 02:32:54)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** Nas hipóteses de restituição de valores de benefícios previdenciários complementares recebidos por força de decisão liminar posteriormente revogada, o prazo prescricional é o decenal (artigo 205 do Código Civil), pois o pagamento decorre de relação jurídica previamente existente (contrato de previdência complementar), que constitui causa jurídica suficiente para o recebimento dos valores, inserindo-se a restituição no contexto da própria relação contratual subjacente, não se reduzindo à lógica subsidiária do enriquecimento sem causa.
+- **Resumo da discussão:** Embargos de divergência contra acórdão da Terceira Turma que havia aplicado prazo trienal para devolução de verbas recebidas via tutela antecipada revogada. O relator destacou que a Segunda Seção já consolidou orientação de que o pagamento feito com base em liminar em previdência privada decorre da relação contratual, afastando-se a tese do mero enriquecimento sem causa. Diante da pacificação do tema, deu-se provimento aos embargos para adequar o acórdão embargado. O recurso foi provido por unanimidade, com dispensa de sustentação oral.
+
+## Destaques da Sessão
+
+- A sessão foi iniciada com informes sobre as políticas de acessibilidade do Tribunal (atendimento da Ouvidoria em Libras e publicações com OCR) e a divulgação do Curso Nacional de Enunciados de Equidade Racial. Foi lembrado o marco do dia 13 de maio (assinatura da Lei Áurea e dia de Nossa Senhora de Fátima).
+- Aprovada, por unanimidade, moção de pesar pelo falecimento da Sra. Maria Josefina Pacc, mãe do Desembargador Carlos Eduardo Pacc do TJSP.
+- Foi sanada histórica divergência de interpretação entre a Terceira e a Quarta Turma, com a pacificação da tese pela Segunda Seção de que os débitos condominiais possuem natureza extraconcursal no bojo de recuperações judiciais.
+- Houve inversão da ordem de pregão do EREsp 1.540.580/DF (erro médico) por imposição do Estatuto do Idoso. A análise levantou debates aprofundados acerca dos limites cognitivos dos embargos de divergência, causalidade adequada e o alcance do dever de informação e reparação por hospitais e médicos, resultando no pedido de vista da Min. Daniela Teixeira.
+- O julgamento da AR 4459/DF suscitou interessante discussão técnica sobre a persistência de interesse de agir em Ação Rescisória de honorários cuja execução já se encontra prescrita, sendo paralisado por pedido de vista em decorrência da alta discrepância monetária entre a manutenção do julgado e o valor equitativo proposto pela relatora.
+- Notou-se, de modo reiterado na sessão, a praxe de dispensa de sustentação oral em processos onde houve consenso prévio unânime da Seção no acompanhamento de relatores que votavam favoravelmente às teses defendidas em tribuna.
+- Ao final da sessão, o Min. Humberto Martins reforçou o convite para o seminário "Propriedade Industrial na visão do STJ", evento de alta procura jurídica que necessitou ter o local ampliado nas dependências do Tribunal para comportar os 280 inscritos.
+
+## Estatísticas
+
+- Total de processos julgados: 5 (referente a processos autônomos ou blocos de julgamento)
+- Providos: 1
+- Desprovidos: 1 (bloco de Recursos Especiais sobre cotas condominiais)
+- Parcialmente providos: 0
+- Outros: 3 (1 não conhecido, 2 suspensos por pedido de vista)`
+  },
+  {
     id: "2026-05-12_quarta_turma",
     title: "Quarta Turma - 12/05/2026",
     date: "12/05/2026",
