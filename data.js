@@ -1,5 +1,107 @@
 const resumosData = [
   {
+    id: "2026-06-02_quarta_turma",
+    title: "Quarta Turma - 02/06/2026",
+    date: "02/06/2026",
+    orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=VfmJR6-L_v4"],
+    theses: [{"text": "Em ação de arbitramento de honorários advocatícios, caso a perícia utilize como base de cálculo o valor da causa na data de distribuição da ação originária, a correção monetária deve incidir excepcionalmente a partir dessa data-base pericial, e não do momento do arbitramento, para garantir a efetiva recomposição da desvalorização da moeda.", "processTitle": "3. REsp 2.147.280/SP - Marco inicial de correção monetária em arbitramento de honorários (Início: [00:56:10] / 01:02:13)", "type": "final"}, {"text": "A mera possibilidade de confusão basta para obstar o registro de marca impeditiva, não se exigindo prova de efetivo engano por parte dos consumidores, sendo irrelevantes a autorização de uso e o tempo de convivência pacífica declarados pela titular da marca registrada quando constatada a possibilidade de associação indevida.", "processTitle": "4. REsp 2.228.345 - Propriedade Industrial e Registro de Marca (Início: 01:11:51 / 01:31:44)", "type": "final"}, {"text": "Não há uso exclusivo do imóvel quando este também serve de residência para o filho comum, credor de alimentos, afastando a pretensão de recebimento de aluguéis pelo companheiro ou cônjuge privado do uso.", "processTitle": "5. AgInt no REsp 305... [Número incompleto]/[UF não identificada] - Arbitramento de Aluguéis entre Cônjuges (Início: 01:34:55)", "type": "final"}, {"text": "A impugnação suficiente dos fundamentos da decisão de admissibilidade do recurso especial, inclusive quanto à incidência da Súmula 7/STJ, afasta o óbice da Súmula 182/STJ, permitindo o conhecimento e posterior exame de mérito do agravo.", "processTitle": "6. EDcl no AREsp [Processo não identificado, N. 18 da pauta]/[UF não identificada] - Impugnação da Decisão de Admissibilidade (Início: 01:39:07)", "type": "final"}, {"text": "É cabível o deferimento de pedido de desistência de recurso especial formulado a qualquer tempo (art. 998, CPC), mesmo após iniciado o julgamento, quando ausentes a caracterização de recurso repetitivo ou a evidência manifesta de má-fé da parte para frustrar a formação de precedente.", "processTitle": "7. REsp [Processo não identificado, N. 17 da pauta]/[UF não identificada] - Pedido de Desistência Recursal (Início: 01:41:35)", "type": "final"}],
+    relatores: ["Raul Araújo", "Antônio Carlos Ferreira", "Maria Isabel Gallotti", "Luís Carlos Gamboja", "Acórdão Por Min. Raul Araújo", "Buzzi"],
+    content: `# Resumo - Quarta Turma - 02/06/2026
+    
+**Vídeo:** [Quarta Turma - STJ -  02/06/2026](https://www.youtube.com/watch?v=VfmJR6-L_v4)
+**Data:** 02/06/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. AREsp 2.875.18[?]/RJ - Cabimento de sustentação oral em agravo interno (Início: 33:00)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Julgamento não finalizado
+- **Votação:** Não iniciada
+- **Tese fixada:** [PROPOSTA] Não houve fixação de tese, pois a transcrição é interrompida antes da deliberação.
+- **Resumo da discussão:** O feito (item 12 da pauta) foi apregoado em virtude da decisão de iniciar os trabalhos pelas sustentações orais. O Ministro Relator sugeriu a dispensa da leitura do relatório, mas suscitou uma questão de ordem preliminar quanto ao efetivo cabimento de sustentação oral em julgamento de agravo interno no agravo em recurso especial. A transcrição do primeiro segmento encerra-se no momento em que a Turma começa a apreciar essa preliminar, não havendo deliberação de mérito.
+
+### 2. AgInt no AREsp [Processo não identificado]/RJ - Cobrança de juros pelo FGC em falência superavitária (Início: [00:33:51])
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Pedido de vista
+- **Votação:** Pendente (após voto do relator conhecendo do agravo para negar provimento ao recurso especial, pediu vista a Min. Maria Isabel Gallotti)
+- **Tese fixada:** [PROPOSTA] A ausência de impugnação específica nas razões do recurso especial a fundamento autônomo e suficiente para manter o acórdão recorrido atrai a incidência da Súmula 283 do STF.
+- **Resumo da discussão:** A controvérsia cinge-se a definir se o Fundo Garantidor de Créditos (FGC) possui o direito de receber juros moratórios da massa falida do Banco BRJ, em um cenário excepcional de falência superavitária. O agravante (FGC) defendeu que, na condição de sub-rogado após pagar os investidores, tem direito à percepção dos juros, argumentando que a negativa do TJ/RJ ofende a legislação falimentar e que seu estatuto não veda a cobrança. A massa falida e os acionistas sustentaram preliminarmente a incidência das Súmulas 283, 284 e 7 do STJ, e no mérito defenderam que o FGC atua como garantidor de risco sistêmico e não como investidor. O Ministro Relator votou pelo provimento do agravo interno para conhecer do agravo e negar provimento ao recurso especial, aplicando a Súmula 283/STF. Na sequência, a Ministra Maria Isabel Gallotti pediu vista dos autos.
+
+### 3. REsp 2.147.280/SP - Marco inicial de correção monetária em arbitramento de honorários (Início: [00:56:10] / 01:02:13)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** Em ação de arbitramento de honorários advocatícios, caso a perícia utilize como base de cálculo o valor da causa na data de distribuição da ação originária, a correção monetária deve incidir excepcionalmente a partir dessa data-base pericial, e não do momento do arbitramento, para garantir a efetiva recomposição da desvalorização da moeda.
+- **Resumo da discussão:** O processo versa sobre a definição do marco inicial para a incidência de correção monetária em ação de arbitramento de honorários advocatícios referente à atuação em uma ação de divórcio iniciada em 2006. O advogado da parte recorrente fez sustentação oral pleiteando a correção a partir da fixação em sentença (2023). O Relator apresentou um *distinguishing* (distinção) em relação à regra geral da jurisprudência do STJ. Fundamentou que, como o laudo pericial calculou os honorários retroagindo o valor da causa à data de distribuição do divórcio sem atualizá-lo, fixar a correção apenas a partir do arbitramento em 2023 resultaria em defasagem inflacionária de mais de 15 anos. A Turma, por unanimidade, seguiu o relator para negar provimento ao recurso especial, mantendo o acórdão estadual e majorando os honorários recursais de 13% para 14%.
+
+### 4. REsp 2.228.345 - Propriedade Industrial e Registro de Marca (Início: 01:11:51 / 01:31:44)
+- **Relator:** Min. Maria Isabel Gallotti (Presidindo)
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A mera possibilidade de confusão basta para obstar o registro de marca impeditiva, não se exigindo prova de efetivo engano por parte dos consumidores, sendo irrelevantes a autorização de uso e o tempo de convivência pacífica declarados pela titular da marca registrada quando constatada a possibilidade de associação indevida.
+- **Resumo da discussão:** Trata-se de ação de nulidade de ato administrativo movida pela empresa Dräger contra o INPI em virtude do indeferimento do registro da marca nominativa "Infinity" (direcionada a monitores hospitalares) devido à pré-existência da marca "Infiniti" (direcionada a cateteres médicos). O advogado da recorrente destacou que há carta de consentimento da empresa titular da marca anterior atestando a convivência pacífica. A relatora destacou que, à luz da Lei de Propriedade Industrial (LPI) e para proteger o público consumidor de associação indevida em ambiente sensível (centros cirúrgicos), a possibilidade de confusão é suficiente para manter o indeferimento. O colegiado afastou o argumento de convivência pacífica e a declaração de consentimento, prestigiando as conclusões do INPI.
+
+### 5. AgInt no REsp 305... [Número incompleto]/[UF não identificada] - Arbitramento de Aluguéis entre Cônjuges (Início: 01:34:55)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** Não há uso exclusivo do imóvel quando este também serve de residência para o filho comum, credor de alimentos, afastando a pretensão de recebimento de aluguéis pelo companheiro ou cônjuge privado do uso.
+- **Resumo da discussão:** Tratou-se de agravo interno contra decisão que negou a cobrança de aluguéis por ex-cônjuge privado do uso do imóvel. Houve requerimento de sustentação oral pela advogada do agravado, que foi dispensada pelo colegiado diante da indicação de que o recurso seria improvido. O mérito foi resolvido reafirmando o entendimento consolidado da Corte de que a coabitação do filho comum com um dos ex-cônjuges no imóvel descaracteriza o uso exclusivo, impedindo a fixação de aluguéis indenizatórios.
+
+### 6. EDcl no AREsp [Processo não identificado, N. 18 da pauta]/[UF não identificada] - Impugnação da Decisão de Admissibilidade (Início: 01:39:07)
+- **Relator:** Min. Luís Carlos Gamboja (originário) / Acórdão por Min. Raul Araújo
+- **Resultado:** Acolhidos com efeitos infringentes
+- **Votação:** Maioria - Votaram pelo acolhimento os Ministros Raul Araújo e Antônio Carlos, vencidos os Ministros Gamboja (relator) e João Otávio de Noronha. O julgamento foi definido com o voto de desempate da Ministra Presidente.
+- **Tese fixada:** A impugnação suficiente dos fundamentos da decisão de admissibilidade do recurso especial, inclusive quanto à incidência da Súmula 7/STJ, afasta o óbice da Súmula 182/STJ, permitindo o conhecimento e posterior exame de mérito do agravo.
+- **Resumo da discussão:** O caso tratou de voto de desempate proferido pela Ministra Presidente. O relator original e o Min. Noronha votavam pela aplicação da Súmula 182/STJ. O Min. Raul Araújo inaugurou a divergência, acompanhado pelo Min. Antônio Carlos, argumentando que a parte logrou impugnar adequadamente os fundamentos da inadmissibilidade (Súmula 7). A Presidente desempatou acompanhando a divergência para superar o óbice sumular e determinar o retorno dos autos ao relator original para a efetiva análise de mérito do recurso especial, ficando a lavratura do acórdão a cargo do Min. Raul Araújo.
+
+### 7. REsp [Processo não identificado, N. 17 da pauta]/[UF não identificada] - Pedido de Desistência Recursal (Início: 01:41:35)
+- **Relator:** Min. Isabel Gallotti
+- **Resultado:** Homologada a desistência
+- **Votação:** Unânime quanto à homologação, com divergência quanto ao acréscimo de advertência.
+- **Tese fixada:** É cabível o deferimento de pedido de desistência de recurso especial formulado a qualquer tempo (art. 998, CPC), mesmo após iniciado o julgamento, quando ausentes a caracterização de recurso repetitivo ou a evidência manifesta de má-fé da parte para frustrar a formação de precedente.
+- **Resumo da discussão:** Uma entidade de previdência privada pediu desistência após o início do julgamento. A relatora deferiu a desistência, mas propôs registrar advertência sobre litigância de má-fé em caso de reiteração em demandas massificadas da mesma entidade. Os Ministros Antônio Carlos e Raul Araújo concordaram com a desistência, mas discordaram da advertência profilática, argumentando que eventual má-fé deve ser aferida no caso concreto. A desistência foi deferida unanimemente sem o registro da advertência no acórdão.
+
+### 8. REsp 1.419.381/[UF não identificada] - Ação Civil Pública e Liquidação de Sentença (Início: 01:47:58)
+- **Relator:** Min. Buzzi
+- **Resultado:** Pedido de vista
+- **Votação:** Aguardando - O relator negou provimento ao agravo interno, acompanhado pelo Min. Noronha. O Min. Raul Araújo divergiu, dando provimento. Pediu vista o Min. Antônio Carlos.
+- **Tese fixada:** [PROPOSTA] Escoado o prazo de um ano do trânsito em julgado da sentença condenatória em ação civil pública sem habilitação ou com habilitação ínfima dos consumidores lesados, a associação autora detém legitimidade subsidiária para deflagrar a execução coletiva pelos danos causados a interesses individuais homogêneos (reparação fluida ou fluid recovery), apurando-se o valor residual por arbitramento, com destinação ao Fundo de Defesa dos Direitos Difusos.
+- **Resumo da discussão:** A questão cinge-se à legitimidade de uma associação de consumidores para propor a liquidação de sentença coletiva genérica após inércia dos interessados. O Min. Raul Araújo apresentou robusto voto-vista divergindo do relator para admitir a legitimidade da associação, evitando o esvaziamento da tutela coletiva e consagrando a "fluid recovery". Mencionou farta doutrina e precedentes. O julgamento foi novamente suspenso por pedido de vista do Min. Antônio Carlos.
+
+### 9. AREsp 2.868.681/[UF não identificada] - Competência Interna (Início: 01:57:35 / 02:02:05)
+- **Relator:** Min. Luís Carlos Gamboja
+- **Resultado:** Adiado
+- **Votação:** Não iniciada
+- **Tese fixada:** [PROPOSTA] A competência regimental das Seções do Superior Tribunal de Justiça é relativa e, não sendo impugnada oportunamente pelas partes mediante agravo interno, opera-se a preclusão com prorrogação da competência para a Turma em que o feito foi distribuído. / A Quarta Turma é incompetente para julgar recurso que trata de encargos cobrados em contratos por concessionárias de serviço público, devendo o feito ser apreciado pela Primeira Seção.
+- **Resumo da discussão:** A Ministra Presidente suscitou questão de ordem destacando o processo por se tratar de matéria afeta à Primeira Seção (cobrança de alimentador reserva / encargos em contratos por concessionária de serviço público). O relator defendeu que a competência é relativa e as partes silenciaram, operando-se a prorrogação. A Presidente argumentou que a incompetência material poderia ser declinada de ofício. Diante do debate jurídico relevante e visando um quórum completo (o Min. Antônio Carlos havia se retirado e a sessão contava com apenas três ministros), a Presidente sugeriu o adiamento do processo para a sessão seguinte.
+
+## Destaques da Sessão
+- A sessão da Quarta Turma foi presidida pela Ministra Maria Isabel Gallotti em substituição ao Ministro João Otávio de Noronha, que se encontrava justificadamente ausente.
+- A ata da 9ª sessão ordinária, ocorrida em 19 de maio de 2026, foi lida e aprovada sem impugnações.
+- A Ministra Presidente comunicou que a sessão seria encurtada em razão da realização do Congresso Internacional de Ética e Integridade Judicial. Por isso, iniciou-se priorizando as sustentações orais.
+- **Flexibilização Regimental:** O colegiado destacou a postura mais liberal da Quarta Turma em admitir, de forma excepcional, a realização de sustentação oral em julgamentos de Agravo Interno.
+- **Debate sobre Falência Superavitária:** Discussão profunda sobre a natureza jurídica da sub-rogação do FGC, opondo plenos direitos creditórios (juros de mora) à função securitária puramente.
+- **Distinguishing em Honorários:** Aplicação prática de distinção jurisprudencial para o termo inicial da correção monetária para evitar prejuízo inflacionário de 15 anos decorrente da metodologia de cálculo do perito de origem.
+- **Propriedade Industrial:** Discussão aprofundada evidenciando a tensão entre a autonomia da vontade (acordos de coexistência marcária) e o exame de interesse público pelo INPI em registro de marcas de equipamentos de saúde.
+- **Voto de Desempate Presidencial:** Exercício do voto de minerva pela Presidência em Embargos de Declaração, alterando radicalmente o resultado de não conhecimento (Súmula 182) para conhecimento.
+- **Debate sobre Litigância de Má-fé:** Ocorreu expressivo debate de que o exercício do direito à desistência recursal em litígios individuais massificados não deve presumir má-fé.
+- **Fluidez Competencial ("Fluid Recovery"):** Resgate histórico e jurisprudencial que defendeu a legitimidade subsidiária das associações na fase de liquidação de demandas coletivas (CDC).
+- **Controle Oficioso de Competência Interna:** O debate gerou o adiamento de um caso para deliberação colegiada completa, contrapondo a preclusão ao dever oficioso do juiz e a especialização das Turmas.
+- **Suspensão por Quórum:** Suspensão dos trabalhos no bloco final por ausência de quórum, ficando deliberado que a sessão seria continuada na terça-feira seguinte.
+
+## Estatísticas
+- Total de processos julgados: 9 (sendo 1 julgamento não finalizado logo no início)
+- Providos: 1
+- Desprovidos: 3
+- Parcialmente providos: 0
+- Outros: 5 (2 Pedidos de vista, 1 Julgamento não finalizado, 1 Desistência homologada, 1 Adiado)`
+  },
+  {
     id: "2026-05-19_quarta_turma",
     title: "Quarta Turma - 19/05/2026",
     date: "19/05/2026",
