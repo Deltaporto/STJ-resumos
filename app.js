@@ -115,6 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'maria isabel gallotti': 'Maria Isabel Gallotti',
         'isabel gallotti': 'Maria Isabel Gallotti',
         'marco buzzi': 'Marco Buzzi',
+        'buzzi': 'Marco Buzzi',
         'marco aurelio bellizze': 'Marco Aurélio Bellizze',
         'bellizze': 'Marco Aurélio Bellizze',
         'ricardo villas boas cueva': 'Ricardo Villas Bôas Cueva',
@@ -122,8 +123,12 @@ document.addEventListener('DOMContentLoaded', () => {
         'villas boas': 'Ricardo Villas Bôas Cueva',
         'humberto martins': 'Humberto Martins',
         'daniela teixeira': 'Daniela Teixeira',
+        'luis felipe salomao': 'Luis Felipe Salomão',
+        'luiz felipe salomao': 'Luis Felipe Salomão',
         'luis carlos gambogi': 'Des. Conv. Luís Carlos Gambogi',
         'luiz carlos gambogi': 'Des. Conv. Luís Carlos Gambogi',
+        'luis carlos gamboja': 'Des. Conv. Luís Carlos Gambogi',
+        'luiz carlos gamboja': 'Des. Conv. Luís Carlos Gambogi',
         'luis carlos gamboa': 'Des. Conv. Luís Carlos Gambogi',
         'luiz carlos gamboa': 'Des. Conv. Luís Carlos Gambogi',
         'luis carlos gamboe': 'Des. Conv. Luís Carlos Gambogi',
@@ -433,9 +438,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const relatores = [];
         for (const match of matches) {
             if (match[1]) {
+                const relatorText = match[1].replace(/\s*\/\s*Ac[oó]rd[aã]o\s+por\s+Min\.\s*/gi, '; ');
                 // Separar relatores múltiplos preservando nomes compostos
                 // Evitamos dar split em " de ", " da ", " do "
-                const refinedNames = match[1].split(/[\/;,]|\s+e\s+|\s+ou\s+/i);
+                const refinedNames = relatorText.split(/[\/;,]|\s+e\s+|\s+ou\s+/i);
                 
                 refinedNames.forEach(rawName => {
                     const name = rawName.trim();
