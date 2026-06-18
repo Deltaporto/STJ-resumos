@@ -1,5 +1,178 @@
 const resumosData = [
   {
+    id: "2026-06-16_quarta_turma",
+    title: "Quarta Turma - 16/06/2026",
+    date: "16/06/2026",
+    orgao: "Quarta Turma",
+    videoUrls: ["https://www.youtube.com/watch?v=04NxYuVOTPc"],
+    theses: [{"text": "A publicação jornalística fundada em fatos verídicos ou verossímeis, embora redigida em tom crítico e ácido, não gera dever de indenizar se não constatado prevalente intuito de injuriar, difamar ou caluniar, devendo prevalecer as liberdades de informação e de crítica jornalística em matérias de interesse público.", "processTitle": "1. AgInt no [Processo 1.814.5...]/RJ - Indenização por danos morais (Matéria jornalística) (Início: 00:41:36)", "type": "final"}, {"text": "A matéria não alegada na apelação configura indevida inovação recursal, inviável de análise pelo STJ mesmo que de ordem pública; sob a égide do Código Civil de 1916, a pretensão de anulação de venda de ascendente a descendente por interposta pessoa prescreve em 4 anos; alterar a conclusão do tribunal de origem demanda revolvimento fático-probatório (Súmulas 5 e 7).", "processTitle": "4. [Processo não identificado] - Múltiplos temas processuais e civis (Início: 01:35:39)", "type": "final"}, {"text": "Em ação reivindicatória, o litisconsórcio passivo necessário se forma com aqueles que exercem concretamente a posse injusta sobre o bem, e não com todos os que figuram abstratamente como coproprietários no registro do imóvel.", "processTitle": "12. AREsp 3.133.518/[UF] - Litisconsórcio passivo necessário em ação reivindicatória (Início: 02:22:39)", "type": "final"}, {"text": "A suspeição de perito judicial deve ser arguida na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão consumativa. A anulação de perícia anterior por vício procedimental não desconstitui a nomeação do perito, tampouco reabre o prazo para arguição baseada em fato pretérito.", "processTitle": "14. REsp 1.579.704/PR - Suspeição de perito e preclusão consumativa (Início: 02:30:06)", "type": "final"}, {"text": "A utilização comercial não autorizada de obra musical (trecho de refrão) em produtos e campanhas publicitárias, sem a devida indicação de autoria, gera dano moral presumido (in re ipsa), aplicando-se por analogia a Súmula 403 do STJ.", "processTitle": "15. REsp 2.007.553/PE - Direitos autorais e dano moral presumido (Início: 02:48:57)", "type": "final"}, {"text": "O Sistema de Informações de Créditos (SCR) gerido pelo Banco Central possui finalidade pública, regulatória e fiscalizatória, não equivalendo a cadastro de inadimplentes. Basta a comunicação prévia única no momento da contratação do crédito, sem necessidade de notificação a cada atualização mensal.", "processTitle": "17. REsp 2.259.143/RJ - Inscrição no SCR do Banco Central e prévia notificação (Início: 02:54:16)", "type": "final"}, {"text": "É devida a indenização por danos morais quando a instituição financeira, instada por ordem judicial a promover a exclusão do nome do devedor de \"cadastros em geral\", procede à baixa apenas nos órgãos de proteção ao crédito (SPC/Serasa) e omite a restrição constante no Sistema de Informações de Crédito (SCR).", "processTitle": "18. [Processo não identificado] - Responsabilidade civil e cadastros de inadimplentes (Início: 03:04:32)", "type": "final"}, {"text": "A ausência de indicação precisa do valor remanescente e do método de apuração torna indevida a pena de deserção por complementação ínfima (0,16616%), em prestígio à boa-fé objetiva, ao princípio da cooperação e à primazia do julgamento de mérito.", "processTitle": "19. AREsp 2.580.011/SP - Deserção por insuficiência de preparo (Início: 03:10:37)", "type": "final"}],
+    relatores: ["Raul Araújo", "Luís Carlos Gambosa", "Des. Conv. Luís Carlos Gambogi", "Maria Isabel Gallotti", "João Otávio de Noronha", "Antônio Carlos Ferreira"],
+    content: `# Resumo - Quarta Turma - 16/06/2026
+    
+**Vídeo:** [Quarta Turma - STJ -  16/06/2026](https://www.youtube.com/watch?v=04NxYuVOTPc)
+**Data:** 16/06/2026
+**Órgão:** Quarta Turma
+
+---
+
+## Processos Julgados
+
+### 1. AgInt no [Processo 1.814.5...]/RJ - Indenização por danos morais (Matéria jornalística) (Início: 00:41:36)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A publicação jornalística fundada em fatos verídicos ou verossímeis, embora redigida em tom crítico e ácido, não gera dever de indenizar se não constatado prevalente intuito de injuriar, difamar ou caluniar, devendo prevalecer as liberdades de informação e de crítica jornalística em matérias de interesse público.
+- **Resumo da discussão:** Trata-se de agravo interno em ação de indenização por danos morais ajuizada pelo espólio de empresário contra o jornal O Globo em razão da publicação de matéria intitulada "O poderoso chefão". A defesa alegou *animus injuriandi* na extrapolação do direito de informar. A Turma acompanhou o relator por unanimidade para negar provimento ao recurso, entendendo que o acórdão recorrido avaliou corretamente a ponderação entre direitos da personalidade e liberdade de imprensa. A expressão do título foi considerada chamativa, mas desprovida de abuso, não configurando dano moral indenizável.
+
+### 2. AREsp 2.307.2.../RJ - Prescrição e enriquecimento ilícito (Início: 01:02:56)
+- **Relator:** Min. Luís Carlos Gambosa
+- **Resultado:** Julgamento não concluído
+- **Votação:** Não iniciada
+- **Tese fixada:** [PROPOSTA] A definir (o julgamento foi interrompido durante debate de questão de ordem).
+- **Resumo da discussão:** Antes do início das sustentações orais, o advogado suscitou questão de ordem requerendo o julgamento conjunto deste recurso com outro, alegando matéria idêntica de fundo. O presidente da Turma argumentou que a alegação de conexão não havia sido pautada no momento oportuno, e o julgamento foi interrompido sem prolação de votos ou desfecho.
+
+### 3. AgInt no AREsp [2.720.072]/RJ - Nulidade de doação inoficiosa, simulação e prazo prescricional (Início: 01:06:53)
+- **Relator:** Min. Luís Carlos Gamboa (Camboja)
+- **Resultado:** Julgamento não finalizado na transcrição
+- **Tese fixada:** [PROPOSTA] A análise de eventual nulidade de contrato de compra e venda de imóvel sob a alegação de simulação para encobrir doação inoficiosa esbarra no óbice das Súmulas 5 e 7 do STJ, por exigir o reexame do conjunto fático-probatório e a interpretação de cláusulas contratuais.
+- **Resumo da discussão:** O caso envolve ação declaratória de nulidade referente a um imóvel. O advogado da agravante sustentou que houve doação inoficiosa direta com prazo prescricional vintenário. A contraparte defendeu o acórdão que aplicou o prazo quadrienal para simulação. O Relator iniciou o voto ratificando a decisão monocrática pela incidência das Súmulas 5 e 7, afastando a tese de negativa de prestação jurisdicional.
+
+### 4. [Processo não identificado] - Múltiplos temas processuais e civis (Início: 01:35:39)
+- **Relator:** Não identificado
+- **Resultado:** Desprovido
+- **Votação:** Unânime
+- **Tese fixada:** A matéria não alegada na apelação configura indevida inovação recursal, inviável de análise pelo STJ mesmo que de ordem pública; sob a égide do Código Civil de 1916, a pretensão de anulação de venda de ascendente a descendente por interposta pessoa prescreve em 4 anos; alterar a conclusão do tribunal de origem demanda revolvimento fático-probatório (Súmulas 5 e 7).
+- **Resumo da discussão:** O relator rechaçou a tese de negativa de prestação jurisdicional e negou provimento ao recurso. Após a proposta de voto, a presidência indeferiu firmemente uma intervenção da tribuna a título de "questão de ordem" que visava debater premissas fáticas, indicando que a via adequada seriam os embargos de declaração. A turma acompanhou o relator.
+
+### 5. REsp 2.819.216/SP - Responsabilidade solidária de credenciadora por fraude de terceiro (Início: 01:41:15)
+- **Relator:** Min. Luís Carlos Gamboa (Desembargador Convocado)
+- **Resultado:** Pedido de vista
+- **Votação:** Aguardando
+- **Tese fixada:** [PROPOSTA] A ação de regresso contra a credenciadora de pagamentos, em hipóteses de fraude envolvendo cartão de crédito, está condicionada à demonstração de violação dos deveres legais e regulatórios da credenciadora; afasta-se a multa por embargos protelatórios quando ausente intenção de protelação.
+- **Resumo da discussão:** Ação de regresso pelo Banco Itaú contra a PagSeguro decorrente do "golpe da troca de cartão". O relator propôs o desprovimento do agravo quanto ao mérito, afirmando não haver provas de falhas no credenciamento. O Min. Raul Araújo pediu vista antecipada dos autos, ressaltando o expressivo volume de ações em seu gabinete sobre o tema para aprofundar as fronteiras da responsabilidade.
+
+### 6. AREsp [2.501.2...]/SP - Litisconsórcio e denunciação da lide em vícios construtivos no Programa Minha Casa Minha Vida (Início: 01:56:11)
+- **Relator:** Min. Luís Carlos Gamboa (Desembargador Convocado)
+- **Resultado:** Pedido de vista
+- **Votação:** Aguardando
+- **Tese fixada:** [PROPOSTA] (Julgamento suspenso por pedido de vista antes da prolação de voto de mérito com tese especificada).
+- **Resumo da discussão:** Agravo do Banco do Brasil envolvendo reparação por vícios construtivos no programa "Minha Casa Minha Vida". A defesa focou no litisconsórcio passivo necessário e na denunciação da lide à construtora. O Min. Raul Araújo pediu vista antecipada dos autos em deferência aos argumentos da tribuna, suspendendo o julgamento antes do voto do relator.
+
+### 7. [Processo não identificado]/[UF] - Legitimidade do FAR e vícios de construção no programa Minha Casa, Minha Vida (Início: 02:04:33)
+- **Relator:** Não identificado
+- **Resultado:** Pedido de vista
+- **Votação:** Aguardando
+- **Tese fixada:** [PROPOSTA] A relação jurídica na aquisição de imóvel do programa Minha Casa, Minha Vida é de consumo, sendo vedada a intervenção de terceiros. O Banco do Brasil (gestor do FAR) possui legitimidade passiva para responder solidariamente pelos vícios construtivos.
+- **Resumo da discussão:** O relator apresentou voto ratificando a relação de consumo e a legitimidade da instituição financeira. Houve debate entre os ministros sobre o tema envolver dinheiro da União e os impactos nos custos de financiamento. O Min. João Otávio de Noronha pediu vista.
+
+### 8. [Processo não identificado]/[UF] - Correção Monetária (Início: 02:12:04)
+- **Relator:** Min. Maria Isabel Gallotti
+- **Resultado:** Adiado para a primeira sessão de agosto
+- **Tese fixada:** [PROPOSTA] Tema envolvendo distinções a serem feitas sobre a aplicação e eventual preclusão de critérios de correção monetária.
+- **Resumo da discussão:** A Ministra comunicou que trazia um voto extenso de 15 laudas. A Turma concordou em adiar para agosto para possibilitar uma análise com mais tempo.
+
+### 9. REsp 705.[XXX]/[UF] - Termo inicial dos juros de mora (Início: 02:13:02)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Renovação de julgamento determinada (adiado para agosto)
+- **Tese fixada:** [PROPOSTA] Os juros de mora devem incidir a partir da citação. (A divergência propõe a incidência a partir da sentença, face à ausência de recurso sobre esse capítulo).
+- **Resumo da discussão:** Com a apresentação de divergência pelo Min. Raul Araújo e composição alterada da Turma (ministros que não viram as sustentações orais originais), constatou-se falta de quórum para proclamação. O julgamento foi anulado para renovação integral em agosto.
+
+### 10. REsp 1.960.866/[UF] - Vícios de construção (Início: 02:20:01)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Adiado para a primeira sessão de agosto
+- **Resumo da discussão:** O Ministro trazia voto-vista regimental, mas solicitou o adiamento para agosto, seguindo o padrão da sessão para casos complexos.
+
+### 11. REsp 1.899.963/SP - Interpretação de contrato e demolição de benfeitorias (Início: 02:20:38)
+- **Relator:** Min. Antônio Carlos Ferreira
+- **Resultado:** Adiado para a primeira sessão de agosto (pedido de vista)
+- **Tese fixada:** [PROPOSTA] Interpretação do contrato à luz da ausência de prova de demolição de benfeitorias.
+- **Resumo da discussão:** A Min. Maria Isabel Gallotti alertou que traria divergência extensa ao voto do relator. Para permitir ajustes, o feito foi adiado.
+
+### 12. AREsp 3.133.518/[UF] - Litisconsórcio passivo necessário em ação reivindicatória (Início: 02:22:39)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Parcialmente conhecido e desprovido
+- **Votação:** Unânime
+- **Tese fixada:** Em ação reivindicatória, o litisconsórcio passivo necessário se forma com aqueles que exercem concretamente a posse injusta sobre o bem, e não com todos os que figuram abstratamente como coproprietários no registro do imóvel.
+- **Resumo da discussão:** A controvérsia era se a ausência de citação de coproprietária registral na reivindicatória gerava nulidade. O relator rejeitou as nulidades e fixou que o critério material para o litisconsórcio é a posse injusta real.
+
+### 13. REsp 1.900.957/AM - [Tema não especificado] (Início: 02:28:32)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Adiado
+- **Resumo da discussão:** Adiamento imediato constatado em sessão devido à indisponibilidade do voto do relator no sistema, mesmo com advogados inscritos para sustentação.
+
+### 14. REsp 1.579.704/PR - Suspeição de perito e preclusão consumativa (Início: 02:30:06)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Conhecido e provido
+- **Votação:** Unânime
+- **Tese fixada:** A suspeição de perito judicial deve ser arguida na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão consumativa. A anulação de perícia anterior por vício procedimental não desconstitui a nomeação do perito, tampouco reabre o prazo para arguição baseada em fato pretérito.
+- **Resumo da discussão:** Após sustentação oral, o relator concluiu que as partes haviam anuído com a nomeação do perito e que as razões não se enquadravam no rol taxativo do art. 135 do CPC/1973. A tentativa de afastar o perito tardiamente configurou preclusão consumativa ("nulidade de algibeira").
+
+### 15. REsp 2.007.553/PE - Direitos autorais e dano moral presumido (Início: 02:48:57)
+- **Relatora:** Min. Maria Isabel Gallotti
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** A utilização comercial não autorizada de obra musical (trecho de refrão) em produtos e campanhas publicitárias, sem a devida indicação de autoria, gera dano moral presumido (*in re ipsa*), aplicando-se por analogia a Súmula 403 do STJ.
+- **Resumo da discussão:** Uso comercial não autorizado de trecho de música em publicidade de marca de cerveja. Consolidou-se que a violação ao direito autoral dispensa a prova de prejuízo, sendo o direito inalienável. A sustentação oral da parte autora foi dispensada pelo provimento integral do pleito.
+
+### 16. REsp 1.923.957/AM - [Tema não especificado - Direito Civil] (Início: 02:53:55)
+- **Relatora:** Min. Maria Isabel Gallotti
+- **Resultado:** Adiado
+- **Resumo da discussão:** Adiado a pedido da relatora para revisão final do voto extenso, não obstante a presença de advogados inscritos.
+
+### 17. REsp 2.259.143/RJ - Inscrição no SCR do Banco Central e prévia notificação (Início: 02:54:16)
+- **Relatora:** Min. Maria Isabel Gallotti
+- **Resultado:** Parcialmente conhecido e desprovido
+- **Votação:** Unânime
+- **Tese fixada:** O Sistema de Informações de Créditos (SCR) gerido pelo Banco Central possui finalidade pública, regulatória e fiscalizatória, não equivalendo a cadastro de inadimplentes. Basta a comunicação prévia única no momento da contratação do crédito, sem necessidade de notificação a cada atualização mensal.
+- **Resumo da discussão:** Julgamento de impacto sistêmico frente a milhares de ações sobre o SCR. A relatora confirmou que a anotação é desdobramento automático e regulatório, sem ilícito a gerar dano moral. Debatida academicamente a competência da Justiça Estadual para a matéria.
+
+### 18. [Processo não identificado] - Responsabilidade civil e cadastros de inadimplentes (Início: 03:04:32)
+- **Relator:** Não identificado
+- **Resultado:** Parcialmente conhecido e desprovido
+- **Votação:** Unânime
+- **Tese fixada:** É devida a indenização por danos morais quando a instituição financeira, instada por ordem judicial a promover a exclusão do nome do devedor de "cadastros em geral", procede à baixa apenas nos órgãos de proteção ao crédito (SPC/Serasa) e omite a restrição constante no Sistema de Informações de Crédito (SCR).
+- **Resumo da discussão:** O colegiado firmou entendimento de que o banco responsável pela inserção responde pelo descumprimento de ordem judicial de exclusão em cadastros. A manutenção no SCR após ordem judicial configura ilícito.
+
+### 19. AREsp 2.580.011/SP - Deserção por insuficiência de preparo (Início: 03:10:37)
+- **Relator:** Min. Raul Araújo
+- **Resultado:** Provido
+- **Votação:** Unânime
+- **Tese fixada:** A ausência de indicação precisa do valor remanescente e do método de apuração torna indevida a pena de deserção por complementação ínfima (0,16616%), em prestígio à boa-fé objetiva, ao princípio da cooperação e à primazia do julgamento de mérito.
+- **Resumo da discussão:** A parte recolheu mais de R$ 2,8 milhões a título de preparo e o recurso foi julgado deserto por diferença residual mínima. O acórdão foi anulado ante a desproporção e ausência de especificação exata do *quantum* devido.
+
+### 20. AREsp [Número incompleto - final 71]/SP - Responsabilidade civil de empresa de monitoramento (Início: 03:16:08)
+- **Relator:** Não identificado
+- **Resultado:** Julgamento suspenso por pedido de vista
+- **Tese fixada:** [PROPOSTA] A desconstituição das conclusões do Tribunal de origem sobre falha intrínseca em serviço de monitoramento decorrente de sabotagem esbarra nos óbices das Súmulas 5 e 7 do STJ.
+- **Resumo da discussão:** Defesa da empresa alegou sabotagem (corte de fios) e falta de prova de prejuízo. O relator votou por negar provimento, e a Min. Maria Isabel Gallotti pediu vista para avaliar os reflexos da inversão do ônus da prova.
+
+### 21. AREsp 1.975.120/RJ - Responsabilidade civil médica e legitimidade passiva (Início: 03:31:10)
+- **Relator:** Min. João Otávio de Noronha (Presidente no exercício)
+- **Resultado:** Pedido de vista
+- **Votação:** Empate inicial (2 a 2), seguido de pedido de vista do Min. Luís Carlos Gamboa para desempate.
+- **Tese fixada:** [PROPOSTA] A clínica médica responde civilmente, por culpa *in eligendo*, pelo erro cometido por médico anestesista que atua em suas dependências convocado pela clínica. A responsabilidade não se estende ao hospital.
+- **Resumo da discussão:** Intenso debate sobre responsabilidade solidária de clínica cujo proprietário é o próprio cirurgião por erro exclusivo de anestesista. O Relator e Min. Raul Araújo votaram por afastar a responsabilidade da clínica frente à autonomia do profissional. A Min. Maria Isabel Gallotti e o Min. Antônio Carlos Ferreira divergiram, baseando-se no pacote contratado pelo consumidor e culpa *in eligendo*. Após renovação de sustentações orais e amplo debate sobre o CDC, o Min. Luís Carlos Gamboa pediu vista.
+
+### 22. AREsp 2.448.450/SP - [Não identificado] (Início: 04:10:20)
+- **Relator:** Min. João Otávio de Noronha
+- **Resultado:** Prorrogação de prazo de vista deferida
+- **Resumo da discussão:** Questão de ordem administrativa onde foi solicitada e deferida a prorrogação do prazo de vista dos autos, adiando a conclusão do julgamento.
+
+## Destaques da Sessão
+- **Ações Institucionais e Acessibilidade:** Exibição de inovações da corte (período pré-sessão), incluindo atendimento em Libras, marcadores de equidade racial, adesão ao Pacto pela Linguagem Simples e lançamentos de projetos envolvendo a BDJur e jurisprudência da Corte Interamericana.
+- **Balanço e Encerramento do Semestre:** A Presidência destacou números expressivos da Turma no semestre (48 mil processos julgados entre monocráticas e colegiados). Ocorreram os discursos formais de encerramento, transição administrativa de sessões para conferir celeridade à pauta, e uma moção unânime de pesar pelo falecimento do juiz Antônio Evangelista de Souza Neto.
+- **Adiamentos e Renovação de Pauta:** Devido ao esgotamento do tempo, diversos casos longos, com pedidos de vista maduros ou votos extensos, além daqueles com necessidade de renovação por quebra de quórum ou indisponibilidade sistêmica, foram transferidos sistematicamente para o retorno dos trabalhos na primeira sessão de agosto.
+- **Controle Processual e Postura do Colegiado:** Destacou-se a firmeza da Presidência em rejeitar questões de ordem intempestivas que tentavam reabrir debates de mérito e o uso de pragmatismo dispensando sustentações orais quando a tese do relator era integralmente favorável à parte.
+- **Litigância Sistêmica e Casos Paradigmáticos:** A Turma enfrentou teses com milhares de reflexos nacionais, como o limite de responsabilidade das credenciadoras (ex: PagSeguro) por fraudes em comércio eletrônico, as condenações massivas sobre cadastro e notificação no SCR (Banco Central), e o pesado debate sobre as fronteiras da responsabilidade solidária de clínicas e hospitais por atos autônomos de médicos anestesistas perante o CDC.
+
+## Estatísticas
+- Total de processos julgados: 22
+- Providos: 3
+- Desprovidos: 5 (incluindo desprovimentos integrais e recursos parcialmente conhecidos/desprovidos)
+- Parcialmente providos: 0
+- Outros: 14 (Pedidos/Prorrogações de vista, processos adiados, interrompidos ou com renovação de julgamento determinada)`
+  },
+  {
     id: "2026-06-02_quarta_turma",
     title: "Quarta Turma - 02/06/2026",
     date: "02/06/2026",
