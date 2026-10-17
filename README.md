@@ -1,22 +1,8 @@
-# STJ Resumos - Visualizador
+# STJ — Primeira Turma e Primeira Seção | Caderno de Sessões (GMHB)
 
-Este repositório contém os arquivos estáticos que o **GitHub Pages** utiliza para exibir os resumos das sessões de julgamento do Superior Tribunal de Justiça (STJ).
+Repositório estático de visualização das sessões de julgamento da **Primeira Turma** e da **Primeira Seção** do Superior Tribunal de Justiça (STJ), contendo:
 
----
-
-## ℹ️ Sobre os Arquivos
-*   `index.html`: Estrutura principal da dashboard.
-*   `app.js`: Lógica de renderização dos cards e filtro.
-*   `style.css`: Estilização e layout.
-*   `data.js`: Banco de dados estático contendo os resumos em si.
-
----
-
-## 🔄 Atualização Automática
-Os dados deste repositório são empurrados automaticamente pelo script de sincronização do projeto de gerência:
-```bash
-./scripts/publicar_github_pages.sh
-```
-
----
-*Página gerada via Automação de Minutas STJ*
+- Destaques de atuação, relatorias e manifestações do **Min. Herman Benjamin**;
+- Classificação temática pelas **15 matérias de Direito Público do Gabinete**;
+- Tesauro de teses fixadas, propostas e votos vencidos;
+- Download público e leitura integrada da **transcrição revisada e saneada** de cada sessão, com minutagem vinculada ao vídeo oficial no YouTube.

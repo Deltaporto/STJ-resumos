@@ -1,124 +1,229 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resumos - Julgamentos STJ</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238e3140' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m16 16 3-8 3 8c-1 1.8-2.3 3-3 3s-2-.9-3-3Z'/><path d='m2 16 3-8 3 8c-1 1.8-2.3 3-3 3s-2-.9-3-3Z'/><path d='M7 21h10'/><path d='M12 3v18'/><path d='M3 7h18'/></svg>">
+    <title>STJ — Primeira Turma e Primeira Seção | Caderno de Sessões (GMHB)</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231b365d' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'><path d='M12 3v18'/><path d='M5 7h14'/><path d='m5 7-3 7h6l-3-7Z'/><path d='m19 7-3 7h6l-3-7Z'/><path d='M8 21h8'/></svg>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <a href="#documentViewer" class="skip-link">Pular para o conteudo</a>
+    <a href="#mainWorkspace" class="skip-link">Pular para o conteúdo principal</a>
 
-    <!-- SVG noise filter -->
-    <svg aria-hidden="true" style="position:absolute;width:0;height:0">
-        <filter id="noiseFilter">
-            <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/>
-            <feColorMatrix type="saturate" values="0"/>
-        </filter>
-    </svg>
-
-    <div class="page-noise" aria-hidden="true"></div>
-
-    <div class="app-container">
-        <aside class="sidebar">
-            <div class="sidebar-inner">
-                <div class="sidebar-header">
-                    <div class="brand-mark">
-                        <i data-lucide="scale" class="logo-icon"></i>
+    <div class="app-shell">
+        <!-- Barra Lateral: Navegação de Sessões e Busca Global -->
+        <aside class="sidebar" id="sidebar" aria-label="Navegação de sessões">
+            <div class="sidebar-top">
+                <div class="institutional-brand">
+                    <div class="brand-emblem" aria-hidden="true">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 3v18"></path>
+                            <path d="M4 7h16"></path>
+                            <path d="m5 7-3 7h6l-3-7Z"></path>
+                            <path d="m19 7-3 7h6l-3-7Z"></path>
+                            <path d="M8 21h8"></path>
+                        </svg>
                     </div>
-                    <div class="logo-text">
-                        <p class="logo-kicker">Caderno de Sessao</p>
-                        <h1>Resumos do STJ</h1>
-                        <span>Leitura editorial de julgamentos</span>
+                    <div class="brand-titles">
+                        <span class="brand-kicker">Superior Tribunal de Justiça</span>
+                        <h1 class="brand-heading">1ª Turma e 1ª Seção</h1>
+                        <span class="brand-subtitle">Caderno de Sessões — GMHB</span>
                     </div>
                 </div>
 
-                <div class="sidebar-intro">
-                    <p class="sidebar-intro-title">Arquivo vivo de sessoes</p>
-                    <p class="sidebar-intro-copy">Uma interface pensada para leitura longa: pauta filtravel, destaque institucional e abertura processo a processo.</p>
+                <!-- Busca Global Profunda -->
+                <div class="global-search-box" role="search">
+                    <label class="sr-only" for="searchInput">Buscar processos, teses, matérias ou manifestações</label>
+                    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                        <circle cx="11" cy="11" r="7.5"></circle>
+                        <path d="m20 20-3.8-3.8"></path>
+                    </svg>
+                    <input
+                        type="search"
+                        id="searchInput"
+                        placeholder="Buscar processo, tese, tema ou relator..."
+                        autocomplete="off"
+                    >
+                    <kbd class="search-kbd" aria-hidden="true">Ctrl+K</kbd>
                 </div>
 
-                <div class="search-panel" role="search">
-                    <label class="sr-only" for="searchInput">Buscar em resumos</label>
-                    <i data-lucide="search" class="search-icon"></i>
-                    <input type="text" id="searchInput" placeholder="Buscar por turma, data ou orgao" aria-describedby="searchHelp" autocomplete="off">
-                    <span class="search-shortcut" aria-hidden="true">Ctrl+K</span>
+                <!-- Seletor de Órgão Colegiado -->
+                <div class="orgao-tabs" role="tablist" aria-label="Filtrar por órgão colegiado">
+                    <button type="button" class="orgao-tab active" data-orgao="todos" role="tab" aria-selected="true">Todos</button>
+                    <button type="button" class="orgao-tab" data-orgao="primeira_turma" role="tab" aria-selected="false">1ª Turma</button>
+                    <button type="button" class="orgao-tab" data-orgao="primeira_secao" role="tab" aria-selected="false">1ª Seção</button>
                 </div>
-                
-                <div class="filter-panel" style="margin-top: 4px; padding: 0 4px; position: relative; z-index: 2;">
-                    <div class="search-panel" style="background: rgba(var(--accent-rgb, 142, 49, 64), 0.04); min-height: 40px; padding: 2px 8px 2px 42px;">
-                        <i data-lucide="gavel" class="search-icon" style="opacity: 0.8; left: 14px; width: 18px;"></i>
-                        <select id="relatorSelect" aria-label="Filtrar processos por relator">
-                            <option value="">Todos os Relatores</option>
-                        </select>
-                    </div>
+
+                <div class="sidebar-status-bar">
+                    <span id="resultsInfo" class="results-count" aria-live="polite">0 sessões</span>
+                    <button type="button" id="resetAllFiltersBtn" class="link-reset-btn" hidden>Limpar filtros</button>
                 </div>
-                <div id="activeFilterDisplay" class="active-filter-display" style="display: none; padding: 0 8px; margin-bottom: 8px;"></div>
-                <span id="searchHelp" class="sr-only">Filtre por data, turma ou orgao julgador.</span>
+            </div>
 
-                <div class="results-info" id="resultsInfo" aria-live="polite"></div>
+            <nav class="sessions-nav" id="sessionsList" aria-label="Sessões disponíveis">
+                <!-- Preenchido via app.js -->
+            </nav>
 
-                <nav class="sessions-list" id="sessionsList" aria-label="Lista de sessoes">
-                    <!-- Lista sera populada pelo JS -->
-                </nav>
-
-                <div class="sidebar-footer">
-                    <div class="theme-panel">
-                        <p class="theme-panel-label">Modo de leitura</p>
-                        <button type="button" id="themeToggle" class="theme-toggle" aria-pressed="false">
-                            <i data-lucide="moon" class="theme-icon-dark"></i>
-                            <i data-lucide="sun" class="theme-icon-light" style="display: none;"></i>
-                            <span class="theme-text">Modo Noturno</span>
-                        </button>
-                    </div>
-                </div>
+            <div class="sidebar-footer">
+                <button type="button" id="themeToggle" class="theme-btn" aria-pressed="false">
+                    <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                        <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+                    </svg>
+                    <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true" hidden>
+                        <circle cx="12" cy="12" r="4"></circle>
+                        <path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32 1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path>
+                    </svg>
+                    <span id="themeLabel">Modo Escuro</span>
+                </button>
             </div>
         </aside>
 
-        <main class="main-content">
-            <header class="content-header">
-                <button type="button" id="hamburgerBtn" class="hamburger-btn" aria-label="Abrir menu lateral" aria-expanded="false">
-                    <i data-lucide="menu"></i>
-                </button>
-
-                <div class="doc-meta" id="docMeta" aria-live="polite">
-                    <!-- Metadados injetados aqui -->
+        <!-- Área Principal -->
+        <div class="main-area" id="mainWorkspace">
+            <!-- Barra Superior Fixa -->
+            <header class="topbar">
+                <div class="topbar-left">
+                    <button type="button" id="mobileMenuBtn" class="icon-button mobile-only" aria-label="Abrir lista de sessões" aria-expanded="false">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+                            <line x1="3" y1="6" x2="21" y2="6"></line>
+                            <line x1="3" y1="12" x2="21" y2="12"></line>
+                            <line x1="3" y1="18" x2="21" y2="18"></line>
+                        </svg>
+                    </button>
+                    <div id="topbarSessionMeta" class="topbar-session-meta">
+                        <span class="topbar-orgao-badge">Direito Público — STJ</span>
+                        <h2 class="topbar-title">Selecione uma sessão</h2>
+                    </div>
                 </div>
 
-                <div id="headerHud" class="header-hud" aria-hidden="true"></div>
+                <div class="topbar-actions" id="topbarActions">
+                    <!-- Links de Vídeo (YouTube) -->
+                    <div id="videoActionsGroup" class="action-group"></div>
 
-                <div class="header-actions">
-                    <a id="watchBtn" class="watch-btn" href="#" target="_blank" rel="noopener noreferrer" hidden>
-                        <i data-lucide="youtube" class="watch-btn-icon"></i>
-                        <span class="watch-label">Assistir sessao</span>
-                    </a>
-
-                    <button type="button" class="action-btn" title="Copiar resumo em Markdown" aria-label="Copiar resumo em Markdown" id="copyBtn">
-                        <i data-lucide="copy" class="action-btn-icon"></i>
-                        <span class="action-label">Copiar</span>
+                    <!-- Ler Transcrição Revisada no Navegador -->
+                    <button type="button" id="readTranscriptBtn" class="btn-action" hidden>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                            <polyline points="14 2 14 8 20 8"></polyline>
+                            <line x1="16" y1="13" x2="8" y2="13"></line>
+                            <line x1="16" y1="17" x2="8" y2="17"></line>
+                            <line x1="10" y1="9" x2="8" y2="9"></line>
+                        </svg>
+                        <span>Ler Transcrição</span>
                     </button>
 
-                    <button type="button" class="action-btn" title="Imprimir ou salvar em PDF" aria-label="Imprimir ou salvar em PDF" id="printBtn">
-                        <i data-lucide="printer" class="action-btn-icon"></i>
-                        <span class="action-label">PDF</span>
+                    <!-- Baixar Transcrição Revisada e Saneada -->
+                    <a id="downloadTranscriptBtn" class="btn-action btn-action--primary" href="#" download hidden>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="7 10 12 15 17 10"></polyline>
+                            <line x1="12" y1="15" x2="12" y2="3"></line>
+                        </svg>
+                        <span>Baixar Transcrição Revisada</span>
+                    </a>
+
+                    <!-- Copiar Resumo Markdown -->
+                    <button type="button" id="copySummaryBtn" class="btn-action" title="Copiar resumo em Markdown">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                            <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                            <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                        </svg>
+                        <span id="copySummaryLabel">Copiar Resumo</span>
+                    </button>
+
+                    <!-- Imprimir / Salvar PDF -->
+                    <button type="button" id="printBtn" class="btn-action" title="Imprimir pauta resumida">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                            <polyline points="6 9 6 2 18 2 18 9"></polyline>
+                            <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+                            <rect x="6" y="14" width="12" height="8"></rect>
+                        </svg>
+                        <span>Imprimir</span>
                     </button>
                 </div>
             </header>
 
-            <article class="document-viewer" id="documentViewer">
-                <div class="empty-state">
-                    <i data-lucide="file-text" class="empty-state-icon"></i>
-                    <p class="empty-state-kicker">Selecione uma sessao</p>
-                    <h2>O resumo abre como um caderno de leitura.</h2>
-                    <p>Escolha uma sessao no menu lateral para explorar os processos, os destaques e o contexto institucional.</p>
+            <!-- Barra de Filtros de Julgados (Matérias do Gabinete, Relator e Destaques) -->
+            <section class="filters-toolbar" aria-label="Filtros de processos">
+                <div class="filters-row">
+                    <!-- Seletor das 15 Matérias do Gabinete -->
+                    <div class="filter-control">
+                        <label for="materiaSelect" class="filter-label">Matéria (Gabinete)</label>
+                        <select id="materiaSelect" class="filter-select">
+                            <option value="">Todas as 15 matérias</option>
+                        </select>
+                    </div>
+
+                    <!-- Seletor de Relator (Titulares + Categoria Flexível de Convocados/Substitutos) -->
+                    <div class="filter-control">
+                        <label for="relatorSelect" class="filter-label">Relator / Julgador</label>
+                        <select id="relatorSelect" class="filter-select">
+                            <option value="">Todos os julgadores</option>
+                        </select>
+                    </div>
+
+                    <!-- Filtros Rápidos Tipográficos -->
+                    <div class="quick-toggles" role="group" aria-label="Recortes rápidos">
+                        <button type="button" id="toggleHermanBtn" class="toggle-pill" aria-pressed="false">
+                            <span class="pill-indicator pill-indicator--herman"></span>
+                            <span>Atuação Min. Herman Benjamin</span>
+                        </button>
+                        <button type="button" id="toggleRelevantBtn" class="toggle-pill" aria-pressed="false">
+                            <span class="pill-indicator pill-indicator--relevant"></span>
+                            <span>Casos Relevantes</span>
+                        </button>
+                        <button type="button" id="toggleThesisBtn" class="toggle-pill" aria-pressed="false">
+                            <span class="pill-indicator pill-indicator--thesis"></span>
+                            <span>Com Tese Fixada</span>
+                        </button>
+                    </div>
+
+                    <div class="filters-spacer"></div>
+
+                    <button type="button" id="toggleAllDetailsBtn" class="btn-subtle">
+                        Recolher discussões
+                    </button>
                 </div>
-            </article>
-        </main>
+
+                <!-- Faixa de Tags de Matérias presentes na sessão ativa -->
+                <div id="sessionMateriaChips" class="materia-chips-bar" aria-label="Matérias na sessão atual"></div>
+            </section>
+
+            <!-- Conteúdo Rolável da Sessão -->
+            <main class="content-scroll" id="documentViewer" tabindex="-1">
+                <!-- Renderizado dinamicamente via app.js -->
+            </main>
+        </div>
     </div>
+
+    <!-- Modal / Gaveta Lateral de Leitura da Transcrição Revisada e Saneada -->
+    <div id="transcriptDrawerBackdrop" class="drawer-backdrop" hidden></div>
+    <aside id="transcriptDrawer" class="transcript-drawer" aria-labelledby="transcriptDrawerTitle" aria-hidden="true" hidden>
+        <header class="drawer-header">
+            <div class="drawer-title-group">
+                <span class="drawer-kicker">Documento Revisado e Saneado com Minutagem</span>
+                <h2 id="transcriptDrawerTitle" class="drawer-title">Transcrição da Sessão</h2>
+            </div>
+            <div class="drawer-actions">
+                <div class="drawer-search">
+                    <input type="search" id="transcriptSearchInput" placeholder="Filtrar parágrafos na transcrição..." autocomplete="off">
+                </div>
+                <a id="drawerDownloadBtn" class="btn-action btn-action--primary" href="#" download>
+                    <span>Baixar .MD</span>
+                </a>
+                <button type="button" id="closeTranscriptDrawerBtn" class="icon-button" aria-label="Fechar transcrição">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+        </header>
+        <div id="transcriptDrawerBody" class="drawer-body"></div>
+    </aside>
 
     <script src="data.js"></script>
     <script src="app.js"></script>

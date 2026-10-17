@@ -1,0 +1,1165 @@
+# Transcrição Revisada e Saneada — Primeira Seção (14/10/2026)
+
+- **Órgão Julgador:** Primeira Seção — Superior Tribunal de Justiça
+- **Data da Sessão:** 14/10/2026
+- **Duração da Transmissão:** 4h 47min
+- **Vídeo Original:** [Primeira Seção - STJ -  14/10/2026](https://www.youtube.com/watch?v=59Xi4wO9VVs)
+- **Processamento:** Saneamento determinístico e organização por minutagem (gerado em 17/10/2026 15:12)
+
+---
+
+## Transcrição Organizada por Minutagem
+
+[00:21:32] Máquinas é com autor De relatoria do senhor ministro Marco Arélio Beliz o tema 1244 referente aos recursos especiais 2.53.569 2.53.647 2.46.893 93 pelo senhor Min. Paulo Sérgio Domingues, os votos vistos no tema 1302, recursos especiais 2.146.834 e 2.146.839 e os votos vistas no tema 1275.
+
+[00:23:41] Embargo de divergência no recurso especial 1.793915 divergência no recurso especial 1.997.816 16. Os recursos especiais 2.34.824 2.170.82 e 2.170.92. Pelo senhor Min. Sérgio Kukina os votos vistos no tema 13,97 referente aos recursos especiais 2.186.838 2.148.056 1056, vista regimental no IAC 21 pelo senhor Min. Afrânio Vilela, referente ao recurso especial 1.957.818 de São Paulo.
+
+[00:24:27] Bem, eh, pergunto, temos apenas dois processos no bloco e não vi nenhuma observação, nenhum destaque, podemos julgá-los. Então, o bloco está devidamente aprovado. Eh, e antes de ir para o julgamento dos processos propriamente ditos, eu gostaria de fazer o registro aqui rápido de uma efeméridário de uma querida colega e amiga. Uma data muito bonita, não vou revelar qual é, não se preocupe, ministra, Min. Maria Thereza de Assis Moura. E é difícil a gente descobrir, né? Porque vai ali no Google, no instante descobre. Não vou, mas não vou revelar. Quem tiver a
+
+[00:25:09] Curiosidade, que no caso vai e e verifica, mas é aniversário da nossa querida Min. Maria Thereza de Assis Moura, que foi presidente deste nosso tribunal e agora a brilhanta a primeira sessão. Então, faço esse breve registro com o desejo de muita saúde e muita felicidade para a Min. Maria Thereza de Assis Moura. E passamos então de forma eh temos aqui ainda alguns avisos. A Dra. A Mariana tá me lembrando, temos aqui a Secretaria de Cultura e Memória por meio do Núcleo de Mediação e educação, comunica que estão presentes nesta sessão participando do
+
+[00:25:48] Programa Saber Universário da Justiça, os estudantes da Faculdade Presbitana Ana Mackenzi aqui de Brasília. Sejam todos muito bem-vindos. poderiam se identificar só pra gente saber onde é que então sejam todos muito bem-vindos, assim como também os estudantes do Centro Universitário Unifacear de Curitiba, onde é que estão, se puderem se identificar, então sejam todos muito bem-vindos, não só os estudantes, como também professores que estejam aí acompanhandoos. É uma satisfação poder recebê-los nesse projeto que temos aqui
+
+[00:26:21] Nesse programa do nosso Superior Tribunal de Justiça. Vamos agora eh para um destaque da presidência que é uma
+
+[00:26:29] Questão de ordem no recurso especial 826.796, 796 eh, da relatoria do ministro Teodoro. É uma proposta de desafetação. Eu quero já indicar aos colegas, eu fiz um registro eh trazendo uma observação, trazendo uma reflexão para os colegas. Alguns até entenderam que eu como
+
+[00:26:54] Presidente, por ser questão de ordem, eu votaria, mas eu já antecipo que a minha posição é contrária a votar, porque eu faço aplico o princípio da simetria. Se eu como presidente do colegiado, eu não posso votar na afetação, eu não posso votar também eventualmente em desafetação. Essa posição que eu tenho. Ah, mas é
+
+[00:27:16] Questão de ordem. Questão de ordem do
+
+[00:27:18] Presidente? Sim. A questão de ordem, ela vai abranger os mais diversos assuntos. E no caso específico, eu entendo que não é por que não tá na ordem aqui? Não tá.
+
+[00:27:30] Hã, deixa eu só não tá não tá indo aqui no meu sistema. Mas bem, já vou pedir o apoio da da informática para poder a gente não tá indo para o processo que vai ser julgado, mas então, enfim, eh eu não poderei participar desta deste como de praxa, né, como presidente do colegiado, eu não poderei participar. E passo a palavra ao ministro Teodoro. Lembrando que como temos diversas sustentações orais, eu já pedi aos colegas a colaboração para que a gente fique mais restrito sempre às ementas dos julgados. Eu agradeço a participação e a
+
+[00:28:10] Colaboração de todos. Ministro Teodoro.
+
+[00:28:12] Obrigado, senhor presidente, demais padres, advogados,
+
+[00:28:15] Agora foi
+
+[00:28:16] Integrantes da universidade aqui presente. Eu vou, senhor presidente, eu vou ler a ementa, a qual está sada. A delimitação da controvérsia afeta o rito dos recursos repetitivos pela primeira sessão do Superior Tribunal de Justiça. Consiste em definir se o memorando circular conjunto número 21 da DISBEN IPFN ISS. figura marco interruptivo do prazo prescional das demandas de revisão de beneficiário de benefício beneficiário nos termos do artigo 202 inciso 6 do Código Civil tema número 1220 STJ. Em virtude de ópice intransponíveis para
+
+[00:29:00] O conhecimento do recurso especial, impõe-se a sua desafetação do regime dos recursos repetitivos, bem como o cancelamento do tema número 1220 STJ, sendo determinada a respectiva tramitação pelo rito dos recursos especiais comuns na segunda turma desta corte superior. É a ementa, senhor presidente, e de mais pares. Agradeço, ministro Teodoro. Pergunto se alguém gostaria de se pronunciar. Pois não, Min. Maria Thereza de Assis Moura.
+
+[00:29:34] Eh, eu achei muito relevantes as ponderações feitas por Vossa Excelência no nosso grupo, até abrindo mão de votar na condição de presidente na questão de ordem, o que, creio eu, assim, na minha modesta opinião, poderia ser possível, mas respeito que Vossa Excelência queira se abster. E eu entendo, como Vossa Excelência, que sendo este um caso em que não se refletiria exatamente a hipótese que vem sendo tratada como súmula 7, talvez pudéssemos refletir de não desafetar, porque vários são os casos que estão eh aguardando o
+
+[00:30:22] Resultado eh deste caso. Então, eh, eu vou, eh, pedir vene ao eminente relator para me valer dos argumentos que já foram expostos por Vossa Excelência, mas no sentido mesmo de que talvez não seja o caso de desafetar, mas de enfrentar o tema que originalmente foi trazido pela ministra Susete e possuindo nós os elementos indispensáveis para o conhecimento, talvez vez eu acho que o melhor seria enfrentar ao desafetar do que desafetar o caso. Então eu peço a mais respeitosa venha para não acolher a
+
+[00:31:07] Questão de ordem e manter o a o processo afetado.
+
+[00:31:11] Pois não. Eh, como há um primeiro voto divergente, eu vou colher, no caso, as posições de cada ministro na sequência, votando então o ministro Afrânio
+
+[00:31:23] Presidente eminantes par. Senhoras e senhores presentes a esse auditório, eu estou acompanhando o eminente relator,
+
+[00:31:30] Na questão de ordem eh pelo cancelamento da afetação do tema 12 eh 20. Senhor presidente, com a devida vênia ao entendimento da Min. Maria Thereza de Assis Moura.
+
+[00:31:42] Pois não. Recolho o voto do ministro Herman.
+
+[00:31:49] Min. Maria Thereza de Assis Moura, eu não entendi muito bem. Boa tarde a todas e todos. Boa tarde.
+
+[00:31:53] Eh, eu não entendi muito bem a razão Vossa Excelência ou as razões que Vossa Excelência apresenta para não desafetação.
+
+[00:32:03] Eh, caro ministro Herman, boa tarde, Vossa Excelência e
+
+[00:32:07] E parabéns, né?
+
+[00:32:08] Obrigada. O ministro Gurgel enviou a todos nós algumas ponderações a respeito deste caso. em regra, eh, se se entendeu em vários casos que eh não seria o caso de enfrentar o mérito do caso, mas até porque a questão diz respeito à interrupção, não de uma prescrição do do lapso de prescrição e que aqui diz o ministro Gugel, se eu não estiver com que tenha entendido corretamente, há elementos que possibilitam a a análise exatamente ente da questão posta como afetada pela ministra a Susete, porque existe o documento que poderia ser a
+
+[00:32:55] Base para dizer aqui interrompe ou não a prescrição. Então, dizer que não poderíamos examinar não seria eh o caso, porque esse memorando circular está nos autos e que possibilitaria saber se ele serve ou não serve para interromper. Mas eh não é ministro Gugel, basicamente
+
+[00:33:17] Exatamente isso. Na verdade, a questão eh não precisa, a questão tá no Código Civil, artigo 202, se eu não me engano, inciso um do Código Civil. É um ato que seria suficiente ou não para interromper uma prescrição. Então, a a violação é direta ao Código Civil, né, argumenta-se. E esse ato administrativo sempre o ato não é um ato legal. Normalmente pode até ser, mas normalmente é um ato administrativo e o ato ele está transcrito no acórdão recorrido. Então, a análise se é possível ou não, na minha compreensão, não ensejaria o da súmula 7 e nem
+
+[00:33:55] Tampouco ensejaria uma análise de ato infralegal, porque o que se argumenta é a violação ao artigo 202, volto a dizer, do Código Civil, razão pela qual eu não posso votar, mas apresentei argumentos no sentido de que, e aí faço referência ao voto da ministra A Susete também quando propôs a afetação falando da multiplicidade de casos, ministro Herman, falando, na verdade, dos valores que ali estão envolvidos. E então eu entendo que seria o caso de manter a afetação, mas por óbvio, o colegiado é que vai. Eh,
+
+[00:34:30] Eu fiz o Obrigado, ministro Guj, Min. Maria Thereza de Assis Moura, eu fiz o pedido de esclarecimento porque eu observo que neste caso, ao contrário de outros tantos, eh a afetação foi de um único processo. Normalmente nós afetamos três, cinco processos. Exatamente. Porque se houver uma peculiaridade, seja eh na admissibilidade ou mesmo uma dúvida eh documental, como como parece ser o caso aqui, nós nós podemos podemos julgar. Me recordo também que já houve eh situações em que o relator afetou outros processos além daquele eh ou daqueles. Me recordo
+
+[00:35:15] De um de um de um caso, talvez o relator tenha sido eu mesmo, em que os três processos afetados eh cada um deles enfrentava alguma dificuldade no âmbito da da admissibilidade, estaria numa zona cinzenta. E aí, eh, aproveitando já o processo de afetação em curso, eh, foram afetados, eh, outros outros processo. Eu indago, ministro Teodoro, se nós não poderíamos eventualmente eh, já que é uma matéria tão tão importante, se nós não poderíamos encontrar outros processos eh que nós pudéssemos agregar a essa afetação ou se Vossa Excelência
+
+[00:35:56] Prefere eh eh ir do partir do zero.
+
+[00:36:01] Eh, me permite só, ministro? Eh, todos os colegas já tiveram acesso, estão estão votando. Eh, o que a maioria decidir, o que decidirem, eu me inculpo, porque nosso nosso desiderato maior aqui é exatamente uniformizar a jurisprudência e de sorte que o que for decidido pelos colegas já começaram a votar. Tranquilo. Se a se predominar essa posição aí, eu aceitarei. Tranquilo.
+
+[00:36:28] É
+
+[00:36:29] Qualquer sugestão.
+
+[00:36:30] Não, mas a minha sugestão é algo intermediário, não é? eh, que seria de aproveitar Vossa Excelência continua na relatoria eh e nós identificamos casos eh que se encaixem na modalidade de afetação ou das teses aqui.
+
+[00:36:47] Ministro Herman, posso se me permite uma uma parte só para fazer esclarecimento. Esse caso talvez seja um dos, se formos realmente manter a afetação, esse é um dos melhores, porque veja, a origem é um IRDR.
+
+[00:36:57] Exato. Exato.
+
+[00:36:58] É um incidente de resolução de demandas repetitivas. O memorando tá transcrito na íntegra, no acordão que deu eh eh que fez o julgamento do IRDR. Então, eh eh acho que esse melhor do que esse senão seria realmente ir pela desafetação,
+
+[00:37:14] Porque eu acho que melhor do que esse caso, bem a Min. Maria Thereza de Assis Moura,
+
+[00:37:18] É, inclusive, ministro Herman, há um detalhe que eu, por exemplo, já afetei com um respe, não há necessidade de que há que sejam dois e inclusive agora com a nova regulamentação, espera-se que seja por um caso,
+
+[00:37:34] Um caso,
+
+[00:37:35] Não que sejam vários casos E esse é, como disse o ministro Guj, oriundo de um IRDR. Então, e com o documento dos autos, né? Eh, eu eu eh como todos sabem, na, por exemplo, na corte especial, eu não voto de forma contrária ao relator eh que propõe uma desafetação. Eh, então eu vou pedir vênas, entendo a as observações feitas pelos eminentes pares, mas eu eh acompanho eh a desafetação. Quero só chamar atenção que com relação com relação destaco aqui os seguintes decisões em que não foi conhecido o recurso especial e a qualificação
+
+[00:38:23] Jurídica do memorando circular que nós estamos nos referindo. E aqui eu trago, inclusive eu trago, eu trago aqui um e 20260 de São Paulo, relator o ministro Gugel Farias, de 18 de423 tem o aresp990 de São Paulo da relatoria do ministro João Otávio Noronha. Tem aqui, tem aqui também o resto 1656014 relatura mines Benedito. Tem esses dados aqui. Eu acredito que agora se essa
+
+[00:38:56] Ministro Teodoro, mas só uma observação porque na verdade é como eu digo, a violação aqui não é a memorando,
+
+[00:39:02] A violação é o artigo 202 do código, a alegação, né, de violação artigo 202 e aí o artigo 202 fala em ato e aí a gente precisa ver esse ato.
+
+[00:39:11] Tranquilo. Foi isso, senhor presidente, a minha opinião como relator, eh, já como Vossa Excelência abriu a votação, já ocorreram diversos votos, já ocorreram aqui meu voto, ocorreu o o voto do ministro Afrâo, do ministro Resma e da ministra, eu acredito que seria que seria mais prático tomar o restante dos votos. É o que eu tô tentando fazer, ministro Teodoro. O detalhe que Vossa Excelência continue a
+
+[00:39:35] Não, na hora em que, Veja só, eh, primeiro vamos manter aqui o o estilo do colegiado, tá certo?
+
+[00:39:41] Mas é isso que eu tô deix só um pouquinho,
+
+[00:39:43] Eu sugerei vossa excelência perguntar,
+
+[00:39:44] Só um pouquinho, ministro, ministro, vamos manter o estilo do colegiado que é de respeito perante todos e de tranquilidade, tá certo? Segunda coisa, excelência, falta de respeito, eu não estou atendo, pelo amor de Deus, nunca tive e não venha fazer, pelo amor de Deus, eu tenho respeito ao colegiado.
+
+[00:40:02] Ministro Teodoro, ministro Teodoro,
+
+[00:40:04] Não pelo amor de Deus, presidente.
+
+[00:40:06] É, vamos votar. Eu proponho que nós votemos,
+
+[00:40:09] Vamos manter a tranquilidade, tá certo? na sessão. E o que eu quero dizer a Vossa Excelência é que na hora em que Vossa Excelência foi defender e fez uma referência a um voto meu, eu fui fazer a menção de que, na verdade, o que está em discussão é o Código Civil, não é memorando. Vossa Excelência fez referência a decisões mencionando aí situações de atos normativos infralegais, mas o caso é referente a especificamente lei. E eu vou manter aqui então a continuidade da de colher os votos. Ministro Pelize.
+
+[00:40:39] Senhor presidente,
+
+[00:40:39] Senhor [limpando a garganta] pediu,
+
+[00:40:43] Ministra Fran. Eu vou pedir a compreensão e vou continuar eh no caso colhendo os votos.
+
+[00:40:47] Presente. Eu vou pedir venha ao ministro eminente ministro relator, ministro Herma, vou acompanhar a Min. Maria Thereza de Assis Moura. Penso que a questão é relevante, prescrição.
+
+[00:40:55] E o fato noticiado pela eminente Min. Maria Thereza de Assis Moura de que esse é um dos poucos processos que permite um exame amplo de uma matéria tão importante e tão repetida. Então eu pedindo a compreensão do do eminente relator, tô acompanhando a Min. Maria Thereza de Assis Moura. Presidente, também peço autorização para sair. Vou pro pro eleitoral aqui.
+
+[00:41:15] Com certeza, ministro Melí. Eu agradeço aí a colaboração de Vossa Excelência. A gente sabe as missões eh no nosso Tribunal Superior Eleitoral. Ministro Cuquina.
+
+[00:41:25] Boa tarde, senhor presidente. Cumprimento a todos. Eh, eu estou aqui votando pela com a vênia do eminente relator, né, pela não desafetação.
+
+[00:41:38] Min. Regina Helena Costa.
+
+[00:41:40] Boa tarde a todas e todos. Senhor presidente, muito obrigada. Também cumprimento a Min. Maria Thereza de Assis Moura, que é o nosso exemplo de de magistrada no, né, que longa vida, mais 70 anos. Min. Maria Thereza de Assis Moura,
+
+[00:41:55] Dizer a idade [risadas]
+
+[00:41:56] Agora já. Ah, ups. Muito bem. Eh, eu vou pedir licença a à divergência, ilustradíssima divergência para acompanhar o senhor relator pela pela desafetação do tema. Senhor presidente,
+
+[00:42:11] Ministro Paulo Sérgio. Tamb
+
+[00:42:13] Bem, presidente. Peço vênia a ilustrada e hoje festejadíssima divergência para acompanhar o relator.
+
+[00:42:20] Senhor presidente Fran. Pois não.
+
+[00:42:22] Muito obrigado. É porque eu apenas acompanhei o eminente ministro Teodoro, mas em virtude da dialeticidade imposta, eu queria só lembrar que o e deve ter representantes do INSS aqui neste auditório que o memorando circular o que ele eh fez de uma maneira genérica foi isso no no mundo prático. E quando nós falamos de afetar, nós temos que lembrar que todas as nossas decisões aqui, por mais deliberativas que elas sejam, elas têm que, obviamente, eh, versar, elas têm que eh prever uma situação fática que nós vamos eh regr eh eh
+
+[00:43:03] Lá no lá no no caso concreto. E o memorando, na realidade, ele disse que são passíveis de revisão os benefícios por incapacidade, pensões e etc. Eh, basicamente ele foi um ato de reconhecimento do direito e me parece que toda a estrutura do INSS passou a cumprir aquilo que o memorando determinou. E isso também foi eh observado no Tribunal de Origem. Eh, salvo engano e muito engano da minha parte, né? Eh, o que se vê é que o acórdão recorrido do Tribunal Estadual, ele eh procedeu à interpretação desse memorando circular, extraindo as
+
+[00:43:49] Disposições eh no reconhecimento do direito do segurado por parte do INSS, que o próprio INSS fez questão de eh anotar em seu memorando. Então, o que eu fico aqui a me perguntar, qual a utilidade prática de nós continuarmos com essa situação? Então, eu não vejo a repercussão no mundo prático de qualquer eh continuidade dessa afetação. Então, esse é o meu voto, senhor presidente.
+
+[00:44:19] Pois não. Então eu eu vou no caso eh registrar que o colegiado, por maioria
+
+[00:44:28] Acolheu a questão de ordem, nos termos do voto do relator, no sentido da desafetação do feito da sistemática de recursos repetitivos, bem como o cancelamento do tema número 1220 do STJ, eh, vencidos a Min. Maria Thereza de Assis Moura, ministro Belize e ministro Cuquina. Eh, vamos agora ao bloco das sustentações orais. Eu vou inicialmente convidar os ilustres advogados para virem a tribuna, depois é que eu vou apregoando. Já convido a Dra. Raquel Godói para representar a Fazenda Nacional. Dr. José Eduardo Martins Cardoso, representando a
+
+[00:45:09] Parte recorrida Notredame Intermédica Participações. Dr. Carlos Henrique de Oliveira, pela parte interessada da Associação Brasileira das Companhias Abertas Brasca e o Dr. Marcelo Pedrosa Pedroso, perdão, M Pereira, pela parte interessada, Associação Brasileira de Advocacia Tributária. O tema que eu estou a apregoar é o de número 1379, relatoria do Min. Sérgio Kukina. recurso especial 2.70.059 de São Paulo 2.199631 de São Paulo. Indago aos ilustres advogados se dispenso a leitura do relatório. Então, com a dispensa, todos
+
+[00:45:49] Concordando, vamos ouvir, inicialmente, pelo tempo de até 15 minutos, a Dra. Raquel Godói.
+
+[00:46:00] Som.
+
+[00:46:01] Alô. Pois não.
+
+[00:46:01] Som. Pronto, agora tá funcionando.
+
+[00:46:03] Boa tarde a todos e a todas. Muito obrigada, senhor ministro presidente, senhor ministro relator Min. Sérgio Kukina, senhoras ministras Min. Maria Thereza de Assis Moura de Assismour e Min. Regina Helena Costa. Feliz aniversário para a Min. Maria Thereza de Assis Moura. Senhores ministros, senhor representante do Ministério Público Federal, servidores e servidoras, colegas procuradores e procuradoras da Fazenda Nacional, advogados e advogadas presentes. A questão da incidência das contribuições previdenciárias, ela chega aqui a esta sessão. É uma sessão que já
+
+[00:46:34] Analisou, que já se debruçou sobre esses planos no tema 1226. E por isso, a primeira coisa que precisa ficar muito bem registrada aqui, que precisa ficar muito clara, é porque os dois casos são casos diferentes. Porque as conclusões que foram traçadas no tema 1226 não podem ser automaticamente transportadas para cá para o julgamento desse tema eh 1379. E basicamente eu apontaria aqui três motivos pelos quais os casos são de fato diferentes. O primeiro é uma questão de materialidade das duas incidências. No tema 1226 se tratou do
+
+[00:47:10] Imposto de renda que incide sobre o acréscimo patrimonial. Hi gente tá tratando da contribuição previdenciária que tem como fato gerador a remuneração, qualquer que seja a sua forma. Isso é o que diz a lei 8212 de91, que também diz expressamente que a remuneração inclui os ganhos habituais sob a forma de utilidades, de forma que quem recebe um carro, quem recebe uma casa ou como no caso aqui em julgamento, quem recebe ações do seu empregador de forma habitual, recebe salário de contribuição. O segundo motivo é uma questão
+
+[00:47:45] Relacionada à consequência dos dois julgados. Eh, diferente do que aconteceu no tema 1226, em que a tributação ela terminou ficando diferida para o momento da revenda das ações, aqui neste caso, se for afastada a incidência das contribuições previdenciárias, este afastamento será um afastamento definitivo e incontornável. Os benefícios oferidos aqui pelos beneficiários desses planos não serão em nenhum momento tributados pelas contribuições previdenciárias. E o terceiro motivo que impede a simples transposição, a transposição automática
+
+[00:48:19] Do que se decidiu no 1226 para cá, é uma certa fragilidade na própria premissa que se assentou no tema 1226 a respeito da natureza mercantil, desses planos, que seria aqui acho que o elo comum mais forte entre os dois casos. Sobre a natureza mercantil, é preciso lembrar aqui uma peculiaridade do tema 1226. A sessão, para que superasse os obicces das súmulas 5 e 7 e julgasse o tema, resolveu, decidiu que não analisaria nenhum plano em concreto, não analisaria nenhum contrato. Partiu-se de um modelo abstrato e com base nesse modelo
+
+[00:48:54] Abstrato, se concluiu que esses planos são planos de natureza mercantil. Embora o próprio voto do tema 1226 em mais de uma passagem admitisse que existem planos que são desvirtuados, existem planos que não se amoldam. a esse modelo abstrato ideal que a ao qual se considerou essa natureza mercantil. Mas aconteceu alguma uma coisa na sequência que precisa ser endereçada, que não pode ser ignorada. Vejam, o Supremo Tribunal Federal, ao julgar o recurso extraordinário da União contra o próprio acórdão do TRF3, que foi
+
+[00:49:29] Analisado no tema 1226, ele recusou a existência de repercussão geral naquele caso e o fez com base em dois fundamentos. O primeiro foi o de que a controvérsia era uma controvérsia infraconstitucional e o segundo foi o de que a controvérsia era uma controvérsia fática. E aqui eu abro aspas para o que disse o Supremo Tribunal Federal quando recusou essa essa repercussão geral. Disse o seguinte: "A formatação do negócio se estrutura em cada hipótese numa forte dependência dos termos estipulados entre as partes, cuja
+
+[00:49:58] Análise se torna imprescindível". Então, vejam a dicotomia que se formou. Essa sessão entendeu que os termos dos planos não precisavam ser analisados. O Supremo, na sequência, disse que essa análise ela era indispensável. E o que que isso conduz? A gente tem, então, que a natureza desses planos, ela não é uma questão hoje 100% fechada, ela é uma questão em discussão ainda, uma questão aberta. E a gente pode afirmar que esse é um tema que não tem, portanto, uma resposta pronta, fechada. E a pergunta que guia essa controvérsia, ela precisa
+
+[00:50:29] Ser feita novamente.
+
+[00:50:31] E que pergunta é essa? Vejam. Quando a gente tem uma companhia que permite que um diretor, que um seu executivo compre as suas ações por metade do preço de exercício, porque trabalhou para ela por 2, 3 anos, pelo prazo que seja ali o prazo de carência daquele plano. A gente tá diante aqui de uma remuneração ou a gente tá diante de uma operação de mercado, de uma de um negócio de bolsa? O debate, eh, ministro Beliz, ele costuma sempre ser olhado pelo lado. Ele saiu, né? Ministro Teodoro, os demais ministros,
+
+[00:51:05] Eh, ele é um debate que ele foi bom que trouxe de volta a atenção.
+
+[00:51:10] O debate, ele é um debate que costuma ser sempre olhado pela ótica de quem de quem recebe esses benefícios, mas é imprescindível para que a gente tenha uma solução correta aqui para o caso, o olhar da companhia, o olhar de quem oferece essa vantagem, de quem oferece esses planos. E o que que a companhia obtém quando lança um plano de opção de compra de ações? Quando ele permite que os seus executivos adquiram essas ações com preço, com esse desajilo? Eu não tenho nenhum receio em afirmar aqui. Financeiramente a companhia não recebe
+
+[00:51:40] Absolutamente nada. Ela outorga a opção de graça, não recebe prêmio, não recebe contrapartida de ordem financeira nenhuma. mais na frente, no momento do exercício, quando elas entregam as ela entrega uma ação que vale 100 por 80, certamente também não tem nenhuma vantagem financeira. Ora, e no caso aqui, por exemplo, da da Notridame, que é a empresa, ela entregou pelo por 1/3 do que era o valor de mercado daquelas ações no momento do exercício. Ora, mas sob pena inclusive de não lesar os seus acionistas, se ela tá assumindo esse
+
+[00:52:14] Custo, é porque ela necessariamente está obtendo alguma coisa. E essa coisa que a companhia obtém é trabalho. É um trabalho voltado ao longo prazo, orientado ao longo prazo e a permanência daqueles executivos nos seus quadros prestando trabalho. Se fala muito que o que as o que as companhias obtém é fidelização e alinhamento, mas percebam, fidelização e alinhamento não são atributos soltos no mundo, eles são atributos do trabalho. Fidelizado é quem trabalha, alinhado é o trabalho e o plano paga exatamente por isso, por pelo trabalho que é prestado
+
+[00:52:48] Com essas características. E a estrutura dos planos confirma isso que eu venho de afirmar aqui, porque vejam, quem pode participar dos planos, de acordo com a lei das SS, só quem trabalha para companhia ou lhe presta algum tipo de serviço. Quando que essas opções se tornam exercitáveis? Apenas depois de anos e anos trabalhando na empresa durante o período de carência. O que que acontece com essas opções quando esse executivo sai da companhia? Qual que é o destino que se dá à aquelas opções que ainda não foram exercitadas?
+
+[00:53:16] Invariavelmente, esses planos condicionam esse destino a questões como justa causa, dispense motivada, aposentadoria. Digo mais, essas opções, a exemplo do que acontece com as opções de mercado, elas podem ser alienadas? Não podem. Invariavelmente também essas opções são personalíssimas, elas são intransferíveis e inalienáveis. Vejam que tudo isso que eu estou aqui dizendo não faz nenhum sentido sobre a ótica de um investidor, mas eles tudo isso faz total sentido sobre a ótica de quem está sendo remunerado por esse
+
+[00:53:49] Instrumento e sob a ótica de quem remunera, de quem paga o trabalho por meio desse tipo de instrumento. É extremamente comum apresentar-se contra essa essa leitura que eu trago aqui a famosa tríade da voluntariedade, da onerosidade e do risco. Vejam, sobre voluntariedade. Aerir é uma escolha sobre forma de ser pago, sobre forma de ser de ser remunerado. Exercer não é decidir sobre um investimento, é decidir sobre receber a remuneração. E a escolha não é uma escolha entre fazer ou não o negócio, entre fazer ou não o investimento. É uma
+
+[00:54:23] Escolha sobre como receber a sua remuneração. E ter essa escolha, de modo algum desnatura aquela remuneração para uma outra coisa. sobre a onerosidade. Vejam, a gente precisa aqui separar eh o que que o que se paga e o que não se paga nesses planos. Na bolsa, quem quer adquirir uma opção precisa pagar o prêmio. Aqui a gente já sabe que não existe esse pagamento pelo pela opção, não há pagamento de prêmio. De modo que eh mais na frente eh quando ele for exercer, a gente precisa saber aqui se houve ou não a valorização da
+
+[00:54:56] Ação. O fato é que no momento a lei ah que ela é outorgada, isso foi feito de maneira gratuita. O que vai ter pagamento é no momento do exercício, de fato, no momento da aquisição. Mas vejam, o beneficiário, ele vai pagar por uma ação que vale 100, 50, 70, 90, que seja. E a remuneração ela incide exatamente pelo sobre o que não se paga, sobre o desagio, sobre a diferença, sobre os 10, sobre os 20, sobre os 40. Eu digo mais, a remuneração, nenhuma remuneração, ela exige gratuidade absoluta, gratuidade total. O que vai
+
+[00:55:27] Definir a natureza aqui da verba é a sua causa, é a causa da sua atribuição. E a causa de atribuição aqui, com certeza absoluta, é o trabalho. Pensando agora no elemento do risco, a gente precisa se questionar eh que risco a gente tá tratando aqui. Veja, no na outorga não tem risco, ele não pagou prêmio. Então, se a ação desvalorizar, ele simplesmente não vai exercer. E resgatando o que foi dito no próprio tema 1226, não há qualquer prejuízo. O que se chama de risco aqui, na verdade, é a chance de não ganhar ou de
+
+[00:55:57] Ganhar menos, mas isso não é risco de mercado, isso não é risco de investimento. Eh, o risco que acontece depois, depois que a ação já foi adquirida e já pertence à aquele beneficiário. A gente aqui tá tratando de um risco de acionista, não de um risco que é inerente ao plano, não de um risco do beneficiário. O destino que se dá a essa ação, se vende, se fica com ela, ele não difere em absolutamente nada. do destino que eu e qualquer dos senhores aqui dá o seu salário que recebeu em espécie. Isso é uma decisão de ordem pessoal daquele
+
+[00:56:26] Beneficiário. Então, vejam, se a gente tá diante de um plano que remunera trabalho, se quem paga é a companhia, se nem voluntariedade, nem onerosidade, nem risco mudam tudo isso, a conclusão que a gente tem aqui é uma só, é uma conclusão única. Existe fato gerador das contribuições previdenciárias e esse fato gerador acontece no momento do exercício, porque é ali o momento em que a companhia entrega para o beneficiário um bem que tem um valor maior do que o bem, o valor que ele pagou. E vejam aqui, a gente tem dois instrumentos e é
+
+[00:56:59] Importante fazer um pouco essa diferenciação. A gente tem como instrumentos aqui nessa nessa mecânica a opção e a ação. E por que que a opção não é a utilidade? Por que que a opção aqui não é um instrumento que remunera? Vejam, opção não dá dividendo, opção não dá direito a voto, opção eh não pode ser realizada, não pode ser vendida. Essa opção desses planos aqui, ela não tem sequer paralelo com as opções de mercado. Sozinha, ela não vale para absolutamente nada. A remuneração aqui se dá pela diferença do preço da ação, que é entrega no
+
+[00:57:32] Exercício por preço inferior ao do mercado naquela data. Aqui no caso da Notridame, a ação valia 28 e foi entregue por 9,27 naquele momento. Se costuma dizer muito também que quem paga essa diferença é o mercado. Vejam, não é, é a companhia. É a companhia quem confere a vantagem. a companhia que confere aquele indivíduo a possibilidade de adquirir as ações por aquele preço com deságo. Eh, o que o mercado faz é apenas dar a métrica dessa remuneração. O valor do mercado vai ser o guia que diz: "E essa remuneração é uma
+
+[00:58:04] Remuneração maior ou menor". Se a ação valorizou, temos aqui uma remuneração maior. Se não, se não valorizou tanto, o tamanho dessa remuneração, ele apenas é menor. Aqui falando de remuneração, é impossível não mencionar a questão da habitualidade. Vejam, habitualidade não é frequência de pagamento, não é pagar todo mês. Habitualidade é ah a inserção daquela parcela na política remuneratória da companhia. E as opções elas não são recebidas por liberalidade. Elas são recebidas porque metas foram atingidas, porque performances foram alcançadas, porque
+
+[00:58:38] Assim está nos planos e assim está nos contratos. O que se recebe por força de um contrato no contexto de uma negociação de um pacote de remuneração é algo que é habitual por natureza. E me encaminhando já aqui para o final, permitam-me encerrar trazendo a baila aqui o que está em jogo em função deste julgamento. A Constituição, ela manda tributar pelas contribuições previdenciárias a folha de salários e demais rendimentos do trabalho, pagos ou creditados a qualquer título, e faz dessa maneira ampla, justamente para que
+
+[00:59:11] A base de financiamento da seguridade seja sempre capaz de acompanhar as diversas formas de remuneração. Se a contribuição for aqui afastada, a parte da folha, que é a parte que mais cresce, é justamente a que vai ficar de fora da base de financiamento da seguridade. Quando a gente tem dados como da KPMG, que revelam que mais da metade da remuneração desses executivos hoje em dia tá migrando para instrumentos como esses, se a gente excluí-los, a gente vai est excluindo do financiamento mais da metade da folha de quem mais ganha.
+
+[00:59:44] A equidade de que fala o artigo 194 da Constituição não comporta, não admite que a parcela mais expressiva da remuneração de quem tá no topo seja a única a ficar fora do custeio da seguridade. Então tudo isso dito, qual é o pedido da Fazenda Nacional aqui? Em primeiro lugar, é de que se firme a tese de que incide a contribuição previdenciária de terceiros no momento do exercício dessas opções. Subsidiariamente, a fazenda pede que se reconheça que a natureza do plano depende das suas condições concretas e que a incidência vai sempre acontecer
+
+[01:00:20] Quando o plano apresentar elementos que são elementos de contraprestação do trabalho. Essa tese subsidiária, ela surge como uma necessidade eh de adequação à decisão ao tema 1226 que veio do Supremo Tribunal Federal, que assentou que a natureza dessa desses planos, ela é fática e ela é contratual e ela precisa ser averiguada caso a caso. Com essas considerações eu encerro e agradeço pela atenção.
+
+[01:00:47] Pois não, Dra. Raquel, eu vou passar a palavra ao relator e se tiver necessidade iremos ouvir então os ilustres advogados. Vamos ouvir primeiro o relator, Min. Sérgio Kukina, por favor, tem a palavra.
+
+[01:01:00] Pois não, senhor presidente. Eh, eu quero cumprimentar aqui, né, efusivamente a Dra. Raquel Godói de Miranda Araújo, né, que falou com muita propriedade, né, em benefício da Fazenda Nacional, em benefício da sua tese, né? Eh, doutora Raquel, cumprimento também os causídicos, né, que não não se pronunciaram, mas estão aqui representando, né, os interesses. Eh, eu queria aqui, Dra. que é o já de saída, né? Eh, como Vossa Excelência mencionou, e eu comungo, não é? eh dizendo que a a embora a controvérsia estivesse relacionada
+
+[01:02:00] A esteja relacionado ao imposto de renda, né, no caso do tema 1226, né, a qualificação jurídica conferida à operação constitui importante ponto de partida para este julgamento. Naturalmente o entendimento do tema 1226 por si só não conduz à solução da presente controvérsia, tendo em vista a diversidade das materialidades tributárias, não é? Então, nesse ponto, nós convergimos unicamente que a na sequência, né? eh acabamos eh tendo pontos de vista não convergentes. Também fiz a questão de de reportar o precedente do Supremo a que Vossa
+
+[01:02:45] Excelência eh fez menção, né? Eh, afirmou-se lá a o caráter não constitucional da questão, né? Caráter infraconstitucional. E o Supremo fez uma leitura, né? Vossa excelência mencionou, né? Voltando os olhos para o caso concreto, né? É uma perspectiva que foi utilizada na corte, mas aqui, tal como no caso do tema 1226, não se compreende que assim seja, que esse óbice pudesse prevalecer aqui no nosso Súmula 7, né? Eu supero esse óbice, né? Ah, mas no exame que fiz, né? considerando essas peculiaridades todas, né? Eu eu ainda acabo me convencendo,
+
+[01:03:38] Né, e digo isso no voto, de que efetivamente não se desenha, não se vislumbra, né, a natureza remuneratória nesse tipo de de operação, essa oferta que se faz, né, lá no âmbito da lei das SAS, enfim, né, e por isso, né, emerge, né, a o caráter mercantil, né, desse esse fenômeno que está aqui sendo discutido. E e nessa nessa perspectiva, né, eu, exatamente partindo dessa dessa premissa, né, eh, eu acabo concluindo efetivamente, né, pela impossibilidade da incidência da contribuição previdenciária nesse contexto, né, eh, senhor
+
+[01:04:29] Presidente, ligeiramente, né, eu sei que a pauta eh está alentada, né, eh, mas encaminho o voto nesse nesse sentido. E só só para só para reproduzir aqui, né, sinteticamente o que digo na ementa, né, eh, fiz assinalar em linhas gerais, o denominado stock option plan consiste na oferta pela sociedade anônima de opção de compra de ações em favor de seus executivos, empregados ou prestadores de serviços sob determinadas condições e com preço pré-estabelecido. Lei das SAS. O interessado então poderá aderir à opção e a tempo e modo efetivar a compra
+
+[01:05:13] Das respectivas ações por elas pagando o preço outrora definido pela companhia. Posteriormente, já titular das ações, poderá o adquirente realizar a sua venda no mercado financeiro. No plano infraconstitucional, artigo 22, inciso 1, da lei 8212/91, estabelece a contribuição a cargo da empresa sobre o total das remunerações pagas devidas ou creditadas aos segurados empregados e trabalhadores avulsos que lhe prestem serviços, desde que destinadas a retribuir o trabalho, qualquer que seja a sua forma. Na mesma direção, o artigo 281 da mesma lei do
+
+[01:05:55] Custeio da previdência define o salário de contribuição do empregado e do trabalhador a partir da remuneração oferida, compreendida como a totalidade dos rendimentos pagos devidos ou acreditados destinados a retribuir o trabalho. Quatro, presente a desenganada natureza mercantil e não laboral remuneratória na opção de ações pelo regime stock option. Verifica-se que sobre essa operação não incidem as contribuições previdenciárias, patronais e de terceiros, né? Proponho a a aprovação, né, do seguinte enunciado: no regime do stock option plan previsto
+
+[01:06:38] No artigo 168, parágrafo terº da lei 6404 de 76, por se tratar de operação de natureza mercantil, conforme aqui o me reporto, conforme definido no tema 1226 do STJ, não incidem a contribuição não incide a contribuição previdenci ária patronal e as destinadas a terceiros no momento do exercício da opção de compra de ações por não configurar remuneração destinada a retribuir o trabalho, né? Essa é a tese que proponho e no caso concreto de cada um, cada um dos recursos, né? O encaminhamento vai pelo desprovimento de ambos esses recursos
+
+[01:07:23] Que foram aviados pela pela Fazenda Nacional. Presidente, é como o voto.
+
+[01:07:28] Pois não, eu não observo destaque. Min. Maria Thereza de Assis Moura, gostaria de se pronunciar? Pois não, ministro.
+
+[01:07:33] Eh, eu não vou divergir, mas eu apenas anoto que já fiquei vencida anteriormente no tema quando discutimos. Então eu simplesmente me curvo a maioria e não vou agora divergir do que nós estamos tratando. Eu vou acompanhar, mas não antes dizer que já fiquei vencida e vou me curvar ao entendimento da maioria.
+
+[01:07:56] Pois não. Pois não. Os demais estão de acordo.
+
+[01:07:59] Presidente, eu também.
+
+[01:08:00] Pois não, ministro. É na mesma linha da Min. Maria Thereza de Assis Moura, embora não tenha ficado vencido, mas estando ausente do tribunal,
+
+[01:08:08] Mas estando ausente da jurisdição, se estivesse julgando abício este processo, julgaria em sentido oposto.
+
+[01:08:17] Pois não,
+
+[01:08:17] Mas me curvo a maioria.
+
+**[01:08:21]** OK. Não há mais nenhuma observação, então imagino que os ilustres advogados dispensam a sustentação. Eu vou fazer então aqui a proclamação. [roncando] Eh, o colegiado, a unanimidade negou o provimento aos recursos especiais, nos termos do voto do relator, com a ressalva dos pontos de vista dos ministros Min. Maria Thereza de Assis Moura e Min. Herman Benjamin. A tese foi anunciada pelo ú relator. Agradeço aos advogados a participação e renovo uma boa tarde. Vou agora convidar os advogados que vão participar do processo seguinte, que é o tema 1324,
+
+[01:09:02] Dr. Carlos Eduardo Vieira, que vai falar pelo grupo de atuação estratégica das Defensorias Públicas. Eh, Dra. Camila Gambarra Moreira, que falara pela Agência Nacional de Transportes Terrestres e o Dr. Paulo Martins dos Santos, que falará pela parte interessada o estado do Ceará, o Dr. Paulo, no caso, por videoconferência. Eh, e agora eu apregou. Os feitos são da relatura e do Min. Paulo Sérgio Domingues, recurso especial 2.152197 255 e 050. Perdoem-me. O último é 274050 de São Paulo. Eh, feitos da relatoria do ministro
+
+[01:09:49] Paulo Sérgio. Como eu já anunciei, Dr. a previsão inicial de falar. Dr. Carlos Eduardo, por favor. Dr. Carlos Eduardo, vou pedir, no caso, a Vossa Excelência para se dirigir inicialmente e aí depois então é que daremos a palavra a eventualmente aos demais. Eh, indago se todos dispensam a leitura do relatório.
+
+[01:10:17] Sim, excelência. Obrigado,
+
+[01:10:18] Dr. Paulo. Excelência
+
+[01:10:20] Também.
+
+[01:10:22] Então, Dr. Carlos, Vossa Excelência tem a palavra por até 15 minutos. Perfeito. Obrigado. Eh, excelentíssimo ministro Gurugel de Faria, presidente dessa primeira sessão, na pessoa de quem me permito aqui cumprimentar aos demais ministro, demais ministras, Min. Maria Thereza de Assis Moura, reitero os votos de parabéns, eh, ilustre representante do Ministério Público, demais, eh, senhoras e senhores aqui presente, excelências, o grupo de atuação estratégica da Defensoria Pública, eh, estadual e distrital vem a esta tribuna considerando que o tema aqui discutido
+
+[01:10:57] Afeta de modo mais severo as pessoas assistidas pela Defensoria, que muitas vezes não têm os meios de acesso à informação, acesso digital ou o próprio acesso aos meios administrativos para formalizar a comunicação da venda perante o órgão de trânsito. ressaltes que o tema discutido aqui discute a possibilidade de responsabilização do sujeito que eh alienou o veículo, mas não informou esta alienação ao órgão de trânsito competente. [roncando] Eh, o primeiro ponto a se destacar, excelências, é que conforme a dogmática
+
+[01:11:33] Processual eh do direito civil, a propriedade se transmite pela tradição, isto é, com a entrega do bem pelo alienante ao adquirente. é conforme dispõe expressamente os artigos 1226 e 1267 do Código Civil. Assim, ao entregar o veículo ao ao adquirente, excelências, o alienante, ele transfere plenamente para todos os efeitos o direito real e perde de imediato qualquer poder de fato de ingerência ou de vigilância sobre a condução daquele veículo. O registro do Detran é meramente declaratório. Portanto, quanto a isto, excelências,
+
+[01:12:12] Destaca-se que o STF, no julgamento do tema de recupercussão geral 708, reconheceu a prevalência do princípio da realidade sobre o registral, excelentíssimo ministro, uma vez que ele ele afirmou que caberá ao estado de domicílio efetivo do proprietário do bem o recebimento do IPVA, ou seja, e não aquele no qual o veículo está simplesmente registrado. Aqui o STF está dizendo que deve prevalecer o plano fático da realidade e não aquele registral que consta dos sistemas dos órgãos de trânsito. Isto é, considera-se a situação concreta e não meramente
+
+[01:12:52] Registral. A ausência de comunicação da venda não tem o condão de inverter a titularidade dos direitos, excelências. Instituir uma presunção absoluta de responsabilidade ao antigo proprietário significa sancionar quem agiu de boa fé e premiar o adquirente, o adquirente inadente, enfri eh eh violando inclusive eh princípios de segurança jurídica. Excelências. O segundo ponto que queremos destacar aqui é que a responsabilização do alienante viola um princípio fundamental da nossa constituição, excelências, que é o da
+
+[01:13:25] Intranscendência das penas e da culpabilidade, que também eh se aplica ao poder sancionador no âmbito do direito administrativo. Segundo este princípio, nenhuma sanção pode ultrapassar a pessoa que efetivamente foi responsável pelo ato ilícito. Responsabilizar o antigo titular das infrações cometidas exclusivamente por terceiros no volante de um automóvel equivaleria a instituir a responsabilização objetiva, excelências, eh, o que não se pode admitir sob a ótica da vedação deste princípio pela Constituição. Essa lógica, inclusive, da
+
+[01:14:02] Individualização e da punição daquele que efetivamente cometeu a infração, ela é prevista no Código de Trânsito Brasileiro. O artigo 257, parágrafo terceirº, atribui ao condutor, por exemplo, o sujeito é o proprietário do veículo, ele empresta, cede alguma razão o veículo para um outro dirigir aquele naquele momento. Esse condutor deverá ser responsabilizado por aquela infração administrativa com a devida comunicação a órgão de trânsito. Eh, não se desconhece, excelências, que o entendimento que vem prevalecendo mais
+
+[01:14:32] Recentemente aqui, ministro, é no sentido contrário. É, contudo, sempre que e essa corte vai julgar um determinado tema, também é o momento para reflexão acerca desse desse desse entendimento que vem prevalecendo mais recentemente. Eh, a nosso ver, portanto, a mera ausência de comunicação da venda não converte o alienante em causador ou partícipe das infrações de direção cometidas após a tradição. Eh, por fim, excelências, tô sendo bastante breve aqui nas minhas eh intervenções. Eh, com relação ao ponto de vista da
+
+[01:15:05] Defensoria Pública, ministra, nós no dia a dia da nossa atuação, recebemos é um conjunto de assistidos que muitas vezes nos buscam quando estão ali buscando uma oportunidade de emprego, uma certidão para ter acesso a um benefício, a um trabalho. E é só neste momento em que ele se dá conta de que não houve a transferência daquele veículo para o nome do adquirente. Eles muitas vezes têm um perfil de mudar de endereço com maior frequência, ministro. Portanto, essas eh notificações do Detran muitas vezes não são não chegam ao conhecimento dele. E a
+
+[01:15:40] Gente eh o conhecimento da Defensoria e de é de comum a todos nós aqui que na no cotidiano das periferias no interior do país, o a venda de veículos de baixo valor, motocicletas, ela se dá eh prioritariamente de forma informal, mediante a entrega do bem e das chaves. Claro que isso não é o desejável, mas é uma prática até por conta de barreiras informacionais. as pessoas muitas vezes não conhecem essa obrigatoriedade, entregam ali, elas entendem que muitas vezes a simples assinatura do documento de transferência já resguarda o seu eh,
+
+[01:16:14] Enfim, a possibilidade de ser responsabilizada posteriormente. É, nesse sentido, considerando o que tá afetado aqui, ministro também, e a gente destaca que hoje, segundo informações do IBGE, são 2 milhões de brasileiros que trabalham por meio de aplicativo de transporte, eh, motocicletas, transporte de pessoas, etc. Eles dependem da CNH válida para colocar comida na mesa das suas famílias. Quando o estado suspende habilitação ou penhora os parcos recursos desse trabalhador por infração cometida por um terceiro que comprou o
+
+[01:16:48] Veículo e negligenciou eh a transferência, não estamos diante de uma mera cobrança administrativa. Estaremos diante aqui, excelências, do comprometimento da subsistência de uma família inteira. Isso não nos parece justo, eh, tampouco proporcional. Eh, em síntese, excelências, por essas razões, o Gaet, o Gaetes, eh, requer que seja fixada tese no sentido de que o alienante de veículo automotor não poderá ser responsabilizado por infrações administrativas, débitos ou demais ônos incidentes sobre o bem após a sua efetiva alienação, ainda que não
+
+[01:17:24] Tenha sido comunicada a transferência ao órgão de trânsito, desde que comprovada a tradição, ou seja, a entrega do bem e a boa fé no momento da venda. Eh, agradeço a vossa excelência pela atenção.
+
+[01:17:35] Pois não. Eu vou passar a palavra ao relator e depois, havendo necessidade, ouviremos as sustentações orais dos advogados que já estão na tribuna. Ministro Paulo Sérgio, a palavra de Vossa Excelência.
+
+[01:17:49] Muito obrigado, senhor presidente. Eh, cumprimento Dr. Carlos Eduardo Pira pela sustentação oral. O tema realmente é é candente e diz respeito a muitas das realidades presentes no Brasil, né? O que decidimos agora é diz respeito à possibilidade ou não
+
+[01:18:14] Dessa responsabilidade solidária do antigo proprietário do veículo automotor. E o artigo 134 do Código de Trânsito, ele traz uma disposição expressa, né? Não é a que não não não vejo permitir margem para interpretação distinta daquilo que está ali estabelecido. Ele estabelece a necessidade do encaminhamento do comprovante de transferência e estabelece a pena pela não realização deste ato, né? A pena da responsabilidade solidária pelas penalidades impostas. não exclui o novo proprietário, mas mantém a responsabilidade daquele que deveria
+
+[01:18:53] Cumprir o disposto nesse dispositivo legal. Eu não vou ler o voto aqui, né? eh, que [roncando] não verifico que a existência de destaques no sistema, mas assim, eu faço aqui no voto a distinção entre os efeitos civis da alienação dos bens móveis e os consecutários administrativos decorrentes dela. Então, embora essa transferência de propriedade se opere pela tradição nos termos do 1226 do Código Civil, 1227 também, [limpando a garganta] né, o artigo 134 do Código de Trânsito traz um dever jurídico autônomo de natureza
+
+[01:19:26] Administrativa que tem por objetivo preservar a atualização e a confiabilidade do cadastro público de veículos, assim como viabilizar adequada imputação de responsabilidades decorrentes da circulação automotiva, né, de responsabilidade de várias formas. formas que decorrem do adequado cadastro de veículos domores, que podem ser de civis e até criminais, né? Coisa que a não comunicação da transferência, ela só dificulta muitas vezes e pode levar até a uma eh responsabilização indesejada de alguém por um acidente com
+
+[01:20:01] Vítimas. É por isso que se estimula e se deve estimular é a eh efetiva transferência do veículo e não a eh atenuar a obrigação dessa transferência. Então, é claro, o Renavan, ele não é não constitui propriedade civil do bem, apenas ele atualiza o cadastro e que comprova perante o estado quem é que figura como proprietário. Informação esta que é utilizada para vários várias finalidades, licenciamento, autação, responsabilização administrativa. E é esse o entendimento que vem sendo sufragado por ambas as turmas desta
+
+[01:20:36] Corte, né? eh precedentes já desta sessão também que transcrevo aqui no e no meu voto. Eh, e por conta disso eu também faço faço aqui uma distinção em relação, finalmente à responsabilidade eh tributária, né? Eh, que ela é exceção, né? Ela é uma ela é exceção, eh, inclusive simulada aqui, eh, pelo STJ, mas não que diz respeito a essa responsabilidade administrativa, tá? Portanto, eu estou aqui propondo a turma, a sessão, a fixação da tese seguinte. O proprietário alienante de veículo automotor que deixa de comunicar
+
+[01:21:17] A venda ao órgão de trânsito competente na forma entre o prazo estabelecido pelo artigo 134 do Código de Trânsito Brasileiro, responde solidariamente pelas penalidades decorrentes das infrações administrativas e ou de trânsito cometidas após alienação e até a efetiva comunicação. Como se trata de eh reafirmação de uma jurisprudência, não estou eh realizando qualquer modulação dos efeitos deste julgado. E no que diz respeito ao caso concreto, eh, eu estou dando, e provimento a recurso especial para reconhecer a responsabilidade solidária do alinante
+
+[01:21:53] Do veículo automotor, né? Esse é o voto que proponho aqui a sessão.
+
+[01:21:58] Pois não, eu não observo nenhum dos estades.
+
+[01:22:00] Presidente, Vossa Excelência,
+
+[01:22:01] Pois não, ministro R. Eh, o ministro Paulo Sérgio, como sempre, muito técnico no nos seus votos e aqui refletindo exatamente a jurisprudência da primeira e da segunda eh sessão, mas como eh essa modalidade de julgamento significa quase que um fechamento das portas do poder judiciário para o tema decidido, não é um fechamento absoluto. Talvez fosse importante fazer uma ou duas observações acerca do artigo eh que que que é base deste que é o 134, tem agora o 134 a também. Primeiro que é correto que o legislador hoje expressão responsabilizar
+
+[01:22:49] Solidariamente, tá? E isso está dito com todas as letras no no voto do ministro Paulo Sérgio. Talvez esse seja um dos há estudantes aqui, pelo menos a vi estudantes, seja um dos dispositivos eh que melhor serve para indicar que muitas vezes a norma jurídica é feita para uma classe, embora se aplique à sociedade como um todo. exatamente o que disse aqui a Defensoria Pública. Nós não podemos mudar o que está dito expressamente no texto legal. O texto legal poderia ter dito responsabilidade subsidiária, poderia ter estabelecido critérios hoje
+
+[01:23:33] Pela internet de facilitação do acesso administrativo para essa simples comunicação, mas não utilizou a expressão responsabilizar solidariamente. A Defensoria Pública tem que trazer a si não só o papel de frequentar e bem os tribunais brasileiros, mas fazer proposições de alteração legislativa. Temos o novo parlamento que acabou de ser eleito e tenho certeza que a esmagadora maioria dos nossos parlamentares do Senado e da Câmara dos Deputados haverá de concordar que esse é um dispositivo profundamente injusto pelas várias razões que foram
+
+[01:24:14] Aqui apontadas à outras. a nossa pauta está pesada e eu vou poupá-los disso daí. Então, deixo eh aqui não mais como juiz, mas como cidadão este eh esta provocação a Defensoria Pública para que urgentemente faça uma proposição de alteração legislativa, começando talvez pelo Senado, estando dando aí o o caminho da da das pedras mais fácil para que esse esse problema seja enfrentado. É um dispositivo que é antipobre. é feito para nós aqui e os que estão aí em cima. Fazenda
+
+[01:24:55] É e como
+
+[01:24:56] Fazenda nacional
+
+[01:24:57] E e é nem tanto pra Fazenda Nacional, porque aqui eh não sei pop eh a soma vai ser zero. Eh, então eh deixo essa observação e agradeço a paciência de Vossa Excelência e dos eminentes pares.
+
+[01:25:12] Pois não, ministro Herman. Eh, acredito que como não há mais nenhum destaque os ilustres advogados Dra. Camila e o Dr. Paulo. Dra. Camila, gostaria de tribunal dispensação. Dr. Dra. Camila que
+
+[01:25:26] Licença. Só quero parabenizar a Min. Maria Thereza de Assis Moura em nome da procuradoria geral federal pelo seu aniversário. Só isso, ministro. Obrigada.
+
+[01:25:34] Pois não. Chego ao voto de felicitação à Min. Maria Thereza de Assis Moura.
+
+[01:25:40] Obrigado, Dr. Paulo. Obrigado aos advogados que participaram. Pois não, ministro.
+
+[01:25:44] É o comentário, presidente, para a fazenda. Isso já foi solucionado aqui pela pelo STJ, pela Súmula 585.
+
+[01:25:51] Uhum.
+
+[01:25:52] Né? E que decidiu que somente por lei estadual ou distrital específica pode ser atribuída alienante a responsabilidade solidária pelo pagamento do IPVA do veículo alienado. Se não vai a comunicação.
+
+[01:26:02] É. Aí a matéria tributária, que a gente quer, aí matéria tributária. Já decidiu fazendo essa essa ressalva e essa ressalva consta do meu voto.
+
+[01:26:10] Perfeito. Perfeito. Então eu vou anunciar que a primeira sessão unanimidade eh deu provimento que em todos os três casos quem está recorrendo é a Agência Nacional, então deu provimento ao recurso especial nos termos do voto do relator. e a tese é a que já foi indicada também pelo relator, dispensando, portanto, a nova leitura. Eu vou agora para o feito seguinte, que é o tema 1433 da relatoria do Min. Afrânio Vilela. antes de apregoar os feitos, eu começo a indicar aqui os advogados para querendo que já possam se
+
+[01:26:48] Aproximar. Eh, vou dizer até na sequência de que irão falar para que se quiserem, digamos assim, vai ter que ter tipo uma fila aí das sustentações, porque são oito advogados inscritos. Dra. Thaí Ferreira falará pela União. Dr. Fábio Monerá falará pelo pelo Denite, pela FUNASA e também em um dos feitos pelo INSS. Dr. Eduardo Costa Naçur, eh, pela recorrida Bernadete Souza Filha, filha, eh, Dr. Jean Paulo falará pela parte recorrente sindicato dos trabalhadores em empresas ferroviárias do Nordeste. Dr. Rafael Neves Rego, pela parte
+
+[01:27:27] Recorrente, Maria Jcineide, Dr. Fernando Pereira Breu, pelo Sind Fisco, Dr. Cláudio Santos, pela Federação Nacional de Sindicatos dos Trabalhadores de Saúde e Previdência Social e o Dr. Sérgio Ludmar, pela UNAFISCO, Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil. Conforme previamente anunciado, eh, no caso, a Dra. Thaí e o Dr. Fábio Monerá terão até 15 minutos para fazerem, no caso, os senhores terão para fazer as suas tentações orais e os demais advogados que já foram anunciados dividirão o
+
+[01:28:02] Tempo de 30 minutos, como são seis, então cada um com 5 minutos. Eh, após então teremos a fala do Ministério Público como custos leges. Doutora, eh, indago a todos e dispenso a leitura do relatório. Então, dispensada a leitura do relatório, Dra. Thaís, por favor, venha para a sua sustentação. Excelentíssimo senhor ministro presidente, eh, excelentíssimo senhor ministro Afrâno, relator, eh, excelentíssimos ministros, ilustre representante do Ministério Público, colegas advogados, eu desejo a todos uma ótima tarde. A tese que vai ser fixada hoje aqui no
+
+[01:28:53] Tema 1433 vai ser para definir se é possível a ampliação do alcance de um título já transitado em julgado na ação civil pública que concedeu o reajuste de 286 no estado do Mato Grosso do Sul para todos os servidores públicos federais do país. A tese dos execuentes para poder sustentar a aplicação desse título de forma de um alcance nacional é dizer que a declaração de inconstitucionalidade do artigo 16 da LACP feita no tema 1075 lá no ano de 2021 tornaria esta ação civil pública de alcance nacional. acontece, excelências, que não foi isso
+
+[01:29:38] Que o Supremo disse. Se a gente ler o tema 1075, o inciso primeiro de fato declara a inconstitucionalidade do artigo 16. O inciso segundo da tese, no entanto, fala que em se tratando de ação civil pública de efeitos nacionais ou regionais, a competência deve observar o artigo 93 do CDC, ou seja, o próprio Supremo ressalvou a existência ainda de ações civis públicas de âmbito regional, ou seja, todas as ações civis públicas não se tornaram nacionais como sustentam os execuentes. Deve se observar, inclusive na tese, na
+
+[01:30:16] No voto do Supremo, eh o Supremo estabelece que o que vai definir o alcance daquela ação civil pública são os efeitos delimitados justamente pelo autor da ação. E aqui entra justamente a tese da União para que a gente possa definir o tema 1433, qual é a principal pergunta que deve ser feita? A primeira pergunta que deve ser respondida por Vossas Excelências? ação civil pública originária, ela tinha alcance nacional ou ela tinha um alcance estadual restrito ao estado do Mato Grosso do Sul? Os elementos processuais daquela
+
+[01:30:55] Ação não deixam qualquer dúvida. Um próprio Ministério Público no aditamento inicial disse que, e aqui eu peço Venia para ler o trecho do aditamento, ele apresentou um hall de entidades localizadas no Mato Grosso do Sul dentro desse aditamento e disse que estas são as entidades federais autárquicas e fundacionais, cujas repartições neste estado deverão receber as determinações e os efeitos da sentença. Então aqui desde o início, pelo princípio da constrição, nós temos o próprio autor da ação delimitando qual que é o objeto,
+
+[01:31:36] Qual que é o alcance dessa ação. E não foi outro o curso processual. Durante a a o deferimento da liminar, da tutela liminar, o juiz intimou apenas os as entidades do Mato Grosso do Sul para cumprimento. A União cumpriu apenas em favor dos servidores do Mato Grosso do Sul. O Ministério Público Federal nunca se insurgiu quanto a isso. Muito pelo contrário, após o trânsito em julgado da ação que ocorreu em 2019, o próprio Ministério Público Federal ingressou com cumprimento de sentença apenas em favor dos servidores do Mato Grosso do Sul. E
+
+[01:32:10] Depois que esse que que a União cumpriu esse essa essa o cumprimento definitivo de sentença, o próprio Ministério Público compareceu aos autos, pediu o arquivamento do processo, sustentando que todos os os beneficiários já haviam sido alcançados. Nós temos então, portanto, uma ação que em todo o seu curso foi limitada ao estado do Mato Grosso do Sul e em que pese não conste na sentença a delimitação territorial expressa, não fazia sentido para a época. A União não havia seicara interesse recursal para eh recorrer desse ponto, porque todo o
+
+[01:32:46] Curso processual estava sendo cumprido dessa forma. a União ia recorrer do que já estava favorável a ela. Não faz nenhum sentido. Então, excelências, eh, a gente tem que fazer aqui um distinguish dessa ação pública com as ações coletivas dos sindicatos, porque neste caso aqui, nós não estamos falando de um sindicato que já tem um alcance pré-estabelecido no seu estatuto de quais são os servidores que vão ser alcançados por aquela decisão. E é justamente por isso que que a limitação dos sindicatos precisa estar expressa na
+
+[01:33:17] Sentença, porque eles têm um alcance subjetivo prédeterminado. O Ministério Público, por outro lado, ele é ele advoga ali, ele ele litiga por qualquer pessoa do país. Eles ele mesmo é que determina qual é o alcance do título que ele tá almejando, porque ele não tem um alcance pré-determinado, como ocorre com o sindicato. é preciso fazer esse distinguish em relação ao autor da ação e ao objeto dessa ação. Então, sendo assim, eh essa tese deve ser lida não só de forma eh de forma individual, mas concomitante também com a nossa segunda
+
+[01:33:55] Tese, que é a da limitação territorial. Por a limitação [roncando] territorial, neste caso da violação da coisa julgada, nós não defendemos que o artigo 16 é correto, muito pelo contrário, reconhecemos que ele foi declarado inconstitucional pelo Supremo. No entanto, essa declaração de inconstitucionalidade ocorreu em 2021, 2 anos depois do trânsito emjulgado dessa ação. e em que pese é não tenha tido a modulação de dos efeitos na no tema 1075, essa modulação dos efeitos, ela só se aplicaria aos processos que estão em
+
+[01:34:29] Curso e não aos processos transitados emjulgados previamente à declaração de inconstitucionalidade. Também reconhecemos que existia jurisprudência do STJ à época dos fatos, porém essa jurisprudência nunca foi alegada pelo Ministério Público. E o fato de existir uma jurisprudência pela declaração de incondicionalidade do artigo 16 na época do do curso processual e nunca ter sido alegada pelo Ministério Público, mas confirma a nossa tese de que o próprio Ministério Público pretendia que essa ação fosse estadual do que a refuta,
+
+[01:34:59] Inclusive aplicando-se o artigo 508 do CPC, que entende que transitado em julgado uma decisão de mérito, considerar-seão deduzidas e repelidas todas as que poderiam ter sido alegadas, mas não o foram. Nesse sentido, inclusive, excelências, eu ressalto a coexistência à época de outras ações civis públicas com o mesmo objeto do reajuste de 28 a 36, que foram ajuizadas pelo Ministério Público Federal também em outros estados da Federação, na Bahia e no Rio Grande do Sul. Seria incongruente acreditar que o Ministério Público Federal estava
+
+[01:35:35] Entrando com três ações de âmbito nacional concomitantes. Tudo isso nós pedimos que seja feita uma leitura conjunta de todos esses elementos e não só individualmente de cada fato, porque a boa fé demonstra que todo o curso processual daquela ação civil pública era estadual. E dessa forma deve-se aplicar o o segundo inciso do artigo do do tema 1075, que estabelece a manutenção das ações civis públicas de âmbito regional, sem torná-las de âmbito nacional. Essa é é a pretensão da União. Eu agradeço a oportunidade.
+
+[01:36:16] Nós que agradecemos, Dra. Thaís. Na sequência, Dr. Fábio Monerá. Boa tarde, ministro presidente. Obrigado. Cumprimento a todos os ministros na pessoa da Min. Maria Thereza de Assis Moura. Desejo felicidades pelo seu aniversário e que Vossa Excelência permaneça por muitos anos, muitos aniversários, abrilhantando essa corte e é especialmente essa sessão e também a segunda turma. Eu vou ser breve porque eu já começo correndo o risco de ser extremamente redundante. Já falei, a bem da verdade ainda na composição com o ministro Benedito, mas já falei na
+
+[01:36:49] Primeira turma sobre esse tema e a Dra. Thaí, a quem cumprimento, eh, já foi, eh, eh, brilhantemente já expôs a tese da União, que é muito parecida com as autarquias. Portanto, o que se discute é o alcance subjetivo de um título executivo formado em uma ação civil pública, vou abriviar aqui, eh, 5019 de 97, movida pelo MPF, inicialmente contra aspas União e suas administrações indiretas, fecha aspas, no estado do Mato Grosso do Sul. Posteriormente, o Ministério Público Federal, autor da ação coletiva, eh, como a Dra. Aí já colocou aditou
+
+[01:37:30] Inicial, ministro Teodoro, aditou inicial, elencando, arrolando, trazendo uma lista das autarquias para além da união, das autarquias que deveriam fazer parte daquela ação coletiva como leitos consortes, como leitos consortes. e deixou muito claro neste aditamento as autarquias IBAMA, INCRA, INSS, DNR, que hoje é o Denit, Universidade Federal do Mato Grosso do Sul, FUNAS, BGE e FUNAI, neste estado. Isso consta do pedido de aditamento. Portanto, o pedido de concessão de reajuste desde o início foi triplamente limitado. Primeiro, do ponto
+
+[01:38:14] De vista territorial. O Ministério Público, autor dação deixou claro que o pedido se referia para o estado do Mato Grosso do Sul. Tanto é assim, a Dra. Taí já colocou também, houve ações idênticas, absolutamente idênticas, conforme noticiado nos autos, conforme trazendo os recursos nos estados da Bahia, do Rio Grande do Sul, que são entre outros. Outra limitação trazida pelo pedido foi a oito autarquias. pela Procuradoria Geral Federal, eu represento 165 autarquias e a condenação de uma delas não necessariamente implica na condenação de
+
+[01:38:47] Outras, ainda que no bojo de uma ação coletiva. Ademais, uma outra limitação que aqui não foi suscitada, mas é preciso que se diga. O próprio Ministério Público procurou limitar também a servidores não litigantes em outras ações ou servidores que firmaram acordo sobre o mesmo objeto. Ou seja, há uma limitação do pedido clara. E essa contextualização eu trago aqui desde logo cumprimentando o ministro relator, ministro Afrônio, pela seleção dos recursos, o que é muito importante nesse ambiente dos repetitivos, porque muito dos casos trazidos às
+
+[01:39:24] Turmas inicialmente, e são mais de 350 só das autarquias, fora da união, que eu não tenho número, eles esbarraram em obices processuais, principalmente de Súmula 7. E um dos recursos, eu vou me referir aqui ao recurso em que uma das autarquezas do INSS é o recorrido, muito bem selecionado pelo ministro Afrânio, deixa fora de dúvidas qualquer incidência de obices processuais de súmula 7, porque todo esse contexto fático que a Dra. Thaí trouxe e eu estou aqui reforçando, constam expressamente do acordão. Então, o acórdão no tema no ou nop
+
+[01:40:00] 2250737 deixa bastante claro, deixa bastante claro que logo em seguida a tal lista o aditamento inicial, ministro Cuquina, o MPF apresentou a relação de entidades autárquicas federais e fundacionais que deveriam entregar a Líd como líos consorte, além daqueles que a administração direta, que é união, né? Continua o acódão recorrido, para que não haja dúvida do contexto facto que estamos tratando, cujas repartições naquele estado deveriam receber as determinações e os efeitos da sentença. Isso é incontroverso. Isso é o quadro
+
+[01:40:37] Fático posto no acóo recorrido. Mais adiante, junto com tal aditamento admitido pelo mmetíssimo juiz, o Ministério Público juntou a lista dos órgãos e corroborando o posicionamento. Aí diz todos eles no estado do Mato Grosso do Sul e corro cor cor cor cor cor cor corroborando o posicionamento. Cita também até isso é incontroverso, a existência de ações idênticas em outros estados. Então a questão não se trata de nenhuma questão fática ou de análise do conteúdo da decisão judicial. Isso é um acórdão já trazido numa execução
+
+[01:41:09] Individual de uma servidora que residia no meu estado Pernambuco e Jabatô Guararapes, portanto fora do estado do Mato Grosso do Sul. A questão é, à luz desses fatos incontroversos, saber o seguinte, se é possível a utilização de um título executivo coletivo por sujeitos sequer abrangidos pelo pedido do autor da ação coletiva. Essa é a questão que se tá a se decidir e a resposta do poder público, da advocacia geral da união e de todas as autarquias que é o que representam é negativa com base no Código de Processo Civil na
+
+[01:41:45] Legislação federal de regência que vai regir reger o pedido até a coisa julgada. O 322 parágrafo 2º deixa claro o seguinte, me perdoem ler o texto da lei. A interpretação do pedido considerará o conjunto da postulação e boa fé. conjunto da postulação, ministro Afrânia, um aditamento inicial arrolando quais eram os entites públicos que deveriam responder à aquela ação. [roncando] E para que não se alegue que o título nada diz, o 489, parágrafo terceirº, para a lei do 508, que é o deduzido e o dedutível, que a Dra. Aí já colocou o 489, parágrafo
+
+[01:42:20] Terceiro, diz o seguinte: "A decisão judicial, que é o título que estamos debatendo, deve ser interpretada a partir da conjugação de todos os seus elementos, em conformidade com o princípio da boa fé". E aqui, para que fique bem claro, estamos tratando do princípio da boa fé objetiva. Não se trata aqui de dizer de má fé de quem está querendo se valer do título, apesar de estar fora do Mato Grosso do Sul. Não se trata de uma uma fé subjetiva. Eu trago aqui o princípio da boa fé objetiva, norma fundamental do nosso Código Processo Civil, constante do
+
+[01:42:57] Artigo 5º, que deve funcionar como um vetor interpretativo de toda a legislação e de todos os atos processuais, inclusive esse título. E os recursos, tanto o recurso do DENIT no 223488, que é um dos que está aqui afetado, quanto as contrarões do recurso do NSS, trazem com muita propriedade a ideia de boa fé que aqui deve ser instaurada, que deve guiar a interpretação do alcance desse título. diz o recurso do Denite, diz a PGF, todos os atores processuais compreenderam e atuaram no feito, considerando a limitação lógica
+
+[01:43:39] Decorrente do pedido formulado na inicial e no seu aditamento. Essa é a ideia de boa fé objetiva que, na visão da procuradoria deve imperar. E para encerrar, talvez a grande razão da controvérsia aqui trazida, que foi o julgamento do tema 1075 da repercussão geral, que declarou inconstitucional o artigo 16 da Lei da Ação Civil Pública, que limitava os efeitos territoriais de algumas ações das ações coletivas a o limite territorial. Esse dispositivo nunca foi discutido. Esse dispositivo nunca foi trazido pelo autor da ação, nunca foi debatido por
+
+[01:44:18] Nenhum sujeito do processo, não consta como fundamento da decisão, não funcionou como limitador jurídico, não foi um limitador legal ao alcance do título à época. Seria muito diferente, muito diferente se fosse uma ação coletiva do mesmo Ministério Público Federal, procurando tutelar todos os consumidores de telefonia aqui, por exemplo, contra a Natel e que subsidiariamente, preliminarmente o órgão público procurasse dizer: "Olha, dado o artigo 16, dada a limitação territorial então vigente, eventual condenação da agência,
+
+[01:44:56] Eventual proteção aos consumidores, serão os consumidores desse estado. E vamos dizer que o juiz se valesse dessa sentença nesse ambiente, nesse exemplo aqui hipotético, essa limitação territorial, depois de declarado inconstitucional o artigo 16, que a embasava, poderia limitar, do ponto de vista territorial o título, poderia deixar de limitar a declaração de constitucionalidade, ministro. Mesmo assim, segundo o artigo, segundo o tema 733 da repercussão geral também do Supremo, essa abertura, essa limitação não seria automática.
+
+[01:45:31] O título que se valeu de uma norma posteriormente declarada inconstitucional pelo Supremo deveria, nos termos de 733 da repercussão geral, ser rescindido e eventualmente, nesse exemplo hipotético, a limitação poderia ser reconhecida como inconstitucional. Agora, a limitação neste feito, a possibilidade do título ser usado em execuções individuais, os servidores, apenas as autarquias arroladas pelo Ministério Público Federal e ainda assim no estado do Mato Grosso decorre do pedido, decorre daquilo que foi postulado. Essa
+
+[01:46:07] Definição não foi feita pelo réu, não foi feita pelo juiz, foi feita pelo autor no nascedouro da ação na petição inicial. Querer ressignificar o título executivo, querer ampliar o seu alcance com base em um dispositivo posteriormente declarado inconstitucionado pelo Supremo. É verdade. Mas um dispositivo que não foi invocado pelo autor, não foi debatido pelo réu e não foi objeto de decisão pelo juiz, é algo que não se coloca. A limitação decorre de um outro fator, decorre do objeto da ação, assim definido pelo autor no pedido. Então são
+
+[01:46:42] Esses servidores já satisfeitos que são alcançados pela condenação do poder público, não outros. Quçá esses outros muitíssimo provavelmente tutelados inclusive por outras ações coletivas, senão do Ministério Público, do seu sindicato, da sua associação ou que ações individuais, o que também tá ressalvado no título e aqui sequer se discute. Então, diante desse contexto, respondendo objetivamente às duas questões muito bem colocadas por essa sessão quando da afetação, definir-se a sentença coletiva proferida na ação coletiva 50 1997.
+
+[01:47:22] Se estende os efeitos a servidores federais não domiciliados no Mato Grosso do Sul. Resposta negativa: não se estende em razão dos pedidos. Pergunta dois, definir se a sentença, a mesma sentença coletiva alcança outros servidores pertencentes aos quadros dos quais pessoas jur direito público, não constante do pedido. Resposta também negativa. Com essas palavras, excelências, eu permaneço à disposição de vossas excelências e encerro aqui a minha intervenção. Muito obrigado, presidente.
+
+[01:47:49] Pois não. Agora vamos ouvir o Dr. Eduardo Costa Nassur, que falará por videoconferência. Eh, boa tarde a todos, senhor presidente, senhor relator, senhoras ministras, senhores ministros dessa primeira sessão, especialmente a nossa Min. Maria Thereza de Assis Moura que está fazendo aniversário hoje. Meus parabéns. Eh, cumprimento também o Ministério Público Federal e os senhores e as senhoras servidores dessa corte, os advogados e todos os presentes. Eh, Vossas Excelências já possui conhecimento pleno sobre essa controvérsia. Eu não vou não vim aqui
+
+[01:48:29] Para repetir o que que já está dos memoriais, o que já está em toda a sua em todo o processo. Eh, também não vou dizer que o dispositivo da sentença eh não menciona domicílio, nem que o artigo 16 da Lei da ação civil pública foi declarada inconstitucional e nem que a menção do Mato Grosso do Sul era o endereço de citação. Eu não vou me alongar nesses nessas alegações e é uma razão para nada disso ser novidade, excelência, nos 22 anos e que essa sessão tramitou até o seu trânsito julgado, ninguém nesses autos disse ao
+
+[01:49:07] Contrário, nenhuma das nove re nenhuma peça. Então por isso eu vou usar os meus minutos para uma para uma coisa. Eu peço vênia para corrigir a posição das partes desse nesse debate, porque não somos nós que pedimos a ampliação de uma coisa julgada, é a parte contrária, é a união que pede a a redução dela. A petição inicial no Ministério Público está na folha 30 e diz: assegurar a todos os servidores públicos civis, federais, ativos e inativos, bem como os inspecionistas, o alcance do ajuste dos 28,86%. todos os servidores públicos cí
+
+[01:49:45] Federais. E o TRF da terceira região, ao descrever essa ação, usou as mesmas palavras na folha 60 desses autos, que é exatamente a folha de onde se extrai a enumeração de quatro entidades citadas nesses autos. A sentença, excelência, excelência, julgou procedente esse pedido na folha 542, enuncia ela, ela própria, as duas únicas exclusões, os litigantes em outras ações e os fematais do acordo da medida provisória 1704. Eu não vi nenhuma limitação territorial ali, ou seja, foram apenas duas exclusões, as duas pessoais,
+
+[01:50:29] Nenhuma geográfica. A União responde com uma inversão. Na folha 1415, a União diz: "Era o eventual alcance nacional e não estadual que deveria custar expressamente no título. Mas uma página antes, na folha 1414, ela própria informação que em sentença proferida no Rio Grande do Sul sobre esse mesmo arjuste, abre aspas, delimitou expressamente os beneficiários aos servidores federais domiciliados naquele estado. Ou seja, expressamente, excelência, a a palavra da união, não nossa. Quando se quis limitar território, escreveu-se lá, se escreveu
+
+[01:51:12] Aqui, escreveu. E a folha 641 [limpando a garganta] traz as preliminares das contestações. Vamos lá. São três: ilegitimidade do Ministério Público, litpendência, inepsa, nenhuma é territorialidade. Essa licitação não está na intencial, não está na contestação, não está na sentença, não está nos acórdãos. não está nos recursos especial, não está no recurso extraordinário e não sei porque a União não veio e citou para em sede de embargos ou qualquer outro recurso. Era a oportunidade deles citarem essa territorialidade e não o fez. Ela
+
+[01:51:54] Aparece pela primeira vez na execução mais de 20 anos depois. Então, excelência, todo o respeito da máxima Bria, isso não é uma tese sobre limitação da coisa julgada pela união ou pelos outros réus. É uma defesa de pagamento. Registro, por fim, que não há entendimento novo sendo aplicado para trás. A orientação dessa corte sobre os efeitos da coletiva é de 2011, temas 480 e 481. 8 anos antes do trânsito julgado, pedir pedimos o não provimento e não e essa não é nossa leitura apenas. O Ministério Público Federal, o autor dessa ação,
+
+[01:52:36] Manifestou-se nesses autos no parecer de folha 772. Abre aspas. O título executivo não impôs qualquer limitação geográfica ou restrição quanto aos efeitos subjetivos da condenação. A alusão ao estado de Mato Grosso do Sul, na petição de aditamento, serviu unicamente para indicar o endereço local licitação das entidades demandadas.
+
+[01:53:01] Dr. Eduardo, 30 segundos para Vossa Excelência concluir o raciocínio, por favor.
+
+[01:53:07] OK. Então, por isso, pedimos que a tese afirme em todas as letras que o título não contém limitação territorial e que alcance os servidores inativos, ativos e pensionistas, independentes de domicílio ou de lotação. Ou seja, quem redigiu o pedido em 1997 é quem diz hoje o que ela significa e pede o não provo.
+
+[01:53:29] Pois não. Obrigado, Dr. Eduardo. Agora, Dr. Jean Paulo,
+
+[01:53:34] Eh, tem a palavra por até 5 minutos, por favor. Dr. Jean.
+
+[01:53:37] Boa tarde, senhor presidente, senhor relator, senhoras ministras, senhores ministros. Eu falo em nome do Sindicato dos Ferroviários do Nordeste, que neste caso litiga contra a União. E falo para tratar apenas da primeira questão submetida à apreciação pela sessão, aquela que diz respeito de saber se a sentença proferida nessa ação civil pública, ela atinge ou não os servidores lotados ou domiciliados fora do Mato Grosso do Sul. nos parece que é preciso, excelências, para simplificar a controvérsia, eh, investigar, como fez o Dr. Eduardo,
+
+[01:54:28] Que me antecedeu, nos autos, investigar ali se há de fato uma uma limitação na sentença. E há e há administração direta e indireta aqui já demonstrou que há aquela que diz respeito à limitação subjetiva de quais pessoas estariam abrangidas, que são aqueles servidores aposentados, ativos, aposentados e pensionistas, que não foram atingidos por outras ações coletivas. Esta é uma preocupação explícita do Ministério Público a juização. E também há, por evidente, uma outra limitação subjetiva que diz respeito às pessoas que foram citadas para ação.
+
+[01:55:20] Agora, limitação territorial parece que não há. Não há no pedido, não há na sentença, não há essa discussão nos autos. A União alega que há duas outras ações, uma no Rio Grande do Sul, uma na Bahia. E isso provaria que o Ministério Público Federal, ao juiz no Mato Grosso do Sul, se dirigiu apenas aos servidores ali domiciliados e todos os outros 20 tantos estados do Brasil que não foram beneficiados. Então, por essa ação do Mato Grosso, por essa ação do Rio Grande do Sul e por essa ação da Bahia, então o Ministério
+
+[01:56:04] Público Federal abandonou o resto do país, embora tenha litigado contra a União, invocando a competência da Justiça Federal do artigo 109, que diz que as pessoas podem litigar contra a União no seu domicílio, na capital do estado ou aqui no DF. Essa competência territorial não se confunde com os limites da sentença coletiva. Isso já era pacífico, tranquilo desde o tema 480, em 2011, quando o STJ distinguiu a competência dos efeitos da sentença. Por isso que naquele caso que transita em julgado em 2019, ninguém discute mais isso. Por isso que naquele
+
+[01:56:58] Caso ninguém traz a discussão do artigo 16 da ACP, que muito bem a União poderia ter trazido para tentar limitar os efeitos da sentença à competência territorial do juiz que a prolatou, como que iria o artigo depois julgado inconstitucional pelo Supremo. A União não fez isso. E olhando para os autos naquilo que é controverso, a limitação territorial não existe. Pode-se confundir as outras limitações com esta em argumentos que se atravessam e se sobrepõe, mas a limitação territorial não está expressa.
+
+[01:57:48] Implicitamente, revirando-se os autos, tenta-se achar esta limitação que não está nos autos. E não é preciso invocar o tema 1075 do Supremo para ver aqui nesse caso alguma inconstitucionalidade na sentenças que teria limitado. Isso é dispendendo porque não houve essa limitação no caso. Então, excelências, o meu tempo é breve. Eu apenas eh exorto vossas excelências para olharmos para o caso e distinguirmos as limitações. Talvez haja outras subjetivas a respeito de pessoas, mas não a respeito de território. E, portanto, a tese a ser fixada deve dizer
+
+[01:58:34] Que a sentença da ação civil pública juizada no Mato Grosso Sul abrange sim os servidores ativos inativos lotados fora do Mato Grosso do Sul. Porque expressamente o título não faz esse corte. Obrigado.
+
+[01:58:49] Pois não. Chamo na sequência o Dr. Rafael Neves Regu pelo tempo de até 5 minutos. Primeiramente gostaria de saudar os eminentes relator e demais ministros que compõem essa sessão. É, muito já foi falado aqui sobre o tema 480, sobre o o tema 1075 do STF, mas a questão que a gente tem que trazer também é que a a prevalecer o entendimento de que apenas ACPs que tivessem transitados em julgados depois de 1075 deveriam valer nacionalmente, iríamos ter que fazer toda uma revisão de todas as ACPs que que foram ajuizadas ao longo do país,
+
+[01:59:32] Porque sabemos que principalmente o NSS eh sofre diversas demandas que cada estado tem sua peculiaridade, mas também cada estado tem sua estrutura do Ministério Público Federal. Nós sabemos que com a violência que aflige o país, muitas vezes não se tem uma estrutura em cada estado para poder se dedicar apenas aos direitos difusos e coletivos. E talvez por isso o próprio Ministério Público Federal de Pernambuco, que é no caso, eu represento a parte eh Maria Jcineid, que é orião lá de Pernambuco, talvez por isso o Ministério Público
+
+[02:00:08] Federal de Pernambuco não conseguiu a época entrar com ação e beneficiar todo mundo de Pernambuco. Logo, eh, se o Ministério Público Federal do Mato Grosso do Sul entrou e lá se falou em todos os servidores, se desde o começo da sentença se fala em todos os servidores, então a gente tem que privilegiar tanto o que se foi postulado quanto o que efetivamente existia de jurisprudência. Eh, ao contrário do que meus colegas da AGU e da PGF tentam argumentar, eh, eles tiveram diversas oportunidades de tentar limitar o título, que na verdade o título não tem
+
+[02:00:43] Limitação. A gente não quer ampliar o alcance. A gente quer somente que a jurisprudência e os demais eh julgados sejam respeitados. Então, eh, eles tiveram diversas oportunidades, inclusive a propção reccisória. Se não foi proposta ação recisória à época, não cabe no dentro da da execução do cumprimento de sentença alegar que havia uma uma limitação territorial. Como já bem explanaram os demais colegas, a limitação é subjetiva, ou seja, eh, a própria sentença cuidou em limitar, não queria estender a quem já tinha postulado ou quem já tinha firmado
+
+[02:01:19] Acordo. O objetivo do Ministério Público Federal no Mato Grosso do Sul foi justamente dar oportunidade para aqueles que não tinham um sindicato ou que estavam em qualquer outro tipo de situação que não permitiu entrar com ação na justiça, que eles pudessem ser beneficiados, né? Então, o próprio tema 1075 do STF não modul não se modulou efeitos lá por partiuse-se do tema 480 foi a partir de uma ação da ação do tema 480 que subiu ao STF e lá expressamente o relator, bem como os demais ministros, eles falam e dessa forma durante os seus
+
+[02:01:56] Votos que não tem que se eh limitar efeitos ou modular qualquer tipo de coisa, porque já era pacífico. Então, a União, a PGF tiveram diversas oportunidades de tentar limitar o título, não fizeram, né? E a gente tá falando do da maior banca de jurídica do mundo, né? A gente sabe que são advogados muito bem qualificados que poderiam a a partir da do trânsito de julgado ter entrado dentro do prazo decadencial de 2 anos e não fizeram. Então, não cabe agora no cumprimento de sentença tentar limitar uma coisa que não foi limitada em momento nenhum. Eh,
+
+[02:02:28] Sem mais considerações para não tomar mais o tempo de de todo mundo, seria essa a minha minha sustentação. Agradeço oportunidade.
+
+[02:02:36] Pois não, Dr. Rafael. Agora, Dr. Fernando Pereira Abreu também, 5 minutos. Boa tarde, presidente, ministro, parabéns à ministra Teresa. Eh, bom, vamos lá. De fato, esse título não é limitado, né? aí não é é limitado eh pro estado do Mato Grosso do Sul, não é nem só porque o Ministério Público lá não fez essa limitação. E é preciso a gente observar que a União e as demais entidades que fazem parte do polo passivo, elas compreenderam em todo o trâmite processual que o pedido do Ministério Público não era limitado ao
+
+[02:03:20] Estado. O que que acontece? A União em sede defesa, ela fala expressamente: "Pretende o Ministério Público garantir a extensão do reajuste de 28% a todos os servidores públicos federais?" A União diz isso. A União diz isso quando da manifestação da liminar que foi concedida e depois foi revogada. Ela diz isso também quando da defesa, ela diz isso depois em em outros momentos dos recursos e em nenhum momento ela entende ou compreende que o Ministério Público havia ali limitado aos servidores do Mato Grosso do Sul. Bom, o Ministério
+
+[02:04:06] Público Federal do do estado do Mato Grosso do Sul, ele queria assegurar todos os servidores públicos federais, ativos e inativos e pensionista, a extensão do reajuste de 28%, ali como causa de pedir no lastro da isonomia e também com o intuito de de que não fossem reproduzidas várias ações no Brasil inteiro. Então ali já tá uma pista de que o Ministério Público gostaria de que atingisse o máximo de servidores públicos possíveis. As demais entidades que também foram citadas no processo para fins de defesa, todas elas, com
+
+[02:04:45] Raríssimas exceções, compreendem que o entendimento, ou melhor, a intenção do Ministério Público é extensão. Não suscitam em nenhum momento limitação territorial, como o colega que me antecedeu diz exatamente, né, de uma forma bem clara, inclusive indicando as páginas. Eh, a União utiliza uma única um único argumento dizendo que o Ministério Público pretendeu a limitação, um único argumento que seria uma suposta, um suposto aditamento à petição inicial. No entanto, naquele momento, não era possível modificar o pedido. Já existia a citação do órgão. A
+
+[02:05:27] Legislação processual não permitia que se fizesse a limitação, ou melhor, a modificação do pedido após a citação. Então, cai por terra talvez a única argumentação da União no sentido de que o Ministério Público pretendeu essa limitação. Muito claro que nesse período inteiro de tramitação processual, os próprios requeridos compreenderam que o Ministério Público queria abranger todos os servidores federais da administração direta e indireta. O relatório da sentença é claro também pretende o Ministério Público que seja
+
+[02:06:07] Garantido aos servidores públicos federais da administração direta e indireta. Todos. Essa palavra todos, ela aparece em todo trâmite processual, não existe limitação. O TRF3, que é de onde se origina a revisão desse título, ou melhor, a confirmação da sentença, julgou todas as ações de que ten conhecimento até agora, dizendo que não há limite territorial. Então, não existe dúvida que não tem limitação territorial. Agora, a argumentação da União no sentido de que o deveria se aplicar o tema 733 também não se não se sustenta porque eh o que
+
+[02:06:53] Diz o tema 733 do STF define que a declaração de constitucionalidade não reforma decisões anteriores que não tenham adotado entendimento diferente. Os execuentes eles não querem entendimento diferente do título de forma alguma. Eles querem então apenas ter o direito de fazer o cumprimento de sentença de um título que é claro, limpo, no sentido de que estendeu a essas pessoas o reajuste de 28,86%. Dessa forma, antes [roncando] exposto, eh requeremos que a tese seja fixada no sentido de que os efeitos do título judicial formado na ação civil pública
+
+[02:07:33] Não estão limitados aos servidores domiciliados no estado do Mato Grosso do Sul. Obrigado, excelências.
+
+[02:07:40] Nós que agradecemos, Dr. Fernando, Dr. Cláudio Santos, pelo tempo de até 5 minutos. Senhor presidente, boa tarde. Fala em nome da Fenác, Federação Congrega Trabalhadores da Saúde, Trabalho, Previdência e Assistência Social. Enente relator, eminente ministro, senhoras ministras, eh muito já se foi dito, excelências, e eu tava recordando, preparando sustentação oral, eu me lembro de 1993, quando saiu a lei, que a gente olhava no Diário Oficial, não tinha internet, a tabela dos oficiais generais. Daí fizemos as ações até que o Supremo
+
+[02:08:18] Tribunal Federal julgou a ação e me lembro da manchete do Correio Brasiliense. Enfim, os servidores ganham uma no Supremo. Depois veio os imparos de declaração que modulou os efeitos da decisão. Em seguida, a União editou uma lei, uma medida provisória, propondo acordo. Vários servidores já ganharam esse esse reajuste por intermédio de acordo que não teve ação ajuizada. E aí o Ministério Público diligentemente ajuiza uma ação para 97, 5 anos depois da edição da lei, no prazo prescricional. Para quê? para salvaguardar aqueles servidores que não
+
+[02:09:00] Estavam em entidades sindicais, que não haviam ajuizado ações individuais, que estavam desamparados, não teriam esse reajuste. O processo tramita e apenas e tão somente na execução, ministro Cuquina é que se levanta essa limitação. Quando muitos, já se foi dito aqui, né, meus colegas me antecederam, ah, não há essa limitação no título judicial, não tem a limitação territorial, não há. Foi dito aqui, o aditamento foi para efeitos de citação, já havia eh para prefeito dos endereços. Então, portanto, não procede o argumento, com todas as vênas, de que,
+
+[02:09:45] Neste caso, eh, se limita ao estado. E veja, excelências, autor Ministério Público, carreiras de âmbito, carreiras nacionais, legislações federais para todo o país. Por que limitar territorialmente? Por que limitar subjetivamente a entidade, as entidades do polo passivo? quando o Ministério Público foi sábio na tentativa de resguardar para aqueles servidores desinformados, não tinha internet, não tinha grupo de WhatsApp na época para ter informação desse processo. E o Ministério Público agiu bem, contemplou aqueles que, porventura não
+
+[02:10:26] Tivessem eh ajuizado a ação ou feito o acordo. A segunda turma, ministro Teodoro, Velência tem um precedente nesse sentido. essa já ajuizou, já analisou, perdão, essa própria ação. Falo no ARESP 2981 328 do Mato Grosso do Sul. Esse processo a segunda turma já julgou e foi no sentido da tese que as partes e não a união propõe de não haver essa limitação, seja eh territorial, seja subjetiva. Então, esse aspecto nos parece bastante importante. É, olhando para o tempo, excelência, questão do tema 1075 já foi explorado, mas a
+
+[02:11:08] Cronologia dos fatos, dos acontecimentos judiciais e dos julgamentos afastam essa aplicação. Em 2011, a Corte Especial extinguiu a competência territorial dos limites objetivos e subjetivos da sentença coletiva. Em 16, a corte especial voltou a afastar a limitação territorial a priorística eficácia da decisão coletiva. O título em discussão transitou em 2019. essa corte já havia amadurecido essa discussão no que respeito a essa limitação e o 75/2021 de fato, pois e muito já foi dito aqui em relação à questão dos dispositivos
+
+[02:11:43] E excelências, vejam, eh, no caso, no caso nos parece que tem muito pouca gente que ainda não recebeu esse reajuste. Houve acordo, houve acordo por conta de leição legislativa. Então, é apenas para contemplar aqueles que efetivamente não puderam ter oportunidade de buscar judicialmente. Portanto, eh, sem não antes desejar um feliz aniversário à Min. Maria Thereza de Assis Moura tem aquela música do do IRA diz, é, eh, envelhecemos na cidade. Feliz aniversário, envelhecemos na cidade. A Vossa Excelência não envelhece, pelo contrário, a senhora tá cada vez mais
+
+[02:12:21] Jovem e irradiando a sua juventude e os seus conhecimentos aqui na sessão e na turma. Então, parabéns uma vez mais antes de encerrar. E a Fenace pede o desprovimento do recurso especial da FUNASA. Primeiro, a sentença alcança servidores ativos, inativos, pensionistas cumpridos na condenação, independentemente de domicílio, lutação, local de exercício. A própria sentença e o próprio pedido delimitaram quem fez acordo, quem já entrou com ação. Ela é específica. Segundo, eh, a execução permanece da União e as demais pessoas
+
+[02:12:55] Jurídicas, administração e direta. E segundo, deve ser, terceiro, perdão, deve ser respeitad as condições, exclusões, compensações, ações próprias, acordos e pagamentos previstos no título, sendo desnecessária ação recisória para executá-lo na extensão que foi instituído. Muito obrigado pela atenção de vossas excelências. Uma boa tarde.
+
+[02:13:12] Pois não, Dr. Cláudio. E agora, Dr. Sérgio Ludmer. Excelentíssimo senhor ministro Gugel de Faria, presidente desta colenda sessão, excelentíssimo senhor Min. Afrânio Vilela, eminente relator, em nome de quem saúdo as ministras e os ministros desta corte. Também desejo feliz aniversário à Min. Maria Thereza de Assis Moura para que não esqueça ao final ilustre representante do Ministério Público, caros advogados, advogadas, servidores e demais presentes. Ficar por último nesse contexto me trouxe uma grande vantagem, não é? que a matéria técnica, seja ela
+
+[02:13:58] Processual como seja ela da realidade dos autos, está por definitivamente eh bem abordada. Todavia, excelência, estive o prazer e o privilégio na semana passada de estar com vossas excelências no evento aqui desta casa, em homenagem inclusive ao senador Bernardo Cabral, relator geral da nossa constituinte, que ao ouvi-lo, o nosso senador, o nosso o nosso constituinte disse, né, que ficou muito claro, fojou a criação do Superior Tribunal de Justiça o grande fiador da isonomia, da interpretação uniforme da lei, impedindo que o Brasil se
+
+[02:14:42] Dividisse em justiças fragmentadas e regionais. É disso que se trata aqui. Ministro presidente sabe bem, ministro presidente, que trabalho na causa há 20 anos, aproximadamente 20 anos, não sou mais jovem aqui, não é? E que esta causa através da lei, como falou aqui quem me antecedeu, meu colega Cláudio também, que está aqui há muito tempo, a o as leis 82, 8622 e 8627 estenderam, asseguraram o reajuste que antes tinha sido dado aos militares, ao legislativo, ao judiciário, ao TCU e ao Ministério Público. Logo, essas categorias todas
+
+[02:15:23] Receberam administrativamente, sem necessitar nenhuma demanda judicial. Foi preciso apenas ao servidor do executivo buscar seu direito perante a justiça brasileira. foi feito também, como relator aqui meu colega, o advogado Cláudio, e foi ao Supremo e o Supremo emitiu uma súmula, a súmula 672, que depois se tornou a súmula vinculante, número 51, vinculante, dizendo que se tratava de uma revisão geral de remuneração e que todos os servidores públicos federais têm direito a tal reajuste. Logo, ministro Teudoro, é uma,
+
+[02:15:59] Essa ação é chamada popularmente como 28,86% remanescente. Que danado é remanescente, excelência, nós nem deveríamos estar aqui a julgar essa causa nesse momento, porque deveria ter um ambiente lá na administração pública em que o servidor federal que não foi contemplado, que até hoje não recebeu, compareceria lá, comprovaria que trabalhou no período, comprovaria as limitações do título, qual é? se tem acordo, se não tem acordo, se tem união, se tem se tem acordo, se tem ação. E lá com essa comprovação receberia o seu
+
+[02:16:35] Direito, o direito a que faz juiz, a tal reajuste que não é da União, é do servidor público e é de todos eles. Então é disso, excelências, que estamos aqui a tratar. Então essa ação civil pública nasceu exclusivamente para curar essa discriminação. Ela nasceu para curar essa discriminação. E o o egrégio Tribunal Regional Federal da terceira região, ministro Ofrânio, disse no seu julgamento, né, eh, que a única entidade de classe capaz de representar todos os servidores devido à extraordinária dispersão nacional dos lesados,
+
+[02:17:18] O que legitimava o Ministério Público para tanto. Logo, é, como disse também o Dr. Cláudio aqui não tinha não tinha entidade de classe, ninguém era capaz de representar todos os servidores. Entendam excelências, eu aqui represento a UNAFISO como amigoscur e faço aqui eh agradeço a presidência da UNAFISO pela oportunidade através do presidente K Cabral e agradeço ao ministro Afrânico por ter nos admitido como amigoscuri, né? Então, excelência, estamos aqui para pedir que seja cumprido aquilo que a lei já assegurou e que o ministério e que o
+
+[02:17:53] O Supremo Tribunal também já segurou. Por fim, ministro Gugel, eu queria dizer o seguinte, que as folhas 917 918 dos autos do HESP 2hõ249171 do Ceará conta o parecer do Ministério Público, porque foi falado aqui o que que o Ministério Público queria, que que o Ministério Público, como disse aqui o ministro Erma, o que importa é o que o Ministério Público disse, o que o Ministério Público queria. E no caso disse o Ministério Público, abro aspas, peço venia para ler no caso, vou encerrar isso. No caso concreto, o título executivo formado na ação civil
+
+[02:18:31] Pública não impôs qualquer limitação geográfica ou restrição a quanto aos efeitos subjetivos da condenação. A alusão ao estado do Mato Grosso do Sul na petição de aditamento serviu unicamente para indicar o endereço local de citação das entidades demandada. Logo, o que é que quis público? O que o Ministério Público disse nos áudios e não qualquer outra coisa que não esteja nos autos. Presidente, obrigado pela tolerância, obrigado pela atenção. A UNAFISO pede que não seja trazido qualquer limitação ao título, tal como
+
+[02:19:07] Consta no seu dispositivo. Muito obrigado.
+
+[02:19:09] Pois não. Vamos então passar a palavra a o Ministério Público Federal como custos legites que irá se pronunciar. por favor. Dr. ET, fica à vontade. Eminente ministro presidente, senhores e senhoras, ministros componentes da primeira sessão do colendo superior Tribunal de Justiça, ilustres e combativos advogados presentes, estimados eventuários da justiça, senhoras e senhores, na hipótese compreendo que os recursos especiais debatem a mesma questão de direito, a qual se resume numa singela indagação. aplica-se ou não aos servidores e
+
+[02:19:59] Pensionistas de outras regiões e de outras entidades não indicadas no processo, nos processos, os efeitos da decisão proferida pelo juiz da Primeira Vara Federal do Mato Grosso do Sul na ação civil pública. E eu tenho o número dela aqui, não vou repetir. Eu entendo que não, que não há essa aplicação, diferentemente de alguns outros colegas meus. A demanda não foi ajuizada nem julgada em âmbito nacional. Os servidores federais e pensionistas de outras regiões não foram partes do processo, não podem, por força desse singelo
+
+[02:20:48] Motivo, ser favorecidos por decisão proferida. naquele feito. Vou lembrar um fato. Os reajustes de 28,86% foram conferidos apenas aos militares. Um erro pelas leis 86 22 de 93. Nós estamos falando de uma coisa antiga e a lei 8627 de 93. Mas o Supremo Tribunal Federal em boa hora, apreciando questões que aportaram por lá em grau de recursos, findou por reconhecer com amparo na isonomia prevista na Constituição. É o velho direito de igualdade que remonta os tempos da Revolução Francesa.
+
+[02:21:41] Fou por reconhecer o direito dos servidores federais civis. de obterem semelhantes reajustes. Foi dito aqui com muita propriedade que as decisões do pretório Excelo consolidaram-se na súmula vinculante 51, aprovada em 23 de junho de 2015. E todos sabem os termos da súmula, eu não vou repet. Assegurado o reajuste isonômico, os Barnabéis, muitos deles, recorreram ao judiciário e foram atendidos. Outros conseguiram extensão que foi dada a muitos servidores de diversos órgãos do Brasil. Além disso, surgiram ações coletivas
+
+[02:22:29] Como a referenciada nessa sentada. O autor da ação foi o Ministério Público Federal. do Mato Grosso do Sul. O procurador da República registrou em aditamento feito quais eram as repartições de entidades federais autárquicas e fundacionais sediadas no Mato Grosso do Sul, cujos servidores, civis federais, ativos ou inativos e pensionistas, seriam favorecidos com aqueles reajustes. aquilo uma uma norma surgida por decisão do Supremo Tribunal Federal. Existe nos processos informações sobre o ajuizamento pelo parquê federal de outras ações
+
+[02:23:23] Coletivas com pedidos idênticos. exemplos a União Federal os aponta e foi dita aqui ações que foram promovidas no Rio Grande do Sul, eu posso citar o nome dela, se o número dela, se necessário for, como a do a 97001 21925 e na Bahia a 556 028 0 e 401 3300 Essa circunstância revela que os efeitos financeiros da ação coletiva do Mato Grosso do Sul restringiram-se aos servidores daquela unidade federativa. A primeira turma dessa Corte Nacional ao tema tão interessante das ações coletivas no apelo nobre 2116 217 de Pernambuco, a
+
+[02:24:25] Relatora, a eminente Min. Regina Helena Costa salientou que a decisão de uma ação coletiva considera o conjunto dos elementos do título e o conteúdo das pretensões das partes. a fim de estabilizar a relação jurídico-processual a respeito do objeto do litígio e das partes envolvidas na LID. Parece-me a melhor interpretação a se conferir a preceitos processuais. Aliás, o judiciário, nós devemos lembrar, existe para com politígios, não deve eternizar os conflitos. Se à luz das considerações feitas, a decisão do juízo federal do Mato Grosso
+
+[02:25:17] Do Sul favoreceu apenas os servidores federais, ativos e inativos e pensionistas da mencionada região, se por outro lado tal decisório transitou e julgado desde agosto de 2019, não há espaço para a expansão pretendida, beneficiando Barnabés de outras regiões. Olha, não, olha depois
+
+[02:25:43] Eles, assim como as associações que os representam, associações classistas, permaneceram inertes por muitos anos. O reconhecimento dos direitos aos reajustes pelo STF ocorreu desde 2015, junho de 2015. Nós estamos falando uma coisa de mais de 11 anos, de sorte que os órgãos sindicais e seus representados somente poderiam deduzir em juízo pretensões dessa natureza até junho de 2020, segundo o decreto 2910 de 6 de janeiro de 1932, que trata da prescrição. Se não o fizeram, a prescrição possivelmente atingiu as postulações e
+
+[02:26:34] São muitas porque há uma reunião de recursos especiais em julgamento. Não há como favorecer agora, através de uma expansão, de uma decisão proferida numa ação arquivada há muito tempo, na qual o próprio Ministério Público Federal lá do Mato Grosso disse que tava tudo atendido. Eu não sei como terminou a da Bahia, não sei como terminou a do Rio Grande do Sul, não sei como terminou algumas outras que foram intentadas em outras unidades federativas. A União também precisa, nós precisamos ver isso, a União precisa ser protegida
+
+[02:27:16] De investidas bilionárias que não tenha eh liquidez de amparo legal. Afinal de contas, nós vivemos num país em que a gente para nos sinais e vê crianças de mão, mãos estendidas pedindo esmolas junto de parentes às vezes drogados, sem nenhuma ação dos poderes públicos que mostram-se ineficientes e alegam que disse hoje o ministro Benjamim que a fazenda também é pobre. Ora, se a fazenda é pobre, ela é precisa, é preciso que se olhe ela com a proteção, pelo menos, da prescrição, da decadência, para que não hajam ações reccisórias,
+
+[02:28:06] Muitas delas se chegaram a ser ajuizadas, recessisóas, porque outra parece que é só para cumprimento de para reabrir uma questão já completamente morta, ressuscitar, soprar no nariz e ressuscitar um defunto, o direito não pode fazer isso, não. Um brocardo latino antigo que merece ser lembrado aqui. Eu sou da velha guarda. Gosto dos brocardos latidos dormentibos não socorrit juiz. O direito não pode tá socorrendo quem dormiu, porque eu sou também servidor público e vi os servidores do Ministério Público Federal brigando em todo o
+
+[02:28:41] Brasil para terem essa extensão, porque houve realmente uma injustiça. Eu não posso ter uma compreensão diferente que vá gerar
+
+[02:28:54] Uma despesa dessa magnitude por um direito que não é tranquilo nem líquido, incerto e que encontra também embaraço no tema 733 do Supremo Tribunal Federal. podem consultar que vão ver que há um certo embaraço para esse reconhecimento. Aí, por nessa manifestação oral que fiz com uma certa pressa depois de olhar os impactos que existem e olhar também que não tem muito amparo legal a pretensão data venha deduzido pelas entidades sindicais e por algumas até as pessoas físicas que evidentemente estão aqui representando seus advogados. Essas
+
+[02:29:41] Deveriam ser feit até uma análise talvez separada, porque essas procuraram o advogado, essas talvez mais das entidades sindicais, que são órgãos que cobram contribuições para defender seus associados, não o fizeram. Então não se pode estar ressuscitando, senão a gente não vai ter estabilidade nas relações jurídicas. A coisa julgada vai deixar cada vez de valer como deveria valer. E o judiciário, ele é pensado como órgão de pacificação de litígios de restauração da paz social, quer seja o conflito entre entidades do poder
+
+[02:30:29] Público e particulares, quer seja entre particulares apenas. Eram essas as considerações, senhores ministros, que gostaria de fazer e meu próprio nome dentro da convicção que fiquei examinando esses autos, porque fui muito instado a fazer essa esse exame por muitos advogados e fiz e me convenci de que deveria. Eu falo pouco aqui, já tô até meio cansado. Falei muito nas turmas criminais, quando mais novo. Hoje sou o segundo mais antigo do Superior Tribunal de Justiça. Eh, esse tema não falo, mas eu tô falando isso porque hoje nós temos aqui
+
+[02:31:09] Uma ministra muito querida que está aniversariando e está também espagindo os encantos da sua juventude para todos nós que conhecemos e sabemos do discernimento que ela tem no julgamento das causas que lhe são submetidas. Era isso que eu tinha a dizer.
+
+[02:31:31] Pois não, Dr. Itel. Eu já passo a palavra agora ao ministro Afrânio como relator. Senhor presidente, senhores e senhoras advogadas, prezados colegas, eu acredito que senhor subprocurador geral da República, acredito que todos aqui gostariam de homenagear a nossa aniversariante, Min. Maria Thereza de Assis Moura, eh, encaminhando a ela a relatoria deste feito para que sua excelência se sinta presenteada, né? Mas se ela não aceitar o presente, senhor presidente, eu tenho eh por obrigação eh solicitar vista dos autos para poder reavaliar certos pontos dos
+
+[02:32:15] Autos, inclusive em função de diversos memoriais que as partes fizeram a gentileza de me encaminhar.
+
+[02:32:27] A Min. Maria Thereza de Assis Moura não aceitou, de maneira que então fica com vista regimental do Min. Afrânio Vilela. Agradeço a participação de todos os advogados e também, por óbvio, a colaboração do Ministério Público Federal, eh, não só neste feito, como também em todos os demais, mas especialmente neste pela sustentação oral. E eu passo então a presidência para o ministro Paulo Sérgio a pregoar o tema 1386, que é da minha relatoria.
+
+[02:32:55] Muito obrigado, ministro Gurgel, a mis Min. Maria Thereza de Assis Moura e cada um manda o presente que deseja para o amigo, né? Eu [risadas] mandei uns chocolates. Fran quer mandar relatoria de um processo.
+
+[02:33:10] Eu, aliás, eu prefiro muito mais este presente. [risadas]
+
+[02:33:14] Apreou aqui eh os resps 2213084, 2 227232 da relatoria do Min. Gurgel de Faria, tema 1386. Estamos aqui inscritos para sustentação oral. Peço que então se representem. Dra. Juliana Florentino de Moura, pela parte recorrida, estado do Rio de Janeiro. Boa tarde, Dra. Mariana Dutres Silva, pela recorrente Crislane Rodrigue Silveira e aptão por videoconferência, não é?
+
+[02:33:51] E Dr. Augusto César Almeida da Silva pelo interessado Instituto Brasileiro de Direito Previdenciário, não é isso? Indago se os doutores dispensam a leitura do relatório. Sim. Vamos ver se eu não vejo aqui ainda a Dra. Mariana também. Dispensa leitura do relatório. Sim,
+
+[02:34:13] Perfeitamente.
+
+[02:34:14] Então eu passo a palavra a Dra. Juliana Florentino de Moura pelo prazo regimental de 15 minutos.
+
+[02:34:22] Muito obrigada senhor presidente. Min. Paulo Sérgio Domingues. Ministro Senhor Min. Gurgel de Faria. relator dos recursos repetitivos, senhora Min. Maria Thereza de Assis Moura, quem cumprimento pelo seu aniversário, senhoras, senhora Min. Regina Helena Costa, senhores ministros, ilustre membro do Ministério Público Federal, estimados advogados, servidores e todos os demais presentes. Eu falo aqui em nome do estado do Rio de Janeiro. O que se discute nestes autos é se existe ou não um prazo prescricional para requerer judicialmente o benefício de pensão por
+
+[02:35:01] Morte deixado por um servidor público. Ou seja, se a prescrição atinge o próprio fundo de direito ou se ela atinge apenas as prestações vencidas. O Estado defende que havendo indeferimento administrativo expresso e sendo esse indeferimento comunicado ao interessado, passa a correr o prazo prescricional de 5 anos previsto no decreto 20910 de 1932. Portanto, prescreveria o próprio fundo de direito e não apenas a pretensão de recebimento das parcelas vencidas. Essa posição se apoia em basicamente três fundamentos muito objetivos. O
+
+[02:35:49] Primeiro deles é o de que o entendimento desta própria primeira sessão nas relações de trato sucessivo em que figure como devedora a fazenda pública, é de que há prescrição do fundo de direito. Isso foi decidido em maio deste ano, muito recentemente, no tema 1410. Nesse tema, é bem verdade que se discutia adicional por tempo de serviço, mas a tese repetitiva foi fixada em termos amplos para abranger todas as relações de trato sucessivo em que a fazenda pública figure como devedora. E é essa justamente a questão dos autos,
+
+[02:36:29] Porque a relação que se estabelece entre a entidade de previdência e o dependente que pleiteia a pensão é uma relação de trato sucessivo. [roncando] Essa mesma orientação fixada no tema 1410 já havia sido adotada por esta primeira sessão embargos de divergência em 2021 em relação ao próprio direito à pensão por morte no regime próprio de previdência social, ou seja, há precedente específico em embargos de divergência desta sessão julgado por essa sessão em relação à concessão da pensão por morte. Esta primeira sessão já afirmou a prescrição
+
+[02:37:10] Do fundo de direito após o transcurso de 5 anos contados da ciência do indeferimento. Naquele julgamento em 2021, vou ler um pequeno trecho da ementa, apenas para ilustrar. Abro aspas. Nas causas em que se pretende a concessão de benefício de caráter previdenciário, existindo negativa expressa e formal da administração, não há falar em prescrição do fundo de direito. Situação diversa ocorre quando houver o indeferimento do pedido administrativo de pensão por morte, pois em tais situações o interessado deve submeter ao
+
+[02:37:49] Judiciário, no prazo de 5 anos, contados do indeferimento, a pretensão referente ao próprio direito postulado sob pena de fulminar o lustro prescricional. Fecho aspas. Isso também é o que decorre de uma súmula muito antiga desse tribunal, a súmula 85. Apesar de muito antiga, ainda em pleno vigor. E é exatamente o que o estado pede aqui. Nada novo, nada de diferente, apenas a manutenção do entendimento desta sessão. E vejam, senhores ministros, que esse entendimento não gera um prazo exíguo ou irrazoável pra parte requerer o
+
+[02:38:26] Benefício de pensão por morte. E por quê? Porque o próprio interessado continua controlando o momento em que ele apresenta o requerimento administrativo. No recurso especial oriundo do Estado do Rio de Janeiro, por exemplo, o servidor faleceu em 78 e a autora só apresentou o requerimento em 2014, mais de 35 anos depois. E por incrível que pareça, a tese defendida pelo Estado não impede que isso continue a ocorrer e ainda concede 5 anos a partir da ciência do indeferimento administrativo. Ou seja, há um prazo muito razoável para se
+
+[02:39:06] Requerer, o que demonstra que essa tese concilia bem o direito à previdência social e a segurança jurídica. O segundo fundamento é o de que a imprescritibilidade pretendida pelos Amit CUR e pela parte autora aqui recorrente, ela prejudicaria severamente o direito à ampla defesa e ao contraditório do Estado e das autarquias previdenciárias em geral. Por quê? Porque é muito comum, na verdade, muitos pedidos de concessão de pensão dependem da avaliação de circunstâncias fáticas, como, por exemplo, a existência ou não
+
+[02:39:46] De união estável, a existência ou não de dependência econômica.
+
+[02:39:50] [roncando]
+
+[02:39:50] E é muito comum, pelo menos no estado do Rio, isso acontece, é muito comum que se consultem redes sociais do requerente para se verificar se realmente havia ou não aquela convivência alegada ou se não havia, ou mesmo para buscar eventuais testemunhas para um processo judicial. Isso tudo se perde com o tempo. Publicações são apagadas, perfis são desfeitos e, portanto, o passar do tempo prejudicaria severamente o direito à ampla defesa e contraditório do Estado. Terceiro fundamento para que não haja imprescritibilidade é é o seguinte: não
+
+[02:40:29] Se pode transpor regimes próprios de previdência social a mesma lógica do regime geral de previdência social. E por que que eu trago aqui esse fundamento? Porque a divergência que passou a existir nesse tribunal se deveu sobretudo ao julgamento de uma ADI no Supremo, ADI6096, em que se discutia a constitucionalidade de um dispositivo de lei que fixava prazo decadencial para discutir judicialmente atos de indeferimento, cancelamento ou cessação de benefícios previdenciários do regime geral. E lá o Supremo entendeu que esse prazo decadencial era
+
+[02:41:12] Inconstitucional. Portanto, há quem queira transpor essa tese de que não pode haver prazo para requerer a concessão de benefícios previdenciários. Mas além de aquele julgamento no Supremo ter sido restrito ao regime geral, lá não se analisou o decreto 20910, não se analisou o regime próprio de previdência social, há uma outra razão para não se transpor. Aquele julgamento foi proferido em 2020 por uma maioria muitíssimo apertada, um placar de 6 a c. três dos ministros eh que votaram com a maioria já deixaram a corte. Então, é possível que o Supremo
+
+[02:41:56] Reveja a sua posição caso revisite essa matéria. Mas há ainda uma razão mais importante para se distinguir os regimes próprios do regime geral. Aqui há uma questão de proteção a pessoas hipossuficientes econômica e tecnicamente no regime geral, que não existe nos regimes próprios. No regime geral, que é um regime de proteção massiva dos trabalhadores, sobretudo da iniciativa privada, [roncando] mais de 65% dos beneficiários recebem um salário mínimo de benefício. [roncando] Nos regimes próprios, vou trazer aqui o exemplo do executivo
+
+[02:42:37] Federal, o valor médio das aposentadorias é de mais de R$ 12.000. Além disso, mais de 85% dos servidores públicos federais do executivo possuem ensino superior. Portanto, não há aqui nos regimes próprios uma razão de hipossuficiência informacional ou econômica que justifique a ampliação do prazo de prescrição. Essas são, portanto, as razões que levam à rejeição da tese da imprescritibilidade e a atração do entendimento já firmado por essa primeira sessão no tema 1410 do STJ. Mas o Estado gostaria também de fazer um pedido subsidiário para o caso
+
+[02:43:17] De se afirmar a imprescritibilidade, o que estou admitindo aqui apenas para argumentar. Qual é o pedido subsidiário do Estado? é o pedido de que não haja condenação ao pagamento de valores retroativos quando a administração tenha de boa fé pagado a o valor integral da pensão, 100% da pensão ao outro beneficiário que primeiro se habilitou. E por que isso? É comum que a administração pague 100% durante longo período e aí em razão da própria demora desse interessado que surge repentinamente, seja obrigada judicialmente a pagar 5 anos de
+
+[02:44:00] [roncando] mais 50% daquela pensão. Ou seja, ao invés de pagar 100, ela paga 150%. [roncando] Esse é um pagamento em duplicidade que o estado gostaria de evitar. Inclusive, no caso dos autos aqui, quem recebeu a integralidade da pensão foi a mãe da autora. Ela é a filha pleiteando. Vejam, senhores ministros, que o pagamento retroativo poderia inclusive dar ensejo a situações de conuio. Não tô dizendo que houve aqui, mas ele pode dar ensejo a isso, porque as partes podem acordar para receber duas vezes o mesmo benefício
+
+[02:44:37] Pela morte do mesmo servidor. Por fim, eu gostaria de tratar de algumas peculiaridades do caso concreto após se fixar a tese repetitiva. Primeiro, gostaria de chamar a atenção pro seguinte. Apesar de o recurso especial oriundo do estado do Rio de Janeiro ter sido afetado para essa para discutir essa questão previdenciária, no caso do recurso do Estado, a pensão em discussão não tem natureza previdenciária, ela tem natureza estatutária, ela é uma pensão especial que era paga especificamente a membros do Ministério Público. Portanto, se era
+
+[02:45:16] Um benefício estatutário, com mais razão ainda se aplica aqui o tema 1410 do STJ. Além disso, há um segundo ponto sobre esse recurso, que é o seguinte: caso seja afastada a prescrição, o que se admite aqui também por eventualidade, não é possível de imediato reconhecer o direito à pensão, porque o direito à pensão depende da análise da legislação estadual. Inclusive, o indeferimento do pedido administrativo se deu com fundamento na legislação estadual, que previa que se a mãe concorresse com filhos daquele mesmo matrimônio, o
+
+[02:45:54] Direito era só da mãe, os filhos não recebiam. Por isso que a filha aqui não teve o direito reconhecido administrativamente. [roncando] Por essas razões, senhor presidente, senhor ministro relator, senhoras ministras, senhores ministros, o Estado pede que essa primeira sessão reconheça que o prazo de prescrição do fundo de direito passa a correr a partir da ciência do indeferimento administrativo do requerimento do benefício de pensão por morte. Subsidiariamente, caso seja reconhecida a imprescritibilidade, requer que se rejeite o pagamento
+
+[02:46:33] Retroativo a esse esse essa pessoa que se habilitou tardiamente para evitar que o estado seja prejudicado. E por fim, especialmente, especificamente em relação ao recurso especial do Estado, oriundo do Estado do Rio de Janeiro, em que o estado figura como recorrido, eh caso não se mantenha o acordão recorrido, o que se admite, por hipótese, requer que os autos sejam remetidos às instâncias ordinárias para que a questão seja rejulgada à luz da legislação estadual, caso afastada a prescrição. Muito obrigada. Cumprimento a Dra. Juliana Florentino de
+
+[02:47:14] Moura pela sustentação. Eh, adotando aqui a metodologia da primeira sessão, não verificando existência de destaques no sistema, eu vou pedir a Dra. Mariana Dutre, Dr. Augusto César, para aguardar e vou passar a palavra ao eminente relator. Depois, eventualmente posso passar a palavra aos aos doutores advogados, tá bom? Então, ministro Gjal
+
+[02:47:33] De Faria com a palavra. Pois não, presidente. Eu inicio eh aqui fazendo a saudação a ilustre advogada que fez a sustentação na tribuna e aos que estão aqui também na tribuna virtual, a gente assim pode dizer, eh, Dra. Mariana e o Dr. Augusto César. E como não houve destaque, conforme já registrado pelo presidente, eu vou fazer um resumo a partir da própria ementa, é onde eu digo que a questão submetida ao STJ consiste em definir se o indeferimento administrativo do pedido de pensão por morte de servidor público tem um condão
+
+[02:48:07] De atrair a incidência da prescrição do fundo de direito ou se subsiste a imprescritibilidade da pretensão ao reconhecimento do benefício. O STF, no julgamento da DI 6096, consignou que a incidência de institutos instintivos do próprio direito, nas hipóteses de indeferimento, cancelamento ou cessação do benefício previdenciário, é importante dizer do próprio direito, tá certo? Configura violação ao direito fundamental à previdência social. A a raciodicidende estabelecida pelo STF não comporta a distinção fundada no regime
+
+[02:48:42] Jurídico aplicável geral ou próprio, pois a proteção previdenciária, independentemente do regime aqui vinculada, deriva diretamente da Constituição Federal e concretiza valores estruturantes como a dignidade da pessoa humana, a solidariedade e a efetividade dos direitos sociais. A negativa da administração do pedido de pensão por morte de servidor público não tem o condão de converter o direito fundamental à previdência em pretensão sujeita à extinção total pelo decurso do tempo. Admitir solução diversa implicaria estabelecer tratamento mais
+
+[02:49:15] Gravoso aos beneficiários do regime próprio em comparação com aqueles vinculados ao regime geral em manifesta afronta a coerência do sistema jurídico. Para os fins do artigo 1036 do CPC, fixa a seguinte tese no âmbito do tema 1386. O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas no período de 5 anos anteriores ao ajuizamento da ação. Não há espaço para a modulação dos efeitos
+
+[02:49:49] Do presente julgamento, seja porque a tese não inova, mas consolida a imprescritibilidade do fundo do direito já reconhecida pelo Supremo Tribunal Federal, seja porque inexistia jurisprudência pacífica apta a gerar confiança legítima. Caso concreto, uma vez reconhecida a prescrição de Fundo de Direito pelo Tribunal de Origem, o recurso da parte recorrente merece prosperar. E em atenção à sustentação oral da Dra. Juliana, eu digo que o que eu estou fazendo aqui no exame do caso concreto é tão somente afastando a prescrição, então essas peculiaridades
+
+[02:50:20] Que foram determinando por óbvio, que os autos retornem ao Tribunal de Origem. Então essas peculiaridades, Dra. Juliana, que foram mencionadas e eventualmente já foi feito um um pagamento a um outro beneficiário para que não haja duplicidade ou outros tópicos, ah, legislação local, há uma regra específica. Essas peculiaridades terão que ser examinadas no âmbito do tribunal de origem, porque volto a mencionar, a determinação é provimento para afastar a prescrição. E aí eu determino aqui, ó, tá no no dispositivo, determino o retorno dos autos ao
+
+[02:50:53] Tribunal de origem a fim de que prossiga no julgamento do feito, decidindo como entender de direito, por óbvio, com relação aos demais pontos, porque a prescrição fica afastada.
+
+[02:51:03] Eh, é esse o resumo do voto. Inclusive, isso vale para ambos os casos. No caso do Rio Grande do Sul, que na houve sustentação oral também, eu só afasto a prescrição e mando voltar para que o Tribunal de Origem possa avaliar eh no caso os demais pontos. Presidente,
+
+[02:51:22] Muito bem. Eu indago então a Dra. Augústa, Dra. Mariana, estão satisfeitos?
+
+[02:51:31] Satisfeito, excelência.
+
+[02:51:33] Sim, excelência. Pois não. Então, não verificando a existência de nenhum destaque, eu proclamo o resultado. A primeira sessão por unanimidade deu provimento aos recursos especiais para afastar a prescrição do fundo de direito e determinar o retorno dos autos ao tribunal de origem, a fim de que prossiga no julgamento do feito, decidindo como entender direito dos termos do voto do senhor ministro relator.
+
+[02:51:55] Foi aprovada por unanimidade a seguinte tese jurídica no tema repetitivo número 1386. O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição com incuenal sobre as prestações vencidas no período de 5 anos anterior ao ajuizamento da ação. Então, com esse resultado, eu devolvo a presidência ao ministro Gurel de Faria. Obrigado, ministro Paulo. E eu aproveito para fazer o registro que a Secretaria
+
+[02:52:24] De Cultura e Memória, por meio do Núcleo de Mediação e Educação Museal, comunica que estão presentes nesta sessão participando do programa Saber Universitário da Justiça, os estudantes da Faculdade Anhanguera de Sorocaba. É, por favor, se puderem se identificar, levantando o braço. Sejam todos muito bem-vindos aqui para acompanhar os julgamentos no âmbito da nossa primeira sessão. E dando continuidade, vamos agora para o julgamento do tema 1364, relatoria do ministro Paulo Sérgio. Vou chamando os ilustres advogados, Dr.
+
+[02:52:58] Marcel Vieza Pereira da Costa, que falará pela parte recorrente de L transporte e logística nacional limitada. Dr. Bruno Rodrigues, que falará pela parte recorrente Arom Itália do Brasil limitada, Dr. Marcelo Tonete Júnior pela parte recorrente Anderle Transportes Limitada, Dra. Ariane Costa Guimarães, pela parte interessada, Federação das Indústrias do Estado do Paraná. E pela parte recorrida falará a Dra. Rafaela Mateus Duarte. Eu então eh convido o Dr. Marcel para que venha falar eh inicialmente, já pode vir para
+
+[02:53:39] A tribuna. Eh, e vou agora apregoando os feitos que são recursos especiais de número 2.15097, 848, 894 e 2.15116, todos, como eu já mencionei, da relatoria do ministro Paulo Sérgio. Indaga aos ilustres advogados se dispensa a leitura do relatório. Todos dispensam. Então, eh, conforme já anunciado previamente aos ilustres advogados, são quatro advogados pelas partes recorrentes. Eu digo pelas partes, porque na verdade aqui temos mais de de um processo, não é? Então, cada um terá até 7 minutos e meio para a sua sustentação. Dr. Marcel, com a
+
+[02:54:26] Palavra. Excelentíssimo senhor presidente, eh, Min. Gurgel de Faria, excelentíssimos ministros, eh senhoras ministras, parabenizo também a Min. Maria Thereza de Assis Moura pelo seu aniversário, serventuários, colegas advogados e também os estudantes aqui presentes. Eh, boa tarde a todos. Ah, meu nome é Marcel, falo em nome da DL Transportes e Logística, ah, transportadora de cargas, rodoviária de cargas de Xaxim, no estado de Santa Catarina. E hoje o debate aqui é é de conhecimento de todos, né? Eh, que se trata basicamente do crédito de
+
+[02:55:01] PIS e CofinFINS sobre o ICMS e na entrada, nas operações de entrada, na nas aquisições, principalmente de mercadorias, né? Registo também que é a primeira vez que eu ocupo essa tribuna, então faço com bastante satisfação e honra, ainda mais num tema de tanta relevância, né, em âmbito nacional, como é de natureza dos próprios recursos repetitivos. Eh, e bom, separei a minha fala de maneira muito objetiva em três principais pontos. Primeiro tratarei a respeito da do ICMS recuperável, né? O crédito do piscofim sobre ICMS que é
+
+[02:55:29] Recuperável. No segundo momento, o crédito de pisicofim sobre ICMS que é irrecuperável e por fim os precedentes do STJ. Bom, no caso do ICMS, que é é recuperável, né, quando ele entra de fato como um imposto a ser abatido nos débitos, né, do próprio ICMS, ah, a própria PGFN, né, e também a Receita Federal desde 2021 sempre externaram o seu posicionamento eh por meio de parecer da PGFN, por meio de solução de consulta COSIT, eh, da própria Receita Federal, no sentido de que eh a extensão do tema eh 69 do STF não seria
+
+[02:56:03] Automática, né, paraa proibição da do crédito de pisicofim sobre o valor do ICMS das entradas, né? Eh, tanto é que o ICMS nas entradas, eh, caso seja impedido o direito ao crédito a partir de maio de 2023, né, por meio da publicação da lei 14592 de 2023, ele acaba indiretamente, na verdade, violando a decisão que foi determinada pelo Supremo no julgamento de tema 69. Eh, veja bem, se o Supremo no julgamento de tema 69 determinou que o ICMS a ser excluído da base de cálculo dos débitos de PIS e Confins é aquele destacado nas
+
+[02:56:38] Notas fiscais, a proibição do crédito de pisicofins sobre o ICMS nas entradas faz com que o ICMS a ser eh excluído da base do PIS e Cofins na saída passe a ser indiretamente o ICMS efetivamente recolhido, que vai de maneira contrária àilo que foi julgado nos embargos de declaração eh do tema 69 no ano de 2021. Então, por conta dessa interpretação, eh, o STJ, né, exercendo a sua competência de uniformizar a interpretação da legislação federal, eh, entendo que deveria reconhecer, né, que mesmo no caso de ICMS recuperável, o
+
+[02:57:10] Direito ao crédito deve ser reconhecido sob pena de violação a um precedente vinculante do Supremo Tribunal Federal, tá? já no que tange a ao ICMS irrecuperável, né? Eh, bem bem é dito que ele apenas transita no caixa, mas isso não é uma verdade. Eh, principalmente nos casos em que a empresa não tem o direito de se creditar, então, eh, desse CMS, eh, nas entradas que acaba virando de fato custo de aquisição. E esse é o principal ponto que estamos aqui analisando hoje. Eh, o conceito para fins de crédito de pisicofins previsto na legislação eh
+
+[02:57:45] Infraconstitucional, na legislação federal. sempre foi o preço de aquisição eh dos bens e serviços. excluir o ICMS desse conceito acaba subvertendo essa lógica do do método subtreto, oriundo do da própria sistemática do creditamento de pisicofins. O ICMS, que é irrecuperável, ele acaba entrando no custo eh de aquisição das mercadorias e serviços que são adquiridos pelas empresas do regime não cumulativo de pis e cofins. Então, sendo um um sendo irrecuperável esse CMS nas entradas, de um modo ou de outro, ele será ah ele
+
+[02:58:22] Será incluído na base do PIS e CofinS em suas saídas. E se o PIS e Cofins incide na saída, por óbvio, deve ser garantido o crédito na entrada. Da mesma forma, como já vem eh garantindo em casos similares esse essa colenda Corte Cidadã, eh em casos recentes, inclusive, né? E já passando para o meu ponto três, eh, ainda no mês anterior foi concedido o direito ao crédito de pisicofins a empresas situadas na zona franca de Manaus, eh, sobre mercadorias desoneradas pelo PIS e CofinFins desde que fosse eh usados, né, para fabricação
+
+[02:58:53] De produtos tributados. Ainda no mês de maio também ocorreu no mesmo sentido o direito, foi reconhecido o direito ao acreditamento de PIS e Cofins sobre eh soja, né, que vem com suspensão de piso e cofins do fornecedor quando essa soja era utilizada para fabricação de biodiesel, um produto tributado pelo pisicofins. Então entendo que não se pode simplesmente adotar o critério de não foi não incidiu o pisico fins na entrada da mercadoria automaticamente deve ser negado ao crédito, porque o entendimento mais recente dessa corte
+
+[02:59:23] Vem reconhecendo o crédito de PIS e CofinFINS. Eh, ainda que as entradas sejam desonoradas ou agora, voltando a a ao caso do ICMS, ainda que o ICMS tenha sido excluído da base de cálculo do BISCOFINS pelo fornecedor, o STJ vem entendendo que desde que a saída seja tributada, esse crédito deve ser garantido. Eh, ainda faço um adendo às empresas exportadoras, né? A empresa exportadora, por própria natureza, não recolhe PIS e Cofins na saída, mas a própria legislação federal garante a manutenção do dos créditos, inclusive o
+
+[02:59:54] Ressarcimento ou a compensação com outros tributos. Então, a manutenção da proibição do crédito de pisicofins sobre esse ICMS que incide na na entrada, seja ele recuperável ou não, eh acaba inclusive prejudicando o que a própria legislação federal diz em relação às empresas exportadoras, né? Então, já concluindo a minha fala, né, eh, feito esse ponto específico sobre a a as empresas exportadoras, gostaria de concluir apenas que eh para quem recupera o ICMS, a a reprodução da da vedação ao crédito, ela viola o que foi
+
+[03:00:29] Decidido pelo Supremo no tema 69. E para quem não recupera o ICMS, faz o PIS, o PIS e Cofins incidir sobre esse valor de ICMS, o que já foi vedado pelo Supremo, né? Então, diante disso, pedimos então reconhecimento do direito ao crédito do PISCIOFIN sobre o semestre nas entradas, mesmo após a publicação da lei 14592, ou seja, desde maio de 2023. Eh, e de maneira subsidiária também gostaria de deixar registrado eh esse ponto, né, no que no que tange ao ICMS irrecuperável, né, apesar dos recentes entendimentos ah nos temas que vedaram crédito de
+
+[03:01:04] Pisicofim sobre o semestre ST e sobre o próprio IPI recuperável. Eh, porém, faço a distinção ao final eh de que o ICMS eh o ICMS próprio ele incide, né, no cálculo por dentro, enquanto esses demais tributos são calculados por fora. E aí está a grande distinção em relação ao caso sobre julgamento. Então, de maneira subsidiária, que seja garantido, então, o crédito de pisicofins, quando considerado irrecuperável. Agradeço a atenção de vossas excelências.
+
+[03:01:30] Pois não, Dr. Marcel. Agora, Dr. Bruno, pelo prazo de até 7 minutos e meio, conforme anunciado previamente, V. Excelência tem a palavra. Agradeço, senhor presidente, senhoras, senhores ministros, senhor membro do Ministério Público, colegas servidores. Presidente, em benefício do tempo, eh, o meu colega que antecedeu defende a mesma tese que o meu constituinte defende. Então, ah, eu acho que devo me ater especificamente em relação a um ponto que acredito que o colegiado deva levar em consideração. O meu colega passou por esse ponto também, mas acho
+
+[03:02:11] Que vale a pena o reforço em razão do que esse colegiado já julgou quanto ao ICMS substituição tributária na base do creditamento do PIS da COFINS e o próprio IPI na base do acreditamento do PIS da COFINS. E nós temos aqui uma situação distinta em relação a isso. Bom, ah, Supremo Tribunal Federal julga o tema 69, exclui o ICMS da base de cálculo do piso da Cofins. Asevera que a discussão sobre o crédito não estava ah em jogo naquele naquela sentada. Resolve-se a questão em relação ao IMS no débito. O ICMS no crédito passa a ser
+
+[03:02:51] Então uma questão pro governo federal. O governo federal então ah resolve isso por meio eh de legislação, altera por meio da lei 14592 de 2023 e inclui o o inciso terceiro, no parágrafo 2º do artigo terceirº dessas leis para dizer que o ICMS deve ser excluído da base do creditamento. A finalidade do governo naquela situação era neutralizar o efeito e na visão dele manter uma lógica de não cumulatividade. Afinal, o débito sofre a exclusão. O crédito, em mesma medida, sofreria também essa exclusão. Isso, ah também foi levado em consideração por essa
+
+[03:03:34] Corte no tema 1231. e eu vou eh chegar nisso. Bom, eh por que que então o contribuinte vem eh pedir que seja reconhecido o ICMS na base do crédito? Porque na nossa visão há uma necessidade de compatibilizar o texto dessa norma que não prejudica a previsão em relação à base do creditamento do PISE da Cofins. O artigo terceirº, parágrafo primeiro, inciso 1, diz que o crédito é determinado pela aplicação da alíquota sobre o valor de aquisição dos bens. Valor de aquisição, portanto, é a base de cálculo de creditamento do PIS e
+
+[03:04:17] Da COFINS. Não é valor líquido de tributos, não é o valor do do pisco fins pago, é o valor de aquisição. Bom, e o que que é o valor de aquisição pela legislação? O artigo 13 do decreto lei 1598 77 vai dizer que inclui no custo de aquisição os tributos devidos na aquisição ou na importação. Ou seja, é o preço pelo qual alguém adquire algo. Se o preço pelo qual alguém adquire algo é a base do creditamento, e eu intento neutralizar isso olhando pela ótica governamental, a incidência do do ICMS, eu tenho que necessariamente levar em consideração
+
+[03:05:04] Que a lei Candir, e isso é pacífico, determina que o ICMS esteja dentro da própria base de cálculo. O ICMS ele compõe o custo de aquisição, diferente do IPI. que não é base para saída, diferente do ICMS substituição tributária, que não é base da saída. O ICMS próprio ele tem essa característica, ele compõe o valor de aquisição. E para algumas situações, para alguns contribuintes, este ICMS será necessariamente custo. Imaginem Vossas Excelências um prestador de serviço que não é contribuinte do ICMS, mas ele está sob o regime não
+
+[03:05:47] Cumulativo do PIS e da Cofins e é um prestador de serviço, adquire um determinado insumo, uma mercadoria para prestação do seu serviço e ela vem carregada com o ICMS. ele não vai recuperar esse tributo. Aquilo ali é o preço que ele pagou pelo tributo. Então ele tem que eh a base do creditamento deve ser necessariamente assegurada pelo menos nessas hipóteses, porque isto é valor de aquisição. Segundo o decreto lei 1598 de 777. Vejam, eu tento compatibilizar o que a norma diz, trazendo uma solução que não seja conflitante, seja com o tema 69,
+
+[03:06:28] Seja com aquilo que foi oferecido pelo legislador, seja com o próprio conceito de custo, seja com que você tem de base de cálculo de pisa e da COFINS. E eu chego neste resultado. É isto que eh eu venho aqui em nome do meu constituinte sugerir a vossas excelências. Bom, e aí se pergunta, tudo bem? E aí, o que que eu faço então com o tema 1373 que versa sobre IPI não recuperável? O que que eu faço então com o tema 1231 que versa sobre CMSST? Esses dois casos, a Corte chegou à conclusão que não se pode tomar o crédito sobre estas bases,
+
+[03:07:05] CMST, IPI. Bom, na nossa visão, são coisas distintas. Primeiro, o no julgamento do tema 1231 que foi relatado pelo excelentísimo senhor ministro Mauro Cel Marques, eh, dois fundamentos principais foram adotados ali. Primeiro, que o CS substituição tributária, ele seria uma antecipação do tributo que incidiria na venda. Então, ele não seria custo. Aqui nós estamos falando de ICMS próprio, custo, coisa distinta. Segundo, ah, o ICMS substituição tributária não compõe a base da saída, ou seja, ele não compõe a base de cálculo do PIS e da
+
+[03:07:48] Cofins. Neste caso aqui, esta ideia foi feita para compatibilizar, para entregar uma lógica em que eu faço a referência entre a base no método substrativo indireto, a base do creditamento, a base da saída. Mas neste caso, neste ponto específico que traga a avaliação de vosses excelências, nós estamos falando de um ICMS custo em que não há saída tributada. Portanto, eu tenho que necessariamente considerar ele como componente do custo. Bom, e o que eu faço então com o IPI não recuperável? [roncando] O IPI não recuperável, ele nunca integra a base da
+
+[03:08:29] Saída, diferente do ICMS próprio. Então, eu tenho um distinguish em relação a esses dois temas. Eu tenho uma interpretação que compatibiliza a jurisprudência dessa corte em relação à legislação. Tem uma solução então que se apresenta mais concentânea com o próprio objetivo do legislador ao conceber a nova norma. Então são essas considerações, senhor presidente. Agradeço a todos.
+
+[03:09:00] Pois não, Dr. Bruno. Agora convido o Dr. Marcelo para fazer a sua sustentação oral. Muito obrigado. Cumprimento o excelentíssimo excelentíssimo senhor presidente, excelentíssimo senhor ministro relator, excelentíssimas senhoras ministras e demais presentes. Falo em nome da empresa Underly Transportes, uma transportadora do estado do Rio Grande do Sul. E o tema em questão refere-se, veja, à manutenção dos créditos de PIS e CofinS no regime não cumulativo sobre esse ICMS incidente nas operações de aquisição. Somente em
+
+[03:09:38] Maio de 2023, o ICMS embutido nas aquisições da empresa totalizou cerca de R$ 259.000 e a vedação aqui lhe discutida lhe retirou naquele único mês cerca de R$ 24.000 R$ 1000 de créditos de PIS e Cofins. Mas o que está em julgamento aqui vai muito além de uma única transportadora. Vossas excelências estão definindo para todo um país qual é a base de cálculo dos créditos no regime não cumulativo das contribuições. E para isso eu trago um ponto central. A receita do vendedor e o valor de aquisição do comprador não são a mesma
+
+[03:10:17] Grandeza jurídica. Em 2017, o Supremo Tribunal Federal, no julgamento do tema 69, como vocês sabem, excluiu o ICMS da base de cálculo do PISOFINS, porque o ICMS destacado, ele não era uma receita do vendedor. Isso foi uma grande vitória pros contribuintes. Porém, anos depois veio a medida provisória 1159. E ela veio com a seguinte premissa: se o IMS destacado na nota fiscal não se sujeita às contribuições na saída, então ela também não deveria gerar um crédito na entrada. Ora, com a máxima vênia, essa é uma premissa equivocada.
+
+[03:10:55] Não existe uma relação de paralelismo entre a base de cálculo, que é as saídas, ou seja, da qual exclui o ICMS, com a base de cálculo dos créditos, que é o valor de aquisição. E eu explico, as leis 10637 1083 fizeram uma escolha expressa pelo que nós chamamos do método subtreto. O artigo terceiro, parágrafo primeiro, manda aplicar essa alíquota sobre o valor dos itens adquiridos. A lei não manda olhar para quanto o fornecedor pagou. E essa prova de que não existe esse paralelismo está na rotina de qualquer empresa. Se uma empresa do
+
+[03:11:32] Lucro real, portanto, no regime não cumulativo, adquire um produto de uma empresa do simples nacional ou do lucro presumido, esse fornecedor ele recolheu somente 3.65 a título de pisicofins. Mas para o crédito do adquirente, porém esse percentual ele não vai importar. O crédito será de 9.25. e a própria receita reconhece isso. Excelências, trago aqui alguns pontos bem objetivos. O primeiro deles, de 2002 até 2023, ou seja, por mais de 20 anos, o ICMS integrou sim a base de cálculo dos créditos e a receita dizia isso por
+
+[03:12:09] Escrito, tanto em instrução normativa quanto em solução de consulta. E um segundo ponto, depois do julgamento do tema 69, a própria procuradoria geral da Fazenda Nacional em parecer concluiu que não seria possível naquele momento, recalcular essa base de cálculo dos créditos e a instrução normativa 2121 de 2022 manteve o ICMS na base de cálculo dos créditos naquele momento. E há um registro inclusive neste processo. A própria autoridade coator, ela reconhecia que até até abril de 2023, mesmo a tributação na saída, ela sendo
+
+[03:12:44] Recuperável ou não, o crédito nas aquisições estaria autorizado. E a medida provisória, como um terceiro ponto, a medida provisória 1159, na sua exposição de motivos, ela invoca o tema 69 e o artigo terº, parágrafo 2º, inciso 2º. No mesmo documento, porém, ela estima um ganho de arrecadação de R$ 58 bilhões deais somente no ano de 2024. Ora, excelências, uma norma que se diz apenas explicitar um direito já existente não gera 58 bilhões de receita nova. Quem gera essa receita nova é uma norma nova muito mais restritiva ao
+
+[03:13:24] Direito dos contribuintes. E um quarto e último ponto é que a medida provisória 1159, ela sequer chegou a ser analisada e votada. O seu conteúdo, ele foi transportado para uma outra medida provisória, a 1147, que tratava do PERS, do setor aéreo, portanto, sem pertinência temática com a questão que que estamos debatendo aqui hoje. E foi assim que nasceu a lei 14592, que incluiu, portanto, o inciso terceiro no parágrafo 2º da lei eh do PIS e da COFINS.
+
+[03:13:58] [suspirando]
+
+[03:14:01] Senhor presidente, concluo. O tema 69, ele foi uma vitória sobre o conceito de renda. Ele não foi uma autorização para se redefinir o conceito de aquisição. O ICMS que o vendedor ele não pode chamar de receita continua sendo um dinheiro que o comprador pagou. Tirar o ICMS da receita do vendedor é cumprir a decisão do Supremo Tribunal Federal. Tirar o ICMS do crédito do comprador é dar com uma mão e retirar com a outra. Por isso, eu peço provimento do recurso especial com a concessão da segurança e a fixação da seguinte tese. No regime não
+
+[03:14:40] Cumulativo, o ICMS próprio incidente na operação de aquisição integra o valor de aquisição do artigo terceiro, parágrafo primeirº, das leis 10637 e 1083 e compõe sim a base de cálculo dos créditos de pis e cofins. Muito obrigado,
+
+[03:14:58] Dr. Ariane. Palavra agora de vossa excelência.
+
+[03:15:05] Obrigada. Cumprimento presidente, cumprimento o relator, senhoras ministras, ministros, colegas advogados, servidores. Falo em nome da Federação das Indústrias do Estado do Paraná e a contribuição da Federação nesta sentada é de duas ordens. Primeiramente, eu gostaria de destacar aquilo que já foi aventado pelos meus colegas, o que tange a estrutura do regime não cumulativo de pisicofin, especificamente para destacar dois aspectos do parecer C e PGFN 12.943 que já foi referenciado aqui no que tange a dois pontos específicos. O
+
+[03:15:46] Primeiro deles é que a própria Procuradoria da Fazenda Nacional já entendia em 2021 que este CMS ele não deveria ser excluído do crédito de pisicofins e não deveria ser excluído por duas razões. Primeiro porque naquele parecer se diz necessária a edição de uma lei. A lei está aqui. Mas existe uma segunda razão que é justamente aquilo que foi já referenciado pelos meus colegas no sentido de que este CMS ele compõe o custo de aquisição. E eu peço licença, excelências, para ler o tópico 42 deste parecer. Diz o seguinte, aspas,
+
+[03:16:27] O ICMS, nesse contexto carrega em si o atributo de estar intrinsecamente integrado ao bem ou serviço transacionado. Hum. não havendo, portanto, a partir da sua incidência, um valor de bem ou serviço apartado do ICMS. Fecho aspas. O que significa dizer que de acordo com este trecho, não seria fatível retirar o ICMS da base de cálculo do crédito, seja por ausência legal, seja porque este IMS ele é intrínseco ao custo de aquisição. E nesse contexto, excelência, eu faço uma provocação e uma pergunta a esse colegiado, né? Ao mesmo tempo em que há
+
+[03:17:10] Uma deferência ao legislador, permitindo que este legislador indique quais são os itens, os bens e serviços que permitem a geração do crédito, qual é o limite imposto a esse legislador em relação a este processo legislativo? E a resposta está no próprio julgamento do Supremo Tribunal Federal, quando examinou o conceito de não cumulatividade para pisicofins, definido no artigo 195 da Constituição. Naquela sentada, o Supremo reconheceu que sim compete ao legislador estabelecer quais bens geram crédito e serviços da mesma forma. Mas também o
+
+[03:17:47] Supremo Tribunal Federal afirmou categoricamente que o limite do exercício do poder legislativo é justamente a não cumulatividade, a razoabilidade. Se o custo de aquisição engloba o preço e nesse preço está incluído o ICMS, seria suficiente uma lei para alterar esse custo de aquisição? Sendo que a legislação de CMS, a lei Candir continua absolutamente ígida em todos os seus aspectos? E este ponto aqui dito, reconhecido pela Procuradoria da Fazenda Nacional, não foi alterado no que tange a estrutura da composição desse preço.
+
+[03:18:25] Então é algo, excelências, que nós gostaríamos inclusive de obter como resposta dessa colenda Corte. Qual é esse limite que a Procuradoria da Fazenda Nacional enquanto intérprete e o legislador e especificamente aqui estamos falando do legislador, a lei 14.592 592 para dispor a respeito do conceito de custo de aquisição. Evidentemente que esta liberdade não é absoluta, não é uma carta em branco ao legislador, ela encontra limites justamente na cumulatividade. E eu gostaria de falar num segundo aspecto, justamente porque esta não é a primeira
+
+[03:19:03] Vez que a Corte está se deparando com a discussão acerca da limitação do crédito para fins de pisicofins. Já estamos aqui diante da terceira oportunidade, apenas em recurso repetitivo, que essa Corte vem enfrentando circunstâncias legais e também de interpretação levadas a efeito eh pela Receita Federal, no que tange a este critério, a este núcleo que deve orientar o conceito de crédito na apuração de pisicofins. Quando se fala de contribuições não cumulativas, o que faz com que essas contribuições sejam não cumulativas é justamente o crédito.
+
+[03:19:43] Se a lei for alterando paulatinamente, momento a momento e reduzindo esse crédito, nós vamos estar diante de um contribuições cumulativas. E não é à toa que a reforma tributária indica este processo de inconstitucionalização de pisicofins como umas das razões para levar efeito à reforma tributária. Então, portanto, excelência, eu gostaria de fazer essa esse endereçamento a essa colenda corte para que, se for mantido esse texto legal, que haja também a explicitação qual é esse núcleo duro que nós aqui devemos compreender aquele conceito de
+
+[03:20:23] Crédito no momento da equação de pisicofins não cumulativo. E o segundo aspecto que eu gostaria de dizer é que esta motivação legislativa pra alteração a aqui desse conceito, ela se deu justamente com base num critério econômico, já que o efeito do ICMS sai da ponta do débito, ele deveria sair da ponta do crédito. E a motivação está explícita, inclusive nas manifestações de defesa aqui apresentadas. No entanto, eu só gostaria de lembrar, este ano a Receita Federal teve a oportunidade de responder uma solução de consulta. E esta solução de consulta, o
+
+[03:21:04] Contribuinte indagava o seguinte: se ele poderia, no momento de apurar a exclusão do ICMS da base de cálculo de pisicofins, se esse contribuinte poderia fazer refazer toda a sua apuração para retirar o ICMS residual ou que se chama usualmente no mercado de grossap. E a Receita Federal na solução de consulta 21 de fevereiro disse que o critério para se definir a exclusão do ICMS é um critério jurídico. Não é admissível um critério econômico que seria o suporte para retirar esse CMS residual. Então, ora, quando conveniente a
+
+[03:21:43] Procuradoria e a Receita Federal sufragam a interpretação econômica em seu favor, ora, quando é para reconhecer a exclusão absoluta do ICMS, ela invoca e afasta a interpretação econômica. É necessário haver uma coerência no na utilização da interpretação econômica para fins da definição das duas grandezas. Então, portanto, encerro aqui reiterando que esta corte reconheça que o ICMS deve ser incluído no crédito e ministro Gurgel a corte entender que para isso, para se chegar a essa conclusão, é necessário afastar a
+
+[03:22:21] Disposição legal que faça remessa para a Corte Especial para que seja instaurado um incidente de arguição de inconstitucionalidade em relação a esse dispositivo. Muito obrigada.
+
+[03:22:30] Pois não, Dra. Ariane. Eu vou solicitar que a Dra. Rafaela aguarde eh a manifestação do relator e se houver necessidade iremos então ouvi-la. Passo a palavra para o ministro Paulo Sérgio.
+
+[03:22:44] Obrigado, senhor presidente. Quero cumprimentar a todos os advogados que fizeram uso da palavra. Sustentações eh muito boas, inclusive de quem a fez pela primeira vez, né? Não parece que foi e dizer que eh eu vou fazer, vou ler apenas o resumo pela ementa, senhor presidente, em virtude do eh do tempo, né? E para não cansá-lo demais, poucas vezes acho que citei tantas leis em um voto como nesta. E fico feliz de ver que em breve, talvez daqui a uns 20 anos, a gente pare de utilizar as palavras ICMS, PIS e CofinS aqui nas nossas sessões, né?
+
+[03:23:29] Uma reforma tributária, não vejo a hora.
+
+[03:23:32] Próxima reencarnação
+
+[03:23:33] É talvez uns 20 anos.
+
+[03:23:34] Vamos citar IBS, CBS,
+
+[03:23:37] BS variante.
+
+[03:23:38] Eu então eu vou ler [limpando a garganta] aqui apenas a ementa, presidente, que me traz uma compreensão distinta daquelas que foram trazidas aqui da tribuna. O artigo 195 parfo 12 da Constituição de 88 confere ao legislador ordinário autonomia para definir setores alcançados e critérios de operacionalização da não comunidade das contribuições sociais ao pis e confins respeitados os demais preceitos constitucionais consoante a orientação consagada pelo STF no re1979 tema 756 a inclusão do inciso terº apá 2º artigo terº das leis 10637/22 e
+
+[03:24:09] 10833/2003 pela lei 14592/20223 precedida pela medida provisória 1159/2023, veda o direito a crédito das contribuições a física confim sobre CMS incidente na operação de aquisição, preservando a coerência do regime não cumulativo, pois o imposto estadual não integra a base de cálculo das contribuições conforme de tese vinculante do STF firmato o julgamento do tema 69. à alterações normativas por medidas promovidas pela MP 1159 de 2023. observa a anterioridade no juiz com efeito a partir de 1o de maio de 23, sendo válidas e aplicáveis às apurações
+
+[03:24:43] Realizadas sobre regime não cumulativo. A jurisprudência consolidada afasta o direito irrestrito ao creditamento, seja em razão de operações submetidas a outros regimes monofásica, 1093, seja pela inistência de crédito quando não há incidência antecedente do mesmo tributo T844 da STF, sua vinculante 58, quanto a IPI relativamente à entrada em sumos isentos sujeitos alíquota zero ou não tributáveis tema 1231 do STJ quanto ao ICMS ST. Então, propõe a fixação da tese, segundo a qual é vedada a puração de crédito da contribuição ao fisco fins
+
+[03:25:13] Do regime não acumulativo sobre o valor do ICMS que tem incidido sobre operação de aquisição nos termos do artigo terº par inciso terº das leis 10637/2002 e 10833/2003 incluído pela lei 14592 de 2023. No que diz respeito ao caso concreto, estou conhecendo parcialmente conhecido e e não provendo recursos nesse de final 097 do Ceará, dop de final 848 do Rio Grande do Sul, estou eh também conhecendo parcialmente do recurso e a ele negando provimento no recurso de final 894 de Santa Catarina também conhecido parcialmente o recurso negando
+
+[03:25:53] Provimento e finalmente no recurso de final 1146 do Rio Rio Grande do Sul. Eu estou aqui negando provimento ao recurso especial. Eh, abordo aqui durante o voto diversas das questões trazidas aqui da tribuna, que reputo é muito importantes, muito relevantes, mas o o voto estará disponível em breve. E esses essas são as conclusões que trago aqui, eh, propondo a sessão, senhor presidente.
+
+[03:26:19] Pois não, eu não observo nenhum destaque, de maneira que proclamo a tese já anunciada pelo Ah, esqueci de perguntar, Dra. Rafaela, dispensa a sustentação oral.
+
+[03:26:31] Dispensa, excelência, e parabenizo a Min. Maria Thereza de Assis Moura.
+
+[03:26:35] Obrigado, doutora. Eh, então a tese já foi anunciada pelo ilustre relator, assim como são quatro processos também os resultados a depender. Ora, eh, aqui a fazenda nacional, que é a recorrente, deixa eu só confirmar, ou todos são o contribuinte que são recorrentes. Deixa eu ver se são quatro.
+
+[03:26:57] Quando eles atualizarem,
+
+[03:26:58] Mas
+
+[03:26:59] Eh por precaução eu não vou fazer.
+
+[03:27:01] Quer que eu imprima para você?
+
+[03:27:03] Quer que imprima? É, são todos os os recorrentes, mas enfim, os resultados são os que estão indicados no voto do ministro relator. O importante, a tese já foi aqui devidamente anunciada. Agradeço a participação de todos os advogados nesse julgamento. Eh, vamos agora para o tema 1454is.
+
+[03:27:27] Já vou convidando os advogados, Dra. Sara Mendes Carcará, que falará pela Fazenda Nacional, e o Dr. Gabriel de Melo Galvão, que falará pela Agência Nacional de Saúde Suplementar. Eu apregou então eh o recurso especial 2.23924 do Ceará e 2.239250 de Sergipe. Indago aos ilustres advogados se dispensam a leitura do relatório. Então vossas excelências têm nos termos regimentais o prazo de até 15 minutos, iniciando pela Dra. Sara. Excelentíssimo presidente, excelentíssimo ministro relator, excelentíssimas ministras, ministros,
+
+[03:28:15] Ilustre representante do Ministério Público, colegas advogados, colegas servidores, muito boa tarde, excelências, nesse caso, o que se discute é se a dispensa de honorários de que trata o parágrafo primeiro do artigo 19 da lei 10 1522 é restrita às hipóteses dos a incisos do CAPT do artigo 19 ou se a lista pode ser considerada não exaustiva. Assim está colocada a controvérsia. O que nós da Fazenda Nacional argumentamos e defendemos é que este dispositivo, o parágrafo eh primeiro, ele traz uma dispensa de honorários fazendo
+
+[03:28:51] Referência ao cap do artigo 19, que inclusive pode ser regulamentado por normativos internos da PGFM. Se se entende que as hipóteses de dispensa são restritas à literalidade dos incisos, na prática, o que se está a fazer é desestimular o reconhecimento do pedido pelo ente público em todas as muitas hipóteses, eh, muitas vezes hipóteses muito fáticas que surgem nos casos concretos. sendo o objetivo da norma incentivar a redução de lutuosidade, faz sentido que ela seja interpretada, portanto, de forma sistemática. E vejam que a APGFN
+
+[03:29:33] Eh já há algum tempo editou um ato próprio que autoriza o reconhecimento de eh do pedido e existência de recursos em situações muito diversas, inclusive hipóteses que permitem a análise caso a caso, como uma muito específica e muito utilizada no âmbito da PGFN, que diz o seguinte, que eh é possível conhecer a procedência do pedido da outra parte nos casos em que for possível antever que o ato processual resultaria em interesses em prejuízo aos interesses da Fazenda Nacional. Ou seja, para além daquelas hipóteses tradicionais eh em que se
+
+[03:30:13] Dispensa contestação e recurso nos casos de deferências precedentes firmados pelos tribunais superiores, que esses são já há muitos anos incorporados, se dispensa recurso, se dispensa contestação, eh a Receita Federal é vinculada para evitar novos lançamentos. Para além desses casos, a PGFN vai além e diz o seguinte, diz que os seus procuradores e procuradoras, diante das particularidades do caso concreto, podem avaliar o custo benefício da prática do ato e concluir, por exemplo, por reconhecer a procedência do pedido.
+
+[03:30:49] Essa é uma prática que evita o prolongamento de milhares de litígios. Acontece que também é muito natural e republicano que essa análise precise ser justificada. e muitos casos, sobretudo nesses casos mais fáticos, eh em que você não tem necessariamente um parâmetro objetivo externo como um repetitivo, por exemplo. É uma das formas mais comuns e objetivas de se ponderar esse custob benefício e tomar a decisão de não contestar é a avaliação sobre a condenação do ente público em em honorários. Então, não é raro que a
+
+[03:31:30] Fazenda Nacional, diante de uma ação, mesmo podendo contestar, mesmo tendo fundamento para contestar, ela faça uma avaliação e diga: "Não vou fazê-lo" para evitar que o ente público seja condenado em honorários advocatícias. compreender que hipóteses como essas, que são muito comuns e são eh eh as ela elas levam em consideração particularidades fáticas, sejam materiais, sejam processuais do caso concreto, compreender que elas não estão contempladas pelo artigo 19, parágrafo primeiro, implicaria primeiro um alongamento desnecessário de litígios e
+
+[03:32:06] Segundo o enfraquecimento de um pilar eh muito importante na política de redução de litosidade da PGFN, que aliás é uma política que vem vem sendo reconhecida também já há algum tempo pelos atores do sistema de justiça, inclusive aqui pelo STJ. E aqui eu registro o acordo de cooperação técnica celebrado entre a GU e o STJ, que já resultou na desistência de milhões de recursos e que eh diante do seu sucesso foi renovado recentemente. Há uma notícia no site do STJ que dá conta de que desde a implementação desse acordo já se reduziu em 3,8 milhões o
+
+[03:32:43] Número de processos em tramitação no judiciário. A PGFN registrou uma redução de 68% no quantitativo de processos recursais e o número de processos em que a União a União atua como recorrente no STJ diminuiu 40%. E acordos como este que foi que foi celebrado aqui eh também são celebrados nos âmbitos dos tribunais regionais. Então, a PGFN tem acordos desse eh nesses moldes em todos os seis TRFs, de modo que essa política está espraiada em todas as instâncias em que a PGFN atua. Todos esses atos normativos internos e
+
+[03:33:24] Esses acordos celebrados com os tribunais que contém essas autorizações, eles são muito baseados eh na lógica do artigo 19 da lei 15 da lei 10 1522. O objetivo da norma é claramente incentivar a política de redução de litígios, dando, entre outros, é claro, mas dando esse parâmetro objetivo e econômico da dispensa de condenação e honorários advocatistas para balizar a ação dos procuradores e procuradoras da Fazenda Nacional na hora de desistir de de decidir contestar ou não ação. De modo que seria de certa forma um
+
+[03:34:02] Contracenso interpretar a norma para dizer que nas hipóteses mais tradicionais, como por exemplo no caso do repetitivo, ela se aplica, mas nas hipóteses em que se vai além para analisar as circunstâncias do caso concreto e perceber que ali é também caso de reconhecer o pedido, ela não vale. E às vezes nessa hipótese ela até mais necessária porque a análise do custo benefício ela se faz mais necessária. Se você se reconhece que nessas hipóteses ela não vale, isso implicaria uma uma regressão nessa política de redução de litígios que tem
+
+[03:34:37] Sido adotada pela União e tem sido incentivada pelo poder judiciário. Eh, há precedência dessa corte nesse sentido, e aqui eu menciono o 2.23.326 1326 de Santa Catarina, de relatoria do ministro eh Min. Paulo Sérgio Domingues, em que sua excelência eh eh fala uma frase muito importante, diz o seguinte: "A imposição de ônus fazenda nacional em portes autorizadas pela lei poderia gerar o efeito contrário ao pretendido pelo legislador, estimulando a litigância, porque a toda evidência desistir não faria sentido". E não faria
+
+[03:35:12] Mesmo, não faria sentido mesmo, porque nesses casos essa análise de custo benefício da prática do ato, ou ela ficaria completamente prejudicada, difícil de ser mensurada, ou ela se inverteria e a continuidade da ação passaria a ser mais vantajosa pro ente público do que o reconhecimento do pedido. o que é absolutamente contrário a essas premissas de redução de litosidade, de busca pela solução consensual, enfim, todas essas premissas que t orientado a atuação da União e que t sido muito incentivadas também pelo poder judiciário.
+
+[03:35:47] Por essas razões, a Fazenda Nacional, sem antes dar os parabéns à Min. Maria Thereza de Assis Moura pelo seu aniversário, requer que seja fixada a tese no sentido de considerar que a dispensa de honorários advocatícios de que trata o parágrafo único do artigo 19 da lei 1052 deve ser interpretado de forma sistemática, de modo que havendo desistência com fundamento nesse dispositivo regulamentado por atos internos da PGFN, não haveria falar em condenação do ente público em honorários advocatícios. Muito obrigada, presidente.
+
+[03:36:20] Pois não, Dra. Sara, agora, Dr. Gabriel, pelo tempo regimental já anunciado.
+
+[03:36:27] Excelentíssimas senhoras ministras, excelentíssimos senhores ministros, boa tarde a todos. Bom, a Agência Nacional de Saúde Suplementar defende aqui a mesma tese da Fazenda Nacional, né? Só gostaria de acrescentar eh talvez detalhes e peculiaridades em relação à posição das autarquias, entidades federais defendidas pela procuradoria geral federal. eh umas peculiaridades legislativas, detalhas da legislação e que levam ao mesmo cenário. Na verdade, só para dizer que a própria legislação faz aplicar as autarquias e as causas defendidas pela Procuradoria
+
+[03:37:06] Geral Federal essas mesmas disposições. Falando sobre o caso concreto e e só para ilustrar que realmente se fala hoje aqui de uma política eh destinada a eh reduzir a litigiosidade, o caso é de uma autuação regulatória da ANS contra uma empresa. pelas circunstâncias do caso, a Procuradoriagal Federal reconheceu a a situação e pediu a extinção da execução e esse processo chegou aqui, mesmo passando e pela primeira instância, pela segunda instância e e nessas decisões reconheceu o acerto da análise da PGF em relação a essa autação da da NSP.
+
+[03:37:57] Eh e mesmo assim decidiu afastar a incidência de honorários. Então o processo em que a NS é recorrida, é um processo em que a empresa quer receber a indenização, eh, e justamente numa numa situação em que uma causa desse tipo não deveria ter chegado ao STJ. Agora, falando sobre a tese como um todo e porque e por que é importante falar do contexto e também eh reforçar o que foi dito pela Fazenda Nacional, eu ia fazer referência ao mesmo acórdão que foi mencionado pela colega da fazenda, que fez uma leitura muito interessante e muito bem contextualizada
+
+[03:38:41] Sobre a finalidade da legislação, porque esse é um problema que começa eh com uma característica de eh final de processo judicial. A gente tá falando de indenização, de condenação e honorários. Eh, isso seria, teria uma repercussão eh meramente processual e talvez patrimonial para uma parte dos interessados. E talvez por essa perspectiva que essas teses têm tido sucesso, porque se quando se defende que essa é uma prescrição taxativa, é porque se tá defendendo alguma coisa que se que seria objeto da condenação. Agora, como foi muito bem
+
+[03:39:19] Dito no precedente da primeira turma, isso tem que ser lido eh por uma interpretação sistemática e teleológica, justamente porque a característica da legislação é de um eh projeto de redução de litígio. Isso é praticamente uma política pública. E por essa e nessa medida é que não faz sentido se entender que a lista é taxativa justamente porque a legislação estabeleceu procedimentos internos da administração federal destinados a reduzir a litoridade. Isso passa a pela análise da Fazenda Nacional, dos órgãos da Fazenda Nacional e os demais órgãos
+
+[03:39:57] Da Advocacia Geral da União. E numa daquelas situações, eh, e espero que seja essa uma boa leitura do dos precedentes e do, né, do que a foi dito no Supremo Tribunal Federal há muito tempo sobre a função eh dos advogados públicos e eh que numa situação em que os advogados públicos presentam a administração e não necessariamente representam, justamente porque nesse caso eh essas situações partem de desistência de recursos, no caso específico da NS. é uma desistência de execução fiscal. Eh, e com essas considerações, eh,
+
+[03:40:35] Gostaria de reforçar essa finalidade da legislação, que não é exatamente eh a melhor solução para o caso, caso se entenda que a lista é taxativa. Muito obrigado com essas considerações. Eh, agradeço a tentão,
+
+[03:40:52] Dr. Gabriel, eu passo a palavra ao ministro relator, que é o Min. Sérgio Kukina, eh observando que há destaque do Min. Paulo Sérgio Domingues, que já antecipou que pedir a vista.
+
+[03:41:03] Pois não, senhor presidente,
+
+[03:41:04] Senorquina.
+
+[03:41:06] Eh, até em função disso, né, também serei sintético na minha na minha exposição. Eh, antes, claro, cumprimentando, né, pelas sustentações, Dra. Sara Mendes, eh, que falou pela fazenda, né, e o Dr. Gabriel Galvão, pela agência reguladora, né, ANS. Eh, e trazem aqui, não é, referências que que sempre permanentemente deve ser objeto de atenção, né, a redução de litigiosidade, busca pela consensualidade. Eu fico muito satisfeito quando quando vem à tona, né, esses acordos, essas parcerias que vê sendo feitas a aqui no âmbito do
+
+[03:41:58] STJ, né, notadamente no no âmbito da AGU, noocador, Dr. Fábio Monerá, né, tem sido um combatente, né, nessa nesse setor, né, e claro que não virei as costas para esses questionamentos, né? Eh, mas no exame que fiz, eh, voltei os olhos também para precedentes que já que já existem, né, no âmbito da primeira sessão, julgados, não é, que já existem. Há, evidentemente não há uma unanimidade desses julgados, né? foi citado aqui do ministro Paulo Sérgio, que é muito oportuna, né, a sua pretensão, né, de tomar vista dos autos,
+
+[03:42:48] Que contribuirá, né, muito eh, certamente com com o debate, né, mas por hora, eu trago o entendimento, proponho tese que vai na mão exatamente de se emprestar numa interpretação restritiva, né, a ao dispositivo da 10.52. Eu leio rapidamente dizendo o seguinte: conforme diretriz interpretativa já sedimentada nesta Corte Superior, em matéria de honorários de advogado, quando confrontado com a literalidade do artigo 20 do CPC 73, o antigo, ou com a aplicação de regras isentivas dos honorários, este tribunal vem de modo sistemático interpretando
+
+[03:43:38] Restritivamente as últimas normas, nãoé? e extensivamente o primeiro dispositivo processual, considerando vetusto princípio de direito, segundo o qual a lei não pode honerar aquele em cujo favor opera. Tal foi o raciocínio que presidiu a edição da súmula 153 do STJ. Aspas, a desistência da execução fiscal, após oferecimento dos embargos, não exime o execuente dos encargos da sucumbência, né? foi relatado pela saudosa ministra a Susete Magalhães em 2021. Prossigo dizendo na espécie extra da literalidade da regra incerta no
+
+[03:44:21] Parágrafo primeiro, combinado com a de seu respectivo inciso um, que a dispensa de condenação do ente público na verba sucumbencial encontra-se efetivamente atrelada às aspas matérias de que trata este artigo. Fecho. Em outros termos, somente se pode deixar de condenar o ente público a arcar com os honorários de sucumbência naquelas exatas situações previstas nos incisos do capte do artigo 19 da lei 1052. Outro sim, para além para para além da consideração literal dos termos do normativo examinado, está-se diante de
+
+[03:45:02] Preceito relativo a honorários sucumbenciais, isto é, verba com natureza alimentar, que por lei pertence ao advogado. Nesse contexto e a luz da baliza hermenêutica aludida acima, né, bem como do preceito obrigatório constante do artigo 85, cap, parágrafo 14 do CPC, o afastamento da condenação em honorários sucumvenciais é exceção à regra, exigindo, por conseguinte expressa previsão legal nesse sentido. Em conclusão, o artigo 19, parágrafo 1eº, inciso 1, da lei 1052, não pode ser interpretado de forma elástica, albergando outras hipóteses
+
+[03:45:48] Diversas daquelas nele previstas. Tese firmada, né? A dispensa de condenação em honorários do ente público federal a que se refere o artigo 19, parágrafo 1º, inciso 1, da lei 1052, se restringe as hipóteses dos incisos 1 a 7 do CAOD, tratando-se de enumeração legal exaustiva. E na resolução dos casos concretos, né, e eu dou provimento ao ESESP, né, movido pelo particular e desprovejo o recurso especial, né, aviado pela Agência Nacional, não é? É como encaminho o voto. Eminente Paulo Sérgio, então confirma o pedido de
+
+[03:46:34] Vista.
+
+[03:46:34] Sim, presidente. Se os colegas permitirem, seria vista,
+
+[03:46:38] Com certeza. Então, no primeiro feito, eh, a parte recorrente é o administrado, a gente pode assim denominar, é Unimed e o a tese é indicada pelo relator que dá provimento ao recurso especial. No segundo caso, final 250 de Sergipe, a parte recorrente aqui é a Fazenda Nacional e a tese é a indicada pelo proposta, né, pelo relator e o voto, no caso concreto, é negando provimento da Fazenda Nacional. Em ambos, após as manifestações do relator, pediu visto antecipada o Min. Paulo Sérgio Domingues, aguardam os demais. Agradeço
+
+**[03:47:23]** Aos ilustres advogados pela participação. Vamos agora apregoar o último feito das sustentações orais, tema 14:32. Convido o Dr. Fábio Monerá para vir à tribuna, representando o Instituto Nacional de Colonização e Reforma Agrária, e apregou os processos que são os de números. Recurso especial 093 do Ceará, 1814 350 do Ceará, 1950 981 de Pernambuco e 2 004109 de Sergipe. Relatoria do Min. Afrânio Vilela, eu indago eh há um destaque do Min. Herman Benjamin no momento moment assim está ausente. Eu vou passar a palavra a
+
+[03:48:15] O Dr. Fábio. Antes disso, indago se dispensa a leitura do relatório.
+
+[03:48:20] Sim, excelência, boa tarde.
+
+[03:48:21] Então, Vossa Excelência tem a palavra nos termos regimentais por até 15 minutos.
+
+[03:48:26] Ministros, ministras, muito boa tarde mais uma vez. Eh, vamos tratar agora de um tema muitíssimo importante pro poder público como um todo, especialmente paraas autarquias que aqui represento, Incra, Denit, DNO, que é o Departamento Nacional de Obras contra secas. E aqui se discute o momento no qual se define o valor do imóvel desapropriado, né? Portanto, trata-se de um dos elementos intriccamente ligados ao conceito de justa indenização, que é, ninguém duvida, um direito de todo particular que venha ter o seu imóvel
+
+[03:49:06] Desapropriado. E trata-se de uma controvérsia extremamente eh eh interessante, pois o valor é um dado dinâmico que muda para mais ou para menos ao longo do tempo. E aqui se está a discutir em que momento esse retrato do valor será formulado. E de antemão eu trago um dado do Incra por meio do estudo de análise de mercado de terras e de sua planilha de preços referenciais, que conseguindo o seguinte, entre os meses, entre os anos, me desculpem, de 2017 e 2024, o preço da terra variou, se valorizou no Brasil, foram pesquisados mais de 5.000
+
+[03:49:51] Municípios e o preço aumentou cerca de 23,9% ao ano. Ministro Cuquina. Então, a terra que valia 100.000 em 2017, valia praticamente 124.000 em 2018, mais de 150.000 em 2019, mais de 175 em 2020, já o dobro em 2021. Então eu tenho aqui, em primeiro lugar celebrar essa oportunidade de debater esse tema com a profundidade que o procedimento dos repetitivos permite, justamente porque, e talvez esse seja o principal aspecto a ser destacado, não há um único momento correto e válido para que seja definido. O momento desse retrato
+
+[03:50:35] Vai variar de acordo com a modalidade licitatória e com o procedimento, ou seja, com o rito, com a sequência de atos processuais que a desapropriação vai se desenvolver. Portanto, meu desafio aqui nesses minutos é desenvolver não uma tese, quatro teses, porque são quatro as situações que identificamos em que a resposta à mesma pergunta, em que momento se deve tirar o retrato do valor para fim de desapropriação. A depender de quatro situações, a resposta é distinta. E eu vou tentar explicar o porquê. A primeira hipótese, a perícia judicial
+
+[03:51:14] Poe, o momento da perícia judicial pode ser considerado o termo. Isso é correto, isso já consagrado na jurisprudência dessa corte. Que hipótese é essa? a desapropriação ordinária pelo rito normal, sem missão de posse, sem depósito prévio. Esse procedimento se dá da seguinte forma: o Incra avalia o imóvel, indica na petição inicial o valor que pretende pagar. Caso haja oposição do particular desapropriado, o juiz nomeia um perito para, repito, avaliar o imóvel. Nesse nesse caso o a data da perícia pode ser o momento da avaliação, não tem problema
+
+[03:51:54] Nenhum, porque o INCRA ainda não se emitiu na posse, o INCRA ainda não pagou nada, ele apenas indicou na inicial e a sentença nessa situação, ela é declaratória do valor. Tanto assim que o poder público pode falar: "Olha, por esse valor não tem orçamento, eu não vou desapropriar". Então, nessa primeira situação em que segue-se o rito ordinário normal, sem nenhuma liminar de missão na sem nenhum pagamento depósito, etc., A data perícia judicial pode ser o momento. Agora, segunda situação, desapropriação com liminar de missão na posse. A
+
+[03:52:32] Desapropriação com liminar de missão na posse, ela possui um pressuposto, o depósito do valor que o INC tem de correto. E, portanto, o procedimento é diferente. A petição inicial traz o pedido de liminar que se deferido, o Incra deposita o valor. Logo, o objeto da perícia não mais será um valor futuro a ser pago. O objeto da perícia será exatamente o acerto ou desacerto do valor depositado. Logo, o objeto da sentença é condenar o INCR a pagar ou o poder público pagar a diferença. Que diferença? A diferença entre o valor
+
+[03:53:19] Que já foi depositado, e aqui o depósito tem força de pagamento, o valor que foi depositado e o valor do imóvel. O valor do imóvel quando? Esse é o ponto. O valor do imóvel quando o valor do imóvel quando o Incra fez avaliação e pagou. Então, exemplificando, né? Se o se o imóvel vale 200 e o Incra paga 150, o Incra poderá ser condenado a pagar essa diferença de 50. E já logo o registro, haverá o pagamento de juros compensatórios pelo período entre o pagamento a menor e o efetivo recebimento, 6% ao ano. Não se discute
+
+[03:53:58] Isso. Agora, se aguarda 6, 7, 10, 12 anos, como é um dos casos repetivos, se aguarda 12 anos, o imóvel não vale mais nem 150, nem 200. Pelos cálculos do incro aplicando a média, ele pode valer 480. Eu não posso deduzir os 480 do imóvel que vale em 2014, comparar com o laudo do Incra que é de 2002, tô falando de um dos casos concretos, e condenar o Incra pagar a diferença de de 330.000 e mais perversamente 330.000 desde a emissão na posse, ou seja, é um bizo. Então a questão aqui é metodológica. O que a perícia está avaliando? A
+
+[03:54:43] Perícia está avaliando o pagamento a menor pelo INCRA. Qual é o parâmetro temporal que a perícia judicial deve observar? O momento em que o INCRA fez o pagamento. Então a segunda situação é uma segunda tese. Nas desapropriações culminares de missão na posse e depósito prévio, o momento a ser considerado pelo judiciário para fim de avaliação do imóvel desapropriado é o momento do pagamento com a correção e e com a incidência dos juros compensatórios. Mas não se incide a valorização. A terceira situação é bastante parecida.
+
+[03:55:17] Ela é a desapropriação para fim de reforma agrária. Aqui ela é regida pela Lei Complementar 76 de 1993. Portanto, ela já pressupõe o não cumprimento da função social da propriedade, né? E como funciona o procedimento? Aí, aí eu insisto, depende da modalidade, depende do rito. Esse é o ponto. Essa é a grandeza de se discutir isso no repetitivo e não em casos concretos em que se pega a data da perícia queivale para uma situação e se aplica para outra. Na no rito de desapropriação paraf da reforma agrária, a petição inicial do
+
+[03:55:52] Poder do público, no caso do INCRA, vem acompanhado de três elementos. o laudo de vistoria para consignar a o não cumprimento da função eh social da propriedade, a avaliação administrativa feita pelo INCRA do imóvel e o lançamento deste valor em TDA no que diz respeito à terra nua e o depósito em dinheiro, pagamento das benfeitorias. Apresentada a petição inicial, a emissão na posse é Opeleges, artigo 6º da Lei Complementar 76 de 93. E aqui nesse contexto o objeto da perícia é o acerto ou desacerto do laudo administrativo.
+
+[03:56:38] De novo, se esperarmos seis ou 7 anos para de acordo com o valor da terra na época do da perícia judicial, nesse caso, para apontar erros no laudo administrativo, é lógico que o laudo administrativo vai ser reputado como errado, mas o erro não tá no laudo lá atrás. O erro, o eventual, a eventual diferença se justifica pela valorização da Terra. Eu estou, nesse caso, McQue, eu estaria comparando coisas diferentes. Quanto vale a Terra em 17, quanto vale a Terra em 26. Mal comparando, imaginem uma radiografia que tira o o a radiografia de um tumor
+
+[03:57:19] Em 2017, 0,5 mm. Eu não posso em 2026 descobrir que esse esse esse esse tubor tem 7 cm e dizer que o médico lá atrás tá errado. O retrato foi momento diferente e o momento é definidor do valor, integra a metodologia de cálculo. Então, em conclusão dessa terceira situação, que é justamente a desapropriação por interesse social para fim de reforma agrária, a perícia judicial e o judiciário como um todo deve levar em consideração a data do laudo administrativo. E de novo, insisto, se houver diferença, outros erros. Se tiver erro efetivamente no lado
+
+[03:58:01] Administrativo, a perícia judicial aponta e o pagamento é feito com juros, se incidentes. Ou seja, o tempo não é corrigido pela evolução do valor do imóvel. O tempo é corrigido, é compensado por juros compensatórios. Agora, a discussão aqui é outra. A discussão é quando se define o momento, o valor do imóvel. Então, na desapropriação para a reforma agrária é o momento do laudo administrativo. E ainda existe uma quarta situação, que é a desapropriação indireta. As apropriação indireta, ela segue outro rito para começo de conversa e outro
+
+[03:58:45] Procedimento. É uma ação movida pelo particular contra o poder público. Aqui que se diga, sem a prévia indenização se apossoua administrativamente do bem imóvel. Então, na desapropriação indireta, a discussão gira em torno de um pedido indenizatório, ou seja, o poder público se aposou sem a prévia indenização e esse pedido indenizatório é um pedido de receber a justa indenização. Como calcular a justa indenização nesse contexto de apoçamento administrativo? Como calcular o prejuízo? Como indenizar o proprietário que ainda não recebeu?
+
+[03:59:26] Olhando paraa data do apoçamento administrativo. Então, nessa quarta situação em que há uma uma desapropriação indireta, que é a tomada do bem pelo poder público, a data a ser considerada pelo perito judicial e pela sentença e pelo judiciário. Não é a data da avaliação judicial, é a data do desaposamento. É ali que se afere o prejuízo. E de lá para cá, eu insisto, desde o momento da emissão na posse, o valor encontrado da Terra naquela época, ele é corrigido por juros compensatórios. Até por isso, caso sejam fixados outros
+
+[04:00:08] Marcos temporais na definição do valor, há um pedido subsidiário que precisa ser feito e decidido aqui, uma tese subsidiária que o Incar propõe na eventualidade de esses marcos temporais aqui descritos não sejam estabelecidos. A consideração deve ser considerado em razão da natureza dos juros compensatórios. Esses não podem incidir em data anterior ao marco temporal. Nesse exemplo aqui da da desapropriação indireta é que eu me encaminho pro fim. Se eu olho pra data que o imóvel vale hoje e a desapropriação se deu a 10
+
+[04:00:45] Anos, eu não posso pegar o valor de hoje, retroagir para 10 anos e no valor que o imóvel já vale hoje, 140, 200% a mais, ainda colocar 6% a on compensatório. Benidem. Mas essa é a tese subsidiária, porque as teses principais, e aqui eu encerro, são as seguintes e são quatro porque vislumbramos quatro situações no dia a dia das centenas de milhares de processos. Esse é o ganho. Agradeço ministro CQU na referência a ao acordo de cooperação renovado. É bom que se diga na presidência do ministro Herman. Esse é o ganho de um debate com
+
+[04:01:21] Qualidade, porque estamos diante de centenas de milhares de ação discutindo a mesma coisa e muitas vezes se valendo da jurisprudência fixada corretamente um contexto para outro contexto. Eu olho a desapropriação pelo rito ordinário, sem depósito prévio, sem emissão na posse e aplico a ideia para desapropriação indireta. Mudou o contexto, mudou a tese jurídica. E encerrando, sem adentrar nos casos concretos em razão do tempo, e eu já previa isso, eu vou pedir para que sejam aplicadas as teses de acordo com a situação, mas o mais importante aqui são
+
+[04:01:53] As teses, a segurança jurídica que esse julgamento vai proporcionar em centenas de milhares de ações caríssimas, antigas, que que geram angústia no proprietário, gera angústia em quem defende o poder público. As teses são as seguintes: nas desapropriações ordinárias, sem emissão na posse, o marco temporal da avaliação é a data da realização da perícia judicial. Tudo bem, o Incra não pagou nada, não se metiu na posse, não adentrou, não não perfe a desapropriação. Agora, nas desapropriações ordinárias com emissão na posse, pagamento e depósito do valor,
+
+[04:02:33] O momento temporal da avaliação é a data dos depósitos da oferta. Há pura diferença. Se tiver errado, o Incra paga. Pode ter outros erros, mas eu não posso esperar 10 anos e dizer que o INCR errou lá atrás no depósito. Nas desapropriações, tese três, por interesse social para f de reforma agrária, lei complementar 76, o marco temporal da avaliação é a data da perícia administrativa. De novo, se tiver diferença, o laudo aponta, mas metodologicamente tem que se olhar pro momento em que a perícia administrativa foi feita. A perícia pode
+
+[04:03:03] Apontar erros de lá, não evoluções. E por fim, nas desapropriações indiretas, o marco temporal da avaliação é a data da efetiva ocupação ou apoçamento administrativo, isto é, a data da ocorrência do dano. Subsidiariamente pede o INCRA que qualquer marco temporal diferente desse seja vedado à contagem de juros compensatórios a partir de um outro momento que não o marco temporal da avaliação do bem. Com essas palavras, presidente, eu agradeço e fica à disposição.
+
+**[04:03:36]** Pois não, Dr. Fábio. Vamos então passar a palavra para o ministro relator Min. Afrânio Vilela, lembrando que há um destaque do Min. Herman Benjamin.
+
+[04:03:46] Depois eu vou explicar aqui o destaque eu já retirei.
+
+[04:03:50] Ministro Herma quer explicar sobre o destaque, eu posso fazer o
+
+[04:03:53] Não, já apresente seu voto que aí depois
+
+[04:03:55] É perfeito. [limpando a garganta] Bom, senhor presidente, eminentes pares, senhoras e senhores, meus cumprimentos ao Dr. Fábio Monerá. Eh, eu trago um voto que é longo e ele aborda toda a matéria discutida nesses eh recursos e é realmente uma matéria conflitante, uma matéria que exige deliberação, até porque num dado momento aqui no que toca a juros compensatórios, nós estaremos revisitando e revendo eh decisões deste Superior Tribunal de Justiça. Não vou ler o voto todo, vou começar apenas com algumas informações. Nós
+
+[04:04:37] Temos mais de 90.000 processos envolvendo desapropriações em trâmite no Brasil, 75.000 deles só na justiça estadual e o tempo médio é de 6 anos só para se chegar à perícia, né? E eu vejo aqui que o CNJ aponta que o mais antigo pendente de julgamento é de 1928. são mais de 6.000 processos pendentes com mais de 15 anos no judiciário eh nacional, né? Então, realmente é um valor bastante expressivo em termos numéricos. Também busquei informações eh no sentido de que algumas regiões rurais a valorização é muito maior do que em
+
+[04:05:23] Outras. em algumas em alguns centros urbanos, eh o cenário também apresenta uma variação muito eh consistente que pode ir de entre 10 e 20%. Mas enfim, eh, num cenário de uma taxa Selic de 14%, realmente uma valorização de 20% anuais sem comprometimento de capital, somada a condenação em sucumbência pode gerar alguns incentivos à litigiosidade, né? Eh, o cenário gera efeitos esperados. Eh, eu abordo no meu voto bem especificamente a origem da polêmica jurídica. Passo pelo estudo do preço justo, que eh também aborda a questão da
+
+[04:06:13] Inflação, um debate obviamente pela legislação de 1956, eh a polêmica que surgiu dentro de um contexto específico, que naquele tempo inexistia correção monetária, eh, principalmente contra a fazenda pública. Depois, com a introdução do parágrafo 2º no artigo e da lei de 1965 da 468 86 de 65, estipulando que o preço tivesse sido definido há mais de ano e que o juiz determinaria a correção monetária do valor antes da sentença. sobre a jurisprudência majoritária que limitava a incorporação de juros de mora ao preço estabelecido no momento da
+
+[04:06:59] Declaração de utilidade pública, né? E daí a necessidade sucessiva alterações, primeiro estabelecendo o momento da avaliação como marco temporal a ser considerado pelo juízo, depois a incidência da correção monetária, inicialmente após um ano desse marco, e depois os juros eh compensatórios. Mas cito também que a jurisprudência, diante da Constituição de 46, que havia incorporado o conceito de preço justo, a indenização expropriatória, a aplicava e mesmo da lei, depois da lei de 65 intensificou essa previsão. Eh, trago
+
+[04:07:37] Inclusive eh comentários sobre a súmula 416 do Supremo Tribunal Federal, depois eh superada pela lei pela súmula 560. Então eu comento que a jurisprudência foi condutora da norma depois positivada, aliás, como é bastante usual eh em diversas matérias, inclusive na expropriatória eh no Brasil, né? E busco também ajuda na doutrina para entender o que é o preço justo nas expropriações e o que deve representar eh quantia exata que seria alcançada caso o bem tivesse sido submetida a negócio de compra e venda comum, contratual e voluntário,
+
+[04:08:23] Como já dizia eh Cretela Júnior eh nos comentários da lei da desapropriação em 1998. e mais recentemente essa lógica confirmada no regramento da desapropriação para reforma agrária, né? Eh, eu mostro, então, procuro mostrar que essa preocupação não é contemporânea. Eh, não há muito o Supremo Tribunal Federal e esta Corte estabeleceram que a correção monetária não pode ser definida em lei quando imponha índice descasado da efetiva variação dos preços da economia, né? E comento que não é por meio da realização de nova perícia que deve ser atualizado
+
+[04:09:06] O preço anos após a deflagração do processo expropriatório. Eu comento que esse efeito é obtido sobre as normas vigentes por meio da devida correção monetária, mesmo porque a nova perícia deve retratar eh aí aspas os mesmos fatos sobre os as quais recaiu a primeira. Isso tá no artigo 480, parágrafo primeiro, do Código de Processo Civil. e os fatos verificados anos depois não serão os mesmos, né? Momento sobre outros doutrinadores também aborda o momento básico da ferição do preço, né? eh tratando desse momento, eh, a sua justiça ante os
+
+[04:09:47] Efeitos econômicos do tempo sobre o preço, que sempre foi a preocupação doutrinária. E nesse sentido eu busco ajuda em Seabra Fagundes, já em 1949, que dizia que regulando-se a indenização pelas condições do bem, no dia de sua fixação, isto é, no dia da decisão judicial que arbitra o preço e que o valor da coisa, a data da doação do plano ou projeto de obra seria o mais eh, digamos apropriado. Então aquele momento em que se verifica a desapropriação também defendia Rui Barbosa. Se formos retornar muito tempo no império também
+
+[04:10:27] Nós tínhamos regras mais ou menos parecidas. E na atual, já sob a norma atual, Cretela Júnior diz que nem mesmo pode aceitar-se a colocação sustentada a tempo por muitos pela qual se deveria considerar o valor que a coisa apresenta no momento da avaliação. Este momento é variável e independente de todo elemento jurídico. Então, eh, seria necessário tomar o ponto de referência, a data do ato da desapropriação. É, em outras palavras, um momento básico que antes era contemporâneo, a época da declaração de utilidade pública. Isso lá
+
+[04:11:03] Em 1941, depois em 56 o da avaliação do bem e a data da publicação do decreto que declarava utilidade pública e que fixava o momento básico do estado da coisa para cálculo do peso do preço, mesmo que houvesse para o futuro variações do valor, foi substituída pela data da avaliação. eh do bem.
+
+[04:11:30] [limpando a garganta]
+
+[04:11:30] Parece-me então que o critério pragmático adotado nas normas em vigor deve ser lido também de forma pragmática pelo julgador. e a lei faz presunções acerca do momento da perícia, eh, busca atender a justiça do preço em favor do proprietário expropriado, mas poderia ser compreendida em uma medida mais alargada, eh, ignorar certas condições materiais de exercício possível de uma decisão administrativa. A questão então é definir o momento que equivaleria na desapropriação a assinatura do contrato no negócio de compra e venda, que é o que Cretela
+
+[04:12:10] Júnior sempre discutiu. Então eu tenho que nessa premissa as avaliações periciais posteriores ao dito momento básico, devem buscar o preço contemporâneo a ele. Nesses casos, quando necessária reavalação reavaliação, ela deve ser feita, se possível, com os elementos já colhidos ao tempo da primeira perícia. Se inviável por absolutamente inservíveis ou insuficientes os dados originais, mesmo essas perícias posteriores devem se reportar aos preços vigentes naquele momento básico, mediante metodologias adequadas disponíveis aos técnicos.
+
+[04:12:52] Então, começamos aqui a identificar que quanto à desapropriação para a reforma agrária, Dr. Fábio, senhoras e senhores, há um prazo disposto em lei complementar, né, de especial status normativo para a apresentação pelo período do laudo, no máximo 60 dias do seu compromisso, né, e a seu turno, esse compromisso deve ser firmado pelo perito em 5 dias, desde o recebimento eh da contestação. E aqui, obviamente, nós sabemos que nós que estivemos principalmente no primeiro grau, ah, esse prazo ele é sempre eh um pouco estendido, porque vem a discussão da dos
+
+[04:13:36] Honorários, o depósito dos honorários e, em regra ele, isso aí é acertado pelo juízo no caso concreto, né? Eh, portanto, a norma reguladora, com a suposição de que o movimento básico da fixação do preço ocorreria em menos de 90 dias da propositura da ação de desapropriação para fins de reforma agrária. No que diz respeito à desapropriação por utilidade pública, não há um prazo similar a esse. Entretanto, há uma menção explícita, eh, ao momento em que a norma pressupõe o descasamento relevante entre a realidade econômica e o preço aferido, um ano, nos
+
+[04:14:16] Termos do artigo 26 para o segundo decreto 3365 de eh 41. E eu transcrevo esse dispositivo, artigo 26, né? E esse prazo de 1 ano, ele deve servir como marco temporal máximo para a própria realização da avaliação judicial. contado desde a propositura da ação. Eh, esse é o mundo ideal que a lei prega. Qualquer perícia realizada após esse marco nas desapropriações por utilidade pública deve reportar-se a esse momento eh básico. É mais provável que a demora não decorra de algo eh processual e fora do trâmite processual, mas por exemplo,
+
+[04:15:01] Um estravio de autos, um atraso na própria realização da perícia por falta de pagamentos, como eu disse, né? Enfim, nesses casos, sendo o ônus do expropiante, arcar com o custo dessa prova. Eh, o que se está fazendo, na realidade não é propriamente uma perícia, mas sim uma vistoria para fins daquela primeira avaliação e uma nova situação mercadológica.
+
+[04:15:29] [limpando a garganta]
+
+[04:15:31] Resta o eh só completando a a o raciocínio, portanto, é impossível comparar uma avaliação pericial com data de referência igual à data da perícia com uma avaliação administrativa ocorrida em anos, eu cito aqui, posteriores, mas poderia também ser para o passado, como bem foi exposto do da tribuna. Resta o prazo a ser seguido nas desapropriações indiretas. E nesse caso, eh, eu, eu trago para a turma, eh, se houver uma ação ilícita do Estado, o Estado no sentido amplo, né, deve ser severamente desincentivada. Eh, pode-se considerar que há, na
+
+[04:16:12] Verdade, incentivo contrário. Todo processo administrativo pode ser prejudicado pelas vantagens para o expropriado da rejeição da oferta, a condução do processo judicial, havendo incentivos para que o estado apenas responda judicialmente por uma ocupação ilícita, quando assim efetivamente eh ocorrer. Ah, eu abordo também a valorização decorrente de possíveis obras, né? quando a perícia é considerada pelo juízo avaliar preço afetado pela obra realizada ou serviço público já implantado ou implantação, e esse sobreprepço não poderá ser pago ao
+
+[04:16:55] Expropriado, né, sob pena de um enriquecimento injusto, eh, pela melhoria trazida pelo ente público. Então, é preciso distinguir essa situação daquela em que a jurisprudência antiga denominava a plezali. Desde a Constituição de 46, entende-se então que esse valor acrescido ao imóvel pelas obras públicas não pode ser cobrado exclusivamente do expropriado eh por uma questão eh lógica. Então, resumindo já o meu a minha compreensão, como tudo dito, a justiça do preço, ela deve operar em ambos os sentidos, tanto em favor do proprietário quanto do ente
+
+[04:17:35] Público. Nesse passo, se aquele não pode ser penalizado por ações arbitárias do poder público, tampouco este o poder público pode ser prejudicado pela resistência indevida do particular, que poderia apostar na especulação imobiliária para obter vantagens que não teria pela simples venda eh do imóvel no mercado eh em momento visado. Sim, se a perícia for necessária, após longo decurso de tempo, essa valorização decorrente da própria ação estatal não pode prejudicar a si mesma. É preciso e adequado que o preço assim encontrado reflita eh aquele que o
+
+[04:18:13] Proprietário obteria no mercado à época do negócio, né? Isso vem para que de modo substitua seu bem eh obtido por força do Estado em razão de finalidades públicas, sociais, coletivas. Eu abordo também eh a modulação, questão dos efeitos, a data da nomeação do perito. Eh, e lembro que os precedentes vinculantes, além de retratar a melhor interpretação do direito obtido pela visão plural dos tribunais, também devem eh ter efeito operativo concreto para viabilizar a prestação jurisdicional eficiente. que relembro mais uma vez,
+
+[04:18:51] Nós temos 1000 ações pendentes de apreciação eh em todo o eh em todo o Brasil. Eh, de outro lado, eh, como eu já disse e repito para finalizar, determinar simplesmente renovação de perícias já realizadas para identificação de preço anterior ao marco temporal imporá ao expropiante novos custos, além de gerar tumulto processual que não deve ser promovido pelo estabelecimento de tese vinculante. Portanto, em suma, os efeitos desses julgados devem desse julgado devem incidir sobre os casos em que a perícia seja determinada a partir da publicação
+
+[04:19:30] Deste acordo, isto é, com nomeação do perito a partir do momento e valerá para os casos que sejam necessárias eh novas perícias aí dentro daquelas situações concretas. Eh, uma situação que eh eu vou eh debater e aí tá no caso eh concreto é que até então nós temos jurisprudência dentro deste tribunal no sentido do pagamento dos juros compensatórios, ainda quando a o o bem eh expropriado ele não seja de forma alguma utilizada eh utilizado para eh pelo proprietário, né? Então, nesse caso, é que eu disse que estamos eh eh sugerindo que seja
+
+[04:20:27] Isso revisitado, esse esse aspecto revisitado para que os juros compensatórios sejam atribuídos quando efetivamente a terra expropriada ela estiver com alguma função social. Se ela não tem essa função social, eu não vejo como impor eh juros compensatórios por aquilo que se perdeu na produção, sendo que produção obviamente não existe. Então essa, senhor presidente, é a a posição eh da tese em si. Nós temos diversos eh casos concretos. A tese ela é alongada, eu vou lê-la rapidamente.
+
+[04:21:19] Eh, nas desapropriações em geral, a contemporaneidade entre o preço e o valor indizatório é definida pelo momento básico de sua ferição técnica, em regra correspondente ao preço de mercado do bem quando da realização da perícia judicial. Essa é a letra A. Letra B. Nas desapropriações por utilidade pública ou interesse social, o momento básico não pode ser superior a um ano desde a propositura da ação judicial. C. Nas desapropriações para fins de reforma agrária, o momento básico não pode exceder 90 dias desde a propositura da
+
+[04:21:57] Ação judicial. D1. Nas indenizações por desapropriação indireta, o momento básico corresponde à data do apoamento administrativo. A perícia deve reconstituir o preço de mercado do bem nessa data, sem prejuízo da correção monetária e dos juros compensatórios na forma da lei. D2. Quando o expropiante der causa a demora na realização da primeira perícia, por fato a ele imputável e reconhecida em decisão fundamentada, o limite temporal das teses B e C será acrescido apenas do período de atraso que lhe for atribuível. A demora imputável ao
+
+[04:22:35] Expropriado, ao serviço judiciário ou a terceiro não afasta nem dilata esse limite. E as perícias realizadas após o prazo estipulado devem reportar-se ao preço de mercado do momento básico limite, mediante técnicas disponíveis no campo científico. F. Em qualquer situação, as variações de preço decorrentes da própria ação estatal devem ser identificadas em separado pelo perito e descontadas do valor indenizatório fixado em juízo. E G. E última, as teses incidem nos casos com perícias determinadas a partir da publicação deste acordo, isto é, com
+
+[04:23:17] Peritos nomeados a partir eh deste momento. Com isso, senhor presidente, eh, no AV1, que é o primeiro, que é esse que eu estou abordando, eh, a sugestão, no caso concreto, é que seja conhecido em parte o recurso especial. Nessa parte, dado parcial, provimento para determinar a atualização do valor da oferta pelo IPCA, é para fins de apuração da diferença entre esse valor e o da condenação indenizatória e seus consecutários, conforme será verificado na liquidação da sentença com fixação das teses acima sobre o regime de
+
+[04:23:55] Relevância, né, da questão. E eu tenho ainda o AV5, AV7 e o AV9, que eu aguardo, se for o caso, o pronunciamento da da da sessão para dar prosseguimento.
+
+[04:24:09] Acho que a gente como de prá, ministra Frânia, Vossa Excelência, ministro Herman, gostaria de se pronunciar logo.
+
+[04:24:14] Sim. Eh, eh, presidente,
+
+[04:24:17] Permita-me só, eh, ministro Herma Benjamin, eh, eu não poderia terminar, eu ia fazê-lo quando eh dos demais, mas por efeito de justiça, eu quero agradecer o tanto que os colegas eh ajudaram e foram participativos nesse eh trabalho que efetivamente eh foi muito eh custoso, mas de uma maneira muito especial, ministro Herma Benjamim, que também eh colaborou muito no sentido da confecção desse desse voto. Bem, eu agradeço eh presidente min pares, eu realmente me preocupei com não tanto com eh eh as teses em si, mas a clareza das
+
+[04:25:05] Teses, porque como muito bem afirmado aqui da tribuna, nós estamos cuidando de centenas de milhares de ações no país como um todo. E sabemos que em alguns dos setores, como foi o caso da Serra do Mar em São Paulo, exatamente por conta de um período de inflação em que o juiz não tinha ideia do que de valores, nós chegamos a a absurdos que estão até hoje ainda seja em ação reccisória ou suspensos eh pelo Supremo Tribunal. eh federal. Eh, cito o exemplo eh de um de uma área lá em Ubatuba de 150 hectares, né, nas ribanceiras e
+
+[04:25:56] Penhascos rochosos daquele daquele maciço em que a condenação eh na época passava de 1 bilhão de dólares, 13.500 haar. Só para dar uma ideia de que nós estamos cuidando aqui não só dos casos pequenos, eh, e partindo sempre da premissa que o direito de propriedade não só é reconhecido no nosso ordenamento jurídico, como é garantido, seja pelos institutos clássicos e de proteção de direito de propriedade, eh particulares, contra particulares, mas também eh eh o contra o próprio Estado por desapropriação direta ou o indireta. E daí que eu eu festejo eh a
+
+[04:26:47] Esta esse julgamento que nós estamos fazendo hoje aqui. Quais eram as dificuldades? E primeira, isso já foi dito pelo próprio relator e da tribuna, nós não é que falte regulação jurídica. legal, desculpe, nós temos, mas há um pupu de normas eh legais e até constitucionais que precisam ser ser integradas. E aqui o propósito é, nós não vamos encerrar inteiramente a casuística que essa matéria desperta, mas certamente estaremos eh dando um encaminhamento a a questões que são extremamente relevantes e que t impacto financeiro.
+
+[04:27:39] Atenção, não é impacto financeiro legítimo, é impacto financeiro ilegítimo para todos nós que pagamos impostos para o e para gerações futuras. que os débitos continuam aí para serem pagos pelos nossos descendentes e os descendentes dos nossos descendentes. Primeira observação que eu havia feito era em relação à separação dos dois sistemas, da reforma agrária e da desapropriação indireta. E o eminente relator agora e acho que está na no item D, não é, ministro eh Afrânio, eh tudo isso já estava no voto do relator. Apenas minhas sugestões
+
+[04:28:21] Foram de eh eh de aprimoramento eh eh do verbo, eh é da não da expressão daquilo que já estava no no voto do relator, porque nós não queremos eh ter repetitivo do repetitivo, né? ter que depois decidir a aspectos que nem barcos de declaração nós não eh teríamos conseguido ou iríamos conseguir eh resolver. Então, primeiro era a distinção desses dois desses dois sistemas. O segundo é fazer justiça no que se refere a e aí no plano da causalidade, quando o próprio Estado é quem dá em ser a demora na avaliação e no próprio
+
+[04:29:22] Procedimento, ou melhor dizendo, no na efetiva do direito eh do expropriado. E isso está agora bem bem claro, já estava, mas ficou mais claro ainda no voto do relator. Mas o que ficou mais claro e por isso eu me dou satisfeito, senhor presidente, eminentes pares, é a expressão peremptória dita pelo eminente relator de que quando a demora for causada pelo próprio expropriado ou pelos serviços judiciais no interior da Amazônia. Mas mesmo, ministro Gugel, eh nós que somos eh e nordestinos, nós sabemos, aliás, está aqui o subprocurador geral, que também é
+
+[04:30:18] É nordestino. Nós sabemos que há comarca em que os processos ficam lá parados eh por anos. Então, primeiro, quando é o próprio expropriado, quando são serviços judiciais ou terceiros. Nessas hipóteses, não há que se imputar o plus que decorre, que seria um uma espécie de plus sancionatório, eh, que decorreria desse comportamento eh que prejudica o expropriado. Então, para mim, esse ponto é eh é muito muito importante. E também aqui, ministra Regina, Min. Maria Thereza de Assis Moura, é, é um ponto, é o último, um ponto eh que
+
+[04:31:13] Mais cedo ou mais tarde nós vamos mudar a nossa legislação. Já mudamos, me refiro da dos prazos prescricionais que no Código Civil eh eh anterior era 20 anos, prazo máximo. No código, na legislação anterior ao Código Civil, eh, era de 30 e hoje é o prazo é 10, mas 10 anos ainda pressupõe de certa maneira que nós estamos na época do pombo Correio ou das dos Bandeirantes, dificuldades de acesso hoje eh não há a necessidade de prazos de 10 anos de prescrição.
+
+[04:32:06] Então, esta não é uma questão apenas da desapropriação, tanto que há prazos na desapropriação que foram reduzidos para para não da desapropriação, mas do uso capião, uso capião urbano. E se for para as pessoas pobres, salvo engano, tem um prazo menor menor ainda pela questão social e que se quer com isso garantir. Eu me estendi um pouco porque nós não podemos admitir na perspectiva da prestação jurisdicional, mas também da segurança jurídica e que o prazo de 10 anos seja utilizado não só para o seu objetivo principal, que é
+
+[04:32:52] Garantir o acesso à justiça, mas para criar uma fábrica de créditos e aí o desenvolvimento das da chamada da chamada máfia da desapropriação, que é alguns setores, em alguns estados ainda existe. E penso que o eminente relator, com as teses que postas agora da forma que o fez, de certa maneira eh põe um um põe os gatilhos eh que são necessários para e para essa para essa matéria. Então, o meu destaque foi esse. Só ficou pendente, ministro eh Afrânio, a questão do caso concreto, porque a nossa jurisprudência hoje do
+
+[04:33:40] Supremo, ao contrário do que diz expressamente o o o Tribunal de Origem, é no sentido de que se a terra é improdutiva, não cabe juro compensatório. Então, o tribunal num num desses acórdons cita, por exemplo, precedente eh do Superior Tribunal de Justiça 2009. A jurisprudência nossa toda hoje aqui, eh, desde a época do ministro Teori Zavasque, eh, e depois eh no Supremo é de que eh o juro compensatório não pode, beneficiar quem não explora economicamente a Terra. E isso tem repercussões tributárias, como a própria
+
+[04:34:26] Ministra Regina Lina eh muito muito bem sabe. Então, penso que nós precisaríamos nos casos deixar muito expresso que não cabe os juros eh compensatórios se a propriedade, se o imóvel for improdutivo. Não, isso não vai mudar as teses do repetitivo, mas é simplesmente para, no caso concreto, nós termos a certeza de que o tribunal vai aplicar eh e eh corretamente.
+
+[04:35:00] Colega, gostaria de se pronunciar,
+
+[04:35:03] Presidente, rapidamente.
+
+[04:35:04] Pois não, ministra. Eh, ministro Herma Benjamin, logo que pouco antes de ler as a a tese ou as e as subteses, eu já fiz esse comentário que vou acrescer ao voto, mais claramente que, né, eh quando não houver a utilização social, a utilização comercial eh daquele imóvel,
+
+[04:35:26] A exploração, não haverá então os juros compensatórios. Isso eu vou acrescentar ao voto. Mas, eh, senhor presidente, passando já pro caso concreto, posso pode ser o então o 1814 350 do Ceará, nesse caso, eh, uma ação de desapropriação do Sítio Amparo por interesse social para fins de reforma agrária, regularizando o território quilombola, Lagoa dos Campinhos e Amparo de São Francisco, no Sergipe. É, o Tribunal Regional Federal assentou a contemporaneidade do valor na data da perícia, mas fixou os jures compensatórios no patamar de 12. Então,
+
+[04:36:02] Eh, a sugestão aqui é de reforma parcial, nesse caso, trazer os juros compensatórios para os 6%.
+
+[04:36:10] Mas é que nós não sabemos se a terra é produtiva.
+
+[04:36:14] Mas nesse caso eu olhei o o o e o acórdão não fala. Então
+
+[04:36:20] Não, mas o acórdão afirma, cita precedentes nossos para dizer eh que eh eu acho que nós nem precisaríamos perder tempo com esse com isso aqui. Deixamos com Vossa Excelência, Vossa Excelência eh analisa melhor o que não pode ao tribunal citar jurisprudência nossa
+
+[04:36:39] Dizendo antiga, superada,
+
+[04:36:42] Eh, dizendo que mesmo sendo a terra improdutiva, eh,
+
+[04:36:46] O número sete, o o AV7, que é o de Pernambuco, isso fica bem claro, mas então se a a a Corte me delega, eu farei o ajuste essa delegação que a gente tá dando é o ministro Rema, que eu acho que a gente não pode dar não. É,
+
+[04:37:01] A gente tem que concluir o julgamento a não ser que
+
+[04:37:05] Haja um adiamento. A gente não pode chegar acordo, vai delegar pro relator.
+
+[04:37:09] Não, não, mas mas não é mas não é delegação nesse sentido.
+
+[04:37:12] Não é delegação.
+
+[04:37:13] Mas a gente precisa proclamar,
+
+[04:37:14] Não vai proclamar o resultado. Então fica proclamado o resultado. Eh, sim. Neste caso específico teria que se examinar. Realmente
+
+[04:37:24] Quando caso concreto precisa saber, precisa saber com certeza. tem razão, porque eu achei que colocava no voto, mas não, mas nós temos que proclamar também o resultado do caso concreto.
+
+[04:37:33] Com certeza. Veja, veja bem, no caso concreto, o 1950, 1981 está expresso que o bem não tinha nenhuma atividade econômica, está expresso lá. Então, nesse caso, eu estou eh eh sugerindo que seja decotado o juro compensatório objetivamente. Os demais eh eu não vi essa decisão nos juros, no no nos acód. Então, eu estou eh entendendo que os juros eh nesse caso são daqueles do de 6% até 2017. eh, no percentual equivalente aos TDAs, né, conforme o artigo 5º, parágrafo 9º da lei 8 629 de 93. Obviamente, se não for o caso, com certeza virão os embargos de
+
+[04:38:29] Declaração.
+
+[04:38:29] Poderia fazer um esclarecimento?
+
+[04:38:31] Pois não, doutor.
+
+[04:38:32] O esclarecimento de fato simples. São os paradigmas dois são eh desapropriação para fins de reforma agrária que pressupõe o descumprimento da função social da propriedade e, portanto, a aplicação do 15A, parágrafo 2º, juro zero em razão da não função social. Da não cumpriment,
+
+[04:38:50] Poderia dar os números, então.
+
+[04:38:51] Poderia dar os números, sim, excelência. Porque para esses dois, se é eh se trata de reforma agrária e a reforma agrária não foi impugnada eh e eh pelo próprio tribunal eh eh de origem, então é porque a terra improdutiva.
+
+[04:39:08] Exato. Esse é o pressuposto. Seriam, se me permite,
+
+[04:39:11] Senhor relator, o citado por Vossa Excelência. Sim,
+
+[04:39:15] O 1950 981 de Pernambuco, é uma desapropriação para f de reforma agrária e na minha lista aqui o útil é o 1909093, onde o Incra pede juro zero em razão do descumprimento dação social. Os outros dois para regularização de terra quilombola, o pedido da autarquia é de juro de 6% na linha decidida pelo Supremo na DI 2332. Esse caso,
+
+[04:39:38] Então seriam é
+
+[04:39:39] Dois casos zero, dois casos seis. Esse caso que eu acabei de de sugerir aqui, então, que é o 1814 350 Sergipe, é esse de 6% reduzid 14 350 Sergipe 6% assim é regularização de terra que mas os outros dois que são de
+
+[04:39:58] Nós vamos chegar lá.
+
+[04:39:59] Ah, tá. Tá bom. Então,
+
+[04:40:00] Mas o primeiro, só para fazer uma observação e colaborar aqui, eh, no caso com o andamento do feito, no primeiro, ministra Frânia, Vossa Excelência tá mantendo os juros compensatórios, embora reduza para 6%, mas tá mantendo.
+
+[04:40:14] Então, eh, 1809 093, Dr. Fábio, esse
+
+[04:40:19] 093
+
+[04:40:21] É o 1809 093 do Ceará. Isso.
+
+[04:40:25] Eu eu pediria ao ao procurador para primeiro
+
+[04:40:31] Reforma agrá
+
+[04:40:32] Passe o número eh do que é quilombola, porque é desapropriação indireta. E é este em que haveria e acho que o o ministro Flando está fazendo, reduzindo de 12 para seis. E da em seguida, nos outros dois, Vossa Excelência fala os números, o estado e aí o próprio relator poderia fazer o ajuste.
+
+[04:40:57] Eh, no 1809093,
+
+[04:41:00] Qual é o estado
+
+[04:41:01] Também? Esse é o de Ceará, é o número um, AB1. É reforma agrária. Mas aí é reforma agrária.
+
+[04:41:07] Sim. por utilidade pública para fim de reforma agrária. O momento básico não pode exceder 90 dias desde a propositura da ação judicial e nas indenizações. Eh,
+
+[04:41:20] Então, mas reformaré aí já não seria o caso de
+
+[04:41:23] Senhor presidente, posso fazer uma sugestão? Mas não, ministro,
+
+[04:41:26] Então se fosse o caso de a gente suspender e concluir o julgamento com relação aos casos concretos, eu acho que
+
+[04:41:32] Não é isso até o ministro tem mais tempo
+
+[04:41:35] Para nós não ficarmos aqui meio inseguros.
+
+[04:41:38] É, vamos seguir a linha que já foi decidida aqui, né?
+
+[04:41:40] Importante acho que estão todos de acordo com as teses. E sendo assim, suspender-seia e e se retomaria apenas para concluir o julgamento com relação aos casos concretos.
+
+[04:41:49] Os casos concretos. Perfeito.
+
+[04:41:50] Até porque acho que a gente também acho que tem claro, né, que nesses casos reforma agrária, como não utilizou a função social é zero.
+
+[04:41:59] Isso
+
+[04:42:00] Né?
+
+[04:42:00] É.
+
+[04:42:01] É. E vejam bem, só para
+
+[04:42:03] Dizer que não estive atento,
+
+[04:42:06] Eh, nesse caso,
+
+[04:42:10] Hã, só um minutinho,
+
+[04:42:11] Mas se vamos suspender, não precisamos nem mais eh,
+
+[04:42:15] É procurar eh nesse caso de do 1950 981, eu digo que não incidem juros compensatórios, porque o imóvel é improdutivo, né, e que também nesse caso o passivo ambiental deve ser descontado do valor indenizatório. Então a minha dúvida foi só quanto a esse primeiro aí que eu vou fazer o ajuste e trazer o caso concreto na próxima ficam suspensos, não é, esses julgamentos para que a gente possa analisar o caso concreto, a tese ao mesmo tempo os próprios colegas eh podem eh eh examinar o item D especialmente, não é, ministra
+
+[04:42:57] Frânio? que eh enfim, foi onde realmente ocorreu eh ocorreram os ajustes para ver se há algum outro ajuste que possa eventualmente, mas realmente eh esse é é um é um instante memorável para nós
+
+[04:43:16] Aqui no Superior Tribunal de Justiça numa questão de relevância não só financeira, mas social. Perfeito. Então, uma vez já aprovada a tese, ficam suspensos os julgamentos para que haja uma análise dos casos concretos. E aí na sessão seguinte, não é isso, ministra Fran, posso assim proclamar?
+
+[04:43:39] É, pode. É um caso concreto na realidade, mas pode pode contar casos concretos. Eu acho que é melhor deixarmos os quatro que aí a gente, né, porque senão fica desgarrado um do outro,
+
+[04:43:49] É claro.
+
+[04:43:50] A gente então fica assim proclamado. Dr. Fábio Moneral, obrigado pela participação aqui no nosso julgamento. Eh, eu indico,
+
+[04:43:59] O adiamento
+
+[04:44:00] Do tema 1415, voto vista que seria apresentado pelo Min. Paulo Sérgio Domingues. Recursos especiais 2.23885 e 2.2. 238 889. Eh, de acordo com o ministro Paulo Sérgio, queria apresentar vista, inclusive entrou em contato com a relatora Min. Maria Thereza de Assis Moura e ficou acertado de que será adiado para a sessão seguinte. Posso proclamar assim?
+
+[04:44:27] Eh, sim, presidente. A, acho que achamos que seria conveniente até por causa do quórum que agora quum. feito. Então, já proclamada, eh, no caso que teremos esse adiamento e vamos agora para o último feito. É uma preferência com questão de fato, eh, embargos declaratórios. Eu peço que, como são eh, dois advogados irão acompanhar por videoconferência, eu peço que o a secretaria então promova a participação do Dr. Stephan Guimarães Emerrim. Eh, o primeiro falando pela pelas pela parte embargada Wilson de Menezes Dias e
+
+[04:45:09] O segundo pela Associação dos Expresos e Perseguidos Políticos do Estado do Rio Grande do Sul. Eh, ministro Afrânio tem a palavra. Observe que não há destaque. O Dr. Stefan já entrou. Dr.
+
+[04:45:23] Dr. Ramiro não está na sala, mas o Dr. Stefan está para acompanhar o julgamento. Ministro Afrânio tem a palavra. Observe que não há destaque, ministro.
+
+[04:45:32] Senhor senhor presidente, eh não foram constatados vícios e por isso a sugestão é de rejeição dos embargos de declaração. O voto que é longo está à disposição dos ilustres advogados. indago eh aos pares, não há destaque. Então eu proclamo a sessão à unanimidade, rejeitou os embargos de declaração nos termos do voto do relator. Dr. Stepan, obrigado pela participação. Agradeço igualmente a participação de todos que aqui estiveram no decorrer desta desta tarde e declaro encerrada a nossa sessão. Obrigado,
