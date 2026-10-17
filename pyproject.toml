@@ -26,3 +26,8 @@ packages = ["src/stj_sessoes"]
 pythonpath = ["src"]
 testpaths = ["tests"]
 addopts = "--basetemp=.pytest_tmp"
+
+[dependency-groups]
+dev = [
+    "playwright>=1.64.0",
+]

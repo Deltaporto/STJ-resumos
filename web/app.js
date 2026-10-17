@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Elementos de DOM
     const sidebar = document.getElementById('sidebar');
+    const sidebarBackdrop = document.getElementById('sidebarBackdrop');
     const mobileMenuBtn = document.getElementById('mobileMenuBtn');
     const sessionsList = document.getElementById('sessionsList');
     const searchInput = document.getElementById('searchInput');
@@ -43,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const toggleAllDetailsBtn = document.getElementById('toggleAllDetailsBtn');
     const sessionMateriaChips = document.getElementById('sessionMateriaChips');
     const documentViewer = document.getElementById('documentViewer');
+    const backToTopBtn = document.getElementById('backToTopBtn');
 
     const themeToggle = document.getElementById('themeToggle');
     const themeLabel = document.getElementById('themeLabel');
@@ -65,7 +67,8 @@ document.addEventListener('DOMContentLoaded', () => {
         onlyHerman: false,
         onlyRelevant: false,
         onlyWithThesis: false,
-        detailsCollapsed: false
+        detailsCollapsed: false,
+        hermanSpotlightCollapsed: false
     };
 
     // Utilitários de Texto
@@ -284,6 +287,32 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    // Controle de Menu Mobile com Backdrop
+    const openMobileMenu = () => {
+        if (!sidebar) return;
+        if (sidebarBackdrop) {
+            sidebarBackdrop.hidden = false;
+            void sidebarBackdrop.offsetWidth;
+            sidebarBackdrop.classList.add('is-open');
+        }
+        sidebar.classList.add('open');
+        mobileMenuBtn?.setAttribute('aria-expanded', 'true');
+    };
+
+    const closeMobileMenu = () => {
+        if (!sidebar) return;
+        sidebar.classList.remove('open');
+        if (sidebarBackdrop) {
+            sidebarBackdrop.classList.remove('is-open');
+            setTimeout(() => {
+                if (!sidebar.classList.contains('open')) {
+                    sidebarBackdrop.hidden = true;
+                }
+            }, 220);
+        }
+        mobileMenuBtn?.setAttribute('aria-expanded', 'false');
+    };
+
     // Renderizar Barra Lateral de Sessões
     const renderSidebar = () => {
         sessionsList.innerHTML = '';
@@ -335,7 +364,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             btn.addEventListener('click', () => {
                 state.activeSessionId = session.id;
-                sidebar.classList.remove('open');
+                closeMobileMenu();
                 renderSidebar();
                 renderActiveSession();
             });
@@ -481,11 +510,57 @@ document.addEventListener('DOMContentLoaded', () => {
         // 2. Painel de Protagonismo: Atuação e Manifestações do Min. Herman Benjamin
         const hermanList = Array.isArray(session.hermanHighlights) ? session.hermanHighlights : [];
         if (hermanList.length > 0) {
+            // Filtrar manifestações conforme os filtros globais aplicados
+            const filteredHermanList = hermanList.filter((item) => {
+                const associatedProc = item.processIndex
+                    ? session.processes?.find((p) => p.index === item.processIndex)
+                    : null;
+
+                if (state.materiaIdFilter) {
+                    if (!associatedProc || String(associatedProc.materia?.id) !== String(state.materiaIdFilter)) {
+                        return false;
+                    }
+                }
+
+                if (state.relatorFilter) {
+                    if (!associatedProc) return false;
+                    const relList = Array.isArray(associatedProc.relatores) ? associatedProc.relatores : [];
+                    if (state.relatorFilter === '__CONVOCADOS__') {
+                        if (!relList.some((r) => r.role === 'convocado_substituto')) return false;
+                    } else {
+                        const matches = relList.some((r) => r.name === state.relatorFilter)
+                            || associatedProc.relator === state.relatorFilter;
+                        if (!matches) return false;
+                    }
+                }
+
+                if (state.onlyRelevant) {
+                    if (!associatedProc || !associatedProc.isRelevant) return false;
+                }
+
+                if (state.onlyWithThesis) {
+                    if (!associatedProc || !associatedProc.tese) return false;
+                }
+
+                if (state.searchQuery.trim()) {
+                    const q = normalizeText(state.searchQuery);
+                    const itemHaystack = normalizeText(`${item.title || ''} ${item.text || ''}`);
+                    const procHaystack = associatedProc
+                        ? normalizeText(`${associatedProc.heading || ''} ${associatedProc.processNumber || ''} ${associatedProc.theme || ''} ${associatedProc.materia?.code || ''} ${associatedProc.tese || ''}`)
+                        : '';
+                    if (!itemHaystack.includes(q) && !procHaystack.includes(q)) {
+                        return false;
+                    }
+                }
+
+                return true;
+            });
+
             const spotlight = document.createElement('section');
             spotlight.className = 'herman-spotlight';
             spotlight.setAttribute('aria-label', 'Atuação e Manifestações do Ministro Herman Benjamin');
 
-            const itemsHtml = hermanList.map((item) => {
+            const itemsHtml = filteredHermanList.map((item) => {
                 const tsLink = item.timestamp && item.videoUrl
                     ? `<a href="${escapeHtml(item.videoUrl)}" target="_blank" rel="noopener noreferrer" class="timestamp-pill" title="Abrir vídeo no momento da manifestação">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
@@ -509,15 +584,37 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
             }).join('');
 
+            const emptyNotice = filteredHermanList.length === 0
+                ? '<div class="herman-spotlight-empty">Nenhuma manifestação do Min. Herman Benjamin nesta sessão corresponde aos filtros ativos.</div>'
+                : '';
+
             spotlight.innerHTML = `
                 <div class="spotlight-header">
                     <div class="spotlight-title-group">
                         <span class="spotlight-kicker">Gabinete do Ministro Herman Benjamin</span>
                         <h3 class="spotlight-heading">Atuação, Relatorias e Manifestações na Sessão</h3>
                     </div>
+                    <div class="spotlight-header-actions">
+                        <button type="button" id="toggleHermanSpotlightBtn" class="btn-subtle" title="Recolher ou expandir painel">
+                            ${state.hermanSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel'}
+                        </button>
+                    </div>
                 </div>
-                <div class="spotlight-grid">${itemsHtml}</div>
+                ${emptyNotice}
+                <div class="spotlight-grid ${state.hermanSpotlightCollapsed ? 'collapsed' : ''}">${itemsHtml}</div>
             `;
+
+            const toggleSpotlightBtn = spotlight.querySelector('#toggleHermanSpotlightBtn');
+            if (toggleSpotlightBtn) {
+                toggleSpotlightBtn.addEventListener('click', () => {
+                    state.hermanSpotlightCollapsed = !state.hermanSpotlightCollapsed;
+                    const grid = spotlight.querySelector('.spotlight-grid');
+                    if (grid) {
+                        grid.classList.toggle('collapsed', state.hermanSpotlightCollapsed);
+                    }
+                    toggleSpotlightBtn.textContent = state.hermanSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel';
+                });
+            }
 
             spotlight.querySelectorAll('[data-jump-index]').forEach((btn) => {
                 btn.addEventListener('click', () => {
@@ -772,6 +869,14 @@ document.addEventListener('DOMContentLoaded', () => {
             const isHermanBlock = /herman\s+benjamin/i.test(trimmed);
             let htmlBlock = highlightMatches(trimmed, filterQuery);
 
+            // Tratar formatação Markdown: negrito, itálico, marcadores de lista e links
+            htmlBlock = htmlBlock
+                .replace(/^- \*\*(.*?):\*\*/g, '<strong>$1:</strong>')
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/(^|\s)\*(.*?)\*(\s|$)/g, '$1<em>$2</em>$3')
+                .replace(/\[(.*?)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
+                .replace(/^- /g, '• ');
+
             // Transformar timestamps [HH:MM:SS] em links clicáveis para o vídeo do YouTube
             htmlBlock = htmlBlock.replace(/\[(\d{2}:\d{2}:\d{2})\]/g, (full, ts) => {
                 if (!baseVideoUrl) return `<code>[${ts}]</code>`;
@@ -962,17 +1067,50 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     mobileMenuBtn?.addEventListener('click', () => {
-        const isOpen = sidebar.classList.toggle('open');
-        mobileMenuBtn.setAttribute('aria-expanded', String(isOpen));
+        if (sidebar.classList.contains('open')) {
+            closeMobileMenu();
+        } else {
+            openMobileMenu();
+        }
     });
+
+    sidebarBackdrop?.addEventListener('click', closeMobileMenu);
+
+    // Rolagem Horizontal Suave via Roda do Mouse nos Chips
+    sessionMateriaChips?.addEventListener('wheel', (e) => {
+        if (e.deltaY !== 0) {
+            e.preventDefault();
+            sessionMateriaChips.scrollLeft += e.deltaY;
+        }
+    }, { passive: false });
+
+    // Botão Voltar ao Topo
+    if (documentViewer && backToTopBtn) {
+        documentViewer.addEventListener('scroll', () => {
+            if (documentViewer.scrollTop > 320) {
+                backToTopBtn.hidden = false;
+                backToTopBtn.classList.add('visible');
+            } else {
+                backToTopBtn.classList.remove('visible');
+            }
+        });
+
+        backToTopBtn.addEventListener('click', () => {
+            documentViewer.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }
 
     document.addEventListener('keydown', (e) => {
         if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
             e.preventDefault();
             searchInput.focus();
             searchInput.select();
-        } else if (e.key === 'Escape' && !transcriptDrawer.hidden) {
-            closeTranscriptDrawer();
+        } else if (e.key === 'Escape') {
+            if (!transcriptDrawer.hidden) {
+                closeTranscriptDrawer();
+            } else if (sidebar.classList.contains('open')) {
+                closeMobileMenu();
+            }
         }
     });
 

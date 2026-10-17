@@ -12,3 +12,4 @@ data/cache/
 
 # Repositório temporário de sincronização do Pages
 .pages_repo/
+tests/screenshots/

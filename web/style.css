@@ -657,7 +657,19 @@ body {
     align-items: center;
     gap: 6px;
     overflow-x: auto;
-    padding-bottom: 2px;
+    padding-bottom: 4px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-strong) transparent;
+    scroll-behavior: smooth;
+}
+
+.materia-chips-bar::-webkit-scrollbar {
+    height: 4px;
+}
+
+.materia-chips-bar::-webkit-scrollbar-thumb {
+    background: var(--border-strong);
+    border-radius: 4px;
 }
 
 .materia-chips-bar:empty {
@@ -700,7 +712,8 @@ body {
     flex: 1;
     overflow-y: auto;
     padding: 24px;
-     outline: none;
+    outline: none;
+    scroll-behavior: smooth;
 }
 
 .session-container {
@@ -711,10 +724,10 @@ body {
     gap: 20px;
 }
 
-/* Faixa de Estatísticas */
+/* Faixa de Estatísticas: 6 colunas perfeitamente alinhadas no desktop */
 .stats-strip {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(6, 1fr);
     gap: 10px;
 }
 
@@ -754,6 +767,7 @@ body {
     border-left: 4px solid var(--herman-accent);
     border-radius: var(--radius-md);
     padding: 16px 20px;
+    transition: all 0.2s ease;
 }
 
 .spotlight-header {
@@ -785,10 +799,27 @@ body {
     color: var(--text-primary);
 }
 
+.spotlight-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.herman-spotlight-empty {
+    font-size: 13px;
+    color: var(--text-muted);
+    font-style: italic;
+    padding: 6px 0;
+}
+
 .spotlight-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
     gap: 12px;
+}
+
+.spotlight-grid.collapsed {
+    display: none;
 }
 
 .herman-item-card {
@@ -824,7 +855,8 @@ body {
     display: flex;
     align-items: center;
     gap: 10px;
-    margin-top: 4px;
+    margin-top: auto;
+    padding-top: 6px;
 }
 
 .jump-process-btn {
@@ -891,8 +923,26 @@ body {
     border-left: 3px solid var(--herman-accent);
 }
 
+@keyframes cardFlashPulse {
+    0% {
+        outline: 3px solid var(--brand-navy);
+        box-shadow: 0 0 0 6px var(--brand-navy-soft), var(--shadow-card);
+        transform: scale(1.006);
+    }
+    40% {
+        outline: 2px solid var(--brand-navy);
+        box-shadow: 0 0 0 4px var(--brand-navy-soft), var(--shadow-card);
+    }
+    100% {
+        outline: 1px solid transparent;
+        box-shadow: var(--shadow-card);
+        transform: scale(1);
+    }
+}
+
 .process-card--highlight-flash {
-    outline: 2px solid var(--herman-accent);
+    animation: cardFlashPulse 1.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+    border-color: var(--brand-navy) !important;
 }
 
 .process-card-top {
@@ -1397,7 +1447,68 @@ mark {
     display: none;
 }
 
+/* Backdrop para Menu Mobile */
+.sidebar-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(10, 12, 16, 0.45);
+    backdrop-filter: blur(2px);
+    z-index: 15;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+}
+
+.sidebar-backdrop.is-open {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Botão Flutuante Voltar ao Topo */
+.back-to-top-btn {
+    position: fixed;
+    bottom: 24px;
+    right: 28px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--bg-surface);
+    color: var(--brand-navy);
+    border: 1px solid var(--border-strong);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    z-index: 50;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(8px);
+    transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease, background-color 0.15s ease;
+}
+
+.back-to-top-btn:hover {
+    transform: translateY(4px);
+    background: var(--bg-elevated);
+}
+
+.back-to-top-btn.visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.back-to-top-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
 /* Responsividade e Impressão */
+@media (max-width: 1200px) {
+    .stats-strip {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media (max-width: 1120px) {
     .workspace-columns {
         grid-template-columns: 1fr;
@@ -1420,8 +1531,9 @@ mark {
         bottom: 0;
         width: 300px;
         transform: translateX(-100%);
-        transition: transform 0.2s ease;
+        transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1);
         box-shadow: var(--shadow-drawer);
+        z-index: 25;
     }
 
     .sidebar.open {
@@ -1431,6 +1543,82 @@ mark {
     .mobile-only {
         display: inline-grid;
     }
+
+    .topbar {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+        padding: 10px 14px;
+    }
+
+    .topbar-left {
+        width: 100%;
+        justify-content: flex-start;
+        gap: 10px;
+    }
+
+    .topbar-title {
+        font-size: 18px;
+        line-height: 1.25;
+    }
+
+    .topbar-actions {
+        width: 100%;
+        overflow-x: auto;
+        padding-bottom: 3px;
+        flex-wrap: nowrap;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+
+    .topbar-actions::-webkit-scrollbar {
+        display: none;
+    }
+
+    .topbar-actions .btn-action {
+        flex-shrink: 0;
+        font-size: 11.5px;
+        padding: 5px 9px;
+    }
+
+    .content-scroll {
+        padding: 14px;
+    }
+
+    .filters-toolbar {
+        padding: 10px 14px;
+    }
+
+    .filters-row {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+    }
+
+    .filter-select {
+        min-width: 100%;
+    }
+
+    .quick-toggles {
+        width: 100%;
+    }
+
+    .back-to-top-btn {
+        bottom: 16px;
+        right: 16px;
+        width: 36px;
+        height: 36px;
+    }
+}
+
+@media (max-width: 640px) {
+    .stats-strip {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .spotlight-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 @media print {
@@ -1438,7 +1626,9 @@ mark {
     .filters-toolbar,
     .topbar-actions,
     .transcript-drawer,
-    .drawer-backdrop {
+    .drawer-backdrop,
+    .sidebar-backdrop,
+    .back-to-top-btn {
         display: none !important;
     }
 

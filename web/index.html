@@ -14,6 +14,9 @@
     <a href="#mainWorkspace" class="skip-link">Pular para o conteúdo principal</a>
 
     <div class="app-shell">
+        <!-- Backdrop para Menu Mobile -->
+        <div id="sidebarBackdrop" class="sidebar-backdrop" hidden></div>
+
         <!-- Barra Lateral: Navegação de Sessões e Busca Global -->
         <aside class="sidebar" id="sidebar" aria-label="Navegação de sessões">
             <div class="sidebar-top">
@@ -196,6 +199,14 @@
             <main class="content-scroll" id="documentViewer" tabindex="-1">
                 <!-- Renderizado dinamicamente via app.js -->
             </main>
+
+            <!-- Botão Voltar ao Topo -->
+            <button type="button" id="backToTopBtn" class="back-to-top-btn" aria-label="Voltar ao topo da página" title="Voltar ao topo" hidden>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <line x1="12" y1="19" x2="12" y2="5"></line>
+                    <polyline points="5 12 12 5 19 12"></polyline>
+                </svg>
+            </button>
         </div>
     </div>
 
