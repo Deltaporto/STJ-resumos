@@ -800,16 +800,32 @@ document.addEventListener('DOMContentLoaded', () => {
         transcriptSearchInput.value = '';
         transcriptDrawerBackdrop.hidden = false;
         transcriptDrawer.hidden = false;
+        // Forçar reflow para ativar a transição CSS
+        void transcriptDrawer.offsetWidth;
+        transcriptDrawerBackdrop.classList.add('is-open');
+        transcriptDrawer.classList.add('is-open');
         transcriptDrawer.setAttribute('aria-hidden', 'false');
         renderTranscriptDrawerContent(session, '');
         transcriptSearchInput.focus();
     };
 
     const closeTranscriptDrawer = () => {
-        transcriptDrawerBackdrop.hidden = true;
-        transcriptDrawer.hidden = true;
+        transcriptDrawerBackdrop.classList.remove('is-open');
+        transcriptDrawer.classList.remove('is-open');
         transcriptDrawer.setAttribute('aria-hidden', 'true');
+        setTimeout(() => {
+            if (!transcriptDrawer.classList.contains('is-open')) {
+                transcriptDrawerBackdrop.hidden = true;
+                transcriptDrawer.hidden = true;
+            }
+        }, 280);
     };
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && !transcriptDrawer.hidden) {
+            closeTranscriptDrawer();
+        }
+    });
 
     // Tema Claro / Escuro
     const applyTheme = (theme) => {
