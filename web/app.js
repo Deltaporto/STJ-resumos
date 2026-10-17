@@ -319,6 +319,15 @@ document.addEventListener('DOMContentLoaded', () => {
         mobileMenuBtn?.setAttribute('aria-expanded', 'false');
     };
 
+    const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+
+    // "14/10/2026" -> "Sessão de 14 de outubro de 2026"
+    const formatSessionHeading = (session) => {
+        const m = String(session.date || '').match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+        if (!m || !MESES[Number(m[2]) - 1]) return session.title;
+        return `Sessão de ${Number(m[1])} de ${MESES[Number(m[2]) - 1]} de ${m[3]}`;
+    };
+
     // Renderizar Barra Lateral de Sessões
     const renderSidebar = () => {
         sessionsList.innerHTML = '';
@@ -359,12 +368,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
             btn.innerHTML = `
                 <div class="session-nav-top">
-                    <span class="session-nav-orgao">${escapeHtml(session.orgao)}</span>
                     <span class="session-nav-date">${escapeHtml(session.date)}</span>
+                    <span class="session-nav-orgao">${escapeHtml(session.orgao)}</span>
                 </div>
                 <div class="session-nav-meta">
                     <span>${escapeHtml(procLabel)}</span>
-                    ${hermanCount > 0 ? `<span class="nav-badge-herman">Min. Herman: ${hermanCount}</span>` : ''}
+                    ${hermanCount > 0 ? `<span class="nav-badge-herman">· ${hermanCount} c/ Min. Herman</span>` : ''}
                 </div>
             `;
 
@@ -416,6 +425,26 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     };
 
+    // "Ler mais" nos destaques: só aparece quando o texto foi de fato truncado
+    const setupReadMore = (root) => {
+        root.querySelectorAll('.read-more-btn').forEach((btn) => {
+            btn.addEventListener('click', () => {
+                const expanded = btn.closest('li').classList.toggle('is-expanded');
+                btn.textContent = expanded ? 'Ler menos' : 'Ler mais';
+            });
+        });
+    };
+
+    const syncReadMoreVisibility = (root) => {
+        root.querySelectorAll('.read-more-btn').forEach((btn) => {
+            const text = btn.previousElementSibling;
+            const expanded = btn.closest('li').classList.contains('is-expanded');
+            btn.hidden = !expanded && text.scrollHeight <= text.clientHeight + 1;
+        });
+    };
+
+    window.addEventListener('resize', () => syncReadMoreVisibility(documentViewer));
+
     // Rolar até um card de processo específico
     const scrollToProcessCard = (processIndex) => {
         const card = document.getElementById(`process-card-${processIndex}`);
@@ -439,8 +468,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Atualizar Topbar
         topbarSessionMeta.innerHTML = `
-            <span class="topbar-orgao-badge">${escapeHtml(session.orgao)}</span>
-            <h2 class="topbar-title">${escapeHtml(session.title)}</h2>
+            <span class="topbar-orgao-badge">${escapeHtml(session.orgao)} · Superior Tribunal de Justiça</span>
+            <h2 class="topbar-title">${escapeHtml(formatSessionHeading(session))}</h2>
         `;
 
         // Configurar botões de vídeo (YouTube)
@@ -482,35 +511,23 @@ document.addEventListener('DOMContentLoaded', () => {
         container.className = 'session-container';
 
         // 1. Faixa de Indicadores Objetivos da Sessão
-        const statsStrip = document.createElement('section');
-        statsStrip.className = 'stats-strip';
+        const statsStrip = document.createElement('dl');
+        statsStrip.className = 'session-summary';
         statsStrip.setAttribute('aria-label', 'Indicadores da sessão');
-        statsStrip.innerHTML = `
-            <div class="stat-box">
-                <span class="stat-box-label">Processos Apreciados</span>
-                <span class="stat-box-value">${stats.total ?? session.processes.length}</span>
+        const summaryItems = [
+            ['Processos apreciados', stats.total ?? session.processes.length],
+            ['Com atuação do Min. Herman', stats.hermanCount ?? 0, 'summary-item--herman'],
+            ['Teses', stats.thesesCount ?? (session.theses?.length || 0)],
+            ['Providos ou parciais', (stats.providos || 0) + (stats.parciais || 0)],
+            ['Desprovidos', stats.desprovidos ?? 0],
+            ['Vistas ou adiados', stats.vistasAdiados ?? 0]
+        ];
+        statsStrip.innerHTML = summaryItems.map(([label, value, mod]) => `
+            <div class="summary-item ${mod || ''}">
+                <dt>${label}</dt>
+                <dd>${value}</dd>
             </div>
-            <div class="stat-box stat-box--herman">
-                <span class="stat-box-label">Atuação Min. Herman</span>
-                <span class="stat-box-value">${stats.hermanCount ?? 0}</span>
-            </div>
-            <div class="stat-box">
-                <span class="stat-box-label">Teses Mapeadas</span>
-                <span class="stat-box-value">${stats.thesesCount ?? (session.theses?.length || 0)}</span>
-            </div>
-            <div class="stat-box">
-                <span class="stat-box-label">Providos / Parciais</span>
-                <span class="stat-box-value">${(stats.providos || 0) + (stats.parciais || 0)}</span>
-            </div>
-            <div class="stat-box">
-                <span class="stat-box-label">Desprovidos</span>
-                <span class="stat-box-value">${stats.desprovidos ?? 0}</span>
-            </div>
-            <div class="stat-box">
-                <span class="stat-box-label">Vistas / Adiados</span>
-                <span class="stat-box-value">${stats.vistasAdiados ?? 0}</span>
-            </div>
-        `;
+        `).join('');
         container.appendChild(statsStrip);
 
         // 2. Painel de Protagonismo: Atuação e Manifestações do Min. Herman Benjamin
@@ -563,30 +580,30 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             const spotlight = document.createElement('section');
-            spotlight.className = 'herman-spotlight';
+            spotlight.className = 'herman-spotlight doc-section';
             spotlight.setAttribute('aria-label', 'Atuação e Manifestações do Ministro Herman Benjamin');
 
             const itemsHtml = filteredHermanList.map((item) => {
                 const tsLink = item.timestamp && item.videoUrl
                     ? `<a href="${escapeHtml(item.videoUrl)}" target="_blank" rel="noopener noreferrer" class="timestamp-pill" title="Abrir vídeo no momento da manifestação">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                        <svg viewBox="0 0 24 24" aria-hidden="true"><polygon points="6 4 20 12 6 20 6 4"></polygon></svg>
                         <span>${escapeHtml(item.timestamp)}${item.partLabel ? ` · ${escapeHtml(item.partLabel)}` : ''}</span>
                        </a>`
                     : '';
 
                 const jumpBtn = item.processIndex
-                    ? `<button type="button" class="jump-process-btn" data-jump-index="${item.processIndex}">Ir para julgado #${item.processIndex}</button>`
+                    ? `<button type="button" class="jump-process-btn" data-jump-index="${item.processIndex}">Ver julgado nº ${item.processIndex}</button>`
                     : '';
 
                 return `
-                    <article class="herman-item-card">
+                    <li class="herman-item-card">
                         <div class="herman-item-top">
-                            <span class="herman-item-title">${highlightMatches(item.title || 'Intervenção em Sessão', state.searchQuery)}</span>
-                            ${tsLink}
+                            <span class="herman-item-title">${highlightMatches(item.title || 'Intervenção em sessão', state.searchQuery)}</span>
                         </div>
                         <p class="herman-item-text">${highlightMatches(item.text, state.searchQuery)}</p>
-                        ${jumpBtn ? `<div class="herman-item-actions">${jumpBtn}</div>` : ''}
-                    </article>
+                        <button type="button" class="read-more-btn">Ler mais</button>
+                        ${tsLink || jumpBtn ? `<div class="herman-item-actions">${tsLink}${jumpBtn}</div>` : ''}
+                    </li>
                 `;
             }).join('');
 
@@ -597,18 +614,20 @@ document.addEventListener('DOMContentLoaded', () => {
             spotlight.innerHTML = `
                 <div class="spotlight-header">
                     <div class="spotlight-title-group">
-                        <span class="spotlight-kicker">Gabinete do Ministro Herman Benjamin</span>
-                        <h3 class="spotlight-heading">Atuação, Relatorias e Manifestações na Sessão</h3>
+                        <h3 class="spotlight-heading">Atuação do Min. Herman Benjamin</h3>
+                        <span class="spotlight-kicker">Relatorias, votos e manifestações nesta sessão</span>
                     </div>
                     <div class="spotlight-header-actions">
-                        <button type="button" id="toggleHermanSpotlightBtn" class="btn-subtle" title="Recolher ou expandir painel">
-                            ${state.hermanSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel'}
+                        <span class="column-section-count">${filteredHermanList.length}</span>
+                        <button type="button" id="toggleHermanSpotlightBtn" class="btn-subtle" title="Recolher ou expandir seção">
+                            ${state.hermanSpotlightCollapsed ? 'Expandir' : 'Recolher'}
                         </button>
                     </div>
                 </div>
                 ${emptyNotice}
-                <div class="spotlight-grid ${state.hermanSpotlightCollapsed ? 'collapsed' : ''}">${itemsHtml}</div>
+                <ul class="spotlight-grid ${state.hermanSpotlightCollapsed ? 'collapsed' : ''}">${itemsHtml}</ul>
             `;
+            setupReadMore(spotlight);
 
             const toggleSpotlightBtn = spotlight.querySelector('#toggleHermanSpotlightBtn');
             if (toggleSpotlightBtn) {
@@ -618,7 +637,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (grid) {
                         grid.classList.toggle('collapsed', state.hermanSpotlightCollapsed);
                     }
-                    toggleSpotlightBtn.textContent = state.hermanSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel';
+                    syncReadMoreVisibility(spotlight);
+                    toggleSpotlightBtn.textContent = state.hermanSpotlightCollapsed ? 'Expandir' : 'Recolher';
                 });
             }
 
@@ -645,40 +665,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const highlightsSpotlight = document.createElement('section');
             highlightsSpotlight.id = 'highlightsSpotlight';
-            highlightsSpotlight.className = 'highlights-spotlight';
+            highlightsSpotlight.className = 'highlights-spotlight doc-section';
             highlightsSpotlight.setAttribute('aria-label', 'Casos Relevantes e Destaques da Sessão');
 
             const hCardsHtml = filteredHighlights.map((h) => {
                 return `
-                    <article class="highlight-spotlight-card">
+                    <li class="highlight-spotlight-card">
                         <div class="highlight-item-top">
-                            <span class="highlight-item-title">${highlightMatches(h.title || 'Destaque Colegiado', state.searchQuery)}</span>
+                            <span class="highlight-item-title">${highlightMatches(h.title || 'Destaque do colegiado', state.searchQuery)}</span>
                         </div>
                         <p class="highlight-item-text">${highlightMatches(h.text, state.searchQuery)}</p>
-                    </article>
+                        <button type="button" class="read-more-btn">Ler mais</button>
+                    </li>
                 `;
             }).join('');
 
             const hEmpty = filteredHighlights.length === 0
-                ? '<div class="herman-spotlight-empty">Nenhum destaque corresponde à busca ativa.</div>'
+                ? '<div class="highlights-spotlight-empty">Nenhum destaque corresponde à busca ativa.</div>'
                 : '';
 
             highlightsSpotlight.innerHTML = `
                 <div class="spotlight-header">
                     <div class="spotlight-title-group">
-                        <span class="spotlight-kicker spotlight-kicker--relevant">Colegiado e Deliberações</span>
-                        <h3 class="spotlight-heading">Casos Relevantes e Destaques da Sessão</h3>
+                        <h3 class="spotlight-heading">Destaques da sessão</h3>
+                        <span class="spotlight-kicker">Casos relevantes e deliberações do colegiado</span>
                     </div>
                     <div class="spotlight-header-actions">
-                        <span class="column-section-count" style="margin-right: 6px;">${filteredHighlights.length}</span>
-                        <button type="button" id="toggleHighlightsSpotlightBtn" class="btn-subtle" title="Recolher ou expandir painel">
-                            ${state.highlightsSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel'}
+                        <span class="column-section-count">${filteredHighlights.length}</span>
+                        <button type="button" id="toggleHighlightsSpotlightBtn" class="btn-subtle" title="Recolher ou expandir seção">
+                            ${state.highlightsSpotlightCollapsed ? 'Expandir' : 'Recolher'}
                         </button>
                     </div>
                 </div>
                 ${hEmpty}
-                <div class="highlights-grid ${state.highlightsSpotlightCollapsed ? 'collapsed' : ''}">${hCardsHtml}</div>
+                <ul class="highlights-grid ${state.highlightsSpotlightCollapsed ? 'collapsed' : ''}">${hCardsHtml}</ul>
             `;
+            setupReadMore(highlightsSpotlight);
 
             const toggleHBtn = highlightsSpotlight.querySelector('#toggleHighlightsSpotlightBtn');
             if (toggleHBtn) {
@@ -688,7 +710,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (grid) {
                         grid.classList.toggle('collapsed', state.highlightsSpotlightCollapsed);
                     }
-                    toggleHBtn.textContent = state.highlightsSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel';
+                    syncReadMoreVisibility(highlightsSpotlight);
+                    toggleHBtn.textContent = state.highlightsSpotlightCollapsed ? 'Expandir' : 'Recolher';
                 });
             }
 
@@ -703,10 +726,15 @@ document.addEventListener('DOMContentLoaded', () => {
         procsCol.className = 'processes-column';
         procsCol.innerHTML = `
             <div class="column-section-header">
-                <h3 class="column-section-title">Processos Apreciados</h3>
-                <span class="column-section-count">Exibindo ${matchingProcesses.length} de ${session.processes.length}</span>
+                <h3 class="column-section-title">Processos apreciados</h3>
+                <div class="spotlight-header-actions">
+                    <span class="column-section-count">${matchingProcesses.length === session.processes.length ? `${session.processes.length} processos` : `${matchingProcesses.length} de ${session.processes.length}`}</span>
+                </div>
             </div>
         `;
+        // O botão global de recolher discussões vive no cabeçalho da lista que ele controla
+        procsCol.querySelector('.spotlight-header-actions').appendChild(toggleAllDetailsBtn);
+        toggleAllDetailsBtn.hidden = false;
 
         if (matchingProcesses.length === 0) {
             const emptyProcs = document.createElement('div');
@@ -717,37 +745,37 @@ document.addEventListener('DOMContentLoaded', () => {
             matchingProcesses.forEach((proc) => {
                 const card = document.createElement('article');
                 card.id = `process-card-${proc.index}`;
-                card.className = `process-card ${proc.hasHerman ? 'process-card--herman' : ''}`;
+                card.className = 'process-card';
 
                 const tsMarkup = proc.timestamp && proc.videoUrl
                     ? `<a href="${escapeHtml(proc.videoUrl)}" target="_blank" rel="noopener noreferrer" class="timestamp-pill" title="Assistir ao julgamento deste processo no YouTube">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                        <svg viewBox="0 0 24 24" aria-hidden="true"><polygon points="6 4 20 12 6 20 6 4"></polygon></svg>
                         <span>${escapeHtml(proc.timestamp)}${proc.partLabel ? ` · ${escapeHtml(proc.partLabel)}` : ''}</span>
                        </a>`
                     : (proc.timestamp ? `<span class="timestamp-pill">${escapeHtml(proc.timestamp)}</span>` : '');
 
                 const hermanBadge = proc.isHermanRelator
-                    ? '<span class="badge-herman">Relatoria Min. Herman Benjamin</span>'
-                    : (proc.hasHerman ? '<span class="badge-herman">Manifestação Min. Herman</span>' : '');
+                    ? '<span class="badge-herman">Relatoria do Min. Herman Benjamin</span>'
+                    : (proc.hasHerman ? '<span class="badge-herman">Manifestação do Min. Herman</span>' : '');
 
                 const relevantBadge = proc.isRelevant
-                    ? '<span class="badge-relevant">Caso Relevante</span>'
+                    ? '<span class="badge-relevant">Caso relevante</span>'
                     : '';
 
                 const hasConvocado = Array.isArray(proc.relatores)
                     && proc.relatores.some((r) => r.role === 'convocado_substituto');
 
                 const teseLabelMap = {
-                    final: 'Tese Fixada',
-                    proposta: 'Tese Proposta (Julgamento em Curso / Vista)',
-                    vencido: 'Tese de Voto Vencido'
+                    final: 'Tese fixada',
+                    proposta: 'Tese proposta (julgamento em curso)',
+                    vencido: 'Tese do voto vencido'
                 };
-                const teseHeader = teseLabelMap[proc.teseType] || 'Tese / Entendimento';
+                const teseHeader = teseLabelMap[proc.teseType] || 'Tese ou entendimento';
 
                 card.innerHTML = `
                     <div class="process-card-top">
                         <div class="process-badges-left">
-                            <span class="process-index-badge">#${proc.index}</span>
+                            <span class="process-index-badge">Nº ${proc.index}</span>
                             <button type="button" class="materia-tag" data-materia-id="${escapeHtml(proc.materia?.id)}">
                                 ${highlightMatches(proc.materia?.code || 'Matéria não classificada', state.searchQuery)}
                             </button>
@@ -763,21 +791,19 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
 
                     <div class="process-heading-row">
-                        <h4 class="process-title">
-                            <span class="process-number-code">${highlightMatches(proc.processNumber, state.searchQuery)}</span>
-                            ${proc.theme ? ` — <span>${highlightMatches(proc.theme, state.searchQuery)}</span>` : ''}
-                        </h4>
+                        <h4 class="process-title">${highlightMatches(proc.theme || proc.processNumber, state.searchQuery)}</h4>
+                        ${proc.theme ? `<p class="process-number-code">${highlightMatches(proc.processNumber, state.searchQuery)}</p>` : ''}
                     </div>
 
                     <div class="process-meta-grid">
                         <span class="meta-pair">
-                            <strong>Relator:</strong> ${highlightMatches(proc.relator, state.searchQuery)}
-                            ${hasConvocado ? '<span class="convocado-tag">Convocado / Substituto</span>' : ''}
+                            <strong>Relator</strong> ${highlightMatches(proc.relator, state.searchQuery)}
+                            ${hasConvocado ? '<span class="convocado-tag">(convocado)</span>' : ''}
                         </span>
                         <span class="meta-pair">
-                            <strong>Resultado:</strong> ${highlightMatches(proc.resultado, state.searchQuery)}
+                            <strong>Resultado</strong> ${highlightMatches(proc.resultado, state.searchQuery)}
                         </span>
-                        ${proc.votacao ? `<span class="meta-pair"><strong>Votação:</strong> ${highlightMatches(proc.votacao, state.searchQuery)}</span>` : ''}
+                        ${proc.votacao ? `<span class="meta-pair"><strong>Votação</strong> ${highlightMatches(proc.votacao, state.searchQuery)}</span>` : ''}
                     </div>
 
                     ${proc.hermanManifestation ? `
@@ -837,17 +863,18 @@ document.addEventListener('DOMContentLoaded', () => {
         // Painel 1: Tesauro de Teses da Sessão
         const thesesPanel = document.createElement('section');
         thesesPanel.className = 'aside-panel';
+        thesesPanel.id = 'thesesPanel';
         const theses = Array.isArray(session.theses) ? session.theses : [];
 
         const thesesItemsMarkup = theses.length
             ? theses.map((t) => {
-                const badgeTipo = t.type === 'proposta' ? 'Proposta' : (t.type === 'vencido' ? 'Voto Vencido' : 'Fixada');
+                const badgeTipo = t.type === 'proposta' ? 'Proposta' : (t.type === 'vencido' ? 'Voto vencido' : 'Fixada');
                 return `
                     <li>
                         <button type="button" class="thesis-item-btn" data-jump-index="${t.processIndex}">
                             <div class="thesis-item-meta">
-                                <span>#${t.processIndex} · ${escapeHtml(t.processNumber || t.materiaShort)}</span>
-                                <span class="thesis-type-tag">${escapeHtml(badgeTipo)}</span>
+                                <span title="${escapeHtml(t.processNumber || t.materiaShort)}">Nº ${t.processIndex} · ${escapeHtml(t.processNumber || t.materiaShort)}</span>
+                                <span class="thesis-type-tag ${t.type === 'proposta' || t.type === 'vencido' ? '' : 'thesis-type-tag--final'}">${escapeHtml(badgeTipo)}</span>
                             </div>
                             <div class="thesis-item-text">${highlightMatches(t.text, state.searchQuery)}</div>
                         </button>
@@ -858,7 +885,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         thesesPanel.innerHTML = `
             <div class="aside-panel-header">
-                <h3 class="aside-panel-title">Tesauro de Teses</h3>
+                <h3 class="aside-panel-title">Teses da sessão</h3>
                 <span class="column-section-count">${theses.length}</span>
             </div>
             <ul class="theses-list">${thesesItemsMarkup}</ul>
@@ -876,6 +903,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         documentViewer.innerHTML = '';
         documentViewer.appendChild(container);
+        syncReadMoreVisibility(container);
     };
 
     // Leitor de Transcrição Revisada e Saneada (Gaveta Lateral Imersiva)
@@ -1062,7 +1090,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
         localStorage.setItem('stj_gmhb_theme', isDark ? 'dark' : 'light');
         themeToggle.setAttribute('aria-pressed', String(isDark));
-        themeLabel.textContent = isDark ? 'Modo Claro' : 'Modo Escuro';
+        themeLabel.textContent = isDark ? 'Modo claro' : 'Modo escuro';
         const moon = themeToggle.querySelector('.icon-moon');
         const sun = themeToggle.querySelector('.icon-sun');
         if (moon && sun) {
@@ -1225,9 +1253,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!session || !session.content) return;
         try {
             await navigator.clipboard.writeText(session.content);
-            copySummaryLabel.textContent = 'Resumo Copiado';
+            copySummaryLabel.textContent = 'Resumo copiado';
             setTimeout(() => {
-                copySummaryLabel.textContent = 'Copiar Resumo';
+                copySummaryLabel.textContent = 'Copiar resumo';
             }, 1800);
         } catch (err) {
             console.error('Erro ao copiar resumo:', err);

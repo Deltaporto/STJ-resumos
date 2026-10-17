@@ -7,7 +7,7 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231b365d' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'><path d='M12 3v18'/><path d='M5 7h14'/><path d='m5 7-3 7h6l-3-7Z'/><path d='m19 7-3 7h6l-3-7Z'/><path d='M8 21h8'/></svg>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -32,8 +32,8 @@
                     </div>
                     <div class="brand-titles">
                         <span class="brand-kicker">Superior Tribunal de Justiça</span>
-                        <h1 class="brand-heading">1ª Turma e 1ª Seção</h1>
-                        <span class="brand-subtitle">Caderno de Sessões — GMHB</span>
+                        <h1 class="brand-heading">Caderno de Sessões</h1>
+                        <span class="brand-subtitle">1ª Turma e 1ª Seção · GMHB</span>
                     </div>
                 </div>
 
@@ -47,7 +47,7 @@
                     <input
                         type="search"
                         id="searchInput"
-                        placeholder="Buscar processo, tese, tema ou relator..."
+                        placeholder="Buscar processo, tese, relator…"
                         autocomplete="off"
                     >
                     <kbd class="search-kbd" aria-hidden="true">Ctrl+K</kbd>
@@ -79,7 +79,7 @@
                         <circle cx="12" cy="12" r="4"></circle>
                         <path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32 1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path>
                     </svg>
-                    <span id="themeLabel">Modo Escuro</span>
+                    <span id="themeLabel">Modo escuro</span>
                 </button>
             </div>
         </aside>
@@ -115,7 +115,7 @@
                             <line x1="16" y1="17" x2="8" y2="17"></line>
                             <line x1="10" y1="9" x2="8" y2="9"></line>
                         </svg>
-                        <span>Ler Transcrição</span>
+                        <span>Transcrição</span>
                     </button>
 
                     <!-- Baixar Transcrição Formatada em Word (.docx) -->
@@ -127,20 +127,20 @@
                             <line x1="16" y1="17" x2="8" y2="17"></line>
                             <polyline points="10 9 9 9 8 9"></polyline>
                         </svg>
-                        <span>Baixar Word (.docx)</span>
+                        <span>Baixar .docx</span>
                     </a>
 
                     <!-- Copiar Resumo Markdown -->
-                    <button type="button" id="copySummaryBtn" class="btn-action" title="Copiar resumo em Markdown">
+                    <button type="button" id="copySummaryBtn" class="btn-action btn-action--collapsible" title="Copiar resumo em Markdown">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
                             <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
                             <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
                         </svg>
-                        <span id="copySummaryLabel">Copiar Resumo</span>
+                        <span id="copySummaryLabel">Copiar resumo</span>
                     </button>
 
                     <!-- Imprimir / Salvar PDF -->
-                    <button type="button" id="printBtn" class="btn-action" title="Imprimir pauta resumida">
+                    <button type="button" id="printBtn" class="btn-action btn-action--collapsible" title="Imprimir pauta resumida">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
                             <polyline points="6 9 6 2 18 2 18 9"></polyline>
                             <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
@@ -156,7 +156,7 @@
                 <div class="filters-row">
                     <!-- Seletor das 15 Matérias do Gabinete -->
                     <div class="filter-control">
-                        <label for="materiaSelect" class="filter-label">Matéria (Gabinete)</label>
+                        <label for="materiaSelect" class="filter-label sr-only">Matéria (Gabinete)</label>
                         <select id="materiaSelect" class="filter-select">
                             <option value="">Todas as 15 matérias</option>
                         </select>
@@ -164,7 +164,7 @@
 
                     <!-- Seletor de Relator (Titulares + Categoria Flexível de Convocados/Substitutos) -->
                     <div class="filter-control">
-                        <label for="relatorSelect" class="filter-label">Relator / Julgador</label>
+                        <label for="relatorSelect" class="filter-label sr-only">Relator / Julgador</label>
                         <select id="relatorSelect" class="filter-select">
                             <option value="">Todos os julgadores</option>
                         </select>
@@ -174,23 +174,18 @@
                     <div class="quick-toggles" role="group" aria-label="Recortes rápidos">
                         <button type="button" id="toggleHermanBtn" class="toggle-pill" aria-pressed="false">
                             <span class="pill-indicator pill-indicator--herman"></span>
-                            <span>Atuação Min. Herman Benjamin</span>
+                            <span>Min. Herman Benjamin</span>
                         </button>
                         <button type="button" id="toggleRelevantBtn" class="toggle-pill" aria-pressed="false">
                             <span class="pill-indicator pill-indicator--relevant"></span>
-                            <span>Casos Relevantes</span>
+                            <span>Casos relevantes</span>
                         </button>
                         <button type="button" id="toggleThesisBtn" class="toggle-pill" aria-pressed="false">
                             <span class="pill-indicator pill-indicator--thesis"></span>
-                            <span>Com Tese Fixada</span>
+                            <span>Com tese fixada</span>
                         </button>
                     </div>
 
-                    <div class="filters-spacer"></div>
-
-                    <button type="button" id="toggleAllDetailsBtn" class="btn-subtle">
-                        Recolher discussões
-                    </button>
                 </div>
 
                 <!-- Faixa de Tags de Matérias presentes na sessão ativa -->
@@ -217,7 +212,7 @@
     <aside id="transcriptDrawer" class="transcript-drawer" aria-labelledby="transcriptDrawerTitle" aria-hidden="true" hidden>
         <header class="drawer-header">
             <div class="drawer-title-group">
-                <span class="drawer-kicker">Taquigrafia Saneada e Estruturada</span>
+                <span class="drawer-kicker">Transcrição revisada</span>
                 <h2 id="transcriptDrawerTitle" class="drawer-title">Transcrição da Sessão</h2>
             </div>
             <div class="drawer-actions">
@@ -230,7 +225,7 @@
                 <!-- Alternador de Modo: Diálogo vs Texto Contínuo -->
                 <div class="transcript-view-toggle" role="group" aria-label="Modo de exibição da transcrição">
                     <button type="button" id="transcriptModeDialogue" class="toggle-mode-btn active" title="Visualização em balões de diálogo por orador">Diálogo</button>
-                    <button type="button" id="transcriptModeContinuous" class="toggle-mode-btn" title="Visualização contínua taquigráfica">Texto Contínuo</button>
+                    <button type="button" id="transcriptModeContinuous" class="toggle-mode-btn" title="Visualização contínua taquigráfica">Texto contínuo</button>
                 </div>
 
                 <!-- Botão Tela Cheia -->
@@ -258,7 +253,7 @@
                         <line x1="16" y1="17" x2="8" y2="17"></line>
                         <polyline points="10 9 9 9 8 9"></polyline>
                     </svg>
-                    <span>Baixar Word (.docx)</span>
+                    <span>Baixar .docx</span>
                 </a>
 
                 <!-- Fechar -->
@@ -293,6 +288,9 @@
 
         <div id="transcriptDrawerBody" class="drawer-body" data-font-size="15"></div>
     </aside>
+
+    <!-- Movido pelo app.js para o cabeçalho da lista de processos -->
+    <button type="button" id="toggleAllDetailsBtn" class="btn-subtle" hidden>Recolher discussões</button>
 
     <script src="data.js"></script>
     <script src="app.js"></script>
