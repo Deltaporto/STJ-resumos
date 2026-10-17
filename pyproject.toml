@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "stj-sessoes-gmhb"
+version = "1.0.0"
+description = "Pipeline de captura, saneamento de transcrições, resumo jurídico e publicação de sessões da Primeira Turma e Primeira Seção do STJ (GMHB)."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "yt-dlp>=2025.1.0",
+    "youtube-transcript-api>=1.0.0",
+    "google-genai>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/stj_sessoes"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "--basetemp=.pytest_tmp"

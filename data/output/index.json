@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "video_id": "59Xi4wO9VVs",
+      "title": "Primeira Seção - STJ - 14/10/2026",
+      "upload_date": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=59Xi4wO9VVs",
+      "duration": 17220,
+      "orgao": "primeira_secao",
+      "processado_em": "2026-10-17T15:23:40.000000",
+      "arquivos": {
+        "transcricao_bruta": "primeira_secao/2026-10-14_primeira_secao_59Xi4wO9VVs_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_secao/2026-10-14_primeira_secao_59Xi4wO9VVs_transcricao_revisada.md",
+        "resumo_bruto": "primeira_secao/2026-10-14_primeira_secao_59Xi4wO9VVs_resumo_bruto.md",
+        "resumo": "primeira_secao/2026-10-14_primeira_secao_59Xi4wO9VVs_resumo.md",
+        "resumo_meta": "primeira_secao/2026-10-14_primeira_secao_59Xi4wO9VVs_resumo_meta.json",
+        "classificacao_flash": "primeira_secao/2026-10-14_primeira_secao_59Xi4wO9VVs_classificacao_flash.json"
+      }
+    },
+    {
+      "video_id": "Ikn2-1h60JU",
+      "title": "Primeira Turma - STJ - 13/10/2026",
+      "upload_date": "2026-10-13",
+      "url": "https://www.youtube.com/watch?v=Ikn2-1h60JU",
+      "duration": 17206,
+      "orgao": "primeira_turma",
+      "processado_em": "2026-10-17T15:23:40.000000",
+      "arquivos": {
+        "transcricao_bruta": "primeira_turma/2026-10-13_primeira_turma_Ikn2-1h60JU_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_turma/2026-10-13_primeira_turma_Ikn2-1h60JU_transcricao_revisada.md",
+        "resumo_bruto": "primeira_turma/2026-10-13_primeira_turma_Ikn2-1h60JU_resumo_bruto.md",
+        "resumo": "primeira_turma/2026-10-13_primeira_turma_Ikn2-1h60JU_resumo.md",
+        "resumo_meta": "primeira_turma/2026-10-13_primeira_turma_Ikn2-1h60JU_resumo_meta.json",
+        "classificacao_flash": "primeira_turma/2026-10-13_primeira_turma_Ikn2-1h60JU_classificacao_flash.json"
+      }
+    }
+  ],
+  "ultima_atualizacao": "2026-10-17T15:24:00.000000",
+  "total_videos": 2
+}

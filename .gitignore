@@ -1,0 +1,14 @@
+# Ambientes virtuais e cache Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest_tmp/
+
+# Cache de chamadas e artefatos temporários
+data/cache/
+*.log
+.env
+
+# Repositório temporário de sincronização do Pages
+.pages_repo/

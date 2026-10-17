@@ -1,0 +1,346 @@
+{
+  "classifications": [
+    {
+      "index": 1,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 4,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 5,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 7,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Benedito Gonçalves",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 8,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Benedito Gonçalves",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 9,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 11,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 12,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "materia_id": 7,
+      "materia": {
+        "id": 7,
+        "code": "7. Responsabilidade Civil da Administração",
+        "short": "Responsabilidade Civil da Administração"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "materia_id": 12,
+      "materia": {
+        "id": 12,
+        "code": "12. Direito Ambiental Urbanístico",
+        "short": "Direito Ambiental Urbanístico"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "materia_id": 10,
+      "materia": {
+        "id": 10,
+        "code": "10. Ação Civil Pública",
+        "short": "Ação Civil Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    }
+  ]
+}

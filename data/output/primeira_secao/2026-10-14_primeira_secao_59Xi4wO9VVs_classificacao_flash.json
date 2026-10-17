@@ -1,0 +1,213 @@
+{
+  "classifications": [
+    {
+      "index": 1,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 2,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "materia_id": 9,
+      "materia": {
+        "id": 9,
+        "code": "9. Poder de Polícia (Exceto Ambiental)",
+        "short": "Poder de Polícia (Exceto Ambiental)"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "materia_id": 2,
+      "materia": {
+        "id": 2,
+        "code": "2. Desapropriação / Intervenção do Estado",
+        "short": "Desapropriação / Intervenção do Estado"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Maria Thereza de Assis Moura",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 11,
+      "materia_id": 7,
+      "materia": {
+        "id": 7,
+        "code": "7. Responsabilidade Civil da Administração",
+        "short": "Responsabilidade Civil da Administração"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    }
+  ]
+}
