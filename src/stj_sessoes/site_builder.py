@@ -552,15 +552,34 @@ def montar_sessoes_publicaveis(
             if m.id in contagem_materias
         ]
 
-        # Salvar arquivo público de transcrição revisada para download
+        # Salvar arquivo público de transcrição revisada para download (.docx e .md)
         transcript_rel_url = ""
+        transcript_docx_rel_url = ""
         transcript_markdown = ""
         if transcricao_partes:
             nome_arquivo_transc = f"{session_id}_transcricao_revisada.md"
+            nome_arquivo_docx = f"{session_id}_transcricao_revisada.docx"
             caminho_publico_transc = web_transcricoes_dir / nome_arquivo_transc
+            caminho_publico_docx = web_transcricoes_dir / nome_arquivo_docx
+
             transcript_markdown = "\n\n---\n\n".join(transcricao_partes).strip() + "\n"
             caminho_publico_transc.write_text(transcript_markdown, encoding="utf-8")
             transcript_rel_url = f"transcricoes/{nome_arquivo_transc}"
+
+            try:
+                from stj_sessoes.docx_exporter import exportar_transcricao_para_docx
+
+                exportar_transcricao_para_docx(
+                    markdown_transcricao=transcript_markdown,
+                    output_path=caminho_publico_docx,
+                    video_url=partes_video[0]["url"] if partes_video else "",
+                    orgao=orgao_nome,
+                    data_sessao=data_br,
+                    titulo_sessao=title,
+                )
+                transcript_docx_rel_url = f"transcricoes/{nome_arquivo_docx}"
+            except Exception as exc:
+                logger.error("Erro ao gerar versão DOCX para %s: %s", session_id, exc)
 
         # Estatísticas agregadas exatas
         total_procs = len(todos_processos)
@@ -583,7 +602,9 @@ def montar_sessoes_publicaveis(
                 "orgaoSlug": orgao_slug,
                 "videos": partes_video,
                 "videoUrls": [p["url"] for p in partes_video if p["url"]],
-                "transcriptUrl": transcript_rel_url,
+                "transcriptUrl": transcript_docx_rel_url or transcript_rel_url,
+                "transcriptDocxUrl": transcript_docx_rel_url,
+                "transcriptMdUrl": transcript_rel_url,
                 "transcriptMarkdown": transcript_markdown,
                 "stats": {
                     "total": total_procs,

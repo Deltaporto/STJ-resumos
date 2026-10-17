@@ -150,6 +150,22 @@ def processar_video(
     arq_revisada.write_text(doc_revisada, encoding="utf-8")
     arquivos["transcricao_revisada"] = arq_revisada.relative_to(output_dir).as_posix()
 
+    try:
+        from stj_sessoes.docx_exporter import exportar_transcricao_para_docx
+
+        arq_revisada_docx = orgao_dir / f"{nome_base}_transcricao_revisada.docx"
+        exportar_transcricao_para_docx(
+            markdown_transcricao=doc_revisada,
+            output_path=arq_revisada_docx,
+            video_url=video.url,
+            orgao=orgao_nome,
+            data_sessao=formatar_data_br(video.upload_date),
+            titulo_sessao=video.title,
+        )
+        arquivos["transcricao_revisada_docx"] = arq_revisada_docx.relative_to(output_dir).as_posix()
+    except Exception as exc:
+        logger.warning("Não foi possível gerar transcrição .docx para %s: %s", video.video_id, exc)
+
     # 3. Gerar resumo jurídico estruturado (Min. Herman + 15 Matérias + Teses)
     if not apenas_transcrever:
         cached_resumo = None if force else yt_client.carregar_cache(video.video_id, "resumo_canonico")

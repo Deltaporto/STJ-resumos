@@ -281,22 +281,16 @@ document.addEventListener('DOMContentLoaded', () => {
         relatorSelect.appendChild(groupConvocados);
     };
 
-    // Configurar download de transcrição (funciona via arquivo estático e via Blob em file://)
+    // Configurar download de transcrição formatada em Word (.docx)
     const configureTranscriptDownload = (anchorEl, session) => {
         if (!anchorEl) return;
-        const hasTranscript = Boolean(session?.transcriptUrl || session?.transcriptMarkdown);
+        const hasTranscript = Boolean(session?.transcriptDocxUrl || session?.transcriptUrl || session?.transcriptMarkdown);
         anchorEl.hidden = !hasTranscript;
         if (!hasTranscript) return;
 
-        const fileName = `${session.id}_transcricao_revisada.md`;
-        anchorEl.setAttribute('download', fileName);
-
-        if (session.transcriptMarkdown && window.location.protocol === 'file:') {
-            const blob = new Blob([session.transcriptMarkdown], { type: 'text/markdown;charset=utf-8' });
-            anchorEl.href = URL.createObjectURL(blob);
-        } else {
-            anchorEl.href = session.transcriptUrl || '#';
-        }
+        const docxFileName = `${session.id}_transcricao_revisada.docx`;
+        anchorEl.setAttribute('download', docxFileName);
+        anchorEl.href = session.transcriptDocxUrl || session.transcriptUrl || `transcricoes/${docxFileName}`;
     };
 
     // Controle de Menu Mobile com Backdrop
@@ -1024,8 +1018,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!session) return;
         transcriptDrawerTitle.textContent = `Transcrição Revisada — ${session.title}`;
         if (drawerDownloadBtn) {
-            drawerDownloadBtn.href = session.transcriptUrl || '#';
-            drawerDownloadBtn.setAttribute('download', `${session.id}_transcricao_revisada.md`);
+            const docxFileName = `${session.id}_transcricao_revisada.docx`;
+            drawerDownloadBtn.setAttribute('download', docxFileName);
+            drawerDownloadBtn.href = session.transcriptDocxUrl || session.transcriptUrl || `transcricoes/${docxFileName}`;
         }
         transcriptSearchInput.value = '';
         state.transcriptSpeakerFilter = 'todos';
