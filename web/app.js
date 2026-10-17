@@ -56,6 +56,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const transcriptSearchInput = document.getElementById('transcriptSearchInput');
     const drawerDownloadBtn = document.getElementById('drawerDownloadBtn');
     const closeTranscriptDrawerBtn = document.getElementById('closeTranscriptDrawerBtn');
+    const transcriptFontDec = document.getElementById('transcriptFontDec');
+    const transcriptFontInc = document.getElementById('transcriptFontInc');
+    const transcriptModeDialogue = document.getElementById('transcriptModeDialogue');
+    const transcriptModeContinuous = document.getElementById('transcriptModeContinuous');
+    const fullscreenTranscriptBtn = document.getElementById('fullscreenTranscriptBtn');
+    const transcriptMatchCount = document.getElementById('transcriptMatchCount');
+    const speakerPills = Array.from(document.querySelectorAll('.speaker-pill'));
 
     // Estado da Aplicação
     const state = {
@@ -68,7 +75,12 @@ document.addEventListener('DOMContentLoaded', () => {
         onlyRelevant: false,
         onlyWithThesis: false,
         detailsCollapsed: false,
-        hermanSpotlightCollapsed: false
+        hermanSpotlightCollapsed: false,
+        highlightsSpotlightCollapsed: false,
+        transcriptViewMode: 'dialogue', // 'dialogue' | 'continuous'
+        transcriptSpeakerFilter: 'todos', // 'todos' | 'herman' | 'presidente' | 'relator'
+        transcriptFontSize: 15,
+        transcriptIsFullscreen: false
     };
 
     // Utilitários de Texto
@@ -625,7 +637,71 @@ document.addEventListener('DOMContentLoaded', () => {
             container.appendChild(spotlight);
         }
 
-        // 3. Colunas: Lista de Julgados + Coluna Lateral (Tesauro de Teses e Destaques)
+        // 2.5 Painel de Destaques e Casos Relevantes (Posicionado no Topo da Página)
+        const rawHighlights = Array.isArray(session.highlights) ? session.highlights : [];
+        if (rawHighlights.length > 0) {
+            const filteredHighlights = rawHighlights.filter((h) => {
+                if (state.searchQuery.trim()) {
+                    const q = normalizeText(state.searchQuery);
+                    const haystack = normalizeText(`${h.title || ''} ${h.text || ''}`);
+                    if (!haystack.includes(q)) return false;
+                }
+                return true;
+            });
+
+            const highlightsSpotlight = document.createElement('section');
+            highlightsSpotlight.id = 'highlightsSpotlight';
+            highlightsSpotlight.className = 'highlights-spotlight';
+            highlightsSpotlight.setAttribute('aria-label', 'Casos Relevantes e Destaques da Sessão');
+
+            const hCardsHtml = filteredHighlights.map((h) => {
+                return `
+                    <article class="highlight-spotlight-card">
+                        <div class="highlight-item-top">
+                            <span class="highlight-item-title">${highlightMatches(h.title || 'Destaque Colegiado', state.searchQuery)}</span>
+                        </div>
+                        <p class="highlight-item-text">${highlightMatches(h.text, state.searchQuery)}</p>
+                    </article>
+                `;
+            }).join('');
+
+            const hEmpty = filteredHighlights.length === 0
+                ? '<div class="herman-spotlight-empty">Nenhum destaque corresponde à busca ativa.</div>'
+                : '';
+
+            highlightsSpotlight.innerHTML = `
+                <div class="spotlight-header">
+                    <div class="spotlight-title-group">
+                        <span class="spotlight-kicker spotlight-kicker--relevant">Colegiado e Deliberações</span>
+                        <h3 class="spotlight-heading">Casos Relevantes e Destaques da Sessão</h3>
+                    </div>
+                    <div class="spotlight-header-actions">
+                        <span class="column-section-count" style="margin-right: 6px;">${filteredHighlights.length}</span>
+                        <button type="button" id="toggleHighlightsSpotlightBtn" class="btn-subtle" title="Recolher ou expandir painel">
+                            ${state.highlightsSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel'}
+                        </button>
+                    </div>
+                </div>
+                ${hEmpty}
+                <div class="highlights-grid ${state.highlightsSpotlightCollapsed ? 'collapsed' : ''}">${hCardsHtml}</div>
+            `;
+
+            const toggleHBtn = highlightsSpotlight.querySelector('#toggleHighlightsSpotlightBtn');
+            if (toggleHBtn) {
+                toggleHBtn.addEventListener('click', () => {
+                    state.highlightsSpotlightCollapsed = !state.highlightsSpotlightCollapsed;
+                    const grid = highlightsSpotlight.querySelector('.highlights-grid');
+                    if (grid) {
+                        grid.classList.toggle('collapsed', state.highlightsSpotlightCollapsed);
+                    }
+                    toggleHBtn.textContent = state.highlightsSpotlightCollapsed ? 'Expandir painel' : 'Recolher painel';
+                });
+            }
+
+            container.appendChild(highlightsSpotlight);
+        }
+
+        // 3. Colunas: Lista de Julgados + Coluna Lateral (Tesauro de Teses)
         const columns = document.createElement('div');
         columns.className = 'workspace-columns';
 
@@ -800,29 +876,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-        // Painel 2: Destaques da Sessão
-        const highlightsPanel = document.createElement('section');
-        highlightsPanel.className = 'aside-panel';
-        const highlights = Array.isArray(session.highlights) ? session.highlights : [];
-
-        const highlightsMarkup = highlights.length
-            ? highlights.map((h) => `
-                <li class="highlight-list-item">
-                    ${h.title ? `<strong>${highlightMatches(h.title, state.searchQuery)}</strong>` : ''}
-                    <span>${highlightMatches(h.text, state.searchQuery)}</span>
-                </li>
-            `).join('')
-            : '<li class="highlight-list-item">Sem destaques adicionais registrados.</li>';
-
-        highlightsPanel.innerHTML = `
-            <div class="aside-panel-header">
-                <h3 class="aside-panel-title">Casos Relevantes e Destaques</h3>
-                <span class="column-section-count">${highlights.length}</span>
-            </div>
-            <ul class="highlights-list">${highlightsMarkup}</ul>
-        `;
-
-        asideCol.append(thesesPanel, highlightsPanel);
+        asideCol.appendChild(thesesPanel);
         columns.append(procsCol, asideCol);
         container.appendChild(columns);
 
@@ -830,7 +884,7 @@ document.addEventListener('DOMContentLoaded', () => {
         documentViewer.appendChild(container);
     };
 
-    // Leitor de Transcrição Revisada e Saneada (Gaveta Lateral)
+    // Leitor de Transcrição Revisada e Saneada (Gaveta Lateral Imersiva)
     const renderTranscriptDrawerContent = async (session, filterQuery = '') => {
         let md = session.transcriptMarkdown || '';
         if (!md && session.transcriptUrl) {
@@ -847,6 +901,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (!md) {
             transcriptDrawerBody.innerHTML = '<div class="empty-state-box">Transcrição revisada indisponível para esta sessão.</div>';
+            if (transcriptMatchCount) transcriptMatchCount.textContent = '';
             return;
         }
 
@@ -854,55 +909,129 @@ document.addEventListener('DOMContentLoaded', () => {
         const paragraphs = md.replace(/\r\n/g, '\n').split(/\n{2,}/);
         const q = normalizeText(filterQuery);
 
+        transcriptDrawerBody.setAttribute('data-font-size', String(state.transcriptFontSize));
+        transcriptDrawerBody.classList.toggle('continuous-mode', state.transcriptViewMode === 'continuous');
+
         const blocksHtml = [];
+        let matchCount = 0;
+
         paragraphs.forEach((rawBlock) => {
             const trimmed = rawBlock.trim();
             if (!trimmed || trimmed === '---') return;
-            if (q && !normalizeText(trimmed).includes(q)) return;
 
             if (trimmed.startsWith('#')) {
-                const cleanHeading = trimmed.replace(/^#+\s*/, '');
-                blocksHtml.push(`<h3 class="transcript-heading">${highlightMatches(cleanHeading, filterQuery)}</h3>`);
+                if (state.transcriptSpeakerFilter === 'todos') {
+                    const cleanHeading = trimmed.replace(/^#+\s*/, '');
+                    blocksHtml.push(`<h3 class="transcript-heading">${highlightMatches(cleanHeading, filterQuery)}</h3>`);
+                }
                 return;
             }
 
-            const isHermanBlock = /herman\s+benjamin/i.test(trimmed);
-            let htmlBlock = highlightMatches(trimmed, filterQuery);
+            // Detectar orador e timestamp
+            // Formatos canônicos: **[00:23:09] Presidência / Colegiado:** ou **[00:31:18] Min. Herman Benjamin:**
+            const turnMatch = trimmed.match(/^\*\*\[(\d{2}:\d{2}:\d{2})\]\s*([^:]+):\*\*\s*(.*)$/s);
+            let ts = '';
+            let speaker = '';
+            let bodyText = trimmed;
 
-            // Tratar formatação Markdown: negrito, itálico, marcadores de lista e links
-            htmlBlock = htmlBlock
-                .replace(/^- \*\*(.*?):\*\*/g, '<strong>$1:</strong>')
+            if (turnMatch) {
+                ts = turnMatch[1];
+                speaker = turnMatch[2].trim();
+                bodyText = turnMatch[3].trim();
+            }
+
+            const isHerman = /herman\s+benjamin/i.test(speaker) || /herman\s+benjamin/i.test(trimmed);
+            const isPresidente = /presidente|presidência/i.test(speaker);
+            const isRelator = /relator|relatoria/i.test(speaker);
+
+            // Filtragem por Orador
+            if (state.transcriptSpeakerFilter === 'herman' && !isHerman) return;
+            if (state.transcriptSpeakerFilter === 'presidente' && !isPresidente) return;
+            if (state.transcriptSpeakerFilter === 'relator' && !isRelator) return;
+
+            // Busca por texto
+            if (q) {
+                const haystack = normalizeText(`${speaker} ${bodyText}`);
+                if (!haystack.includes(q)) return;
+            }
+
+            matchCount += 1;
+
+            // Tratar formatação de timestamp para YouTube com link direto
+            const buildTsLink = (timeStr) => {
+                if (!timeStr) return '';
+                if (!baseVideoUrl) return `<code>[${timeStr}]</code>`;
+                const parts = timeStr.split(':').map(Number);
+                const secs = parts[0] * 3600 + parts[1] * 60 + parts[2];
+                const sep = baseVideoUrl.includes('?') ? '&' : '?';
+                return `<a href="${escapeHtml(`${baseVideoUrl}${sep}t=${secs}s`)}" target="_blank" rel="noopener noreferrer" class="timestamp-pill" title="Reproduzir vídeo em ${timeStr}">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="width:11px;height:11px;margin-right:3px;"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                    <span>${timeStr}</span>
+                </a>`;
+            };
+
+            const tsPill = ts ? buildTsLink(ts) : '';
+
+            // Formatação do corpo do texto
+            let formattedBody = highlightMatches(bodyText, filterQuery);
+            formattedBody = formattedBody
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/(^|\s)\*(.*?)\*(\s|$)/g, '$1<em>$2</em>$3')
                 .replace(/\[(.*?)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
                 .replace(/^- /g, '• ');
 
-            // Transformar timestamps [HH:MM:SS] em links clicáveis para o vídeo do YouTube
-            htmlBlock = htmlBlock.replace(/\[(\d{2}:\d{2}:\d{2})\]/g, (full, ts) => {
-                if (!baseVideoUrl) return `<code>[${ts}]</code>`;
-                const parts = ts.split(':').map(Number);
-                const secs = parts[0] * 3600 + parts[1] * 60 + parts[2];
-                const sep = baseVideoUrl.includes('?') ? '&' : '?';
-                return `<a href="${escapeHtml(`${baseVideoUrl}${sep}t=${secs}s`)}" target="_blank" rel="noopener noreferrer" class="timestamp-pill">${ts}</a>`;
-            });
+            // Tratar timestamps adicionais dentro do texto
+            formattedBody = formattedBody.replace(/\[(\d{2}:\d{2}:\d{2})\]/g, (full, subTs) => buildTsLink(subTs));
 
-            blocksHtml.push(`
-                <div class="transcript-block ${isHermanBlock ? 'transcript-block--herman' : ''}">
-                    ${htmlBlock}
-                </div>
-            `);
+            if (state.transcriptViewMode === 'continuous') {
+                blocksHtml.push(`
+                    <div class="transcript-dialogue-card ${isHerman ? 'transcript-dialogue-card--herman' : ''}">
+                        <p class="dialogue-card-text">
+                            ${tsPill ? `<span style="float:right;margin-left:8px;">${tsPill}</span>` : ''}
+                            ${speaker ? `<strong>${highlightMatches(speaker, filterQuery)}:</strong> ` : ''}
+                            ${formattedBody}
+                        </p>
+                    </div>
+                `);
+            } else {
+                blocksHtml.push(`
+                    <article class="transcript-dialogue-card ${isHerman ? 'transcript-dialogue-card--herman' : ''}">
+                        <div class="dialogue-card-header">
+                            <span class="dialogue-speaker-badge">${highlightMatches(speaker || 'Manifestação', filterQuery)}</span>
+                            ${tsPill}
+                        </div>
+                        <p class="dialogue-card-text">${formattedBody}</p>
+                    </article>
+                `);
+            }
         });
+
+        if (transcriptMatchCount) {
+            if (filterQuery.trim()) {
+                transcriptMatchCount.textContent = `${matchCount} trecho${matchCount === 1 ? '' : 's'}`;
+            } else {
+                transcriptMatchCount.textContent = `${matchCount} falas`;
+            }
+        }
 
         transcriptDrawerBody.innerHTML = blocksHtml.length
             ? blocksHtml.join('')
-            : '<div class="empty-state-box">Nenhum trecho encontrado para o filtro informado.</div>';
+            : '<div class="empty-state-box">Nenhum trecho encontrado para os filtros selecionados.</div>';
     };
 
     const openTranscriptDrawer = () => {
         const session = rawSessions.find((s) => s.id === state.activeSessionId);
         if (!session) return;
         transcriptDrawerTitle.textContent = `Transcrição Revisada — ${session.title}`;
+        if (drawerDownloadBtn) {
+            drawerDownloadBtn.href = session.transcriptUrl || '#';
+            drawerDownloadBtn.setAttribute('download', `${session.id}_transcricao_revisada.md`);
+        }
         transcriptSearchInput.value = '';
+        state.transcriptSpeakerFilter = 'todos';
+        speakerPills.forEach((p) => {
+            p.classList.toggle('active', p.getAttribute('data-speaker') === 'todos');
+        });
         transcriptDrawerBackdrop.hidden = false;
         transcriptDrawer.hidden = false;
         // Forçar reflow para ativar a transição CSS
@@ -1043,6 +1172,57 @@ document.addEventListener('DOMContentLoaded', () => {
         if (session) {
             renderTranscriptDrawerContent(session, e.target.value);
         }
+    });
+
+    transcriptFontDec?.addEventListener('click', () => {
+        if (state.transcriptFontSize > 13) {
+            state.transcriptFontSize -= 1;
+            transcriptDrawerBody.setAttribute('data-font-size', String(state.transcriptFontSize));
+        }
+    });
+
+    transcriptFontInc?.addEventListener('click', () => {
+        if (state.transcriptFontSize < 18) {
+            state.transcriptFontSize += 1;
+            transcriptDrawerBody.setAttribute('data-font-size', String(state.transcriptFontSize));
+        }
+    });
+
+    transcriptModeDialogue?.addEventListener('click', () => {
+        state.transcriptViewMode = 'dialogue';
+        transcriptModeDialogue.classList.add('active');
+        transcriptModeContinuous.classList.remove('active');
+        const session = rawSessions.find((s) => s.id === state.activeSessionId);
+        if (session) renderTranscriptDrawerContent(session, transcriptSearchInput.value);
+    });
+
+    transcriptModeContinuous?.addEventListener('click', () => {
+        state.transcriptViewMode = 'continuous';
+        transcriptModeContinuous.classList.add('active');
+        transcriptModeDialogue.classList.remove('active');
+        const session = rawSessions.find((s) => s.id === state.activeSessionId);
+        if (session) renderTranscriptDrawerContent(session, transcriptSearchInput.value);
+    });
+
+    fullscreenTranscriptBtn?.addEventListener('click', () => {
+        state.transcriptIsFullscreen = !state.transcriptIsFullscreen;
+        transcriptDrawer.classList.toggle('fullscreen', state.transcriptIsFullscreen);
+        const exp = fullscreenTranscriptBtn.querySelector('.icon-expand');
+        const comp = fullscreenTranscriptBtn.querySelector('.icon-compress');
+        if (exp && comp) {
+            exp.hidden = state.transcriptIsFullscreen;
+            comp.hidden = !state.transcriptIsFullscreen;
+        }
+    });
+
+    speakerPills.forEach((pill) => {
+        pill.addEventListener('click', () => {
+            speakerPills.forEach((p) => p.classList.remove('active'));
+            pill.classList.add('active');
+            state.transcriptSpeakerFilter = pill.getAttribute('data-speaker') || 'todos';
+            const session = rawSessions.find((s) => s.id === state.activeSessionId);
+            if (session) renderTranscriptDrawerContent(session, transcriptSearchInput.value);
+        });
     });
 
     copySummaryBtn.addEventListener('click', async () => {

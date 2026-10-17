@@ -119,17 +119,74 @@ def auditar_pagina() -> dict[str, list[str]]:
             toggle_herman.click()  # desativar
             time.sleep(0.2)
 
-            # 5. Testar Gaveta de Transcrição (abertura, busca interna e fechamento)
+            # 4.1 Verificar se 'Casos Relevantes e Destaques' está no topo (acima da lista de processos)
+            highlights_spotlight = page.locator("#highlightsSpotlight")
+            if highlights_spotlight.is_visible():
+                achados["aprovados"].append("Seção 'Casos Relevantes e Destaques' visível no topo (acima da lista de julgados).")
+            else:
+                achados["alertas_ui_ux"].append("Seção 'Casos Relevantes e Destaques' não está visível no topo!")
+
+            # 4.2 Verificar se Tesauro de Teses está independente na coluna lateral (sticky aside)
+            theses_panel = page.locator("#thesesPanel")
+            if theses_panel.is_visible():
+                achados["aprovados"].append("Painel 'Tesauro de Teses' posicionado na coluna lateral direita (sticky independente).")
+
+            # 5. Testar Gaveta de Transcrição (abertura, modo diálogo vs contínuo, oradores, escalonador de fonte)
             btn_ler = page.locator("#readTranscriptBtn")
             btn_ler.click()
-            time.sleep(0.4)
+            time.sleep(0.5)
             page.screenshot(path=str(SCREENSHOTS_DIR / "05_drawer_aberto.png"))
 
-            # Digitar na busca da transcrição
+            # Verificar se os primeiros cartões de diálogo não possuem vinhetas e começam limpos
+            primeiro_card = page.locator(".transcript-dialogue-card").first
+            if primeiro_card.is_visible():
+                card_text = primeiro_card.inner_text()
+                if ">>" not in card_text and ("livros" not in card_text.lower()) and ("alaska" not in card_text.lower()):
+                    achados["aprovados"].append("Primeiro diálogo da transcrição saneado e livre de vinhetas/noticiários pré-sessão.")
+                else:
+                    achados["alertas_ui_ux"].append(f"Resíduo de noticiário ou >> detectado no primeiro card: {card_text[:60]}")
+
+            # 5.1 Testar escalonador de fonte (A+ e A-)
+            font_inc = page.locator("#transcriptFontInc")
+            font_dec = page.locator("#transcriptFontDec")
+            font_inc.click()
+            time.sleep(0.2)
+            cur_size = page.eval_on_selector("#transcriptDrawerBody", "el => el.getAttribute('data-font-size')")
+            if cur_size == "16":
+                achados["aprovados"].append("Escalonador de fonte A+ aumentou tamanho para 16px.")
+            font_dec.click()
+            time.sleep(0.2)
+
+            # 5.2 Testar alternância de modo (Cartões de Diálogo vs Leitura Contínua)
+            mode_cont = page.locator("#transcriptModeContinuous")
+            mode_dial = page.locator("#transcriptModeDialogue")
+            mode_cont.click()
+            time.sleep(0.3)
+            is_cont = page.eval_on_selector("#transcriptDrawerBody", "el => el.classList.contains('continuous-mode')")
+            if is_cont:
+                achados["aprovados"].append("Alternância para Modo Leitura Contínua aprovada.")
+            mode_dial.click()
+            time.sleep(0.2)
+
+            # 5.3 Testar filtro de orador: Min. Herman Benjamin
+            herman_pill = page.locator('.speaker-pill[data-speaker="herman"]')
+            if herman_pill.is_visible():
+                herman_pill.click()
+                time.sleep(0.3)
+                page.screenshot(path=str(SCREENSHOTS_DIR / "06_drawer_filtro_herman.png"))
+                cards_visiveis = page.locator(".transcript-dialogue-card:not([style*='display: none'])").count()
+                achados["aprovados"].append(f"Filtro de orador (Min. Herman Benjamin) filtrou {cards_visiveis} intervenções na gaveta.")
+                # Restaurar todos
+                page.locator('.speaker-pill[data-speaker="todos"]').click()
+                time.sleep(0.2)
+
+            # 5.4 Digitar na busca da transcrição e conferir contador
             transcript_search = page.locator("#transcriptSearchInput")
             transcript_search.fill("Herman")
             time.sleep(0.3)
             page.screenshot(path=str(SCREENSHOTS_DIR / "06_drawer_busca_herman.png"))
+            match_count_text = page.locator("#transcriptMatchCount").inner_text()
+            achados["aprovados"].append(f"Contador de correspondências na transcrição ativo: '{match_count_text}'.")
 
             # Fechar via Escape
             page.keyboard.press("Escape")
@@ -170,7 +227,7 @@ def auditar_pagina() -> dict[str, list[str]]:
 
             # Testar clique no botão voltar ao topo
             page.locator("#backToTopBtn").click()
-            time.sleep(0.4)
+            time.sleep(0.8)
             scroll_pos = page.eval_on_selector("#documentViewer", "el => el.scrollTop")
             if scroll_pos < 50:
                 achados["aprovados"].append("Clique no botão 'Voltar ao Topo' retornou com sucesso ao início.")

@@ -210,22 +210,55 @@
         </div>
     </div>
 
-    <!-- Modal / Gaveta Lateral de Leitura da Transcrição Revisada e Saneada -->
+    <!-- Leitor Taquigráfico Imersivo e Saneado -->
     <div id="transcriptDrawerBackdrop" class="drawer-backdrop" hidden></div>
     <aside id="transcriptDrawer" class="transcript-drawer" aria-labelledby="transcriptDrawerTitle" aria-hidden="true" hidden>
         <header class="drawer-header">
             <div class="drawer-title-group">
-                <span class="drawer-kicker">Documento Revisado e Saneado com Minutagem</span>
+                <span class="drawer-kicker">Taquigrafia Saneada e Estruturada</span>
                 <h2 id="transcriptDrawerTitle" class="drawer-title">Transcrição da Sessão</h2>
             </div>
             <div class="drawer-actions">
-                <div class="drawer-search">
-                    <input type="search" id="transcriptSearchInput" placeholder="Filtrar parágrafos na transcrição..." autocomplete="off">
+                <!-- Controle de Fonte A- / A+ -->
+                <div class="font-size-controls" role="group" aria-label="Ajuste do tamanho do texto">
+                    <button type="button" id="transcriptFontDec" class="btn-subtle btn-subtle--sm" title="Diminuir tamanho da fonte">A-</button>
+                    <button type="button" id="transcriptFontInc" class="btn-subtle btn-subtle--sm" title="Aumentar tamanho da fonte">A+</button>
                 </div>
+
+                <!-- Alternador de Modo: Diálogo vs Texto Contínuo -->
+                <div class="transcript-view-toggle" role="group" aria-label="Modo de exibição da transcrição">
+                    <button type="button" id="transcriptModeDialogue" class="toggle-mode-btn active" title="Visualização em balões de diálogo por orador">Diálogo</button>
+                    <button type="button" id="transcriptModeContinuous" class="toggle-mode-btn" title="Visualização contínua taquigráfica">Texto Contínuo</button>
+                </div>
+
+                <!-- Botão Tela Cheia -->
+                <button type="button" id="fullscreenTranscriptBtn" class="icon-button" title="Alternar tela cheia" aria-label="Alternar tela cheia">
+                    <svg class="icon-expand" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                        <polyline points="15 3 21 3 21 9"></polyline>
+                        <polyline points="9 21 3 21 3 15"></polyline>
+                        <line x1="21" y1="3" x2="14" y2="10"></line>
+                        <line x1="3" y1="21" x2="10" y2="14"></line>
+                    </svg>
+                    <svg class="icon-compress" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" hidden>
+                        <polyline points="4 14 10 14 10 20"></polyline>
+                        <polyline points="20 10 14 10 14 4"></polyline>
+                        <line x1="14" y1="10" x2="21" y2="3"></line>
+                        <line x1="3" y1="21" x2="10" y2="14"></line>
+                    </svg>
+                </button>
+
+                <!-- Baixar Markdown Saneado -->
                 <a id="drawerDownloadBtn" class="btn-action btn-action--primary" href="#" download>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="7 10 12 15 17 10"></polyline>
+                        <line x1="12" y1="15" x2="12" y2="3"></line>
+                    </svg>
                     <span>Baixar .MD</span>
                 </a>
-                <button type="button" id="closeTranscriptDrawerBtn" class="icon-button" aria-label="Fechar transcrição">
+
+                <!-- Fechar -->
+                <button type="button" id="closeTranscriptDrawerBtn" class="icon-button" aria-label="Fechar transcrição" title="Fechar (Esc)">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
                         <line x1="18" y1="6" x2="6" y2="18"></line>
                         <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -233,7 +266,28 @@
                 </button>
             </div>
         </header>
-        <div id="transcriptDrawerBody" class="drawer-body"></div>
+
+        <!-- Barra de Ferramentas e Filtros da Transcrição -->
+        <div class="drawer-toolbar">
+            <div class="drawer-search-wrap">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                    <circle cx="11" cy="11" r="7.5"></circle>
+                    <path d="m20 20-3.8-3.8"></path>
+                </svg>
+                <input type="search" id="transcriptSearchInput" placeholder="Buscar falas, votos ou palavras-chave na transcrição..." autocomplete="off">
+                <span id="transcriptMatchCount" class="transcript-match-count" aria-live="polite"></span>
+            </div>
+
+            <!-- Filtros de Oradores -->
+            <div class="speaker-filter-pills" role="group" aria-label="Filtrar por interlocutor">
+                <button type="button" class="speaker-pill active" data-speaker="todos">Todos</button>
+                <button type="button" class="speaker-pill speaker-pill--herman" data-speaker="herman">Min. Herman Benjamin</button>
+                <button type="button" class="speaker-pill" data-speaker="presidente">Presidência</button>
+                <button type="button" class="speaker-pill" data-speaker="relator">Relatores</button>
+            </div>
+        </div>
+
+        <div id="transcriptDrawerBody" class="drawer-body" data-font-size="15"></div>
     </aside>
 
     <script src="data.js"></script>

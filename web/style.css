@@ -871,12 +871,148 @@ body {
     text-decoration: underline;
 }
 
-/* Grade de 2 Colunas: Processos Julgados + Painel Lateral (Tesauro de Teses e Destaques) */
+/* Painel de Destaques da Sessão e Casos Relevantes (Posicionado no Topo) */
+.highlights-spotlight {
+    background: var(--relevant-bg);
+    border: 1px solid rgba(122, 82, 22, 0.22);
+    border-left: 4px solid var(--relevant-accent);
+    border-radius: var(--radius-md);
+    padding: 16px 20px;
+    transition: all 0.2s ease;
+}
+
+[data-theme="dark"] .highlights-spotlight {
+    border-color: rgba(222, 182, 104, 0.28);
+}
+
+.spotlight-kicker--relevant {
+    color: var(--relevant-accent);
+}
+
+.highlights-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 12px;
+}
+
+.highlights-grid.collapsed {
+    display: none;
+}
+
+.highlight-spotlight-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.highlight-item-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.highlight-item-title {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.highlight-item-text {
+    margin: 0;
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+
+.highlight-item-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: auto;
+    padding-top: 6px;
+}
+
+.highlights-spotlight-empty {
+    font-size: 13px;
+    color: var(--text-muted);
+    font-style: italic;
+    padding: 6px 0;
+}
+
+/* Seletor de Modo de Visualização do Workspace */
+.view-mode-tabs {
+    display: inline-flex;
+    align-items: center;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-sm);
+    padding: 3px;
+    gap: 4px;
+    align-self: flex-start;
+}
+
+.view-tab {
+    border: none;
+    background: transparent;
+    font-family: var(--font-sans);
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    padding: 5px 12px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.12s ease;
+}
+
+.view-tab:hover {
+    color: var(--text-primary);
+}
+
+.view-tab.active {
+    background: var(--brand-navy);
+    color: #ffffff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+/* Grade do Workspace: Processos Julgados + Tesauro Lateral */
 .workspace-columns {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) 360px;
+    grid-template-columns: minmax(0, 1fr) 370px;
     gap: 20px;
     align-items: start;
+}
+
+.workspace-columns.view-mode--processes {
+    grid-template-columns: 1fr;
+}
+
+.workspace-columns.view-mode--processes .aside-column {
+    display: none;
+}
+
+.workspace-columns.view-mode--theses {
+    grid-template-columns: 1fr;
+}
+
+.workspace-columns.view-mode--theses .processes-column {
+    display: none;
+}
+
+.workspace-columns.view-mode--theses .aside-column {
+    position: static;
+    max-height: none;
+}
+
+.workspace-columns.view-mode--theses .theses-list {
+    max-height: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 12px;
 }
 
 .processes-column {
@@ -1191,22 +1327,24 @@ body {
 }
 
 /* Coluna Lateral Direita: Tesauro de Teses e Destaques da Sessão */
+/* Coluna Lateral do Tesauro: Sticky e Rolável com suavidade */
 .aside-column {
+    position: sticky;
+    top: 16px;
+    max-height: calc(100vh - 120px);
     display: flex;
     flex-direction: column;
-    gap: 16px;
-    position: sticky;
-    top: 0;
 }
 
 .aside-panel {
     background: var(--bg-surface);
     border: 1px solid var(--border-subtle);
     border-radius: var(--radius-md);
-    padding: 16px;
+    padding: 14px 16px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    max-height: 100%;
+    box-shadow: var(--shadow-card);
 }
 
 .aside-panel-header {
@@ -1215,6 +1353,7 @@ body {
     justify-content: space-between;
     padding-bottom: 8px;
     border-bottom: 1px solid var(--border-subtle);
+    flex-shrink: 0;
 }
 
 .aside-panel-title {
@@ -1224,16 +1363,26 @@ body {
     font-weight: 700;
 }
 
-.theses-list,
-.highlights-list {
+.theses-list {
     list-style: none;
-    margin: 0;
+    margin: 10px 0 0;
     padding: 0;
     display: flex;
     flex-direction: column;
     gap: 8px;
-    max-height: 460px;
     overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-strong) transparent;
+    padding-right: 4px;
+}
+
+.theses-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.theses-list::-webkit-scrollbar-thumb {
+    background: var(--border-strong);
+    border-radius: 4px;
 }
 
 .thesis-item-btn {
@@ -1280,26 +1429,11 @@ body {
     line-height: 1.45;
 }
 
-.highlight-list-item {
-    padding: 8px 10px;
-    background: var(--bg-elevated);
-    border: 1px solid var(--border-subtle);
-    border-radius: var(--radius-sm);
-    font-size: 12.5px;
-    color: var(--text-secondary);
-}
-
-.highlight-list-item strong {
-    color: var(--text-primary);
-    display: block;
-    margin-bottom: 2px;
-}
-
-/* Gaveta de Leitura da Transcrição Revisada */
+/* Leitor Taquigráfico Imersivo e Saneado */
 .drawer-backdrop {
     position: fixed;
     inset: 0;
-    background: rgba(10, 12, 16, 0.52);
+    background: rgba(10, 12, 16, 0.55);
     backdrop-filter: blur(2px);
     z-index: 90;
     opacity: 0;
@@ -1316,7 +1450,7 @@ body {
     position: fixed;
     top: 0;
     right: 0;
-    width: min(860px, 94vw);
+    width: min(940px, 95vw);
     height: 100vh;
     background: var(--bg-surface);
     border-left: 1px solid var(--border-strong);
@@ -1327,7 +1461,7 @@ body {
     transform: translateX(100%);
     visibility: hidden;
     pointer-events: none;
-    transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.28s ease;
+    transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.28s ease, width 0.2s ease;
 }
 
 .transcript-drawer.is-open {
@@ -1336,14 +1470,26 @@ body {
     pointer-events: auto;
 }
 
+.transcript-drawer.is-fullscreen {
+    width: 100vw;
+    border-left: none;
+}
+
 .drawer-header {
-    padding: 16px 22px;
+    padding: 14px 22px;
     border-bottom: 1px solid var(--border-subtle);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 16px;
+    gap: 14px;
     flex-wrap: wrap;
+    background: var(--bg-surface);
+    flex-shrink: 0;
+}
+
+.drawer-title-group {
+    display: flex;
+    flex-direction: column;
 }
 
 .drawer-kicker {
@@ -1364,16 +1510,152 @@ body {
     display: flex;
     align-items: center;
     gap: 8px;
+    flex-wrap: wrap;
 }
 
-.drawer-search input {
-    padding: 6px 10px;
+/* Controle de Fonte A- / A+ */
+.font-size-controls {
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+}
+
+.btn-subtle--sm {
+    padding: 4px 8px;
+    font-size: 11px;
+    font-weight: 700;
+    border: none;
+    background: var(--bg-surface);
+    color: var(--text-secondary);
+    cursor: pointer;
+}
+
+.btn-subtle--sm:hover {
+    background: var(--bg-app);
+}
+
+.btn-subtle--sm + .btn-subtle--sm {
+    border-left: 1px solid var(--border-subtle);
+}
+
+/* Alternador Diálogo vs Texto Contínuo */
+.transcript-view-toggle {
+    display: flex;
+    align-items: center;
+    background: var(--bg-app);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-sm);
+    padding: 2px;
+    gap: 2px;
+}
+
+.toggle-mode-btn {
+    border: none;
+    background: transparent;
+    font-family: var(--font-sans);
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--text-muted);
+    padding: 3px 8px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.12s ease;
+}
+
+.toggle-mode-btn.active {
+    background: var(--bg-surface);
+    color: var(--brand-navy);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+/* Barra de Ferramentas e Filtros da Transcrição */
+.drawer-toolbar {
+    padding: 10px 22px;
+    background: var(--bg-elevated);
+    border-bottom: 1px solid var(--border-subtle);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+}
+
+.drawer-search-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 240px;
+    display: flex;
+    align-items: center;
+}
+
+.drawer-search-wrap .search-icon {
+    position: absolute;
+    left: 10px;
+    width: 14px;
+    height: 14px;
+    color: var(--text-muted);
+}
+
+.drawer-search-wrap input {
+    width: 100%;
+    padding: 6px 70px 6px 30px;
+    font-family: var(--font-sans);
     font-size: 12.5px;
     border: 1px solid var(--border-subtle);
     border-radius: var(--radius-sm);
-    background: var(--bg-app);
+    background: var(--bg-surface);
     color: var(--text-primary);
-    min-width: 220px;
+    outline: none;
+}
+
+.drawer-search-wrap input:focus {
+    border-color: var(--brand-navy);
+}
+
+.transcript-match-count {
+    position: absolute;
+    right: 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-muted);
+}
+
+.speaker-filter-pills {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.speaker-pill {
+    border: 1px solid var(--border-subtle);
+    background: var(--bg-surface);
+    color: var(--text-secondary);
+    font-family: var(--font-sans);
+    font-size: 11.5px;
+    font-weight: 500;
+    padding: 3px 9px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.12s ease;
+}
+
+.speaker-pill:hover {
+    border-color: var(--border-strong);
+}
+
+.speaker-pill.active {
+    background: var(--brand-navy);
+    color: #fff;
+    border-color: var(--brand-navy);
+}
+
+.speaker-pill--herman.active {
+    background: var(--herman-accent);
+    border-color: var(--herman-accent);
 }
 
 .drawer-body {
@@ -1385,20 +1667,65 @@ body {
     gap: 12px;
 }
 
-.transcript-block {
-    padding: 10px 14px;
-    border-radius: var(--radius-sm);
+.drawer-body[data-font-size="13"] { font-size: 13px; }
+.drawer-body[data-font-size="14"] { font-size: 14px; }
+.drawer-body[data-font-size="15"] { font-size: 15px; }
+.drawer-body[data-font-size="16"] { font-size: 16px; }
+.drawer-body[data-font-size="18"] { font-size: 18px; }
+
+/* Balões de Diálogo Taquigráfico */
+.transcript-dialogue-card {
     background: var(--bg-elevated);
     border: 1px solid var(--border-subtle);
-    font-size: 14px;
+    border-radius: var(--radius-sm);
+    padding: 12px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
     line-height: 1.65;
+    transition: background-color 0.12s ease;
+}
+
+.transcript-dialogue-card--herman {
+    background: var(--herman-bg);
+    border-color: var(--herman-border);
+    border-left: 4px solid var(--herman-accent);
+}
+
+.dialogue-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding-bottom: 2px;
+}
+
+.dialogue-speaker-badge {
+    font-size: 12.5px;
+    font-weight: 700;
+    color: var(--brand-navy);
+}
+
+.transcript-dialogue-card--herman .dialogue-speaker-badge {
+    color: var(--herman-accent);
+}
+
+.dialogue-card-text {
+    margin: 0;
     color: var(--text-primary);
 }
 
-.transcript-block--herman {
-    background: var(--herman-bg);
-    border-color: var(--herman-border);
-    border-left: 3px solid var(--herman-accent);
+/* Modo Contínuo */
+.drawer-body.continuous-mode {
+    gap: 8px;
+}
+
+.drawer-body.continuous-mode .transcript-dialogue-card {
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border-subtle);
 }
 
 .transcript-heading {
