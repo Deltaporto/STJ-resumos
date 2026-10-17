@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 
 LINHA_TIMESTAMP_RE = re.compile(r"^\[(\d{2}:\d{2}:\d{2})\]\s*(.+)$")
 
-# Frases típicas de vinhetas institucionais do STJ exibidas antes da abertura da sessão
+# Frases típicas de vinhetas institucionais e programação pré-sessão da TV Justiça exibidas antes da abertura da sessão
 PADROES_VINHETA_INSTITUCIONAL = re.compile(
     r"(?:"
     r"dificuldade\s+de\s+leitura\.\s*a\s+ouvidoria|"
@@ -33,7 +33,14 @@ PADROES_VINHETA_INSTITUCIONAL = re.compile(
     r"pacto\s+nacional\s+do\s+judici[aá]rio\s+pela\s+linguagem\s+simples|"
     r"revista\s+de\s+estudos\s+jur[ií]dicos\s+do\s+superior\s+tribunal\s+de\s+justi[cç]a|"
     r"rejuri\s+stj\s+[eé]\s+voltada|"
-    r"chamamento\s+p[uú]blico\s+para\s+o\s+envio\s+de\s+artigos"
+    r"programa\s+rej[uú]ri|"
+    r"chamamento\s+p[uú]blico\s+para\s+o\s+envio\s+de\s+artigos|"
+    r"coordenadoria\s+de\s+tv\s+e\s+r[aá]dio|"
+    r"superior\s+tribunal\s+de\s+justi[cç]a\s+apresenta|"
+    r"biblioteca\s+ministro\s+oscar\s+saraiva|"
+    r"reportagem\s+especial|"
+    r"espa[cç]o\s+cultural\s+do\s+stj|"
+    r"c[aã]es-guia|c[aã]o-guia"
     r")",
     re.IGNORECASE,
 )
@@ -41,13 +48,18 @@ PADROES_VINHETA_INSTITUCIONAL = re.compile(
 # Marcadores de abertura real da sessão colegiada
 PADROES_ABERTURA_SESSAO = re.compile(
     r"\b(?:"
-    r"declaro\s+aberta\s+a\s+sess[aã]o|"
+    r"declaro\s+abert[oa]s?\s+(?:a\s+sess[aã]o|os\s+trabalhos)|"
     r"aberta\s+a\s+sess[aã]o|"
     r"invocando\s+a\s+prote[cç][aã]o\s+de\s+deus|"
-    r"iniciamos\s+a\s+sess[aã]o|"
+    r"iniciamos\s+(?:a\s+sess[aã]o|os\s+trabalhos)|"
+    r"vamos\s+iniciar\s+(?:a\s+sess[aã]o|os\s+trabalhos)|"
     r"damos\s+in[ií]cio\s+[aà]\s+sess[aã]o|"
     r"apregoa-se\s+o\s+item|"
-    r"chamo\s+a\s+julgamento"
+    r"chamo\s+a\s+julgamento|"
+    r"indago\s+da\s+senhora\s+secret[aá]ria|"
+    r"solicito\s+[aà]\s+senhora\s+secret[aá]ria|"
+    r"leitura\s+da\s+ata|ata\s+da\s+sess[aã]o|"
+    r"havendo\s+qu[oó]rum|h[aá]\s+qu[oó]rum"
     r")\b",
     re.IGNORECASE,
 )
@@ -69,6 +81,8 @@ GLOSSARIO_FONETICO_STJ: tuple[tuple[re.Pattern[str], str], ...] = (
     (re.compile(r"\bs[uú]mula\s+oitenta\s+e\s+tr[eê]s\b", re.IGNORECASE), "Súmula 83"),
     (re.compile(r"\bs[uú]mula\s+duzentos\s+e\s+onze\b", re.IGNORECASE), "Súmula 211"),
     (re.compile(r"\b(?:hashag|sqr\s+code)\b", re.IGNORECASE), ""),
+    (re.compile(r"\[(?:m[uú]sica|risos|palmas|aplausos|tosse|roncando|suspiro|inaud[ií]vel)\]", re.IGNORECASE), ""),
+    (re.compile(r"^>>+\s*", re.MULTILINE), ""),
 )
 
 PADROES_NOVO_BLOCO = re.compile(
@@ -78,15 +92,41 @@ PADROES_NOVO_BLOCO = re.compile(
 
 PROMPT_REVISAO_TRANSCRICAO = """Você é um revisor taquigráfico especializado nas sessões da Primeira Turma e da Primeira Seção do Superior Tribunal de Justiça (STJ).
 
-Sua tarefa é revisar e organizar o trecho de transcrição abaixo, proveniente de legendas automáticas, observando rigorosamente estas diretrizes:
-1. PRESERVAÇÃO INTEGRAL DO CONTEÚDO: Não resuma, não omita argumentos e não invente falas. Trata-se de transcrição revisada e saneada, não de resumo.
-2. CORREÇÃO GRAMATICAL E TÉCNICA: Corrija erros fonéticos da transcrição automática, pontuação, concordância e grafia de institutos jurídicos (REsp, AREsp, AgInt, EDcl, Súmulas, temas repetitivos, leis) e dos nomes dos Ministros (Min. Herman Benjamin, Min. Regina Helena Costa, Min. Gurgel de Faria, Min. Paulo Sérgio Domingues, Min. Benedito Gonçalves, Min. Sérgio Kukina, Min. Francisco Falcão, Min. Mauro Campbell Marques, Min. Teodoro Silva Santos, Min. Afrânio Vilela, Min. Maria Thereza de Assis Moura, ou Desembargadores Convocados).
-3. MINUTAGEM E ORGANIZAÇÃO:
-   - Mantenha os marcadores de tempo no formato `[HH:MM:SS]` no início de cada parágrafo ou mudança de interlocutor.
-   - Sempre que houver apregoamento de novo processo ou início de voto/sustentação oral, insira um subtítulo claro: `### [HH:MM:SS] [Identificação do Processo ou Ato / Interlocutor]`.
-   - Sempre que o **Min. Herman Benjamin** tomar a palavra, identifique claramente o bloco com `**[HH:MM:SS] Min. Herman Benjamin:**` (ou subtítulo próprio se for voto/manifestação extensa).
-4. REMOÇÃO DE RUÍDO: Se ainda houver resquício de comercial institucional da TV Justiça/STJ desconectado da sessão, remova-o.
-5. Devolva APENAS o texto revisado em Markdown, sem comentários introdutórios e sem emojis.
+Sua tarefa é revisar e sanear o trecho de transcrição abaixo, transformando a legenda automática em texto taquigráfico elegante, fluido e institucional, observando rigorosamente estas diretrizes:
+
+1. PRESERVAÇÃO INTEGRAL DO CONTEÚDO E FIDELIDADE:
+   - Não resuma, não omita debates, votos ou argumentos e não invente falas.
+   - Trata-se de transcrição oficial saneada, não de resumo.
+
+2. SUPRESSÃO DE PROGRAMAÇÃO PRÉ-SESSÃO E RUÍDOS DE ÁUDIO:
+   - Se este trecho for do início da transmissão e contiver reportagens de TV, programas institucionais, entrevistas (como lançamentos de livros, cães-guia, Museu/Biblioteca, Rejúri) anteriores à abertura dos trabalhos pelo Presidente, SUPRIMA integralmente essa introdução e inicie no momento em que a sessão é aberta.
+   - Elimine absolutamente ruídos de áudio anotados pela legenda (ex.: [música], [tosse], [palmas], [risos], [roncando], [suspiro]).
+   - Elimine qualquer caractere residual de legenda `>>` ou `>>>`.
+   - Elimine repetições ou gagueiras de áudio truncado (ex.: 'no agravo interno, no agravo interno...').
+
+3. ATRIBUIÇÃO PRECISA DE INTERLOCUTOR EM CADA PARÁGRAFO:
+   - Formato canônico obrigatório para cada intervenção:
+     `**[HH:MM:SS] Orador:** Texto`
+   - DESTAQUE NOMINAL EM NEGRITO para todas as intervenções do Min. Herman Benjamin:
+     `**[HH:MM:SS] Min. Herman Benjamin:** Texto`
+   - Para os demais oradores, identifique o cargo ou função institucional:
+     - Presidente: `**[HH:MM:SS] Min. Presidente (Min. [Nome]):** Texto` ou `**[HH:MM:SS] Min. [Nome] (Presidente):** Texto`
+     - Relatores/Vogais: `**[HH:MM:SS] Min. [Nome]:** Texto` (ou `Des. Conv. [Nome]`)
+     - Advogados: `**[HH:MM:SS] Dr. [Nome] (Advogado):** Texto`
+     - Ministério Público: `**[HH:MM:SS] Dr. [Nome] (Subprocurador-Geral da República):** Texto`
+     - Secretária da Turma/Seção: `**[HH:MM:SS] Dra. [Nome] (Secretária):** Texto`
+   - Quando houver apregoamento de novo processo, questão de ordem ou início de bloco temático relevante, insira um subtítulo:
+     `### [HH:MM:SS] [Identificação do Processo / Questão de Ordem]`
+
+4. CORREÇÃO GRAMATICAL E TERMINOLOGIA JURÍDICA:
+   - Corrija erros fonéticos de ASR na grafia de nomes de Ministros, partes, advogados e processos:
+     Min. Herman Benjamin, Min. Sérgio Kukina, Min. Gurgel de Faria, Min. Regina Helena Costa, Min. Paulo Sérgio Domingues, Min. Benedito Gonçalves, Min. Francisco Falcão, Min. Mauro Campbell Marques, Min. Teodoro Silva Santos, Min. Afrânio Vilela, Min. Maria Thereza de Assis Moura, Desembargadores Convocados.
+   - Ajuste grafias de súmulas, leis e siglas (REsp, AREsp, AgInt, EDcl, IAC, CPC, CTN, Súmula 7/STJ, Tema 1220/STJ, Tema 1244/STJ, etc.).
+
+5. PARÁGRAFOS ORATÓRIOS FLUIDOS:
+   - Agrupe a fala em parágrafos coesos e oratórios, evitando a fragmentação linha a linha da legenda automática.
+
+6. Devolva APENAS o texto revisado em Markdown, sem explicações preliminares ou finais e sem emojis.
 
 TRECHO DA TRANSCRIÇÃO ({orgao} - {data} - Parte {parte}/{total_partes}):
 
@@ -136,22 +176,22 @@ def _remover_vinhetas_iniciais(itens: list[tuple[str, int, str]]) -> list[tuple[
     if not itens:
         return []
 
-    # 1. Procurar se há um marcador explícito de abertura nos primeiros 40 minutos
+    # 1. Procurar se há um marcador explícito de abertura nos primeiros 60 minutos
     indice_abertura = 0
     for idx, (_, segs, texto) in enumerate(itens):
-        if segs > 45 * 60:
+        if segs > 60 * 60:
             break
         if PADROES_ABERTURA_SESSAO.search(texto):
             indice_abertura = idx
             break
 
     # 2. Se não encontrou frase canônica de abertura, verificar se há loop pré-sessão com [música]
-    # nos primeiros 30 minutos (típico das transmissões do YouTube do STJ antes de abrir o microfone do plenário)
+    # nos primeiros 45 minutos (típico das transmissões do YouTube do STJ antes de abrir o microfone do plenário)
     if indice_abertura == 0:
         ult_musica_idx = -1
         contagem_musica = 0
         for idx, (_, segs, texto) in enumerate(itens):
-            if segs > 35 * 60:
+            if segs > 45 * 60:
                 break
             if "[música]" in texto.lower() or "[musica]" in texto.lower():
                 contagem_musica += 1
@@ -349,6 +389,17 @@ def sanear_e_revisar_transcricao(
 
     resultados.sort(key=lambda r: r[0])
     corpo_final = "\n\n".join(r[1] for r in resultados).strip()
+
+    # Pós-processamento determinístico de segurança contra resíduos de legenda
+    corpo_final = re.sub(r"^>>+\s*", "", corpo_final, flags=re.MULTILINE)
+    corpo_final = re.sub(r">>+\s*", "", corpo_final)
+    corpo_final = re.sub(
+        r"\[(?:m[uú]sica|risos|palmas|aplausos|tosse|roncando|suspiro|inaud[ií]vel)\]",
+        "",
+        corpo_final,
+        flags=re.IGNORECASE,
+    )
+    corpo_final = re.sub(r"[ \t]+", " ", corpo_final)
 
     return gerar_documento_transcricao_revisada(
         video,
