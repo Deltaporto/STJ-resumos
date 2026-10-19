@@ -2235,6 +2235,8 @@ const resumosData = [
         }
       ]
     },
+    "pautaPdfUrl": "pautas/2026-10-14_primeira_secao_pauta.pdf",
+    "pautaOfficialUrl": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/401075455/pdf",
     "hermanHighlights": [
       {
         "title": "Questão de Ordem no REsp 1.826.796/SC / Tema 1220/STJ",
@@ -5409,6 +5411,8 @@ const resumosData = [
         }
       ]
     },
+    "pautaPdfUrl": "pautas/2026-10-13_primeira_turma_pauta.pdf",
+    "pautaOfficialUrl": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/400809816/pdf",
     "hermanHighlights": [
       {
         "title": "REsp 2.093.860/RS — Questão de Ordem em Mandado de Segurança Preventivo sobre Operações de Hedge / NDF e Prova Pré-Constituída",
