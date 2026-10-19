@@ -101,6 +101,7 @@ const resumosData = [
     "transcriptMarkdown": "# Transcrição Revisada e Saneada — Primeira Seção (14/10/2026)\n\n- **Órgão Julgador:** Primeira Seção — Superior Tribunal de Justiça\n- **Data da Sessão:** 14/10/2026\n- **Duração da Transmissão:** 4h 47min\n- **Vídeo Original:** [Primeira Seção - STJ - 14/10/2026](https://www.youtube.com/watch?v=59Xi4wO9VVs)\n- **Saneamento Taquigráfico:** Eliminação integral de vinhetas pré-sessão, correção fonética de nomes/acórdãos e estruturação por interlocutor\n\n---\n\n## Transcrição Organizada por Interlocutor e Minutagem\n\n**[00:23:09] Min. Gurgel de Faria (Presidente):** De relatoria do senhor Min. Marco Aurélio Bellizze o Tema 1244/STJ referente aos recursos especiais REsp 2.053.569 REsp 2.053.647 REsp 2.046.893 pelo senhor ministro Paulo Sérgio Domingues, os votos-vista no Tema 1302/STJ, recursos especiais REsp 2.146.834 e REsp 2.146.839 e os votos-vista no Tema 1275/STJ. Embargo de divergência no recurso especial REsp 1.793.915 divergência no recurso especial REsp 1.997.816. Os recursos especiais REsp 2.134.824 REsp 2.170.082 e REsp 2.170.092. Pelo senhor Min. Sérgio Kukina os votos-vista no Tema 1397/STJ referente aos recursos especiais REsp 2.186.838 REsp 2.148.056, vista regimental no IAC 21/STJ pelo senhor Min. Afrânio Vilela, referente ao recurso especial 1.957.818 de São Paulo. Bem, eh, pergunto, temos apenas dois processos no bloco e não vi nenhuma observação, nenhum destaque, podemos julgá-los. Então, o bloco está devidamente aprovado. Eh, e antes de ir para o julgamento dos processos propriamente ditos, eu gostaria de fazer o registro aqui rápido de uma efeméride (aniversário) de uma querida colega e amiga. Uma data muito bonita, não vou revelar qual é, não se preocupe, ministra, Min. Maria Thereza de Assis Moura. E é difícil a gente descobrir, né? Porque vai ali no Google, no instante descobre. Não vou, mas não vou revelar. Quem tiver a curiosidade, que no caso vai e e verifica, mas é aniversário da nossa querida Min. Maria Thereza de Assis Moura, que foi presidente deste nosso tribunal e agora a brilhanta a Primeira Seção. Então, faço esse breve registro com o desejo de muita saúde e muita felicidade para a Min. Maria Thereza de Assis Moura. E passamos então de forma eh temos aqui ainda alguns avisos. A Dra. A Mariana tá me lembrando, temos aqui a Secretaria de Cultura e Memória por meio do Núcleo de Mediação e educação, comunica que estão presentes nesta sessão participando do programa Saber Universário da Justiça, os estudantes da Faculdade Presbitana Ana Mackenzi aqui de Brasília. Sejam todos muito bem-vindos. poderiam se identificar só pra gente saber onde é que então sejam todos muito bem-vindos, assim como também os estudantes do Centro Universitário Unifacear de Curitiba, onde é que estão, se puderem se identificar, então sejam todos muito bem-vindos, não só os estudantes, como também professores que estejam aí acompanhandoos. É uma satisfação poder recebê-los nesse projeto que temos aqui nesse programa do nosso Superior Tribunal de Justiça. Vamos agora eh para um destaque da presidência que é uma questão de ordem no recurso especial REsp 1.826.796 eh, da relatoria do Min. Teodoro Silva Santos. É uma proposta de desafetação. Eu quero já indicar aos colegas, eu fiz um registro eh trazendo uma observação, trazendo uma reflexão para os colegas. Alguns até entenderam que eu como presidente, por ser questão de ordem, eu votaria, mas eu já antecipo que a minha posição é contrária a votar, porque eu faço aplico o princípio da simetria. Se eu como presidente do colegiado, eu não posso votar na afetação, eu não posso votar também eventualmente em desafetação. Essa posição que eu tenho. Ah, mas é questão de ordem. Questão de ordem do presidente? Sim. A questão de ordem, ela vai abranger os mais diversos assuntos. E no caso específico, eu entendo que não é por que não tá na ordem aqui? Não tá.\n\n**[00:27:30] Min. Gurgel de Faria (Presidente):** Hã, deixa eu só não tá não tá indo aqui no meu sistema. Mas bem, já vou pedir o apoio da informática para poder a gente não tá indo para o processo que vai ser julgado, mas então, enfim, eh eu não poderei participar desta deste como de praxa, né, como presidente do colegiado, eu não poderei participar. E passo a palavra ao Min. Teodoro Silva Santos. Lembrando que como temos diversas sustentações orais, eu já pedi aos colegas a colaboração para que a gente fique mais restrito sempre às ementas dos julgados. Eu agradeço a participação e a colaboração de todos. Min. Teodoro Silva Santos.\n\n**[00:28:12] Min. Teodoro Silva Santos (Relator):** Obrigado, senhor presidente, demais padres, advogados, agora foi integrantes da universidade aqui presente. Eu vou, senhor presidente, eu vou ler a ementa, a qual está sada. A delimitação da controvérsia afeta o rito dos recursos repetitivos pela Primeira Seção do Superior Tribunal de Justiça. Consiste em definir se o memorando circular conjunto número 21 da DIRBEN/PFE/INSS. figura marco interruptivo do prazo prescricional das demandas de revisão de beneficiário de benefício beneficiário nos termos do artigo 202 inciso 6 do Código Civil Tema 1220/STJ. Em virtude de óbice intransponíveis para o conhecimento do recurso especial, impõe-se a sua desafetação do regime dos recursos repetitivos, bem como o cancelamento do Tema 1220/STJ, sendo determinada a respectiva tramitação pelo rito dos recursos especiais comuns na segunda turma desta corte superior. É a ementa, senhor presidente, e de mais pares. Agradeço, Min. Teodoro Silva Santos. Pergunto se alguém gostaria de se pronunciar. Pois não, Min. Maria Thereza de Assis Moura.\n\n**[00:29:34] Min. Maria Thereza de Assis Moura:** Eh, eu achei muito relevantes as ponderações feitas por Vossa Excelência no nosso grupo, até abrindo mão de votar na condição de presidente na questão de ordem, o que, creio eu, assim, na minha modesta opinião, poderia ser possível, mas respeito que Vossa Excelência queira se abster. E eu entendo, como Vossa Excelência, que sendo este um caso em que não se refletiria exatamente a hipótese que vem sendo tratada como súmula 7, talvez pudéssemos refletir de não desafetar, porque vários são os casos que estão eh aguardando o resultado eh deste caso. Então, eh, eu vou, eh, pedir vene ao eminente relator para me valer dos argumentos que já foram expostos por Vossa Excelência, mas no sentido mesmo de que talvez não seja o caso de desafetar, mas de enfrentar o tema que originalmente foi trazido pela Min. Assusete Magalhães e possuindo nós os elementos indispensáveis para o conhecimento, talvez vez eu acho que o melhor seria enfrentar ao desafetar do que desafetar o caso. Então eu peço a mais respeitosa venha para não acolher a questão de ordem e manter o a o processo afetado.\n\n**[00:31:11] Min. Gurgel de Faria (Presidente):** Pois não. Eh, como há um primeiro voto divergente, eu vou colher, no caso, as posições de cada ministro na sequência, votando então o ministro Afrânio\n\n**[00:31:23] Min. Afrânio Vilela:** presidente eminantes par. Senhoras e senhores presentes a esse auditório, eu estou acompanhando o eminente relator, na questão de ordem eh pelo cancelamento da afetação do tema 12 eh 20. Senhor presidente, com a devida vênia ao entendimento da Min. Maria Thereza de Assis Moura.\n\n**[00:31:42] Min. Gurgel de Faria (Presidente):** Pois não. Recolho o voto do ministro Herman.\n\n**[00:31:49] Min. Herman Benjamin:** Min. Maria Thereza de Assis Moura, eu não entendi muito bem. Boa tarde a todas e todos. Boa tarde. Eh, eu não entendi muito bem a razão Vossa Excelência ou as razões que Vossa Excelência apresenta para não desafetação.\n\n**[00:32:03] Min. Maria Thereza de Assis Moura:** Eh, caro ministro Herman, boa tarde, Vossa Excelência e\n\n**[00:32:07] Min. Herman Benjamin:** e parabéns, né?\n\n**[00:32:08] Min. Maria Thereza de Assis Moura:** Obrigada. O ministro Gurgel enviou a todos nós algumas ponderações a respeito deste caso. em regra, eh, se entendeu em vários casos que eh não seria o caso de enfrentar o mérito do caso, mas até porque a questão diz respeito à interrupção, não de uma prescrição do lapso de prescrição e que aqui diz o Min. Gurgel de Faria, se eu não estiver com que tenha entendido corretamente, há elementos que possibilitam a a análise exatamente ente da questão posta como afetada pela Min. Assusete Magalhães, porque existe o documento que poderia ser a base para dizer aqui interrompe ou não a prescrição. Então, dizer que não poderíamos examinar não seria eh o caso, porque esse memorando circular está nos autos e que possibilitaria saber se ele serve ou não serve para interromper. Mas eh não é Min. Gurgel de Faria, basicamente\n\n**[00:33:17] Min. Gurgel de Faria:** exatamente isso. Na verdade, a questão eh não precisa, a questão tá no Código Civil, artigo 202, se eu não me engano, inciso um do Código Civil. É um ato que seria suficiente ou não para interromper uma prescrição. Então, a a violação é direta ao Código Civil, né, argumenta-se. E esse ato administrativo sempre o ato não é um ato legal. Normalmente pode até ser, mas normalmente é um ato administrativo e o ato ele está transcrito no acórdão recorrido. Então, a análise se é possível ou não, na minha compreensão, não ensejaria o da súmula 7 e nem tampouco ensejaria uma análise de ato infralegal, porque o que se argumenta é a violação ao artigo 202, volto a dizer, do Código Civil, razão pela qual eu não posso votar, mas apresentei argumentos no sentido de que, e aí faço referência ao voto da Min. Assusete Magalhães também quando propôs a afetação falando da multiplicidade de casos, ministro Herman, falando, na verdade, dos valores que ali estão envolvidos. E então eu entendo que seria o caso de manter a afetação, mas por óbvio, o colegiado é que vai. Eh,\n\n**[00:34:30] Min. Herman Benjamin:** eu fiz o Obrigado, Min. Gurgel de Faria, Min. Maria Thereza de Assis Moura, eu fiz o pedido de esclarecimento porque eu observo que neste caso, ao contrário de outros tantos, eh a afetação foi de um único processo. Normalmente nós afetamos três, cinco processos. Exatamente. Porque se houver uma peculiaridade, seja eh na admissibilidade ou mesmo uma dúvida eh documental, como como parece ser o caso aqui, nós nós podemos podemos julgar. Me recordo também que já houve eh situações em que o relator afetou outros processos além daquele eh ou daqueles. Me recordo de um de um de um caso, talvez o relator tenha sido eu mesmo, em que os três processos afetados eh cada um deles enfrentava alguma dificuldade no âmbito da admissibilidade, estaria numa zona cinzenta. E aí, eh, aproveitando já o processo de afetação em curso, eh, foram afetados, eh, outros outros processo. Eu indago, Min. Teodoro Silva Santos, se nós não poderíamos eventualmente eh, já que é uma matéria tão tão importante, se nós não poderíamos encontrar outros processos eh que nós pudéssemos agregar a essa afetação ou se Vossa Excelência prefere eh eh ir do partir do zero.\n\n**[00:36:01] Min. Teodoro Silva Santos (Relator):** Eh, me permite só, ministro? Eh, todos os colegas já tiveram acesso, estão estão votando. Eh, o que a maioria decidir, o que decidirem, eu me inculpo, porque nosso nosso desiderato maior aqui é exatamente uniformizar a jurisprudência e de sorte que o que for decidido pelos colegas já começaram a votar. Tranquilo. Se a se predominar essa posição aí, eu aceitarei. Tranquilo. É qualquer sugestão.\n\n**[00:36:30] Min. Herman Benjamin:** Não, mas a minha sugestão é algo intermediário, não é? eh, que seria de aproveitar Vossa Excelência continua na relatoria eh e nós identificamos casos eh que se encaixem na modalidade de afetação ou das teses aqui.\n\n**[00:36:47] Min. Gurgel de Faria:** Ministro Herman, posso se me permite uma parte só para fazer esclarecimento. Esse caso talvez seja um dos, se formos realmente manter a afetação, esse é um dos melhores, porque veja, a origem é um IRDR.\n\n**[00:36:57] Min. Herman Benjamin:** Exato. Exato.\n\n**[00:36:58] Min. Gurgel de Faria:** É um incidente de resolução de demandas repetitivas. O memorando tá transcrito na íntegra, no acordão que deu eh eh que fez o julgamento do IRDR. Então, eh eh acho que esse melhor do que esse senão seria realmente ir pela desafetação, porque eu acho que melhor do que esse caso, bem a Min. Maria Thereza de Assis Moura,\n\n**[00:37:18] Min. Maria Thereza de Assis Moura:** é, inclusive, ministro Herman, há um detalhe que eu, por exemplo, já afetei com um respe, não há necessidade de que há que sejam dois e inclusive agora com a nova regulamentação, espera-se que seja por um caso,\n\n**[00:37:34] Min. Herman Benjamin:** um caso,\n\n**[00:37:35] Min. Maria Thereza de Assis Moura:** não que sejam vários casos E esse é, como disse o Min. Gurgel de Faria, oriundo de um IRDR. Então, e com o documento dos autos, né? Eh, eu eu eh como todos sabem, na, por exemplo, na corte especial, eu não voto de forma contrária ao relator eh que propõe uma desafetação. Eh, então eu vou pedir vênas, entendo a as observações feitas pelos eminentes pares, mas eu eh acompanho eh a desafetação. Quero só chamar atenção que com relação com relação destaco aqui os seguintes decisões em que não foi conhecido o recurso especial e a qualificação jurídica do memorando circular que nós estamos nos referindo. E aqui eu trago, inclusive eu trago, eu trago aqui um e 20260 de São Paulo, relator o Min. Gurgel de Faria Farias, de 18 de423 tem o aresp990 de São Paulo da relatoria do Min. João Otávio de Noronha. Tem aqui, tem aqui também o resto 1656014 relatura mines Benedito. Tem esses dados aqui. Eu acredito que agora se essa\n\n**[00:38:56] Min. Gurgel de Faria:** Min. Teodoro Silva Santos, mas só uma observação porque na verdade é como eu digo, a violação aqui não é a memorando, a violação é o artigo 202 do código, a alegação, né, de violação artigo 202 e aí o artigo 202 fala em ato e aí a gente precisa ver esse ato.\n\n**[00:39:11] Min. Teodoro Silva Santos (Relator):** Tranquilo. Foi isso, senhor presidente, a minha opinião como relator, eh, já como Vossa Excelência abriu a votação, já ocorreram diversos votos, já ocorreram aqui meu voto, ocorreu o o voto do ministro Afrâo, do Min. Herman Benjamin e da ministra, eu acredito que seria que seria mais prático tomar o restante dos votos. É o que eu tô tentando fazer, Min. Teodoro Silva Santos. O detalhe que Vossa Excelência continue a\n\n**[00:39:35] Min. Gurgel de Faria:** Não, na hora em que, Veja só, eh, primeiro vamos manter aqui o o estilo do colegiado, tá certo?\n\n**[00:39:41] Min. Teodoro Silva Santos (Relator):** Mas é isso que eu tô deix só um pouquinho,\n\n**[00:39:43] Min. Herman Benjamin:** eu sugerei vossa excelência perguntar,\n\n**[00:39:44] Min. Gurgel de Faria (Presidente):** só um pouquinho, ministro, ministro, vamos manter o estilo do colegiado que é de respeito perante todos e de tranquilidade, tá certo? Segunda coisa, excelência, falta de respeito, eu não estou atendo, pelo amor de Deus, nunca tive e não venha fazer, pelo amor de Deus, eu tenho respeito ao colegiado.\n\n**[00:40:02] Min. Teodoro Silva Santos (Relator):** Min. Teodoro Silva Santos, Min. Teodoro Silva Santos, não pelo amor de Deus, presidente.\n\n**[00:40:06] Min. Herman Benjamin:** É, vamos votar. Eu proponho que nós votemos,\n\n**[00:40:09] Min. Gurgel de Faria (Presidente):** vamos manter a tranquilidade, tá certo? na sessão. E o que eu quero dizer a Vossa Excelência é que na hora em que Vossa Excelência foi defender e fez uma referência a um voto meu, eu fui fazer a menção de que, na verdade, o que está em discussão é o Código Civil, não é memorando. Vossa Excelência fez referência a decisões mencionando aí situações de atos normativos infralegais, mas o caso é referente a especificamente lei. E eu vou manter aqui então a continuidade da de colher os votos. Ministro Pelize.\n\n**[00:40:39] Min. Marco Aurélio Bellizze:** Senhor presidente,\n\n**[00:40:39] Min. Afrânio Vilela:** senhor pediu,\n\n**[00:40:43] Min. Gurgel de Faria (Presidente):** Min. Afrânio Vilela. Eu vou pedir a compreensão e vou continuar eh no caso colhendo os votos.\n\n**[00:40:47] Min. Marco Aurélio Bellizze:** Presente. Eu vou pedir venha ao ministro eminente ministro relator, Min. Herman Benjamin, vou acompanhar a Min. Maria Thereza de Assis Moura. Penso que a questão é relevante, prescrição. E o fato noticiado pela eminente Min. Maria Thereza de Assis Moura de que esse é um dos poucos processos que permite um exame amplo de uma matéria tão importante e tão repetida. Então eu pedindo a compreensão do eminente relator, tô acompanhando a Min. Maria Thereza de Assis Moura. Presidente, também peço autorização para sair. Vou pro pro eleitoral aqui.\n\n**[00:41:15] Min. Gurgel de Faria (Presidente):** Com certeza, Min. Marco Aurélio Bellizze. Eu agradeço aí a colaboração de Vossa Excelência. A gente sabe as missões eh no nosso Tribunal Superior Eleitoral. Min. Sérgio Kukina.\n\n**[00:41:25] Min. Sérgio Kukina:** Boa tarde, senhor presidente. Cumprimento a todos. Eh, eu estou aqui votando pela com a vênia do eminente relator, né, pela não desafetação.\n\n**[00:41:38] Min. Gurgel de Faria (Presidente):** Ministra Regina Helena.\n\n**[00:41:40] Min. Regina Helena Costa:** Boa tarde a todas e todos. Senhor presidente, muito obrigada. Também cumprimento a Min. Maria Thereza de Assis Moura, que é o nosso exemplo de magistrada no, né, que longa vida, mais 70 anos. Min. Maria Thereza de Assis Moura,\n\n**[00:41:55] Min. Maria Thereza de Assis Moura:** dizer a idade [risadas]\n\n**[00:41:56] Min. Regina Helena Costa:** agora já. Ah, ups. Muito bem. Eh, eu vou pedir licença a à divergência, ilustradíssima divergência para acompanhar o senhor relator pela pela desafetação do tema. Senhor presidente,\n\n**[00:42:11] Min. Gurgel de Faria (Presidente):** ministro Paulo Sérgio. Tamb\n\n**[00:42:13] Min. Paulo Sérgio Domingues:** bem, presidente. Peço vênia a ilustrada e hoje festejadíssima divergência para acompanhar o relator.\n\n**[00:42:20] Min. Gurgel de Faria (Presidente):** Senhor presidente Fran. Pois não.\n\n**[00:42:22] Min. Afrânio Vilela:** Muito obrigado. É porque eu apenas acompanhei o eminente Min. Teodoro Silva Santos, mas em virtude da dialeticidade imposta, eu queria só lembrar que o e deve ter representantes do INSS aqui neste auditório que o memorando circular o que ele eh fez de uma maneira genérica foi isso no mundo prático. E quando nós falamos de afetar, nós temos que lembrar que todas as nossas decisões aqui, por mais deliberativas que elas sejam, elas têm que, obviamente, eh, versar, elas têm que eh prever uma situação fática que nós vamos eh regr eh eh lá no lá no caso concreto. E o memorando, na realidade, ele disse que são passíveis de revisão os benefícios por incapacidade, pensões e etc. Eh, basicamente ele foi um ato de reconhecimento do direito e me parece que toda a estrutura do INSS passou a cumprir aquilo que o memorando determinou. E isso também foi eh observado no Tribunal de Origem. Eh, salvo engano e muito engano da minha parte, né? Eh, o que se vê é que o acórdão recorrido do Tribunal Estadual, ele eh procedeu à interpretação desse memorando circular, extraindo as disposições eh no reconhecimento do direito do segurado por parte do INSS, que o próprio INSS fez questão de eh anotar em seu memorando. Então, o que eu fico aqui a me perguntar, qual a utilidade prática de nós continuarmos com essa situação? Então, eu não vejo a repercussão no mundo prático de qualquer eh continuidade dessa afetação. Então, esse é o meu voto, senhor presidente.\n\n**[00:44:19] Min. Gurgel de Faria (Presidente):** Pois não. Então eu eu vou no caso eh registrar que o colegiado, por maioria acolheu a questão de ordem, nos termos do voto do relator, no sentido da desafetação do feito da sistemática de recursos repetitivos, bem como o cancelamento do Tema 1220/STJ do STJ, eh, vencidos a Min. Maria Thereza de Assis Moura, Min. Marco Aurélio Bellizze e Min. Sérgio Kukina. Eh, vamos agora ao bloco das sustentações orais. Eu vou inicialmente convidar os ilustres advogados para virem a tribuna, depois é que eu vou apregoando. Já convido a Dra. Raquel Godói para representar a Fazenda Nacional. Dr. José Eduardo Martins Cardoso, representando a parte recorrida Notredame Intermédica Participações. Dr. Carlos Henrique de Oliveira, pela parte interessada da Associação Brasileira das Companhias Abertas ABRASCA e o Dr. Marcelo Pedrosa Pedroso, perdão, M Pereira, pela parte interessada, Associação Brasileira de Advocacia Tributária. O tema que eu estou a apregoar é o Tema 1379/STJ, relatoria do Min. Sérgio Kukina. recurso especial REsp 2.070.059 de São Paulo REsp 2.199.631 de São Paulo. Indago aos ilustres advogados se dispenso a leitura do relatório. Então, com a dispensa, todos concordando, vamos ouvir, inicialmente, pelo tempo de até 15 minutos, a Dra. Raquel Godói.\n\n**[00:46:00] Dra. Raquel Godói de Miranda Araújo (Procuradora da Fazenda Nacional):** Som. Alô. Pois não. Som. Pronto, agora tá funcionando. Boa tarde a todos e a todas. Muito obrigada, senhor ministro presidente, senhor ministro relator Sérgio Cuquina, senhoras ministras Maria Teresa de Assismour e Regina Helena Costa. Feliz aniversário para a Min. Maria Thereza de Assis Moura. Senhores ministros, senhor representante do Ministério Público Federal, servidores e servidoras, colegas procuradores e procuradoras da Fazenda Nacional, advogados e advogadas presentes. A questão da incidência das contribuições previdenciárias, ela chega aqui a esta sessão. É uma sessão que já analisou, que já se debruçou sobre esses planos no Tema 1226/STJ. E por isso, a primeira coisa que precisa ficar muito bem registrada aqui, que precisa ficar muito clara, é porque os dois casos são casos diferentes. Porque as conclusões que foram traçadas no Tema 1226/STJ não podem ser automaticamente transportadas para cá para o julgamento desse Tema 1379/STJ. E basicamente eu apontaria aqui três motivos pelos quais os casos são de fato diferentes. O primeiro é uma questão de materialidade das duas incidências. No Tema 1226/STJ se tratou do imposto de renda que incide sobre o acréscimo patrimonial. Aqui a gente está tratando da contribuição previdenciária que tem como fato gerador a remuneração, qualquer que seja a sua forma. Isso é o que diz a lei 8212 de91, que também diz expressamente que a remuneração inclui os ganhos habituais sob a forma de utilidades, de forma que quem recebe um carro, quem recebe uma casa ou como no caso aqui em julgamento, quem recebe ações do seu empregador de forma habitual, recebe salário de contribuição. O segundo motivo é uma questão relacionada à consequência dos dois julgados. Eh, diferente do que aconteceu no Tema 1226/STJ, em que a tributação ela terminou ficando diferida para o momento da revenda das ações, aqui neste caso, se for afastada a incidência das contribuições previdenciárias, este afastamento será um afastamento definitivo e incontornável. Os benefícios oferidos aqui pelos beneficiários desses planos não serão em nenhum momento tributados pelas contribuições previdenciárias. E o terceiro motivo que impede a simples transposição, a transposição automática do que se decidiu no 1226 para cá, é uma certa fragilidade na própria premissa que se assentou no Tema 1226/STJ a respeito da natureza mercantil, desses planos, que seria aqui acho que o elo comum mais forte entre os dois casos. Sobre a natureza mercantil, é preciso lembrar aqui uma peculiaridade do Tema 1226/STJ. A sessão, para que superasse os obicces das súmulas 5 e 7 e julgasse o tema, resolveu, decidiu que não analisaria nenhum plano em concreto, não analisaria nenhum contrato. Partiu-se de um modelo abstrato e com base nesse modelo abstrato, se concluiu que esses planos são planos de natureza mercantil. Embora o próprio voto do Tema 1226/STJ em mais de uma passagem admitisse que existem planos que são desvirtuados, existem planos que não se amoldam. a esse modelo abstrato ideal que a ao qual se considerou essa natureza mercantil. Mas aconteceu alguma uma coisa na sequência que precisa ser endereçada, que não pode ser ignorada. Vejam, o Supremo Tribunal Federal, ao julgar o recurso extraordinário da União contra o próprio acórdão do TRF3, que foi analisado no Tema 1226/STJ, ele recusou a existência de repercussão geral naquele caso e o fez com base em dois fundamentos. O primeiro foi o de que a controvérsia era uma controvérsia infraconstitucional e o segundo foi o de que a controvérsia era uma controvérsia fática. E aqui eu abro aspas para o que disse o Supremo Tribunal Federal quando recusou essa essa repercussão geral. Disse o seguinte: \"A formatação do negócio se estrutura em cada hipótese numa forte dependência dos termos estipulados entre as partes, cuja análise se torna imprescindível\". Então, vejam a dicotomia que se formou. Essa sessão entendeu que os termos dos planos não precisavam ser analisados. O Supremo, na sequência, disse que essa análise ela era indispensável. E o que isso conduz? A gente tem, então, que a natureza desses planos, ela não é uma questão hoje 100% fechada, ela é uma questão em discussão ainda, uma questão aberta. E a gente pode afirmar que esse é um tema que não tem, portanto, uma resposta pronta, fechada. E a pergunta que guia essa controvérsia, ela precisa ser feita novamente.\n\n**[00:50:31] Dra. Raquel Godói de Miranda Araújo (Procuradora da Fazenda Nacional):** E que pergunta é essa? Vejam. Quando a gente tem uma companhia que permite que um diretor, que um seu executivo compre as suas ações por metade do preço de exercício, porque trabalhou para ela por 2, 3 anos, pelo prazo que seja ali o prazo de carência daquele plano. A gente tá diante aqui de uma remuneração ou a gente tá diante de uma operação de mercado, de uma de um negócio de bolsa? O debate, eh, ministro Beliz, ele costuma sempre ser olhado pelo lado. Ele saiu, né? Min. Teodoro Silva Santos, os demais ministros, eh, ele é um debate que ele foi bom que trouxe de volta a atenção. O debate, ele é um debate que costuma ser sempre olhado pela ótica de quem de quem recebe esses benefícios, mas é imprescindível para que a gente tenha uma solução correta aqui para o caso, o olhar da companhia, o olhar de quem oferece essa vantagem, de quem oferece esses planos. E o que a companhia obtém quando lança um plano de opção de compra de ações? Quando ele permite que os seus executivos adquiram essas ações com preço, com esse desajilo? Eu não tenho nenhum receio em afirmar aqui. Financeiramente a companhia não recebe absolutamente nada. Ela outorga a opção de graça, não recebe prêmio, não recebe contrapartida de ordem financeira nenhuma. mais na frente, no momento do exercício, quando elas entregam as ela entrega uma ação que vale 100 por 80, certamente também não tem nenhuma vantagem financeira. Ora, e no caso aqui, por exemplo, da Notridame, que é a empresa, ela entregou pelo por 1/3 do que era o valor de mercado daquelas ações no momento do exercício. Ora, mas sob pena inclusive de não lesar os seus acionistas, se ela tá assumindo esse custo, é porque ela necessariamente está obtendo alguma coisa. E essa coisa que a companhia obtém é trabalho. É um trabalho voltado ao longo prazo, orientado ao longo prazo e a permanência daqueles executivos nos seus quadros prestando trabalho. Se fala muito que o que as o que as companhias obtém é fidelização e alinhamento, mas percebam, fidelização e alinhamento não são atributos soltos no mundo, eles são atributos do trabalho. Fidelizado é quem trabalha, alinhado é o trabalho e o plano paga exatamente por isso, por pelo trabalho que é prestado com essas características. E a estrutura dos planos confirma isso que eu venho de afirmar aqui, porque vejam, quem pode participar dos planos, de acordo com a lei das SS, só quem trabalha para companhia ou lhe presta algum tipo de serviço. Quando que essas opções se tornam exercitáveis? Apenas depois de anos e anos trabalhando na empresa durante o período de carência. O que acontece com essas opções quando esse executivo sai da companhia? Qual que é o destino que se dá à aquelas opções que ainda não foram exercitadas? Invariavelmente, esses planos condicionam esse destino a questões como justa causa, dispense motivada, aposentadoria. Digo mais, essas opções, a exemplo do que acontece com as opções de mercado, elas podem ser alienadas? Não podem. Invariavelmente também essas opções são personalíssimas, elas são intransferíveis e inalienáveis. Vejam que tudo isso que eu estou aqui dizendo não faz nenhum sentido sobre a ótica de um investidor, mas eles tudo isso faz total sentido sobre a ótica de quem está sendo remunerado por esse instrumento e sob a ótica de quem remunera, de quem paga o trabalho por meio desse tipo de instrumento. É extremamente comum apresentar-se contra essa essa leitura que eu trago aqui a famosa tríade da voluntariedade, da onerosidade e do risco. Vejam, sobre voluntariedade. Aerir é uma escolha sobre forma de ser pago, sobre forma de ser de ser remunerado. Exercer não é decidir sobre um investimento, é decidir sobre receber a remuneração. E a escolha não é uma escolha entre fazer ou não o negócio, entre fazer ou não o investimento. É uma escolha sobre como receber a sua remuneração. E ter essa escolha, de modo algum desnatura aquela remuneração para uma outra coisa. sobre a onerosidade. Vejam, a gente precisa aqui separar eh o que o que se paga e o que não se paga nesses planos. Na bolsa, quem quer adquirir uma opção precisa pagar o prêmio. Aqui a gente já sabe que não existe esse pagamento pelo pela opção, não há pagamento de prêmio. De modo que eh mais na frente eh quando ele for exercer, a gente precisa saber aqui se houve ou não a valorização da ação. O fato é que no momento a lei ah que ela é outorgada, isso foi feito de maneira gratuita. O que vai ter pagamento é no momento do exercício, de fato, no momento da aquisição. Mas vejam, o beneficiário, ele vai pagar por uma ação que vale 100, 50, 70, 90, que seja. E a remuneração ela incide exatamente pelo sobre o que não se paga, sobre o desagio, sobre a diferença, sobre os 10, sobre os 20, sobre os 40. Eu digo mais, a remuneração, nenhuma remuneração, ela exige gratuidade absoluta, gratuidade total. O que vai definir a natureza aqui da verba é a sua causa, é a causa da sua atribuição. E a causa de atribuição aqui, com certeza absoluta, é o trabalho. Pensando agora no elemento do risco, a gente precisa se questionar eh que risco a gente tá tratando aqui. Veja, no na outorga não tem risco, ele não pagou prêmio. Então, se a ação desvalorizar, ele simplesmente não vai exercer. E resgatando o que foi dito no próprio Tema 1226/STJ, não há qualquer prejuízo. O que se chama de risco aqui, na verdade, é a chance de não ganhar ou de ganhar menos, mas isso não é risco de mercado, isso não é risco de investimento. Eh, o risco que acontece depois, depois que a ação já foi adquirida e já pertence à aquele beneficiário. A gente aqui tá tratando de um risco de acionista, não de um risco que é inerente ao plano, não de um risco do beneficiário. O destino que se dá a essa ação, se vende, se fica com ela, ele não difere em absolutamente nada. do destino que eu e qualquer dos senhores aqui dá o seu salário que recebeu em espécie. Isso é uma decisão de ordem pessoal daquele beneficiário. Então, vejam, se a gente tá diante de um plano que remunera trabalho, se quem paga é a companhia, se nem voluntariedade, nem onerosidade, nem risco mudam tudo isso, a conclusão que a gente tem aqui é uma só, é uma conclusão única. Existe fato gerador das contribuições previdenciárias e esse fato gerador acontece no momento do exercício, porque é ali o momento em que a companhia entrega para o beneficiário um bem que tem um valor maior do que o bem, o valor que ele pagou. E vejam aqui, a gente tem dois instrumentos e é importante fazer um pouco essa diferenciação. A gente tem como instrumentos aqui nessa nessa mecânica a opção e a ação. E por que a opção não é a utilidade? Por que a opção aqui não é um instrumento que remunera? Vejam, opção não dá dividendo, opção não dá direito a voto, opção eh não pode ser realizada, não pode ser vendida. Essa opção desses planos aqui, ela não tem sequer paralelo com as opções de mercado. Sozinha, ela não vale para absolutamente nada. A remuneração aqui se dá pela diferença do preço da ação, que é entrega no exercício por preço inferior ao do mercado naquela data. Aqui no caso da Notridame, a ação valia 28 e foi entregue por 9,27 naquele momento. Se costuma dizer muito também que quem paga essa diferença é o mercado. Vejam, não é, é a companhia. É a companhia quem confere a vantagem. a companhia que confere aquele indivíduo a possibilidade de adquirir as ações por aquele preço com deságo. Eh, o que o mercado faz é apenas dar a métrica dessa remuneração. O valor do mercado vai ser o guia que diz: \"E essa remuneração é uma remuneração maior ou menor\". Se a ação valorizou, temos aqui uma remuneração maior. Se não, se não valorizou tanto, o tamanho dessa remuneração, ele apenas é menor. Aqui falando de remuneração, é impossível não mencionar a questão da habitualidade. Vejam, habitualidade não é frequência de pagamento, não é pagar todo mês. Habitualidade é ah a inserção daquela parcela na política remuneratória da companhia. E as opções elas não são recebidas por liberalidade. Elas são recebidas porque metas foram atingidas, porque performances foram alcançadas, porque assim está nos planos e assim está nos contratos. O que se recebe por força de um contrato no contexto de uma negociação de um pacote de remuneração é algo que é habitual por natureza. E me encaminhando já aqui para o final, permitam-me encerrar trazendo a baila aqui o que está em jogo em função deste julgamento. A Constituição, ela manda tributar pelas contribuições previdenciárias a folha de salários e demais rendimentos do trabalho, pagos ou creditados a qualquer título, e faz dessa maneira ampla, justamente para que a base de financiamento da seguridade seja sempre capaz de acompanhar as diversas formas de remuneração. Se a contribuição for aqui afastada, a parte da folha, que é a parte que mais cresce, é justamente a que vai ficar de fora da base de financiamento da seguridade. Quando a gente tem dados como da KPMG, que revelam que mais da metade da remuneração desses executivos hoje em dia tá migrando para instrumentos como esses, se a gente excluí-los, a gente vai est excluindo do financiamento mais da metade da folha de quem mais ganha. A equidade de que fala o artigo 194 da Constituição não comporta, não admite que a parcela mais expressiva da remuneração de quem tá no topo seja a única a ficar fora do custeio da seguridade. Então tudo isso dito, qual é o pedido da Fazenda Nacional aqui? Em primeiro lugar, é de que se firme a tese de que incide a contribuição previdenciária de terceiros no momento do exercício dessas opções. Subsidiariamente, a fazenda pede que se reconheça que a natureza do plano depende das suas condições concretas e que a incidência vai sempre acontecer quando o plano apresentar elementos que são elementos de contraprestação do trabalho. Essa tese subsidiária, ela surge como uma necessidade eh de adequação à decisão ao Tema 1226/STJ que veio do Supremo Tribunal Federal, que assentou que a natureza dessa desses planos, ela é fática e ela é contratual e ela precisa ser averiguada caso a caso. Com essas considerações eu encerro e agradeço pela atenção.\n\n**[01:00:47] Min. Gurgel de Faria (Presidente):** Pois não, Dra. Raquel, eu vou passar a palavra ao relator e se tiver necessidade iremos ouvir então os ilustres advogados. Vamos ouvir primeiro o relator, Min. Sérgio Kukina, por favor, tem a palavra.\n\n**[01:01:00] Min. Sérgio Kukina (Relator):** Pois não, senhor presidente. Eh, eu quero cumprimentar aqui, né, efusivamente a Dra. Raquel Godói de Miranda Araújo, né, que falou com muita propriedade, né, em benefício da Fazenda Nacional, em benefício da sua tese, né? Eh, doutora Raquel, cumprimento também os causídicos, né, que não se pronunciaram, mas estão aqui representando, né, os interesses. Eh, eu queria aqui, Dra. que é o já de saída, né? Eh, como Vossa Excelência mencionou, e eu comungo, não é? eh dizendo que a a embora a controvérsia estivesse relacionada a esteja relacionado ao imposto de renda, né, no caso do Tema 1226/STJ, né, a qualificação jurídica conferida à operação constitui importante ponto de partida para este julgamento. Naturalmente o entendimento do Tema 1226/STJ por si só não conduz à solução da presente controvérsia, tendo em vista a diversidade das materialidades tributárias, não é? Então, nesse ponto, nós convergimos unicamente que a na sequência, né? eh acabamos eh tendo pontos de vista não convergentes. Também fiz a questão de reportar o precedente do Supremo a que Vossa Excelência eh fez menção, né? Eh, afirmou-se lá a o caráter não constitucional da questão, né? Caráter infraconstitucional. E o Supremo fez uma leitura, né? Vossa excelência mencionou, né? Voltando os olhos para o caso concreto, né? É uma perspectiva que foi utilizada na corte, mas aqui, tal como no caso do Tema 1226/STJ, não se compreende que assim seja, que esse óbice pudesse prevalecer aqui no nosso Súmula 7, né? Eu supero esse óbice, né? Ah, mas no exame que fiz, né? considerando essas peculiaridades todas, né? Eu eu ainda acabo me convencendo, né, e digo isso no voto, de que efetivamente não se desenha, não se vislumbra, né, a natureza remuneratória nesse tipo de operação, essa oferta que se faz, né, lá no âmbito da lei das SAS, enfim, né, e por isso, né, emerge, né, a o caráter mercantil, né, desse esse fenômeno que está aqui sendo discutido. E e nessa nessa perspectiva, né, eu, exatamente partindo dessa dessa premissa, né, eh, eu acabo concluindo efetivamente, né, pela impossibilidade da incidência da contribuição previdenciária nesse contexto, né, eh, senhor presidente, ligeiramente, né, eu sei que a pauta eh está alentada, né, eh, mas encaminho o voto nesse nesse sentido. E só só para só para reproduzir aqui, né, sinteticamente o que digo na ementa, né, eh, fiz assinalar em linhas gerais, o denominado stock option plan consiste na oferta pela sociedade anônima de opção de compra de ações em favor de seus executivos, empregados ou prestadores de serviços sob determinadas condições e com preço pré-estabelecido. Lei das SAS. O interessado então poderá aderir à opção e a tempo e modo efetivar a compra das respectivas ações por elas pagando o preço outrora definido pela companhia. Posteriormente, já titular das ações, poderá o adquirente realizar a sua venda no mercado financeiro. No plano infraconstitucional, artigo 22, inciso 1, da lei 8212/91, estabelece a contribuição a cargo da empresa sobre o total das remunerações pagas devidas ou creditadas aos segurados empregados e trabalhadores avulsos que lhe prestem serviços, desde que destinadas a retribuir o trabalho, qualquer que seja a sua forma. Na mesma direção, o artigo 281 da mesma lei do custeio da previdência define o salário de contribuição do empregado e do trabalhador a partir da remuneração oferida, compreendida como a totalidade dos rendimentos pagos devidos ou acreditados destinados a retribuir o trabalho. Quatro, presente a desenganada natureza mercantil e não laboral remuneratória na opção de ações pelo regime stock option. Verifica-se que sobre essa operação não incidem as contribuições previdenciárias, patronais e de terceiros, né? Proponho a a aprovação, né, do seguinte enunciado: no regime do stock option plan previsto no artigo 168, parágrafo terº da lei 6404 de 76, por se tratar de operação de natureza mercantil, conforme aqui o me reporto, conforme definido no Tema 1226/STJ do STJ, não incidem a contribuição não incide a contribuição previdenci ária patronal e as destinadas a terceiros no momento do exercício da opção de compra de ações por não configurar remuneração destinada a retribuir o trabalho, né? Essa é a tese que proponho e no caso concreto de cada um, cada um dos recursos, né? O encaminhamento vai pelo desprovimento de ambos esses recursos que foram aviados pela pela Fazenda Nacional. Presidente, é como o voto.\n\n**[01:07:28] Min. Gurgel de Faria (Presidente):** Pois não, eu não observo destaque. Min. Maria Thereza de Assis Moura, gostaria de se pronunciar? Pois não, ministro.\n\n**[01:07:33] Min. Maria Thereza de Assis Moura:** Eh, eu não vou divergir, mas eu apenas anoto que já fiquei vencida anteriormente no tema quando discutimos. Então eu simplesmente me curvo a maioria e não vou agora divergir do que nós estamos tratando. Eu vou acompanhar, mas não antes dizer que já fiquei vencida e vou me curvar ao entendimento da maioria.\n\n**[01:07:56] Min. Gurgel de Faria (Presidente):** Pois não. Pois não. Os demais estão de acordo.\n\n**[01:07:59] Min. Herman Benjamin:** Presidente, eu também.\n\n**[01:08:00] Min. Gurgel de Faria (Presidente):** Pois não, ministro. É na mesma linha da Min. Maria Thereza de Assis Moura, embora não tenha ficado vencido, mas estando ausente do tribunal,\n\n**[01:08:08] Min. Herman Benjamin:** mas estando ausente da jurisdição, se estivesse julgando abício este processo, julgaria em sentido oposto.\n\n**[01:08:17] Min. Gurgel de Faria (Presidente):** Pois não,\n\n**[01:08:17] Min. Herman Benjamin:** mas me curvo a maioria.\n\n**[01:08:21] Min. Gurgel de Faria (Presidente):** OK. Não há mais nenhuma observação, então imagino que os ilustres advogados dispensam a sustentação. Eu vou fazer então aqui a proclamação. Eh, o colegiado, a unanimidade negou o provimento aos recursos especiais, nos termos do voto do relator, com a ressalva dos pontos de vista dos ministros Maria Teresa e Herman Benjamim. A tese foi anunciada pelo ú relator. Agradeço aos advogados a participação e renovo uma boa tarde. Vou agora convidar os advogados que vão participar do processo seguinte, que é o Tema 1324/STJ, Dr. Carlos Eduardo Vieira, que vai falar pelo grupo de atuação estratégica das Defensorias Públicas. Eh, Dra. Camila Gambarra Moreira, que falara pela Agência Nacional de Transportes Terrestres e o Dr. Paulo Martins dos Santos, que falará pela parte interessada o estado do Ceará, o Dr. Paulo, no caso, por videoconferência. Eh, e agora eu apregou. Os feitos são da relatura e do ministro Paulo Sérgio Domingues, recurso especial REsp 2.152.197 255 e 050. Perdoem-me. O último é REsp 2.174.050 de São Paulo. Eh, feitos da relatoria do ministro Paulo Sérgio. Como eu já anunciei, Dr. a previsão inicial de falar. Dr. Carlos Eduardo, por favor. Dr. Carlos Eduardo, vou pedir, no caso, a Vossa Excelência para se dirigir inicialmente e aí depois então é que daremos a palavra a eventualmente aos demais. Eh, indago se todos dispensam a leitura do relatório.\n\n**[01:10:17] Min. Gurgel de Faria (Presidente):** Sim, excelência. Obrigado, Dr. Paulo. Excelência também.\n\n**[01:10:22] Dr. Carlos Eduardo Vieira (Defensoria Pública / GAETS):** Então, Dr. Carlos, Vossa Excelência tem a palavra por até 15 minutos. Perfeito. Obrigado. Eh, excelentíssimo ministro Gurugel de Faria, presidente dessa Primeira Seção, na pessoa de quem me permito aqui cumprimentar aos demais ministro, demais ministras, Min. Maria Thereza de Assis Moura, reitero os votos de parabéns, eh, ilustre representante do Ministério Público, demais, eh, senhoras e senhores aqui presente, excelências, o grupo de atuação estratégica da Defensoria Pública, eh, estadual e distrital vem a esta tribuna considerando que o tema aqui discutido afeta de modo mais severo as pessoas assistidas pela Defensoria, que muitas vezes não têm os meios de acesso à informação, acesso digital ou o próprio acesso aos meios administrativos para formalizar a comunicação da venda perante o órgão de trânsito. ressaltes que o tema discutido aqui discute a possibilidade de responsabilização do sujeito que eh alienou o veículo, mas não informou esta alienação ao órgão de trânsito competente. Eh, o primeiro ponto a se destacar, excelências, é que conforme a dogmática processual eh do direito civil, a propriedade se transmite pela tradição, isto é, com a entrega do bem pelo alienante ao adquirente. é conforme dispõe expressamente os artigos 1226 e 1267 do Código Civil. Assim, ao entregar o veículo ao adquirente, excelências, o alienante, ele transfere plenamente para todos os efeitos o direito real e perde de imediato qualquer poder de fato de ingerência ou de vigilância sobre a condução daquele veículo. O registro do Detran é meramente declaratório. Portanto, quanto a isto, excelências, destaca-se que o STF, no julgamento do tema de recupercussão geral 708, reconheceu a prevalência do princípio da realidade sobre o registral, excelentíssimo ministro, uma vez que ele ele afirmou que caberá ao estado de domicílio efetivo do proprietário do bem o recebimento do IPVA, ou seja, e não aquele no qual o veículo está simplesmente registrado. Aqui o STF está dizendo que deve prevalecer o plano fático da realidade e não aquele registral que consta dos sistemas dos órgãos de trânsito. Isto é, considera-se a situação concreta e não meramente registral. A ausência de comunicação da venda não tem o condão de inverter a titularidade dos direitos, excelências. Instituir uma presunção absoluta de responsabilidade ao antigo proprietário significa sancionar quem agiu de boa fé e premiar o adquirente, o adquirente inadimplente, enfri eh eh violando inclusive eh princípios de segurança jurídica. Excelências. O segundo ponto que queremos destacar aqui é que a responsabilização do alienante viola um princípio fundamental da nossa constituição, excelências, que é o da intranscendência das penas e da culpabilidade, que também eh se aplica ao poder sancionador no âmbito do direito administrativo. Segundo este princípio, nenhuma sanção pode ultrapassar a pessoa que efetivamente foi responsável pelo ato ilícito. Responsabilizar o antigo titular das infrações cometidas exclusivamente por terceiros no volante de um automóvel equivaleria a instituir a responsabilização objetiva, excelências, eh, o que não se pode admitir sob a ótica da vedação deste princípio pela Constituição. Essa lógica, inclusive, da individualização e da punição daquele que efetivamente cometeu a infração, ela é prevista no Código de Trânsito Brasileiro. O artigo 257, parágrafo terceirº, atribui ao condutor, por exemplo, o sujeito é o proprietário do veículo, ele empresta, cede alguma razão o veículo para um outro dirigir aquele naquele momento. Esse condutor deverá ser responsabilizado por aquela infração administrativa com a devida comunicação a órgão de trânsito. Eh, não se desconhece, excelências, que o entendimento que vem prevalecendo mais recentemente aqui, ministro, é no sentido contrário. É, contudo, sempre que e essa corte vai julgar um determinado tema, também é o momento para reflexão acerca desse desse desse entendimento que vem prevalecendo mais recentemente. Eh, a nosso ver, portanto, a mera ausência de comunicação da venda não converte o alienante em causador ou partícipe das infrações de direção cometidas após a tradição. Eh, por fim, excelências, tô sendo bastante breve aqui nas minhas eh intervenções. Eh, com relação ao ponto de vista da Defensoria Pública, ministra, nós no dia a dia da nossa atuação, recebemos é um conjunto de assistidos que muitas vezes nos buscam quando estão ali buscando uma oportunidade de emprego, uma certidão para ter acesso a um benefício, a um trabalho. E é só neste momento em que ele se dá conta de que não houve a transferência daquele veículo para o nome do adquirente. Eles muitas vezes têm um perfil de mudar de endereço com maior frequência, ministro. Portanto, essas eh notificações do Detran muitas vezes não são não chegam ao conhecimento dele. E a gente eh o conhecimento da Defensoria e de é de comum a todos nós aqui que na no cotidiano das periferias no interior do país, o a venda de veículos de baixo valor, motocicletas, ela se dá eh prioritariamente de forma informal, mediante a entrega do bem e das chaves. Claro que isso não é o desejável, mas é uma prática até por conta de barreiras informacionais. as pessoas muitas vezes não conhecem essa obrigatoriedade, entregam ali, elas entendem que muitas vezes a simples assinatura do documento de transferência já resguarda o seu eh, enfim, a possibilidade de ser responsabilizada posteriormente. É, nesse sentido, considerando o que tá afetado aqui, ministro também, e a gente destaca que hoje, segundo informações do IBGE, são 2 milhões de brasileiros que trabalham por meio de aplicativo de transporte, eh, motocicletas, transporte de pessoas, etc. Eles dependem da CNH válida para colocar comida na mesa das suas famílias. Quando o estado suspende habilitação ou penhora os parcos recursos desse trabalhador por infração cometida por um terceiro que comprou o veículo e negligenciou eh a transferência, não estamos diante de uma mera cobrança administrativa. Estaremos diante aqui, excelências, do comprometimento da subsistência de uma família inteira. Isso não nos parece justo, eh, tampouco proporcional. Eh, em síntese, excelências, por essas razões, o GAETS, eh, requer que seja fixada tese no sentido de que o alienante de veículo automotor não poderá ser responsabilizado por infrações administrativas, débitos ou demais ônos incidentes sobre o bem após a sua efetiva alienação, ainda que não tenha sido comunicada a transferência ao órgão de trânsito, desde que comprovada a tradição, ou seja, a entrega do bem e a boa fé no momento da venda. Eh, agradeço a vossa excelência pela atenção.\n\n**[01:17:35] Min. Gurgel de Faria (Presidente):** Pois não. Eu vou passar a palavra ao relator e depois, havendo necessidade, ouviremos as sustentações orais dos advogados que já estão na tribuna. Ministro Paulo Sérgio, a palavra de Vossa Excelência.\n\n**[01:17:49] Min. Paulo Sérgio Domingues (Relator):** Muito obrigado, senhor presidente. Eh, cumprimento Dr. Carlos Eduardo Pira pela sustentação oral. O tema realmente é é candente e diz respeito a muitas das realidades presentes no Brasil, né? O que decidimos agora é diz respeito à possibilidade ou não dessa responsabilidade solidária do antigo proprietário do veículo automotor. E o artigo 134 do Código de Trânsito, ele traz uma disposição expressa, né? Não é a que não não vejo permitir margem para interpretação distinta daquilo que está ali estabelecido. Ele estabelece a necessidade do encaminhamento do comprovante de transferência e estabelece a pena pela não realização deste ato, né? A pena da responsabilidade solidária pelas penalidades impostas. não exclui o novo proprietário, mas mantém a responsabilidade daquele que deveria cumprir o disposto nesse dispositivo legal. Eu não vou ler o voto aqui, né? eh, que não verifico que a existência de destaques no sistema, mas assim, eu faço aqui no voto a distinção entre os efeitos civis da alienação dos bens móveis e os consecutários administrativos decorrentes dela. Então, embora essa transferência de propriedade se opere pela tradição nos termos do 1226 do Código Civil, 1227 também, né, o artigo 134 do Código de Trânsito traz um dever jurídico autônomo de natureza administrativa que tem por objetivo preservar a atualização e a confiabilidade do cadastro público de veículos, assim como viabilizar adequada imputação de responsabilidades decorrentes da circulação automotiva, né, de responsabilidade de várias formas. formas que decorrem do adequado cadastro de veículos domores, que podem ser de civis e até criminais, né? Coisa que a não comunicação da transferência, ela só dificulta muitas vezes e pode levar até a uma eh responsabilização indesejada de alguém por um acidente com vítimas. É por isso que se estimula e se deve estimular é a eh efetiva transferência do veículo e não a eh atenuar a obrigação dessa transferência. Então, é claro, o Renavam, ele não é não constitui propriedade civil do bem, apenas ele atualiza o cadastro e que comprova perante o estado quem é que figura como proprietário. Informação esta que é utilizada para vários várias finalidades, licenciamento, autação, responsabilização administrativa. E é esse o entendimento que vem sendo sufragado por ambas as turmas desta corte, né? eh precedentes já desta sessão também que transcrevo aqui no e no meu voto. Eh, e por conta disso eu também faço faço aqui uma distinção em relação, finalmente à responsabilidade eh tributária, né? Eh, que ela é exceção, né? Ela é uma ela é exceção, eh, inclusive simulada aqui, eh, pelo STJ, mas não que diz respeito a essa responsabilidade administrativa, tá? Portanto, eu estou aqui propondo a turma, a sessão, a fixação da tese seguinte. O proprietário alienante de veículo automotor que deixa de comunicar a venda ao órgão de trânsito competente na forma entre o prazo estabelecido pelo artigo 134 do Código de Trânsito Brasileiro, responde solidariamente pelas penalidades decorrentes das infrações administrativas e ou de trânsito cometidas após alienação e até a efetiva comunicação. Como se trata de eh reafirmação de uma jurisprudência, não estou eh realizando qualquer modulação dos efeitos deste julgado. E no que diz respeito ao caso concreto, eh, eu estou dando, e provimento a recurso especial para reconhecer a responsabilidade solidária do alinante do veículo automotor, né? Esse é o voto que proponho aqui a sessão.\n\n**[01:21:58] Min. Gurgel de Faria (Presidente):** Pois não, eu não observo nenhum dos estades.\n\n**[01:22:00] Min. Herman Benjamin:** Presidente, Vossa Excelência, pois não, Min. Herman Benjamin. Eh, o ministro Paulo Sérgio, como sempre, muito técnico no nos seus votos e aqui refletindo exatamente a jurisprudência da primeira e da segunda eh sessão, mas como eh essa modalidade de julgamento significa quase que um fechamento das portas do poder judiciário para o tema decidido, não é um fechamento absoluto. Talvez fosse importante fazer uma ou duas observações acerca do artigo eh que que é base deste que é o 134, tem agora o 134 a também. Primeiro que é correto que o legislador hoje expressão responsabilizar solidariamente, tá? E isso está dito com todas as letras no voto do ministro Paulo Sérgio. Talvez esse seja um dos há estudantes aqui, pelo menos a vi estudantes, seja um dos dispositivos eh que melhor serve para indicar que muitas vezes a norma jurídica é feita para uma classe, embora se aplique à sociedade como um todo. exatamente o que disse aqui a Defensoria Pública. Nós não podemos mudar o que está dito expressamente no texto legal. O texto legal poderia ter dito responsabilidade subsidiária, poderia ter estabelecido critérios hoje pela internet de facilitação do acesso administrativo para essa simples comunicação, mas não utilizou a expressão responsabilizar solidariamente. A Defensoria Pública tem que trazer a si não só o papel de frequentar e bem os tribunais brasileiros, mas fazer proposições de alteração legislativa. Temos o novo parlamento que acabou de ser eleito e tenho certeza que a esmagadora maioria dos nossos parlamentares do Senado e da Câmara dos Deputados haverá de concordar que esse é um dispositivo profundamente injusto pelas várias razões que foram aqui apontadas à outras. a nossa pauta está pesada e eu vou poupá-los disso daí. Então, deixo eh aqui não mais como juiz, mas como cidadão este eh esta provocação a Defensoria Pública para que urgentemente faça uma proposição de alteração legislativa, começando talvez pelo Senado, estando dando aí o o caminho da das pedras mais fácil para que esse esse problema seja enfrentado. É um dispositivo que é antipobre. é feito para nós aqui e os que estão aí em cima. Fazenda\n\n**[01:24:55] Min. Herman Benjamin:** é e como fazenda nacional e e é nem tanto pra Fazenda Nacional, porque aqui eh não sei pop eh a soma vai ser zero. Eh, então eh deixo essa observação e agradeço a paciência de Vossa Excelência e dos eminentes pares.\n\n**[01:25:12] Min. Gurgel de Faria (Presidente):** Pois não, ministro Herman. Eh, acredito que como não há mais nenhum destaque os ilustres advogados Dra. Camila e o Dr. Paulo. Dra. Camila, gostaria de tribunal dispensação. Dr. Dra. Camila que\n\n**[01:25:26] Dra. Camila Gambarra Moreira (Procuradora Federal / ANTT):** licença. Só quero parabenizar a Min. Maria Thereza de Assis Moura em nome da procuradoria geral federal pelo seu aniversário. Só isso, ministro. Obrigada.\n\n**[01:25:34] Min. Gurgel de Faria (Presidente):** Pois não. Chego ao voto de felicitação à Min. Maria Thereza de Assis Moura.\n\n**[01:25:40] Dr. Paulo Martins dos Santos (Procurador do Estado do Ceará):** Obrigado, Dr. Paulo. Obrigado aos advogados que participaram. Pois não, ministro.\n\n**[01:25:44] Min. Paulo Sérgio Domingues (Relator):** É o comentário, presidente, para a fazenda. Isso já foi solucionado aqui pela pelo STJ, pela Súmula 585/STJ. Uhum. Né? E que decidiu que somente por lei estadual ou distrital específica pode ser atribuída alienante a responsabilidade solidária pelo pagamento do IPVA do veículo alienado. Se não vai a comunicação. É. Aí a matéria tributária, que a gente quer, aí matéria tributária. Já decidiu fazendo essa essa ressalva e essa ressalva consta do meu voto.\n\n**[01:26:10] Min. Gurgel de Faria (Presidente):** Perfeito. Perfeito. Então eu vou anunciar que a Primeira Seção unanimidade eh deu provimento que em todos os três casos quem está recorrendo é a Agência Nacional, então deu provimento ao recurso especial nos termos do voto do relator. e a tese é a que já foi indicada também pelo relator, dispensando, portanto, a nova leitura. Eu vou agora para o feito seguinte, que é o Tema 1433/STJ da relatoria do Min. Afrânio Vilela. antes de apregoar os feitos, eu começo a indicar aqui os advogados para querendo que já possam se aproximar. Eh, vou dizer até na sequência de que irão falar para que se quiserem, digamos assim, vai ter que ter tipo uma fila aí das sustentações, porque são oito advogados inscritos. Dra. Thaí Ferreira falará pela União. Dr. Fábio Monnerat falará pelo pelo Denite, pela FUNASA e também em um dos feitos pelo INSS. Dr. Eduardo Costa Naçur, eh, pela recorrida Bernadete Souza Filha, filha, eh, Dr. Jean Paulo falará pela parte recorrente sindicato dos trabalhadores em empresas ferroviárias do Nordeste. Dr. Rafael Neves Rego, pela parte recorrente, Maria Jcineide, Dr. Fernando Pereira Breu, pelo SINDIFISCO, Dr. Cláudio Santos, pela Federação Nacional de Sindicatos dos Trabalhadores de Saúde e Previdência Social e o Dr. Sérgio Ludmar, pela UNAFISCO, Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil. Conforme previamente anunciado, eh, no caso, a Dra. Thaí e o Dr. Fábio Monnerat terão até 15 minutos para fazerem, no caso, os senhores terão para fazer as suas tentações orais e os demais advogados que já foram anunciados dividirão o tempo de 30 minutos, como são seis, então cada um com 5 minutos. Eh, após então teremos a fala do Ministério Público como custos legis. Doutora, eh, indago a todos e dispenso a leitura do relatório. Então, dispensada a leitura do relatório, Dra. Thaís, por favor, venha para a sua sustentação. Excelentíssimo senhor ministro presidente, eh, excelentíssimo senhor ministro Afrâno, relator, eh, excelentíssimos ministros, ilustre representante do Ministério Público, colegas advogados, eu desejo a todos uma ótima tarde. A tese que vai ser fixada hoje aqui no Tema 1433/STJ vai ser para definir se é possível a ampliação do alcance de um título já transitado em julgado na ação civil pública que concedeu o reajuste de 286 no estado do Mato Grosso do Sul para todos os servidores públicos federais do país. A tese dos execuentes para poder sustentar a aplicação desse título de forma de um alcance nacional é dizer que a declaração de inconstitucionalidade do artigo 16 da LACP feita no tema 1075 lá no ano de 2021 tornaria esta ação civil pública de alcance nacional. acontece, excelências, que não foi isso que o Supremo disse. Se a gente ler o tema 1075, o inciso primeiro de fato declara a inconstitucionalidade do artigo 16. O inciso segundo da tese, no entanto, fala que em se tratando de ação civil pública de efeitos nacionais ou regionais, a competência deve observar o artigo 93 do CDC, ou seja, o próprio Supremo ressalvou a existência ainda de ações civis públicas de âmbito regional, ou seja, todas as ações civis públicas não se tornaram nacionais como sustentam os execuentes. Deve se observar, inclusive na tese, na no voto do Supremo, eh o Supremo estabelece que o que vai definir o alcance daquela ação civil pública são os efeitos delimitados justamente pelo autor da ação. E aqui entra justamente a tese da União para que a gente possa definir o Tema 1433/STJ, qual é a principal pergunta que deve ser feita? A primeira pergunta que deve ser respondida por Vossas Excelências? ação civil pública originária, ela tinha alcance nacional ou ela tinha um alcance estadual restrito ao estado do Mato Grosso do Sul? Os elementos processuais daquela ação não deixam qualquer dúvida. Um próprio Ministério Público no aditamento inicial disse que, e aqui eu peço Venia para ler o trecho do aditamento, ele apresentou um hall de entidades localizadas no Mato Grosso do Sul dentro desse aditamento e disse que estas são as entidades federais autárquicas e fundacionais, cujas repartições neste estado deverão receber as determinações e os efeitos da sentença. Então aqui desde o início, pelo princípio da constrição, nós temos o próprio autor da ação delimitando qual que é o objeto, qual que é o alcance dessa ação. E não foi outro o curso processual. Durante a a o deferimento da liminar, da tutela liminar, o juiz intimou apenas os as entidades do Mato Grosso do Sul para cumprimento. A União cumpriu apenas em favor dos servidores do Mato Grosso do Sul. O Ministério Público Federal nunca se insurgiu quanto a isso. Muito pelo contrário, após o trânsito em julgado da ação que ocorreu em 2019, o próprio Ministério Público Federal ingressou com cumprimento de sentença apenas em favor dos servidores do Mato Grosso do Sul. E depois que esse que a União cumpriu esse essa essa o cumprimento definitivo de sentença, o próprio Ministério Público compareceu aos autos, pediu o arquivamento do processo, sustentando que todos os beneficiários já haviam sido alcançados. Nós temos então, portanto, uma ação que em todo o seu curso foi limitada ao estado do Mato Grosso do Sul e em que pese não conste na sentença a delimitação territorial expressa, não fazia sentido para a época. A União não havia seicara interesse recursal para eh recorrer desse ponto, porque todo o curso processual estava sendo cumprido dessa forma. a União ia recorrer do que já estava favorável a ela. Não faz nenhum sentido. Então, excelências, eh, a gente tem que fazer aqui um distinguish dessa ação pública com as ações coletivas dos sindicatos, porque neste caso aqui, nós não estamos falando de um sindicato que já tem um alcance pré-estabelecido no seu estatuto de quais são os servidores que vão ser alcançados por aquela decisão. E é justamente por isso que a limitação dos sindicatos precisa estar expressa na sentença, porque eles têm um alcance subjetivo prédeterminado. O Ministério Público, por outro lado, ele é ele advoga ali, ele ele litiga por qualquer pessoa do país. Eles ele mesmo é que determina qual é o alcance do título que ele tá almejando, porque ele não tem um alcance pré-determinado, como ocorre com o sindicato. é preciso fazer esse distinguish em relação ao autor da ação e ao objeto dessa ação. Então, sendo assim, eh essa tese deve ser lida não só de forma eh de forma individual, mas concomitante também com a nossa segunda tese, que é a da limitação territorial. Por a limitação territorial, neste caso da violação da coisa julgada, nós não defendemos que o artigo 16 é correto, muito pelo contrário, reconhecemos que ele foi declarado inconstitucional pelo Supremo. No entanto, essa declaração de inconstitucionalidade ocorreu em 2021, 2 anos depois do trânsito emjulgado dessa ação. e em que pese é não tenha tido a modulação de dos efeitos na no tema 1075, essa modulação dos efeitos, ela só se aplicaria aos processos que estão em curso e não aos processos transitados emjulgados previamente à declaração de inconstitucionalidade. Também reconhecemos que existia jurisprudência do STJ à época dos fatos, porém essa jurisprudência nunca foi alegada pelo Ministério Público. E o fato de existir uma jurisprudência pela declaração de incondicionalidade do artigo 16 na época do curso processual e nunca ter sido alegada pelo Ministério Público, mas confirma a nossa tese de que o próprio Ministério Público pretendia que essa ação fosse estadual do que a refuta, inclusive aplicando-se o artigo 508 do CPC, que entende que transitado em julgado uma decisão de mérito, considerar-seão deduzidas e repelidas todas as que poderiam ter sido alegadas, mas não o foram. Nesse sentido, inclusive, excelências, eu ressalto a coexistência à época de outras ações civis públicas com o mesmo objeto do reajuste de 28 a 36, que foram ajuizadas pelo Ministério Público Federal também em outros estados da Federação, na Bahia e no Rio Grande do Sul. Seria incongruente acreditar que o Ministério Público Federal estava entrando com três ações de âmbito nacional concomitantes. Tudo isso nós pedimos que seja feita uma leitura conjunta de todos esses elementos e não só individualmente de cada fato, porque a boa fé demonstra que todo o curso processual daquela ação civil pública era estadual. E dessa forma deve-se aplicar o o segundo inciso do artigo do tema 1075, que estabelece a manutenção das ações civis públicas de âmbito regional, sem torná-las de âmbito nacional. Essa é é a pretensão da União. Eu agradeço a oportunidade.\n\n**[01:36:16] Dr. Fábio Monnerat (Procurador Federal / DNIT, FUNASA, INSS):** Nós que agradecemos, Dra. Thaís. Na sequência, Dr. Fábio Monnerat. Boa tarde, ministro presidente. Obrigado. Cumprimento a todos os ministros na pessoa da Min. Maria Thereza de Assis Moura. Desejo felicidades pelo seu aniversário e que Vossa Excelência permaneça por muitos anos, muitos aniversários, abrilhantando essa corte e é especialmente essa sessão e também a segunda turma. Eu vou ser breve porque eu já começo correndo o risco de ser extremamente redundante. Já falei, a bem da verdade ainda na composição com o Min. Benedito Gonçalves, mas já falei na Primeira Turma sobre esse tema e a Dra. Thaí, a quem cumprimento, eh, já foi, eh, eh, brilhantemente já expôs a tese da União, que é muito parecida com as autarquias. Portanto, o que se discute é o alcance subjetivo de um título executivo formado em uma ação civil pública, vou abriviar aqui, eh, 5019 de 97, movida pelo MPF, inicialmente contra aspas União e suas administrações indiretas, fecha aspas, no estado do Mato Grosso do Sul. Posteriormente, o Ministério Público Federal, autor da ação coletiva, eh, como a Dra. Aí já colocou aditou inicial, Min. Teodoro Silva Santos, aditou inicial, elencando, arrolando, trazendo uma lista das autarquias para além da união, das autarquias que deveriam fazer parte daquela ação coletiva como leitos consortes, como leitos consortes. e deixou muito claro neste aditamento as autarquias IBAMA, INCRA, INSS, DNR, que hoje é o Denit, Universidade Federal do Mato Grosso do Sul, FUNAS, BGE e FUNAI, neste estado. Isso consta do pedido de aditamento. Portanto, o pedido de concessão de reajuste desde o início foi triplamente limitado. Primeiro, do ponto de vista territorial. O Ministério Público, autor dação deixou claro que o pedido se referia para o estado do Mato Grosso do Sul. Tanto é assim, a Dra. Taí já colocou também, houve ações idênticas, absolutamente idênticas, conforme noticiado nos autos, conforme trazendo os recursos nos estados da Bahia, do Rio Grande do Sul, que são entre outros. Outra limitação trazida pelo pedido foi a oito autarquias. pela Procuradoria Geral Federal, eu represento 165 autarquias e a condenação de uma delas não necessariamente implica na condenação de outras, ainda que no bojo de uma ação coletiva. Ademais, uma outra limitação que aqui não foi suscitada, mas é preciso que se diga. O próprio Ministério Público procurou limitar também a servidores não litigantes em outras ações ou servidores que firmaram acordo sobre o mesmo objeto. Ou seja, há uma limitação do pedido clara. E essa contextualização eu trago aqui desde logo cumprimentando o ministro relator, Min. Afrânio Vilela, pela seleção dos recursos, o que é muito importante nesse ambiente dos repetitivos, porque muito dos casos trazidos às turmas inicialmente, e são mais de 350 só das autarquias, fora da união, que eu não tenho número, eles esbarraram em obices processuais, principalmente de Súmula 7/STJ. E um dos recursos, eu vou me referir aqui ao recurso em que uma das autarquezas do INSS é o recorrido, muito bem selecionado pelo ministro Afrânio, deixa fora de dúvidas qualquer incidência de obices processuais de súmula 7, porque todo esse contexto fático que a Dra. Thaí trouxe e eu estou aqui reforçando, constam expressamente do acordão. Então, o acórdão no tema no ou nop REsp 2.250.737 deixa bastante claro, deixa bastante claro que logo em seguida a tal lista o aditamento inicial, Min. Sérgio Kukina, o MPF apresentou a relação de entidades autárquicas federais e fundacionais que deveriam entregar a Líd como líos consorte, além daqueles que a administração direta, que é união, né? Continua o acódão recorrido, para que não haja dúvida do contexto facto que estamos tratando, cujas repartições naquele estado deveriam receber as determinações e os efeitos da sentença. Isso é incontroverso. Isso é o quadro fático posto no acóo recorrido. Mais adiante, junto com tal aditamento admitido pelo mmetíssimo juiz, o Ministério Público juntou a lista dos órgãos e corroborando o posicionamento. Aí diz todos eles no estado do Mato Grosso do Sul e corro cor cor cor cor cor cor corroborando o posicionamento. Cita também até isso é incontroverso, a existência de ações idênticas em outros estados. Então a questão não se trata de nenhuma questão fática ou de análise do conteúdo da decisão judicial. Isso é um acórdão já trazido numa execução individual de uma servidora que residia no meu estado Pernambuco e Jabatô Guararapes, portanto fora do estado do Mato Grosso do Sul. A questão é, à luz desses fatos incontroversos, saber o seguinte, se é possível a utilização de um título executivo coletivo por sujeitos sequer abrangidos pelo pedido do autor da ação coletiva. Essa é a questão que se tá a se decidir e a resposta do poder público, da advocacia geral da união e de todas as autarquias que é o que representam é negativa com base no Código de Processo Civil na legislação federal de regência que vai regir reger o pedido até a coisa julgada. O 322 parágrafo 2º deixa claro o seguinte, me perdoem ler o texto da lei. A interpretação do pedido considerará o conjunto da postulação e boa fé. conjunto da postulação, ministro Afrânia, um aditamento inicial arrolando quais eram os entites públicos que deveriam responder à aquela ação. E para que não se alegue que o título nada diz, o 489, parágrafo terceirº, para a lei do 508, que é o deduzido e o dedutível, que a Dra. Aí já colocou o 489, parágrafo terceiro, diz o seguinte: \"A decisão judicial, que é o título que estamos debatendo, deve ser interpretada a partir da conjugação de todos os seus elementos, em conformidade com o princípio da boa fé\". E aqui, para que fique bem claro, estamos tratando do princípio da boa fé objetiva. Não se trata aqui de dizer de má fé de quem está querendo se valer do título, apesar de estar fora do Mato Grosso do Sul. Não se trata de uma fé subjetiva. Eu trago aqui o princípio da boa fé objetiva, norma fundamental do nosso Código Processo Civil, constante do artigo 5º, que deve funcionar como um vetor interpretativo de toda a legislação e de todos os atos processuais, inclusive esse título. E os recursos, tanto o recurso do DENIT no REsp 2.234.888, que é um dos que está aqui afetado, quanto as contrarões do recurso do NSS, trazem com muita propriedade a ideia de boa fé que aqui deve ser instaurada, que deve guiar a interpretação do alcance desse título. diz o recurso do Denite, diz a PGF, todos os atores processuais compreenderam e atuaram no feito, considerando a limitação lógica decorrente do pedido formulado na inicial e no seu aditamento. Essa é a ideia de boa fé objetiva que, na visão da procuradoria deve imperar. E para encerrar, talvez a grande razão da controvérsia aqui trazida, que foi o julgamento do tema 1075 da repercussão geral, que declarou inconstitucional o artigo 16 da Lei da Ação Civil Pública, que limitava os efeitos territoriais de algumas ações das ações coletivas a o limite territorial. Esse dispositivo nunca foi discutido. Esse dispositivo nunca foi trazido pelo autor da ação, nunca foi debatido por nenhum sujeito do processo, não consta como fundamento da decisão, não funcionou como limitador jurídico, não foi um limitador legal ao alcance do título à época. Seria muito diferente, muito diferente se fosse uma ação coletiva do mesmo Ministério Público Federal, procurando tutelar todos os consumidores de telefonia aqui, por exemplo, contra a Natel e que subsidiariamente, preliminarmente o órgão público procurasse dizer: \"Olha, dado o artigo 16, dada a limitação territorial então vigente, eventual condenação da agência, eventual proteção aos consumidores, serão os consumidores desse estado. E vamos dizer que o juiz se valesse dessa sentença nesse ambiente, nesse exemplo aqui hipotético, essa limitação territorial, depois de declarado inconstitucional o artigo 16, que a embasava, poderia limitar, do ponto de vista territorial o título, poderia deixar de limitar a declaração de constitucionalidade, ministro. Mesmo assim, segundo o artigo, segundo o tema 733 da repercussão geral também do Supremo, essa abertura, essa limitação não seria automática. O título que se valeu de uma norma posteriormente declarada inconstitucional pelo Supremo deveria, nos termos de 733 da repercussão geral, ser rescindido e eventualmente, nesse exemplo hipotético, a limitação poderia ser reconhecida como inconstitucional. Agora, a limitação neste feito, a possibilidade do título ser usado em execuções individuais, os servidores, apenas as autarquias arroladas pelo Ministério Público Federal e ainda assim no estado do Mato Grosso decorre do pedido, decorre daquilo que foi postulado. Essa definição não foi feita pelo réu, não foi feita pelo juiz, foi feita pelo autor no nascedouro da ação na petição inicial. Querer ressignificar o título executivo, querer ampliar o seu alcance com base em um dispositivo posteriormente declarado inconstitucionado pelo Supremo. É verdade. Mas um dispositivo que não foi invocado pelo autor, não foi debatido pelo réu e não foi objeto de decisão pelo juiz, é algo que não se coloca. A limitação decorre de um outro fator, decorre do objeto da ação, assim definido pelo autor no pedido. Então são esses servidores já satisfeitos que são alcançados pela condenação do poder público, não outros. Quçá esses outros muitíssimo provavelmente tutelados inclusive por outras ações coletivas, senão do Ministério Público, do seu sindicato, da sua associação ou que ações individuais, o que também tá ressalvado no título e aqui sequer se discute. Então, diante desse contexto, respondendo objetivamente às duas questões muito bem colocadas por essa sessão quando da afetação, definir-se a sentença coletiva proferida na ação coletiva 50 1997. Se estende os efeitos a servidores federais não domiciliados no Mato Grosso do Sul. Resposta negativa: não se estende em razão dos pedidos. Pergunta dois, definir se a sentença, a mesma sentença coletiva alcança outros servidores pertencentes aos quadros dos quais pessoas jur direito público, não constante do pedido. Resposta também negativa. Com essas palavras, excelências, eu permaneço à disposição de vossas excelências e encerro aqui a minha intervenção. Muito obrigado, presidente.\n\n**[01:47:49] Dr. Eduardo Costa Nassur (Advogado):** Pois não. Agora vamos ouvir o Dr. Eduardo Costa Nassur, que falará por videoconferência. Eh, boa tarde a todos, senhor presidente, senhor relator, senhoras ministras, senhores ministros dessa Primeira Seção, especialmente a nossa Min. Maria Thereza de Assis Moura que está fazendo aniversário hoje. Meus parabéns. Eh, cumprimento também o Ministério Público Federal e os senhores e as senhoras servidores dessa corte, os advogados e todos os presentes. Eh, Vossas Excelências já possui conhecimento pleno sobre essa controvérsia. Eu não vou não vim aqui para repetir o que já está dos memoriais, o que já está em toda a sua em todo o processo. Eh, também não vou dizer que o dispositivo da sentença eh não menciona domicílio, nem que o artigo 16 da Lei da ação civil pública foi declarada inconstitucional e nem que a menção do Mato Grosso do Sul era o endereço de citação. Eu não vou me alongar nesses nessas alegações e é uma razão para nada disso ser novidade, excelência, nos 22 anos e que essa sessão tramitou até o seu trânsito julgado, ninguém nesses autos disse ao contrário, nenhuma das nove re nenhuma peça. Então por isso eu vou usar os meus minutos para uma para uma coisa. Eu peço vênia para corrigir a posição das partes desse nesse debate, porque não somos nós que pedimos a ampliação de uma coisa julgada, é a parte contrária, é a união que pede a a redução dela. A petição inicial no Ministério Público está na folha 30 e diz: assegurar a todos os servidores públicos civis, federais, ativos e inativos, bem como os inspecionistas, o alcance do ajuste dos 28,86%. todos os servidores públicos cí federais. E o TRF da terceira região, ao descrever essa ação, usou as mesmas palavras na folha 60 desses autos, que é exatamente a folha de onde se extrai a enumeração de quatro entidades citadas nesses autos. A sentença, excelência, excelência, julgou procedente esse pedido na folha 542, enuncia ela, ela própria, as duas únicas exclusões, os litigantes em outras ações e os fematais do acordo da medida provisória 1704. Eu não vi nenhuma limitação territorial ali, ou seja, foram apenas duas exclusões, as duas pessoais, nenhuma geográfica. A União responde com uma inversão. Na folha 1415, a União diz: \"Era o eventual alcance nacional e não estadual que deveria custar expressamente no título. Mas uma página antes, na folha 1414, ela própria informação que em sentença proferida no Rio Grande do Sul sobre esse mesmo arjuste, abre aspas, delimitou expressamente os beneficiários aos servidores federais domiciliados naquele estado. Ou seja, expressamente, excelência, a a palavra da união, não nossa. Quando se quis limitar território, escreveu-se lá, se escreveu aqui, escreveu. E a folha 641 traz as preliminares das contestações. Vamos lá. São três: ilegitimidade do Ministério Público, litpendência, inepsa, nenhuma é territorialidade. Essa licitação não está na intencial, não está na contestação, não está na sentença, não está nos acórdãos. não está nos recursos especial, não está no recurso extraordinário e não sei porque a União não veio e citou para em sede de embargos ou qualquer outro recurso. Era a oportunidade deles citarem essa territorialidade e não o fez. Ela aparece pela primeira vez na execução mais de 20 anos depois. Então, excelência, todo o respeito da máxima Bria, isso não é uma tese sobre limitação da coisa julgada pela união ou pelos outros réus. É uma defesa de pagamento. Registro, por fim, que não há entendimento novo sendo aplicado para trás. A orientação dessa corte sobre os efeitos da coletiva é de 2011, temas 480 e 481. 8 anos antes do trânsito julgado, pedir pedimos o não provimento e não e essa não é nossa leitura apenas. O Ministério Público Federal, o autor dessa ação, manifestou-se nesses autos no parecer de folha 772. Abre aspas. O título executivo não impôs qualquer limitação geográfica ou restrição quanto aos efeitos subjetivos da condenação. A alusão ao estado de Mato Grosso do Sul, na petição de aditamento, serviu unicamente para indicar o endereço local licitação das entidades demandadas.\n\n**[01:53:01] Dr. Eduardo Costa Nassur (Advogado):** Dr. Eduardo, 30 segundos para Vossa Excelência concluir o raciocínio, por favor. OK. Então, por isso, pedimos que a tese afirme em todas as letras que o título não contém limitação territorial e que alcance os servidores inativos, ativos e pensionistas, independentes de domicílio ou de lotação. Ou seja, quem redigiu o pedido em 1997 é quem diz hoje o que ela significa e pede o não provo.\n\n**[01:53:29] Dr. Jean Paulo (Advogado):** Pois não. Obrigado, Dr. Eduardo. Agora, Dr. Jean Paulo, eh, tem a palavra por até 5 minutos, por favor. Dr. Jean. Boa tarde, senhor presidente, senhor relator, senhoras ministras, senhores ministros. Eu falo em nome do Sindicato dos Ferroviários do Nordeste, que neste caso litiga contra a União. E falo para tratar apenas da primeira questão submetida à apreciação pela sessão, aquela que diz respeito de saber se a sentença proferida nessa ação civil pública, ela atinge ou não os servidores lotados ou domiciliados fora do Mato Grosso do Sul. nos parece que é preciso, excelências, para simplificar a controvérsia, eh, investigar, como fez o Dr. Eduardo, que me antecedeu, nos autos, investigar ali se há de fato uma limitação na sentença. E há e há administração direta e indireta aqui já demonstrou que há aquela que diz respeito à limitação subjetiva de quais pessoas estariam abrangidas, que são aqueles servidores aposentados, ativos, aposentados e pensionistas, que não foram atingidos por outras ações coletivas. Esta é uma preocupação explícita do Ministério Público a juização. E também há, por evidente, uma outra limitação subjetiva que diz respeito às pessoas que foram citadas para ação. Agora, limitação territorial parece que não há. Não há no pedido, não há na sentença, não há essa discussão nos autos. A União alega que há duas outras ações, uma no Rio Grande do Sul, uma na Bahia. E isso provaria que o Ministério Público Federal, ao juiz no Mato Grosso do Sul, se dirigiu apenas aos servidores ali domiciliados e todos os outros 20 tantos estados do Brasil que não foram beneficiados. Então, por essa ação do Mato Grosso, por essa ação do Rio Grande do Sul e por essa ação da Bahia, então o Ministério Público Federal abandonou o resto do país, embora tenha litigado contra a União, invocando a competência da Justiça Federal do artigo 109, que diz que as pessoas podem litigar contra a União no seu domicílio, na capital do estado ou aqui no DF. Essa competência territorial não se confunde com os limites da sentença coletiva. Isso já era pacífico, tranquilo desde o tema 480, em 2011, quando o STJ distinguiu a competência dos efeitos da sentença. Por isso que naquele caso que transita em julgado em 2019, ninguém discute mais isso. Por isso que naquele caso ninguém traz a discussão do artigo 16 da ACP, que muito bem a União poderia ter trazido para tentar limitar os efeitos da sentença à competência territorial do juiz que a prolatou, como que iria o artigo depois julgado inconstitucional pelo Supremo. A União não fez isso. E olhando para os autos naquilo que é controverso, a limitação territorial não existe. Pode-se confundir as outras limitações com esta em argumentos que se atravessam e se sobrepõe, mas a limitação territorial não está expressa. implicitamente, revirando-se os autos, tenta-se achar esta limitação que não está nos autos. E não é preciso invocar o tema 1075 do Supremo para ver aqui nesse caso alguma inconstitucionalidade na sentenças que teria limitado. Isso é dispendendo porque não houve essa limitação no caso. Então, excelências, o meu tempo é breve. Eu apenas eh exorto vossas excelências para olharmos para o caso e distinguirmos as limitações. Talvez haja outras subjetivas a respeito de pessoas, mas não a respeito de território. E, portanto, a tese a ser fixada deve dizer que a sentença da ação civil pública juizada no Mato Grosso Sul abrange sim os servidores ativos inativos lotados fora do Mato Grosso do Sul. Porque expressamente o título não faz esse corte. Obrigado.\n\n**[01:58:49] Dr. Rafael Neves Rego (Advogado):** Pois não. Chamo na sequência o Dr. Rafael Neves Regu pelo tempo de até 5 minutos. Primeiramente gostaria de saudar os eminentes relator e demais ministros que compõem essa sessão. É, muito já foi falado aqui sobre o tema 480, sobre o o tema 1075 do STF, mas a questão que a gente tem que trazer também é que a a prevalecer o entendimento de que apenas ACPs que tivessem transitados em julgados depois de 1075 deveriam valer nacionalmente, iríamos ter que fazer toda uma revisão de todas as ACPs que foram ajuizadas ao longo do país, Porque sabemos que principalmente o NSS eh sofre diversas demandas que cada estado tem sua peculiaridade, mas também cada estado tem sua estrutura do Ministério Público Federal. Nós sabemos que com a violência que aflige o país, muitas vezes não se tem uma estrutura em cada estado para poder se dedicar apenas aos direitos difusos e coletivos. E talvez por isso o próprio Ministério Público Federal de Pernambuco, que é no caso, eu represento a parte eh Maria Jcineid, que é orião lá de Pernambuco, talvez por isso o Ministério Público Federal de Pernambuco não conseguiu a época entrar com ação e beneficiar todo mundo de Pernambuco. Logo, eh, se o Ministério Público Federal do Mato Grosso do Sul entrou e lá se falou em todos os servidores, se desde o começo da sentença se fala em todos os servidores, então a gente tem que privilegiar tanto o que se foi postulado quanto o que efetivamente existia de jurisprudência. Eh, ao contrário do que meus colegas da AGU e da PGF tentam argumentar, eh, eles tiveram diversas oportunidades de tentar limitar o título, que na verdade o título não tem limitação. A gente não quer ampliar o alcance. A gente quer somente que a jurisprudência e os demais eh julgados sejam respeitados. Então, eh, eles tiveram diversas oportunidades, inclusive a propção reccisória. Se não foi proposta ação recisória à época, não cabe no dentro da execução do cumprimento de sentença alegar que havia uma limitação territorial. Como já bem explanaram os demais colegas, a limitação é subjetiva, ou seja, eh, a própria sentença cuidou em limitar, não queria estender a quem já tinha postulado ou quem já tinha firmado acordo. O objetivo do Ministério Público Federal no Mato Grosso do Sul foi justamente dar oportunidade para aqueles que não tinham um sindicato ou que estavam em qualquer outro tipo de situação que não permitiu entrar com ação na justiça, que eles pudessem ser beneficiados, né? Então, o próprio tema 1075 do STF não modul não se modulou efeitos lá por partiuse-se do tema 480 foi a partir de uma ação da ação do tema 480 que subiu ao STF e lá expressamente o relator, bem como os demais ministros, eles falam e dessa forma durante os seus votos que não tem que se eh limitar efeitos ou modular qualquer tipo de coisa, porque já era pacífico. Então, a União, a PGF tiveram diversas oportunidades de tentar limitar o título, não fizeram, né? E a gente tá falando do da maior banca de jurídica do mundo, né? A gente sabe que são advogados muito bem qualificados que poderiam a a partir da do trânsito de julgado ter entrado dentro do prazo decadencial de 2 anos e não fizeram. Então, não cabe agora no cumprimento de sentença tentar limitar uma coisa que não foi limitada em momento nenhum. Eh, sem mais considerações para não tomar mais o tempo de todo mundo, seria essa a minha minha sustentação. Agradeço oportunidade.\n\n**[02:02:36] Dr. Fernando Pereira Abreu (Advogado / SINDIFISCO):** Pois não, Dr. Rafael. Agora, Dr. Fernando Pereira Abreu também, 5 minutos. Boa tarde, presidente, ministro, parabéns à ministra Teresa. Eh, bom, vamos lá. De fato, esse título não é limitado, né? aí não é é limitado eh pro estado do Mato Grosso do Sul, não é nem só porque o Ministério Público lá não fez essa limitação. E é preciso a gente observar que a União e as demais entidades que fazem parte do polo passivo, elas compreenderam em todo o trâmite processual que o pedido do Ministério Público não era limitado ao estado. O que acontece? A União em sede defesa, ela fala expressamente: \"Pretende o Ministério Público garantir a extensão do reajuste de 28% a todos os servidores públicos federais?\" A União diz isso. A União diz isso quando da manifestação da liminar que foi concedida e depois foi revogada. Ela diz isso também quando da defesa, ela diz isso depois em outros momentos dos recursos e em nenhum momento ela entende ou compreende que o Ministério Público havia ali limitado aos servidores do Mato Grosso do Sul. Bom, o Ministério Público Federal do estado do Mato Grosso do Sul, ele queria assegurar todos os servidores públicos federais, ativos e inativos e pensionista, a extensão do reajuste de 28%, ali como causa de pedir no lastro da isonomia e também com o intuito de que não fossem reproduzidas várias ações no Brasil inteiro. Então ali já tá uma pista de que o Ministério Público gostaria de que atingisse o máximo de servidores públicos possíveis. As demais entidades que também foram citadas no processo para fins de defesa, todas elas, com raríssimas exceções, compreendem que o entendimento, ou melhor, a intenção do Ministério Público é extensão. Não suscitam em nenhum momento limitação territorial, como o colega que me antecedeu diz exatamente, né, de uma forma bem clara, inclusive indicando as páginas. Eh, a União utiliza uma única um único argumento dizendo que o Ministério Público pretendeu a limitação, um único argumento que seria uma suposta, um suposto aditamento à petição inicial. No entanto, naquele momento, não era possível modificar o pedido. Já existia a citação do órgão. A legislação processual não permitia que se fizesse a limitação, ou melhor, a modificação do pedido após a citação. Então, cai por terra talvez a única argumentação da União no sentido de que o Ministério Público pretendeu essa limitação. Muito claro que nesse período inteiro de tramitação processual, os próprios requeridos compreenderam que o Ministério Público queria abranger todos os servidores federais da administração direta e indireta. O relatório da sentença é claro também pretende o Ministério Público que seja garantido aos servidores públicos federais da administração direta e indireta. Todos. Essa palavra todos, ela aparece em todo trâmite processual, não existe limitação. O TRF3, que é de onde se origina a revisão desse título, ou melhor, a confirmação da sentença, julgou todas as ações de que ten conhecimento até agora, dizendo que não há limite territorial. Então, não existe dúvida que não tem limitação territorial. Agora, a argumentação da União no sentido de que o deveria se aplicar o tema 733 também não se não se sustenta porque eh o que diz o tema 733 do STF define que a declaração de constitucionalidade não reforma decisões anteriores que não tenham adotado entendimento diferente. Os execuentes eles não querem entendimento diferente do título de forma alguma. Eles querem então apenas ter o direito de fazer o cumprimento de sentença de um título que é claro, limpo, no sentido de que estendeu a essas pessoas o reajuste de 28,86%. Dessa forma, antes exposto, eh requeremos que a tese seja fixada no sentido de que os efeitos do título judicial formado na ação civil pública não estão limitados aos servidores domiciliados no estado do Mato Grosso do Sul. Obrigado, excelências.\n\n**[02:07:40] Dr. Cláudio Santos (Advogado / FENASPS):** Nós que agradecemos, Dr. Fernando, Dr. Cláudio Santos, pelo tempo de até 5 minutos. Senhor presidente, boa tarde. Fala em nome da FENASPS, Federação Congrega Trabalhadores da Saúde, Trabalho, Previdência e Assistência Social. Enente relator, eminente ministro, senhoras ministras, eh muito já se foi dito, excelências, e eu tava recordando, preparando sustentação oral, eu me lembro de 1993, quando saiu a lei, que a gente olhava no Diário Oficial, não tinha internet, a tabela dos oficiais generais. Daí fizemos as ações até que o Supremo Tribunal Federal julgou a ação e me lembro da manchete do Correio Brasiliense. Enfim, os servidores ganham uma no Supremo. Depois veio os imparos de declaração que modulou os efeitos da decisão. Em seguida, a União editou uma lei, uma medida provisória, propondo acordo. Vários servidores já ganharam esse esse reajuste por intermédio de acordo que não teve ação ajuizada. E aí o Ministério Público diligentemente ajuiza uma ação para 97, 5 anos depois da edição da lei, no prazo prescricional. Para quê? para salvaguardar aqueles servidores que não estavam em entidades sindicais, que não haviam ajuizado ações individuais, que estavam desamparados, não teriam esse reajuste. O processo tramita e apenas e tão somente na execução, Min. Sérgio Kukina é que se levanta essa limitação. Quando muitos, já se foi dito aqui, né, meus colegas me antecederam, ah, não há essa limitação no título judicial, não tem a limitação territorial, não há. Foi dito aqui, o aditamento foi para efeitos de citação, já havia eh para prefeito dos endereços. Então, portanto, não procede o argumento, com todas as vênas, de que, neste caso, eh, se limita ao estado. E veja, excelências, autor Ministério Público, carreiras de âmbito, carreiras nacionais, legislações federais para todo o país. Por que limitar territorialmente? Por que limitar subjetivamente a entidade, as entidades do polo passivo? quando o Ministério Público foi sábio na tentativa de resguardar para aqueles servidores desinformados, não tinha internet, não tinha grupo de WhatsApp na época para ter informação desse processo. E o Ministério Público agiu bem, contemplou aqueles que, porventura não tivessem eh ajuizado a ação ou feito o acordo. A segunda turma, Min. Teodoro Silva Santos, Velência tem um precedente nesse sentido. essa já ajuizou, já analisou, perdão, essa própria ação. Falo no ARESP 2981 328 do Mato Grosso do Sul. Esse processo a segunda turma já julgou e foi no sentido da tese que as partes e não a união propõe de não haver essa limitação, seja eh territorial, seja subjetiva. Então, esse aspecto nos parece bastante importante. É, olhando para o tempo, excelência, questão do tema 1075 já foi explorado, mas a cronologia dos fatos, dos acontecimentos judiciais e dos julgamentos afastam essa aplicação. Em 2011, a Corte Especial extinguiu a competência territorial dos limites objetivos e subjetivos da sentença coletiva. Em 16, a corte especial voltou a afastar a limitação territorial a priorística eficácia da decisão coletiva. O título em discussão transitou em 2019. essa corte já havia amadurecido essa discussão no que respeito a essa limitação e o 75/2021 de fato, pois e muito já foi dito aqui em relação à questão dos dispositivos e excelências, vejam, eh, no caso, no caso nos parece que tem muito pouca gente que ainda não recebeu esse reajuste. Houve acordo, houve acordo por conta de leição legislativa. Então, é apenas para contemplar aqueles que efetivamente não puderam ter oportunidade de buscar judicialmente. Portanto, eh, sem não antes desejar um feliz aniversário à Min. Maria Thereza de Assis Moura tem aquela música do IRA diz, é, eh, envelhecemos na cidade. Feliz aniversário, envelhecemos na cidade. A Vossa Excelência não envelhece, pelo contrário, a senhora tá cada vez mais jovem e irradiando a sua juventude e os seus conhecimentos aqui na sessão e na turma. Então, parabéns uma vez mais antes de encerrar. E a Fenace pede o desprovimento do recurso especial da FUNASA. Primeiro, a sentença alcança servidores ativos, inativos, pensionistas cumpridos na condenação, independentemente de domicílio, lutação, local de exercício. A própria sentença e o próprio pedido delimitaram quem fez acordo, quem já entrou com ação. Ela é específica. Segundo, eh, a execução permanece da União e as demais pessoas jurídicas, administração e direta. E segundo, deve ser, terceiro, perdão, deve ser respeitad as condições, exclusões, compensações, ações próprias, acordos e pagamentos previstos no título, sendo desnecessária ação recisória para executá-lo na extensão que foi instituído. Muito obrigado pela atenção de vossas excelências. Uma boa tarde.\n\n**[02:13:12] Dr. Sérgio Ludmer (Advogado / UNAFISCO):** Pois não, Dr. Cláudio. E agora, Dr. Sérgio Ludmer. Excelentíssimo senhor Min. Gurgel de Faria de Faria, presidente desta colenda sessão, excelentíssimo senhor ministro Afrânio Vilela, eminente relator, em nome de quem saúdo as ministras e os ministros desta corte. Também desejo feliz aniversário à Min. Maria Thereza de Assis Moura para que não esqueça ao final ilustre representante do Ministério Público, caros advogados, advogadas, servidores e demais presentes. Ficar por último nesse contexto me trouxe uma grande vantagem, não é? que a matéria técnica, seja ela processual como seja ela da realidade dos autos, está por definitivamente eh bem abordada. Todavia, excelência, estive o prazer e o privilégio na semana passada de estar com vossas excelências no evento aqui desta casa, em homenagem inclusive ao senador Bernardo Cabral, relator geral da nossa constituinte, que ao ouvi-lo, o nosso senador, o nosso o nosso constituinte disse, né, que ficou muito claro, fojou a criação do Superior Tribunal de Justiça o grande fiador da isonomia, da interpretação uniforme da lei, impedindo que o Brasil se dividisse em justiças fragmentadas e regionais. É disso que se trata aqui. Ministro presidente sabe bem, ministro presidente, que trabalho na causa há 20 anos, aproximadamente 20 anos, não sou mais jovem aqui, não é? E que esta causa através da lei, como falou aqui quem me antecedeu, meu colega Cláudio também, que está aqui há muito tempo, a o as leis 82, 8622 e 8627 estenderam, asseguraram o reajuste que antes tinha sido dado aos militares, ao legislativo, ao judiciário, ao TCU e ao Ministério Público. Logo, essas categorias todas receberam administrativamente, sem necessitar nenhuma demanda judicial. Foi preciso apenas ao servidor do executivo buscar seu direito perante a justiça brasileira. foi feito também, como relator aqui meu colega, o advogado Cláudio, e foi ao Supremo e o Supremo emitiu uma súmula, a súmula 672, que depois se tornou a súmula vinculante, número 51, vinculante, dizendo que se tratava de uma revisão geral de remuneração e que todos os servidores públicos federais têm direito a tal reajuste. Logo, ministro Teudoro, é uma, essa ação é chamada popularmente como 28,86% remanescente. Que danado é remanescente, excelência, nós nem deveríamos estar aqui a julgar essa causa nesse momento, porque deveria ter um ambiente lá na administração pública em que o servidor federal que não foi contemplado, que até hoje não recebeu, compareceria lá, comprovaria que trabalhou no período, comprovaria as limitações do título, qual é? se tem acordo, se não tem acordo, se tem união, se tem se tem acordo, se tem ação. E lá com essa comprovação receberia o seu direito, o direito a que faz juiz, a tal reajuste que não é da União, é do servidor público e é de todos eles. Então é disso, excelências, que estamos aqui a tratar. Então essa ação civil pública nasceu exclusivamente para curar essa discriminação. Ela nasceu para curar essa discriminação. E o o egrégio Tribunal Regional Federal da terceira região, ministro Ofrânio, disse no seu julgamento, né, eh, que a única entidade de classe capaz de representar todos os servidores devido à extraordinária dispersão nacional dos lesados, o que legitimava o Ministério Público para tanto. Logo, é, como disse também o Dr. Cláudio aqui não tinha não tinha entidade de classe, ninguém era capaz de representar todos os servidores. Entendam excelências, eu aqui represento a UNAFISO como amicus curiae e faço aqui eh agradeço a presidência da UNAFISO pela oportunidade através do presidente K Cabral e agradeço ao ministro Afrânico por ter nos admitido como amigoscuri, né? Então, excelência, estamos aqui para pedir que seja cumprido aquilo que a lei já assegurou e que o ministério e que o o Supremo Tribunal também já segurou. Por fim, Min. Gurgel de Faria, eu queria dizer o seguinte, que as folhas 917 918 dos autos do HESP 2hõ249171 do Ceará conta o parecer do Ministério Público, porque foi falado aqui o que o Ministério Público queria, que o Ministério Público, como disse aqui o ministro Erma, o que importa é o que o Ministério Público disse, o que o Ministério Público queria. E no caso disse o Ministério Público, abro aspas, peço venia para ler no caso, vou encerrar isso. No caso concreto, o título executivo formado na ação civil pública não impôs qualquer limitação geográfica ou restrição a quanto aos efeitos subjetivos da condenação. A alusão ao estado do Mato Grosso do Sul na petição de aditamento serviu unicamente para indicar o endereço local de citação das entidades demandada. Logo, o que é que quis público? O que o Ministério Público disse nos áudios e não qualquer outra coisa que não esteja nos autos. Presidente, obrigado pela tolerância, obrigado pela atenção. A UNAFISO pede que não seja trazido qualquer limitação ao título, tal como consta no seu dispositivo. Muito obrigado.\n\n**[02:19:09] Dr. Eitel Santiago (Subprocurador-Geral da República / MPF):** Pois não. Vamos então passar a palavra a o Ministério Público Federal como custos legites que irá se pronunciar. por favor. Dr. ET, fica à vontade. Eminente ministro presidente, senhores e senhoras, ministros componentes da Primeira Seção do colendo superior Tribunal de Justiça, ilustres e combativos advogados presentes, estimados eventuários da justiça, senhoras e senhores, na hipótese compreendo que os recursos especiais debatem a mesma questão de direito, a qual se resume numa singela indagação. aplica-se ou não aos servidores e pensionistas de outras regiões e de outras entidades não indicadas no processo, nos processos, os efeitos da decisão proferida pelo juiz da Primeira Vara Federal do Mato Grosso do Sul na ação civil pública. E eu tenho o número dela aqui, não vou repetir. Eu entendo que não, que não há essa aplicação, diferentemente de alguns outros colegas meus. A demanda não foi ajuizada nem julgada em âmbito nacional. Os servidores federais e pensionistas de outras regiões não foram partes do processo, não podem, por força desse singelo motivo, ser favorecidos por decisão proferida. naquele feito. Vou lembrar um fato. Os reajustes de 28,86% foram conferidos apenas aos militares. Um erro pelas leis 86 22 de 93. Nós estamos falando de uma coisa antiga e a lei 8627 de 93. Mas o Supremo Tribunal Federal em boa hora, apreciando questões que aportaram por lá em grau de recursos, findou por reconhecer com amparo na isonomia prevista na Constituição. É o velho direito de igualdade que remonta os tempos da Revolução Francesa. Fou por reconhecer o direito dos servidores federais civis. de obterem semelhantes reajustes. Foi dito aqui com muita propriedade que as decisões do pretório Excelo consolidaram-se na Súmula Vinculante 51/STF, aprovada em 23 de junho de 2015. E todos sabem os termos da súmula, eu não vou repet. Assegurado o reajuste isonômico, os Barnabéis, muitos deles, recorreram ao judiciário e foram atendidos. Outros conseguiram extensão que foi dada a muitos servidores de diversos órgãos do Brasil. Além disso, surgiram ações coletivas como a referenciada nessa sentada. O autor da ação foi o Ministério Público Federal. do Mato Grosso do Sul. O procurador da República registrou em aditamento feito quais eram as repartições de entidades federais autárquicas e fundacionais sediadas no Mato Grosso do Sul, cujos servidores, civis federais, ativos ou inativos e pensionistas, seriam favorecidos com aqueles reajustes. aquilo uma norma surgida por decisão do Supremo Tribunal Federal. Existe nos processos informações sobre o ajuizamento pelo parquê federal de outras ações coletivas com pedidos idênticos. exemplos a União Federal os aponta e foi dita aqui ações que foram promovidas no Rio Grande do Sul, eu posso citar o nome dela, se o número dela, se necessário for, como a do a 97001 21925 e na Bahia a 556 028 0 e 401 3300 Essa circunstância revela que os efeitos financeiros da ação coletiva do Mato Grosso do Sul restringiram-se aos servidores daquela unidade federativa. A Primeira Turma dessa Corte Nacional ao tema tão interessante das ações coletivas no apelo nobre 2116 217 de Pernambuco, a relatora, a eminente ministra Regina Helena Costa salientou que a decisão de uma ação coletiva considera o conjunto dos elementos do título e o conteúdo das pretensões das partes. a fim de estabilizar a relação jurídico-processual a respeito do objeto do litígio e das partes envolvidas na lide. Parece-me a melhor interpretação a se conferir a preceitos processuais. Aliás, o judiciário, nós devemos lembrar, existe para com politígios, não deve eternizar os conflitos. Se à luz das considerações feitas, a decisão do juízo federal do Mato Grosso do Sul favoreceu apenas os servidores federais, ativos e inativos e pensionistas da mencionada região, se por outro lado tal decisório transitou e julgado desde agosto de 2019, não há espaço para a expansão pretendida, beneficiando Barnabés de outras regiões. Olha, não, olha depois\n\n**[02:25:43] Dr. Eitel Santiago (Subprocurador-Geral da República / MPF):** eles, assim como as associações que os representam, associações classistas, permaneceram inertes por muitos anos. O reconhecimento dos direitos aos reajustes pelo STF ocorreu desde 2015, junho de 2015. Nós estamos falando uma coisa de mais de 11 anos, de sorte que os órgãos sindicais e seus representados somente poderiam deduzir em juízo pretensões dessa natureza até junho de 2020, segundo o decreto 2910 de 6 de janeiro de 1932, que trata da prescrição. Se não o fizeram, a prescrição possivelmente atingiu as postulações e são muitas porque há uma reunião de recursos especiais em julgamento. Não há como favorecer agora, através de uma expansão, de uma decisão proferida numa ação arquivada há muito tempo, na qual o próprio Ministério Público Federal lá do Mato Grosso disse que tava tudo atendido. Eu não sei como terminou a da Bahia, não sei como terminou a do Rio Grande do Sul, não sei como terminou algumas outras que foram intentadas em outras unidades federativas. A União também precisa, nós precisamos ver isso, a União precisa ser protegida de investidas bilionárias que não tenha eh liquidez de amparo legal. Afinal de contas, nós vivemos num país em que a gente para nos sinais e vê crianças de mão, mãos estendidas pedindo esmolas junto de parentes às vezes drogados, sem nenhuma ação dos poderes públicos que mostram-se ineficientes e alegam que disse hoje o ministro Benjamim que a fazenda também é pobre. Ora, se a fazenda é pobre, ela é precisa, é preciso que se olhe ela com a proteção, pelo menos, da prescrição, da decadência, para que não hajam ações reccisórias, muitas delas se chegaram a ser ajuizadas, recessisóas, porque outra parece que é só para cumprimento de para reabrir uma questão já completamente morta, ressuscitar, soprar no nariz e ressuscitar um defunto, o direito não pode fazer isso, não. Um brocardo latino antigo que merece ser lembrado aqui. Eu sou da velha guarda. Gosto dos brocardos latidos dormentibos não socorrit juiz. O direito não pode tá socorrendo quem dormiu, porque eu sou também servidor público e vi os servidores do Ministério Público Federal brigando em todo o Brasil para terem essa extensão, porque houve realmente uma injustiça. Eu não posso ter uma compreensão diferente que vá gerar\n\n**[02:28:54] Dr. Eitel Santiago (Subprocurador-Geral da República / MPF):** uma despesa dessa magnitude por um direito que não é tranquilo nem líquido, incerto e que encontra também embaraço no tema 733 do Supremo Tribunal Federal. podem consultar que vão ver que há um certo embaraço para esse reconhecimento. Aí, por nessa manifestação oral que fiz com uma certa pressa depois de olhar os impactos que existem e olhar também que não tem muito amparo legal a pretensão data venha deduzido pelas entidades sindicais e por algumas até as pessoas físicas que evidentemente estão aqui representando seus advogados. Essas deveriam ser feit até uma análise talvez separada, porque essas procuraram o advogado, essas talvez mais das entidades sindicais, que são órgãos que cobram contribuições para defender seus associados, não o fizeram. Então não se pode estar ressuscitando, senão a gente não vai ter estabilidade nas relações jurídicas. A coisa julgada vai deixar cada vez de valer como deveria valer. E o judiciário, ele é pensado como órgão de pacificação de litígios de restauração da paz social, quer seja o conflito entre entidades do poder público e particulares, quer seja entre particulares apenas. Eram essas as considerações, senhores ministros, que gostaria de fazer e meu próprio nome dentro da convicção que fiquei examinando esses autos, porque fui muito instado a fazer essa esse exame por muitos advogados e fiz e me convenci de que deveria. Eu falo pouco aqui, já tô até meio cansado. Falei muito nas turmas criminais, quando mais novo. Hoje sou o segundo mais antigo do Superior Tribunal de Justiça. Eh, esse tema não falo, mas eu tô falando isso porque hoje nós temos aqui uma ministra muito querida que está aniversariando e está também espagindo os encantos da sua juventude para todos nós que conhecemos e sabemos do discernimento que ela tem no julgamento das causas que lhe são submetidas. Era isso que eu tinha a dizer.\n\n**[02:31:31] Min. Afrânio Vilela (Relator):** Pois não, Dr. Eitel Santiago. Eu já passo a palavra agora ao ministro Afrânio como relator. Senhor presidente, senhores e senhoras advogadas, prezados colegas, eu acredito que senhor subprocurador geral da República, acredito que todos aqui gostariam de homenagear a nossa aniversariante, Min. Maria Thereza de Assis Moura, eh, encaminhando a ela a relatoria deste feito para que sua excelência se sinta presenteada, né? Mas se ela não aceitar o presente, senhor presidente, eu tenho eh por obrigação eh solicitar vista dos autos para poder reavaliar certos pontos dos autos, inclusive em função de diversos memoriais que as partes fizeram a gentileza de me encaminhar. A Min. Maria Thereza de Assis Moura não aceitou, de maneira que então fica com vista regimental do Min. Afrânio Vilela. Agradeço a participação de todos os advogados e também, por óbvio, a colaboração do Ministério Público Federal, eh, não só neste feito, como também em todos os demais, mas especialmente neste pela sustentação oral. E eu passo então a presidência para o ministro Paulo Sérgio a pregoar o Tema 1386/STJ, que é da minha relatoria.\n\n**[02:32:55] Min. Gurgel de Faria (Presidente):** Muito obrigado, ministro Gurgel, a Min. Maria Thereza de Assis Moura e cada um manda o presente que deseja para o amigo, né? Eu [risadas] mandei uns chocolates. Fran quer mandar relatoria de um processo. Eu, aliás, eu prefiro muito mais este presente. [risadas]\n\n**[02:33:14] Min. Paulo Sérgio Domingues (Presidente em exercício):** Apreou aqui eh os resps REsp 2.213.084, REsp 2.227.232 da relatoria do ministro Gurgel de Faria, Tema 1386/STJ. Estamos aqui inscritos para sustentação oral. Peço que então se representem. Dra. Juliana Florentino de Moura, pela parte recorrida, estado do Rio de Janeiro. Boa tarde, Dra. Mariana Dutres Silva, pela recorrente Crislane Rodrigue Silveira e aptão por videoconferência, não é? E Dr. Augusto César Almeida da Silva pelo interessado Instituto Brasileiro de Direito Previdenciário, não é isso? Indago se os doutores dispensam a leitura do relatório. Sim. Vamos ver se eu não vejo aqui ainda a Dra. Mariana também. Dispensa leitura do relatório. Sim, perfeitamente. Então eu passo a palavra a Dra. Juliana Florentino de Moura pelo prazo regimental de 15 minutos.\n\n**[02:34:22] Dra. Juliana Florentino de Moura (Procuradora do Estado do Rio de Janeiro):** Muito obrigada senhor presidente. Min. Paulo Sérgio Domingues. Ministro Senhor ministro Gurgel de Faria. relator dos recursos repetitivos, senhora Min. Maria Thereza de Assis Moura, quem cumprimento pelo seu aniversário, senhoras, senhora ministra Regina Helena, senhores ministros, ilustre membro do Ministério Público Federal, estimados advogados, servidores e todos os demais presentes. Eu falo aqui em nome do estado do Rio de Janeiro. O que se discute nestes autos é se existe ou não um prazo prescricional para requerer judicialmente o benefício de pensão por morte deixado por um servidor público. Ou seja, se a prescrição atinge o próprio fundo de direito ou se ela atinge apenas as prestações vencidas. O Estado defende que havendo indeferimento administrativo expresso e sendo esse indeferimento comunicado ao interessado, passa a correr o prazo prescricional de 5 anos previsto no decreto 20910 de 1932. Portanto, prescreveria o próprio fundo de direito e não apenas a pretensão de recebimento das parcelas vencidas. Essa posição se apoia em basicamente três fundamentos muito objetivos. O primeiro deles é o de que o entendimento desta própria Primeira Seção nas relações de trato sucessivo em que figure como devedora a fazenda pública, é de que há prescrição do fundo de direito. Isso foi decidido em maio deste ano, muito recentemente, no tema 1410. Nesse tema, é bem verdade que se discutia adicional por tempo de serviço, mas a tese repetitiva foi fixada em termos amplos para abranger todas as relações de trato sucessivo em que a fazenda pública figure como devedora. E é essa justamente a questão dos autos, porque a relação que se estabelece entre a entidade de previdência e o dependente que pleiteia a pensão é uma relação de trato sucessivo. Essa mesma orientação fixada no tema 1410 já havia sido adotada por esta Primeira Seção embargos de divergência em 2021 em relação ao próprio direito à pensão por morte no regime próprio de previdência social, ou seja, há precedente específico em embargos de divergência desta sessão julgado por essa sessão em relação à concessão da pensão por morte. Esta Primeira Seção já afirmou a prescrição do fundo de direito após o transcurso de 5 anos contados da ciência do indeferimento. Naquele julgamento em 2021, vou ler um pequeno trecho da ementa, apenas para ilustrar. Abro aspas. Nas causas em que se pretende a concessão de benefício de caráter previdenciário, existindo negativa expressa e formal da administração, não há falar em prescrição do fundo de direito. Situação diversa ocorre quando houver o indeferimento do pedido administrativo de pensão por morte, pois em tais situações o interessado deve submeter ao judiciário, no prazo de 5 anos, contados do indeferimento, a pretensão referente ao próprio direito postulado sob pena de fulminar o lustro prescricional. Fecho aspas. Isso também é o que decorre de uma súmula muito antiga desse tribunal, a súmula 85. Apesar de muito antiga, ainda em pleno vigor. E é exatamente o que o estado pede aqui. Nada novo, nada de diferente, apenas a manutenção do entendimento desta sessão. E vejam, senhores ministros, que esse entendimento não gera um prazo exíguo ou irrazoável pra parte requerer o benefício de pensão por morte. E por quê? Porque o próprio interessado continua controlando o momento em que ele apresenta o requerimento administrativo. No recurso especial oriundo do Estado do Rio de Janeiro, por exemplo, o servidor faleceu em 78 e a autora só apresentou o requerimento em 2014, mais de 35 anos depois. E por incrível que pareça, a tese defendida pelo Estado não impede que isso continue a ocorrer e ainda concede 5 anos a partir da ciência do indeferimento administrativo. Ou seja, há um prazo muito razoável para se requerer, o que demonstra que essa tese concilia bem o direito à previdência social e a segurança jurídica. O segundo fundamento é o de que a imprescritibilidade pretendida pelos amicus curiae e pela parte autora aqui recorrente, ela prejudicaria severamente o direito à ampla defesa e ao contraditório do Estado e das autarquias previdenciárias em geral. Por quê? Porque é muito comum, na verdade, muitos pedidos de concessão de pensão dependem da avaliação de circunstâncias fáticas, como, por exemplo, a existência ou não de união estável, a existência ou não de dependência econômica.\n\n**[02:39:50] Dra. Juliana Florentino de Moura (Procuradora do Estado do Rio de Janeiro):** E é muito comum, pelo menos no estado do Rio, isso acontece, é muito comum que se consultem redes sociais do requerente para se verificar se realmente havia ou não aquela convivência alegada ou se não havia, ou mesmo para buscar eventuais testemunhas para um processo judicial. Isso tudo se perde com o tempo. Publicações são apagadas, perfis são desfeitos e, portanto, o passar do tempo prejudicaria severamente o direito à ampla defesa e contraditório do Estado. Terceiro fundamento para que não haja imprescritibilidade é é o seguinte: não se pode transpor regimes próprios de previdência social a mesma lógica do regime geral de previdência social. E por que eu trago aqui esse fundamento? Porque a divergência que passou a existir nesse tribunal se deveu sobretudo ao julgamento de uma ADI no Supremo, ADI6096, em que se discutia a constitucionalidade de um dispositivo de lei que fixava prazo decadencial para discutir judicialmente atos de indeferimento, cancelamento ou cessação de benefícios previdenciários do regime geral. E lá o Supremo entendeu que esse prazo decadencial era inconstitucional. Portanto, há quem queira transpor essa tese de que não pode haver prazo para requerer a concessão de benefícios previdenciários. Mas além de aquele julgamento no Supremo ter sido restrito ao regime geral, lá não se analisou o decreto 20910, não se analisou o regime próprio de previdência social, há uma outra razão para não se transpor. Aquele julgamento foi proferido em 2020 por uma maioria muitíssimo apertada, um placar de 6 a c. três dos ministros eh que votaram com a maioria já deixaram a corte. Então, é possível que o Supremo reveja a sua posição caso revisite essa matéria. Mas há ainda uma razão mais importante para se distinguir os regimes próprios do regime geral. Aqui há uma questão de proteção a pessoas hipossuficientes econômica e tecnicamente no regime geral, que não existe nos regimes próprios. No regime geral, que é um regime de proteção massiva dos trabalhadores, sobretudo da iniciativa privada, mais de 65% dos beneficiários recebem um salário mínimo de benefício. Nos regimes próprios, vou trazer aqui o exemplo do executivo federal, o valor médio das aposentadorias é de mais de R$ 12.000. Além disso, mais de 85% dos servidores públicos federais do executivo possuem ensino superior. Portanto, não há aqui nos regimes próprios uma razão de hipossuficiência informacional ou econômica que justifique a ampliação do prazo de prescrição. Essas são, portanto, as razões que levam à rejeição da tese da imprescritibilidade e a atração do entendimento já firmado por essa Primeira Seção no tema 1410 do STJ. Mas o Estado gostaria também de fazer um pedido subsidiário para o caso de se afirmar a imprescritibilidade, o que estou admitindo aqui apenas para argumentar. Qual é o pedido subsidiário do Estado? é o pedido de que não haja condenação ao pagamento de valores retroativos quando a administração tenha de boa fé pagado a o valor integral da pensão, 100% da pensão ao outro beneficiário que primeiro se habilitou. E por que isso? É comum que a administração pague 100% durante longo período e aí em razão da própria demora desse interessado que surge repentinamente, seja obrigada judicialmente a pagar 5 anos de mais 50% daquela pensão. Ou seja, ao invés de pagar 100, ela paga 150%. Esse é um pagamento em duplicidade que o estado gostaria de evitar. Inclusive, no caso dos autos aqui, quem recebeu a integralidade da pensão foi a mãe da autora. Ela é a filha pleiteando. Vejam, senhores ministros, que o pagamento retroativo poderia inclusive dar ensejo a situações de conuio. Não tô dizendo que houve aqui, mas ele pode dar ensejo a isso, porque as partes podem acordar para receber duas vezes o mesmo benefício pela morte do mesmo servidor. Por fim, eu gostaria de tratar de algumas peculiaridades do caso concreto após se fixar a tese repetitiva. Primeiro, gostaria de chamar a atenção pro seguinte. Apesar de o recurso especial oriundo do estado do Rio de Janeiro ter sido afetado para essa para discutir essa questão previdenciária, no caso do recurso do Estado, a pensão em discussão não tem natureza previdenciária, ela tem natureza estatutária, ela é uma pensão especial que era paga especificamente a membros do Ministério Público. Portanto, se era um benefício estatutário, com mais razão ainda se aplica aqui o tema 1410 do STJ. Além disso, há um segundo ponto sobre esse recurso, que é o seguinte: caso seja afastada a prescrição, o que se admite aqui também por eventualidade, não é possível de imediato reconhecer o direito à pensão, porque o direito à pensão depende da análise da legislação estadual. Inclusive, o indeferimento do pedido administrativo se deu com fundamento na legislação estadual, que previa que se a mãe concorresse com filhos daquele mesmo matrimônio, o direito era só da mãe, os filhos não recebiam. Por isso que a filha aqui não teve o direito reconhecido administrativamente. Por essas razões, senhor presidente, senhor ministro relator, senhoras ministras, senhores ministros, o Estado pede que essa Primeira Seção reconheça que o prazo de prescrição do fundo de direito passa a correr a partir da ciência do indeferimento administrativo do requerimento do benefício de pensão por morte. Subsidiariamente, caso seja reconhecida a imprescritibilidade, requer que se rejeite o pagamento retroativo a esse esse essa pessoa que se habilitou tardiamente para evitar que o estado seja prejudicado. E por fim, especialmente, especificamente em relação ao recurso especial do Estado, oriundo do Estado do Rio de Janeiro, em que o estado figura como recorrido, eh caso não se mantenha o acordão recorrido, o que se admite, por hipótese, requer que os autos sejam remetidos às instâncias ordinárias para que a questão seja rejulgada à luz da legislação estadual, caso afastada a prescrição. Muito obrigada. Cumprimento a Dra. Juliana Florentino de Moura pela sustentação. Eh, adotando aqui a metodologia da Primeira Seção, não verificando existência de destaques no sistema, eu vou pedir a Dra. Mariana Dutre, Dr. Augusto César, para aguardar e vou passar a palavra ao eminente relator. Depois, eventualmente posso passar a palavra aos aos doutores advogados, tá bom? Então, ministro Gjal de Faria com a palavra. Pois não, presidente. Eu inicio eh aqui fazendo a saudação a ilustre advogada que fez a sustentação na tribuna e aos que estão aqui também na tribuna virtual, a gente assim pode dizer, eh, Dra. Mariana e o Dr. Augusto César. E como não houve destaque, conforme já registrado pelo presidente, eu vou fazer um resumo a partir da própria ementa, é onde eu digo que a questão submetida ao STJ consiste em definir se o indeferimento administrativo do pedido de pensão por morte de servidor público tem um condão de atrair a incidência da prescrição do fundo de direito ou se subsiste a imprescritibilidade da pretensão ao reconhecimento do benefício. O STF, no julgamento da DI 6096, consignou que a incidência de institutos instintivos do próprio direito, nas hipóteses de indeferimento, cancelamento ou cessação do benefício previdenciário, é importante dizer do próprio direito, tá certo? Configura violação ao direito fundamental à previdência social. A a raciodicidende estabelecida pelo STF não comporta a distinção fundada no regime jurídico aplicável geral ou próprio, pois a proteção previdenciária, independentemente do regime aqui vinculada, deriva diretamente da Constituição Federal e concretiza valores estruturantes como a dignidade da pessoa humana, a solidariedade e a efetividade dos direitos sociais. A negativa da administração do pedido de pensão por morte de servidor público não tem o condão de converter o direito fundamental à previdência em pretensão sujeita à extinção total pelo decurso do tempo. Admitir solução diversa implicaria estabelecer tratamento mais gravoso aos beneficiários do regime próprio em comparação com aqueles vinculados ao regime geral em manifesta afronta a coerência do sistema jurídico. Para os fins do artigo 1036 do CPC, fixa a seguinte tese no âmbito do Tema 1386/STJ. O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas no período de 5 anos anteriores ao ajuizamento da ação. Não há espaço para a modulação dos efeitos do presente julgamento, seja porque a tese não inova, mas consolida a imprescritibilidade do fundo do direito já reconhecida pelo Supremo Tribunal Federal, seja porque inexistia jurisprudência pacífica apta a gerar confiança legítima. Caso concreto, uma vez reconhecida a prescrição de Fundo de Direito pelo Tribunal de Origem, o recurso da parte recorrente merece prosperar. E em atenção à sustentação oral da Dra. Juliana, eu digo que o que eu estou fazendo aqui no exame do caso concreto é tão somente afastando a prescrição, então essas peculiaridades que foram determinando por óbvio, que os autos retornem ao Tribunal de Origem. Então essas peculiaridades, Dra. Juliana, que foram mencionadas e eventualmente já foi feito um pagamento a um outro beneficiário para que não haja duplicidade ou outros tópicos, ah, legislação local, há uma regra específica. Essas peculiaridades terão que ser examinadas no âmbito do tribunal de origem, porque volto a mencionar, a determinação é provimento para afastar a prescrição. E aí eu determino aqui, ó, tá no dispositivo, determino o retorno dos autos ao tribunal de origem a fim de que prossiga no julgamento do feito, decidindo como entender de direito, por óbvio, com relação aos demais pontos, porque a prescrição fica afastada.\n\n**[02:51:03] Min. Gurgel de Faria (Relator):** Eh, é esse o resumo do voto. Inclusive, isso vale para ambos os casos. No caso do Rio Grande do Sul, que na houve sustentação oral também, eu só afasto a prescrição e mando voltar para que o Tribunal de Origem possa avaliar eh no caso os demais pontos. Presidente,\n\n**[02:51:22] Min. Paulo Sérgio Domingues (Presidente em exercício):** muito bem. Eu indago então a Dra. Augústa, Dra. Mariana, estão satisfeitos? Satisfeito, excelência. Sim, excelência. Pois não. Então, não verificando a existência de nenhum destaque, eu proclamo o resultado. A Primeira Seção por unanimidade deu provimento aos recursos especiais para afastar a prescrição do fundo de direito e determinar o retorno dos autos ao tribunal de origem, a fim de que prossiga no julgamento do feito, decidindo como entender direito dos termos do voto do senhor ministro relator. Foi aprovada por unanimidade a seguinte tese jurídica no tema repetitivo número 1386. O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição com incuenal sobre as prestações vencidas no período de 5 anos anterior ao ajuizamento da ação. Então, com esse resultado, eu devolvo a presidência ao ministro Gurel de Faria. Obrigado, ministro Paulo. E eu aproveito para fazer o registro que a Secretaria de Cultura e Memória, por meio do Núcleo de Mediação e Educação Museal, comunica que estão presentes nesta sessão participando do programa Saber Universitário da Justiça, os estudantes da Faculdade Anhanguera de Sorocaba. É, por favor, se puderem se identificar, levantando o braço. Sejam todos muito bem-vindos aqui para acompanhar os julgamentos no âmbito da nossa Primeira Seção. E dando continuidade, vamos agora para o julgamento do Tema 1364/STJ, relatoria do ministro Paulo Sérgio. Vou chamando os ilustres advogados, Dr. Marcel Vieza Pereira da Costa, que falará pela parte recorrente de L transporte e logística nacional limitada. Dr. Bruno Rodrigues, que falará pela parte recorrente Arom Itália do Brasil limitada, Dr. Marcelo Tonete Júnior pela parte recorrente Anderle Transportes Limitada, Dra. Ariane Costa Guimarães, pela parte interessada, Federação das Indústrias do Estado do Paraná. E pela parte recorrida falará a Dra. Rafaela Mateus Duarte. Eu então eh convido o Dr. Marcel para que venha falar eh inicialmente, já pode vir para a tribuna. Eh, e vou agora apregoando os feitos que são recursos especiais de número REsp 2.150.097, 848, 894 e REsp 2.151.146, todos, como eu já mencionei, da relatoria do ministro Paulo Sérgio. Indaga aos ilustres advogados se dispensa a leitura do relatório. Todos dispensam. Então, eh, conforme já anunciado previamente aos ilustres advogados, são quatro advogados pelas partes recorrentes. Eu digo pelas partes, porque na verdade aqui temos mais de um processo, não é? Então, cada um terá até 7 minutos e meio para a sua sustentação. Dr. Marcel, com a palavra. Excelentíssimo senhor presidente, eh, Gurgel de Faria, excelentíssimos ministros, eh senhoras ministras, parabenizo também a Min. Maria Thereza de Assis Moura pelo seu aniversário, serventuários, colegas advogados e também os estudantes aqui presentes. Eh, boa tarde a todos. Ah, meu nome é Marcel, falo em nome da DL Transportes e Logística, ah, transportadora de cargas, rodoviária de cargas de Xaxim, no estado de Santa Catarina. E hoje o debate aqui é é de conhecimento de todos, né? Eh, que se trata basicamente do crédito de PIS e CofinFINS sobre o ICMS e na entrada, nas operações de entrada, na nas aquisições, principalmente de mercadorias, né? Registo também que é a primeira vez que eu ocupo essa tribuna, então faço com bastante satisfação e honra, ainda mais num tema de tanta relevância, né, em âmbito nacional, como é de natureza dos próprios recursos repetitivos. Eh, e bom, separei a minha fala de maneira muito objetiva em três principais pontos. Primeiro tratarei a respeito da do ICMS recuperável, né? O crédito do piscofim sobre ICMS que é recuperável. No segundo momento, o crédito de pisicofim sobre ICMS que é irrecuperável e por fim os precedentes do STJ. Bom, no caso do ICMS, que é é recuperável, né, quando ele entra de fato como um imposto a ser abatido nos débitos, né, do próprio ICMS, ah, a própria PGFN, né, e também a Receita Federal desde 2021 sempre externaram o seu posicionamento eh por meio de parecer da PGFN, por meio de solução de consulta COSIT, eh, da própria Receita Federal, no sentido de que eh a extensão do tema eh 69 do STF não seria automática, né, paraa proibição da do crédito de pisicofim sobre o valor do ICMS das entradas, né? Eh, tanto é que o ICMS nas entradas, eh, caso seja impedido o direito ao crédito a partir de maio de 2023, né, por meio da publicação da lei 14592 de 2023, ele acaba indiretamente, na verdade, violando a decisão que foi determinada pelo Supremo no julgamento de tema 69. Eh, veja bem, se o Supremo no julgamento de tema 69 determinou que o ICMS a ser excluído da base de cálculo dos débitos de PIS e Confins é aquele destacado nas notas fiscais, a proibição do crédito de PIS/COFINS sobre o ICMS nas entradas faz com que o ICMS a ser eh excluído da base do PIS e Cofins na saída passe a ser indiretamente o ICMS efetivamente recolhido, que vai de maneira contrária àilo que foi julgado nos embargos de declaração eh do tema 69 no ano de 2021. Então, por conta dessa interpretação, eh, o STJ, né, exercendo a sua competência de uniformizar a interpretação da legislação federal, eh, entendo que deveria reconhecer, né, que mesmo no caso de ICMS recuperável, o direito ao crédito deve ser reconhecido sob pena de violação a um precedente vinculante do Supremo Tribunal Federal, tá? já no que tange a ao ICMS irrecuperável, né? Eh, bem bem é dito que ele apenas transita no caixa, mas isso não é uma verdade. Eh, principalmente nos casos em que a empresa não tem o direito de se creditar, então, eh, desse CMS, eh, nas entradas que acaba virando de fato custo de aquisição. E esse é o principal ponto que estamos aqui analisando hoje. Eh, o conceito para fins de crédito de PIS/COFINS previsto na legislação eh infraconstitucional, na legislação federal. sempre foi o preço de aquisição eh dos bens e serviços. excluir o ICMS desse conceito acaba subvertendo essa lógica do método subtrativo, oriundo do da própria sistemática do creditamento de PIS/COFINS. O ICMS, que é irrecuperável, ele acaba entrando no custo eh de aquisição das mercadorias e serviços que são adquiridos pelas empresas do regime não cumulativo de pis e cofins. Então, sendo um sendo irrecuperável esse CMS nas entradas, de um modo ou de outro, ele será ah ele será incluído na base do PIS e CofinS em suas saídas. E se o PIS e Cofins incide na saída, por óbvio, deve ser garantido o crédito na entrada. Da mesma forma, como já vem eh garantindo em casos similares esse essa colenda Corte Cidadã, eh em casos recentes, inclusive, né? E já passando para o meu ponto três, eh, ainda no mês anterior foi concedido o direito ao crédito de PIS/COFINS a empresas situadas na zona franca de Manaus, eh, sobre mercadorias desoneradas pelo PIS e CofinFins desde que fosse eh usados, né, para fabricação de produtos tributados. Ainda no mês de maio também ocorreu no mesmo sentido o direito, foi reconhecido o direito ao acreditamento de PIS e Cofins sobre eh soja, né, que vem com suspensão de piso e cofins do fornecedor quando essa soja era utilizada para fabricação de biodiesel, um produto tributado pelo PIS/COFINS. Então entendo que não se pode simplesmente adotar o critério de não foi não incidiu o pisico fins na entrada da mercadoria automaticamente deve ser negado ao crédito, porque o entendimento mais recente dessa corte vem reconhecendo o crédito de PIS e CofinFINS. Eh, ainda que as entradas sejam desonoradas ou agora, voltando a a ao caso do ICMS, ainda que o ICMS tenha sido excluído da base de cálculo do BISCOFINS pelo fornecedor, o STJ vem entendendo que desde que a saída seja tributada, esse crédito deve ser garantido. Eh, ainda faço um adendo às empresas exportadoras, né? A empresa exportadora, por própria natureza, não recolhe PIS e Cofins na saída, mas a própria legislação federal garante a manutenção do dos créditos, inclusive o ressarcimento ou a compensação com outros tributos. Então, a manutenção da proibição do crédito de PIS/COFINS sobre esse ICMS que incide na entrada, seja ele recuperável ou não, eh acaba inclusive prejudicando o que a própria legislação federal diz em relação às empresas exportadoras, né? Então, já concluindo a minha fala, né, eh, feito esse ponto específico sobre a a as empresas exportadoras, gostaria de concluir apenas que eh para quem recupera o ICMS, a a reprodução da vedação ao crédito, ela viola o que foi decidido pelo Supremo no tema 69. E para quem não recupera o ICMS, faz o PIS, o PIS e Cofins incidir sobre esse valor de ICMS, o que já foi vedado pelo Supremo, né? Então, diante disso, pedimos então reconhecimento do direito ao crédito do PISCIOFIN sobre o semestre nas entradas, mesmo após a publicação da lei 14592, ou seja, desde maio de 2023. Eh, e de maneira subsidiária também gostaria de deixar registrado eh esse ponto, né, no que no que tange ao ICMS irrecuperável, né, apesar dos recentes entendimentos ah nos temas que vedaram crédito de pisicofim sobre o semestre ST e sobre o próprio IPI recuperável. Eh, porém, faço a distinção ao final eh de que o ICMS eh o ICMS próprio ele incide, né, no cálculo por dentro, enquanto esses demais tributos são calculados por fora. E aí está a grande distinção em relação ao caso sobre julgamento. Então, de maneira subsidiária, que seja garantido, então, o crédito de PIS/COFINS, quando considerado irrecuperável. Agradeço a atenção de vossas excelências.\n\n**[03:01:30] Dr. Bruno Rodrigues (Advogado):** Pois não, Dr. Marcel. Agora, Dr. Bruno, pelo prazo de até 7 minutos e meio, conforme anunciado previamente, V. Excelência tem a palavra. Agradeço, senhor presidente, senhoras, senhores ministros, senhor membro do Ministério Público, colegas servidores. Presidente, em benefício do tempo, eh, o meu colega que antecedeu defende a mesma tese que o meu constituinte defende. Então, ah, eu acho que devo me ater especificamente em relação a um ponto que acredito que o colegiado deva levar em consideração. O meu colega passou por esse ponto também, mas acho que vale a pena o reforço em razão do que esse colegiado já julgou quanto ao ICMS substituição tributária na base do creditamento do PIS da COFINS e o próprio IPI na base do acreditamento do PIS da COFINS. E nós temos aqui uma situação distinta em relação a isso. Bom, ah, Supremo Tribunal Federal julga o tema 69, exclui o ICMS da base de cálculo do PIS e da COFINS. Asevera que a discussão sobre o crédito não estava ah em jogo naquele naquela sentada. Resolve-se a questão em relação ao IMS no débito. O ICMS no crédito passa a ser então uma questão pro governo federal. O governo federal então ah resolve isso por meio eh de legislação, altera por meio da lei 14592 de 2023 e inclui o o inciso terceiro, no parágrafo 2º do artigo terceirº dessas leis para dizer que o ICMS deve ser excluído da base do creditamento. A finalidade do governo naquela situação era neutralizar o efeito e na visão dele manter uma lógica de não cumulatividade. Afinal, o débito sofre a exclusão. O crédito, em mesma medida, sofreria também essa exclusão. Isso, ah também foi levado em consideração por essa corte no tema 1231. e eu vou eh chegar nisso. Bom, eh por que então o contribuinte vem eh pedir que seja reconhecido o ICMS na base do crédito? Porque na nossa visão há uma necessidade de compatibilizar o texto dessa norma que não prejudica a previsão em relação à base do creditamento do PISE da Cofins. O artigo terceirº, parágrafo primeiro, inciso 1, diz que o crédito é determinado pela aplicação da alíquota sobre o valor de aquisição dos bens. Valor de aquisição, portanto, é a base de cálculo de creditamento do PIS e da COFINS. Não é valor líquido de tributos, não é o valor do pisco fins pago, é o valor de aquisição. Bom, e o que é o valor de aquisição pela legislação? O artigo 13 do decreto lei 1598 77 vai dizer que inclui no custo de aquisição os tributos devidos na aquisição ou na importação. Ou seja, é o preço pelo qual alguém adquire algo. Se o preço pelo qual alguém adquire algo é a base do creditamento, e eu intento neutralizar isso olhando pela ótica governamental, a incidência do ICMS, eu tenho que necessariamente levar em consideração que a lei Candir, e isso é pacífico, determina que o ICMS esteja dentro da própria base de cálculo. O ICMS ele compõe o custo de aquisição, diferente do IPI. que não é base para saída, diferente do ICMS substituição tributária, que não é base da saída. O ICMS próprio ele tem essa característica, ele compõe o valor de aquisição. E para algumas situações, para alguns contribuintes, este ICMS será necessariamente custo. Imaginem Vossas Excelências um prestador de serviço que não é contribuinte do ICMS, mas ele está sob o regime não cumulativo do PIS e da Cofins e é um prestador de serviço, adquire um determinado insumo, uma mercadoria para prestação do seu serviço e ela vem carregada com o ICMS. ele não vai recuperar esse tributo. Aquilo ali é o preço que ele pagou pelo tributo. Então ele tem que eh a base do creditamento deve ser necessariamente assegurada pelo menos nessas hipóteses, porque isto é valor de aquisição. Segundo o decreto lei 1598 de 777. Vejam, eu tento compatibilizar o que a norma diz, trazendo uma solução que não seja conflitante, seja com o tema 69, seja com aquilo que foi oferecido pelo legislador, seja com o próprio conceito de custo, seja com que você tem de base de cálculo de pisa e da COFINS. E eu chego neste resultado. É isto que eh eu venho aqui em nome do meu constituinte sugerir a vossas excelências. Bom, e aí se pergunta, tudo bem? E aí, o que eu faço então com o tema 1373 que versa sobre IPI não recuperável? O que eu faço então com o tema 1231 que versa sobre CMSST? Esses dois casos, a Corte chegou à conclusão que não se pode tomar o crédito sobre estas bases, CMST, IPI. Bom, na nossa visão, são coisas distintas. Primeiro, o no julgamento do tema 1231 que foi relatado pelo excelentísimo senhor ministro Mauro Cel Marques, eh, dois fundamentos principais foram adotados ali. Primeiro, que o CS substituição tributária, ele seria uma antecipação do tributo que incidiria na venda. Então, ele não seria custo. Aqui nós estamos falando de ICMS próprio, custo, coisa distinta. Segundo, ah, o ICMS substituição tributária não compõe a base da saída, ou seja, ele não compõe a base de cálculo do PIS e da Cofins. Neste caso aqui, esta ideia foi feita para compatibilizar, para entregar uma lógica em que eu faço a referência entre a base no método substrativo indireto, a base do creditamento, a base da saída. Mas neste caso, neste ponto específico que traga a avaliação de vosses excelências, nós estamos falando de um ICMS custo em que não há saída tributada. Portanto, eu tenho que necessariamente considerar ele como componente do custo. Bom, e o que eu faço então com o IPI não recuperável? O IPI não recuperável, ele nunca integra a base da saída, diferente do ICMS próprio. Então, eu tenho um distinguish em relação a esses dois temas. Eu tenho uma interpretação que compatibiliza a jurisprudência dessa corte em relação à legislação. Tem uma solução então que se apresenta mais concentânea com o próprio objetivo do legislador ao conceber a nova norma. Então são essas considerações, senhor presidente. Agradeço a todos.\n\n**[03:09:00] Dr. Marcelo Tonette Júnior (Advogado):** Pois não, Dr. Bruno. Agora convido o Dr. Marcelo para fazer a sua sustentação oral. Muito obrigado. Cumprimento o excelentíssimo excelentíssimo senhor presidente, excelentíssimo senhor ministro relator, excelentíssimas senhoras ministras e demais presentes. Falo em nome da empresa Underly Transportes, uma transportadora do estado do Rio Grande do Sul. E o tema em questão refere-se, veja, à manutenção dos créditos de PIS e CofinS no regime não cumulativo sobre esse ICMS incidente nas operações de aquisição. Somente em maio de 2023, o ICMS embutido nas aquisições da empresa totalizou cerca de R$ 259.000 e a vedação aqui lhe discutida lhe retirou naquele único mês cerca de R$ 24.000 R$ 1000 de créditos de PIS e Cofins. Mas o que está em julgamento aqui vai muito além de uma única transportadora. Vossas excelências estão definindo para todo um país qual é a base de cálculo dos créditos no regime não cumulativo das contribuições. E para isso eu trago um ponto central. A receita do vendedor e o valor de aquisição do comprador não são a mesma grandeza jurídica. Em 2017, o Supremo Tribunal Federal, no julgamento do tema 69, como vocês sabem, excluiu o ICMS da base de cálculo do PISOFINS, porque o ICMS destacado, ele não era uma receita do vendedor. Isso foi uma grande vitória pros contribuintes. Porém, anos depois veio a medida provisória 1159. E ela veio com a seguinte premissa: se o IMS destacado na nota fiscal não se sujeita às contribuições na saída, então ela também não deveria gerar um crédito na entrada. Ora, com a máxima vênia, essa é uma premissa equivocada. Não existe uma relação de paralelismo entre a base de cálculo, que é as saídas, ou seja, da qual exclui o ICMS, com a base de cálculo dos créditos, que é o valor de aquisição. E eu explico, as leis 10637 1083 fizeram uma escolha expressa pelo que nós chamamos do método subtrativo. O artigo terceiro, parágrafo primeiro, manda aplicar essa alíquota sobre o valor dos itens adquiridos. A lei não manda olhar para quanto o fornecedor pagou. E essa prova de que não existe esse paralelismo está na rotina de qualquer empresa. Se uma empresa do lucro real, portanto, no regime não cumulativo, adquire um produto de uma empresa do simples nacional ou do lucro presumido, esse fornecedor ele recolheu somente 3.65 a título de PIS/COFINS. Mas para o crédito do adquirente, porém esse percentual ele não vai importar. O crédito será de 9.25. e a própria receita reconhece isso. Excelências, trago aqui alguns pontos bem objetivos. O primeiro deles, de 2002 até 2023, ou seja, por mais de 20 anos, o ICMS integrou sim a base de cálculo dos créditos e a receita dizia isso por escrito, tanto em instrução normativa quanto em solução de consulta. E um segundo ponto, depois do julgamento do tema 69, a própria procuradoria geral da Fazenda Nacional em parecer concluiu que não seria possível naquele momento, recalcular essa base de cálculo dos créditos e a instrução normativa 2121 de 2022 manteve o ICMS na base de cálculo dos créditos naquele momento. E há um registro inclusive neste processo. A própria autoridade coator, ela reconhecia que até até abril de 2023, mesmo a tributação na saída, ela sendo recuperável ou não, o crédito nas aquisições estaria autorizado. E a medida provisória, como um terceiro ponto, a medida provisória 1159, na sua exposição de motivos, ela invoca o tema 69 e o artigo terº, parágrafo 2º, inciso 2º. No mesmo documento, porém, ela estima um ganho de arrecadação de R$ 58 bilhões deais somente no ano de 2024. Ora, excelências, uma norma que se diz apenas explicitar um direito já existente não gera 58 bilhões de receita nova. Quem gera essa receita nova é uma norma nova muito mais restritiva ao direito dos contribuintes. E um quarto e último ponto é que a medida provisória 1159, ela sequer chegou a ser analisada e votada. O seu conteúdo, ele foi transportado para uma outra medida provisória, a 1147, que tratava do PERS, do setor aéreo, portanto, sem pertinência temática com a questão que estamos debatendo aqui hoje. E foi assim que nasceu a lei 14592, que incluiu, portanto, o inciso terceiro no parágrafo 2º da lei eh do PIS e da COFINS.\n\n**[03:14:01] Dr. Marcelo Tonette Júnior (Advogado):** Senhor presidente, concluo. O tema 69, ele foi uma vitória sobre o conceito de renda. Ele não foi uma autorização para se redefinir o conceito de aquisição. O ICMS que o vendedor ele não pode chamar de receita continua sendo um dinheiro que o comprador pagou. Tirar o ICMS da receita do vendedor é cumprir a decisão do Supremo Tribunal Federal. Tirar o ICMS do crédito do comprador é dar com uma mão e retirar com a outra. Por isso, eu peço provimento do recurso especial com a concessão da segurança e a fixação da seguinte tese. No regime não cumulativo, o ICMS próprio incidente na operação de aquisição integra o valor de aquisição do artigo terceiro, parágrafo primeirº, das leis 10637 e 1083 e compõe sim a base de cálculo dos créditos de pis e cofins. Muito obrigado,\n\n**[03:14:58] Dra. Ariane Costa dos Santos (Advogada / FIEP):** Dr. Ariane. Palavra agora de vossa excelência. Obrigada. Cumprimento presidente, cumprimento o relator, senhoras ministras, ministros, colegas advogados, servidores. Falo em nome da Federação das Indústrias do Estado do Paraná e a contribuição da Federação nesta sentada é de duas ordens. Primeiramente, eu gostaria de destacar aquilo que já foi aventado pelos meus colegas, o que tange a estrutura do regime não cumulativo de pisicofin, especificamente para destacar dois aspectos do parecer C e PGFN 12.943 que já foi referenciado aqui no que tange a dois pontos específicos. O primeiro deles é que a própria Procuradoria da Fazenda Nacional já entendia em 2021 que este CMS ele não deveria ser excluído do crédito de PIS/COFINS e não deveria ser excluído por duas razões. Primeiro porque naquele parecer se diz necessária a edição de uma lei. A lei está aqui. Mas existe uma segunda razão que é justamente aquilo que foi já referenciado pelos meus colegas no sentido de que este CMS ele compõe o custo de aquisição. E eu peço licença, excelências, para ler o tópico 42 deste parecer. Diz o seguinte, aspas, o ICMS, nesse contexto carrega em si o atributo de estar intrinsecamente integrado ao bem ou serviço transacionado. Hum. não havendo, portanto, a partir da sua incidência, um valor de bem ou serviço apartado do ICMS. Fecho aspas. O que significa dizer que de acordo com este trecho, não seria fatível retirar o ICMS da base de cálculo do crédito, seja por ausência legal, seja porque este IMS ele é intrínseco ao custo de aquisição. E nesse contexto, excelência, eu faço uma provocação e uma pergunta a esse colegiado, né? Ao mesmo tempo em que há uma deferência ao legislador, permitindo que este legislador indique quais são os itens, os bens e serviços que permitem a geração do crédito, qual é o limite imposto a esse legislador em relação a este processo legislativo? E a resposta está no próprio julgamento do Supremo Tribunal Federal, quando examinou o conceito de não cumulatividade para PIS/COFINS, definido no artigo 195 da Constituição. Naquela sentada, o Supremo reconheceu que sim compete ao legislador estabelecer quais bens geram crédito e serviços da mesma forma. Mas também o Supremo Tribunal Federal afirmou categoricamente que o limite do exercício do poder legislativo é justamente a não cumulatividade, a razoabilidade. Se o custo de aquisição engloba o preço e nesse preço está incluído o ICMS, seria suficiente uma lei para alterar esse custo de aquisição? Sendo que a legislação de CMS, a lei Candir continua absolutamente ígida em todos os seus aspectos? E este ponto aqui dito, reconhecido pela Procuradoria da Fazenda Nacional, não foi alterado no que tange a estrutura da composição desse preço. Então é algo, excelências, que nós gostaríamos inclusive de obter como resposta dessa colenda Corte. Qual é esse limite que a Procuradoria da Fazenda Nacional enquanto intérprete e o legislador e especificamente aqui estamos falando do legislador, a lei 14.592 592 para dispor a respeito do conceito de custo de aquisição. Evidentemente que esta liberdade não é absoluta, não é uma carta em branco ao legislador, ela encontra limites justamente na cumulatividade. E eu gostaria de falar num segundo aspecto, justamente porque esta não é a primeira vez que a Corte está se deparando com a discussão acerca da limitação do crédito para fins de PIS/COFINS. Já estamos aqui diante da terceira oportunidade, apenas em recurso repetitivo, que essa Corte vem enfrentando circunstâncias legais e também de interpretação levadas a efeito eh pela Receita Federal, no que tange a este critério, a este núcleo que deve orientar o conceito de crédito na apuração de PIS/COFINS. Quando se fala de contribuições não cumulativas, o que faz com que essas contribuições sejam não cumulativas é justamente o crédito. Se a lei for alterando paulatinamente, momento a momento e reduzindo esse crédito, nós vamos estar diante de um contribuições cumulativas. E não é à toa que a reforma tributária indica este processo de inconstitucionalização de PIS/COFINS como umas das razões para levar efeito à reforma tributária. Então, portanto, excelência, eu gostaria de fazer essa esse endereçamento a essa colenda corte para que, se for mantido esse texto legal, que haja também a explicitação qual é esse núcleo duro que nós aqui devemos compreender aquele conceito de crédito no momento da equação de PIS/COFINS não cumulativo. E o segundo aspecto que eu gostaria de dizer é que esta motivação legislativa pra alteração a aqui desse conceito, ela se deu justamente com base num critério econômico, já que o efeito do ICMS sai da ponta do débito, ele deveria sair da ponta do crédito. E a motivação está explícita, inclusive nas manifestações de defesa aqui apresentadas. No entanto, eu só gostaria de lembrar, este ano a Receita Federal teve a oportunidade de responder uma solução de consulta. E esta solução de consulta, o contribuinte indagava o seguinte: se ele poderia, no momento de apurar a exclusão do ICMS da base de cálculo de PIS/COFINS, se esse contribuinte poderia fazer refazer toda a sua apuração para retirar o ICMS residual ou que se chama usualmente no mercado de grossap. E a Receita Federal na solução de consulta 21 de fevereiro disse que o critério para se definir a exclusão do ICMS é um critério jurídico. Não é admissível um critério econômico que seria o suporte para retirar esse CMS residual. Então, ora, quando conveniente a Procuradoria e a Receita Federal sufragam a interpretação econômica em seu favor, ora, quando é para reconhecer a exclusão absoluta do ICMS, ela invoca e afasta a interpretação econômica. É necessário haver uma coerência no na utilização da interpretação econômica para fins da definição das duas grandezas. Então, portanto, encerro aqui reiterando que esta corte reconheça que o ICMS deve ser incluído no crédito e ministro Gurgel a corte entender que para isso, para se chegar a essa conclusão, é necessário afastar a disposição legal que faça remessa para a Corte Especial para que seja instaurado um incidente de arguição de inconstitucionalidade em relação a esse dispositivo. Muito obrigada.\n\n**[03:22:30] Min. Gurgel de Faria (Presidente):** Pois não, Dra. Ariane. Eu vou solicitar que a Dra. Rafaela aguarde eh a manifestação do relator e se houver necessidade iremos então ouvi-la. Passo a palavra para o ministro Paulo Sérgio.\n\n**[03:22:44] Min. Paulo Sérgio Domingues (Relator):** Obrigado, senhor presidente. Quero cumprimentar a todos os advogados que fizeram uso da palavra. Sustentações eh muito boas, inclusive de quem a fez pela primeira vez, né? Não parece que foi e dizer que eh eu vou fazer, vou ler apenas o resumo pela ementa, senhor presidente, em virtude do eh do tempo, né? E para não cansá-lo demais, poucas vezes acho que citei tantas leis em um voto como nesta. E fico feliz de ver que em breve, talvez daqui a uns 20 anos, a gente pare de utilizar as palavras ICMS, PIS e CofinS aqui nas nossas sessões, né? uma reforma tributária, não vejo a hora. Próxima reencarnação é talvez uns 20 anos. Vamos citar IBS, CBS, IBS e suas variantes. Eu então eu vou ler aqui apenas a ementa, presidente, que me traz uma compreensão distinta daquelas que foram trazidas aqui da tribuna. O artigo 195 parfo 12 da Constituição de 88 confere ao legislador ordinário autonomia para definir setores alcançados e critérios de operacionalização da não comunidade das contribuições sociais ao pis e confins respeitados os demais preceitos constitucionais consoante a orientação consagada pelo STF no re1979 tema 756 a inclusão do inciso terº apá 2º artigo terº das leis 10637/22 e 10833/2003 pela lei 14592/20223 precedida pela medida provisória 1159/2023, veda o direito a crédito das contribuições a física confim sobre CMS incidente na operação de aquisição, preservando a coerência do regime não cumulativo, pois o imposto estadual não integra a base de cálculo das contribuições conforme de tese vinculante do STF firmato o julgamento do tema 69. à alterações normativas por medidas promovidas pela MP 1159 de 2023. observa a anterioridade no juiz com efeito a partir de 1o de maio de 23, sendo válidas e aplicáveis às apurações realizadas sobre regime não cumulativo. A jurisprudência consolidada afasta o direito irrestrito ao creditamento, seja em razão de operações submetidas a outros regimes monofásica, 1093, seja pela inistência de crédito quando não há incidência antecedente do mesmo tributo T844 da STF, sua vinculante 58, quanto a IPI relativamente à entrada em sumos isentos sujeitos alíquota zero ou não tributáveis tema 1231 do STJ quanto ao ICMS ST. Então, propõe a fixação da tese, segundo a qual é vedada a puração de crédito da contribuição ao fisco fins do regime não acumulativo sobre o valor do ICMS que tem incidido sobre operação de aquisição nos termos do artigo terº par inciso terº das leis 10637/2002 e 10833/2003 incluído pela lei 14592 de 2023. No que diz respeito ao caso concreto, estou conhecendo parcialmente conhecido e e não provendo recursos nesse de final 097 do Ceará, dop de final 848 do Rio Grande do Sul, estou eh também conhecendo parcialmente do recurso e a ele negando provimento no recurso de final 894 de Santa Catarina também conhecido parcialmente o recurso negando provimento e finalmente no recurso de final 1146 do Rio Rio Grande do Sul. Eu estou aqui negando provimento ao recurso especial. Eh, abordo aqui durante o voto diversas das questões trazidas aqui da tribuna, que reputo é muito importantes, muito relevantes, mas o o voto estará disponível em breve. E esses essas são as conclusões que trago aqui, eh, propondo a sessão, senhor presidente.\n\n**[03:26:19] Min. Gurgel de Faria (Presidente):** Pois não, eu não observo nenhum destaque, de maneira que proclamo a tese já anunciada pelo Ah, esqueci de perguntar, Dra. Rafaela, dispensa a sustentação oral.\n\n**[03:26:31] Dra. Rafaela (Procuradora da Fazenda Nacional):** Dispensa, excelência, e parabenizo a Min. Maria Thereza de Assis Moura.\n\n**[03:26:35] Min. Gurgel de Faria (Presidente):** Obrigado, doutora. Eh, então a tese já foi anunciada pelo ilustre relator, assim como são quatro processos também os resultados a depender. Ora, eh, aqui a fazenda nacional, que é a recorrente, deixa eu só confirmar, ou todos são o contribuinte que são recorrentes. Deixa eu ver se são quatro. Quando eles atualizarem, mas eh por precaução eu não vou fazer. Quer que eu imprima para você? Quer que imprima? É, são todos os recorrentes, mas enfim, os resultados são os que estão indicados no voto do ministro relator. O importante, a tese já foi aqui devidamente anunciada. Agradeço a participação de todos os advogados nesse julgamento. Eh, vamos agora para o Tema 1454/STJ.\n\n**[03:27:27] Dra. Sara Mendes (Procuradora da Fazenda Nacional):** Já vou convidando os advogados, Dra. Sara Mendes Carcará, que falará pela Fazenda Nacional, e o Dr. Gabriel de Melo Galvão, que falará pela Agência Nacional de Saúde Suplementar. Eu apregou então eh o recurso especial REsp 2.239.204 do Ceará e REsp 2.239.250 de Sergipe. Indago aos ilustres advogados se dispensam a leitura do relatório. Então vossas excelências têm nos termos regimentais o prazo de até 15 minutos, iniciando pela Dra. Sara. Excelentíssimo presidente, excelentíssimo ministro relator, excelentíssimas ministras, ministros, ilustre representante do Ministério Público, colegas advogados, colegas servidores, muito boa tarde, excelências, nesse caso, o que se discute é se a dispensa de honorários de que trata o parágrafo primeiro do artigo 19 da lei 10 1522 é restrita às hipóteses dos a incisos do CAPT do artigo 19 ou se a lista pode ser considerada não exaustiva. Assim está colocada a controvérsia. O que nós da Fazenda Nacional argumentamos e defendemos é que este dispositivo, o parágrafo eh primeiro, ele traz uma dispensa de honorários fazendo referência ao cap do artigo 19, que inclusive pode ser regulamentado por normativos internos da PGFM. Se entende que as hipóteses de dispensa são restritas à literalidade dos incisos, na prática, o que se está a fazer é desestimular o reconhecimento do pedido pelo ente público em todas as muitas hipóteses, eh, muitas vezes hipóteses muito fáticas que surgem nos casos concretos. sendo o objetivo da norma incentivar a redução de lutuosidade, faz sentido que ela seja interpretada, portanto, de forma sistemática. E vejam que a APGFN eh já há algum tempo editou um ato próprio que autoriza o reconhecimento de eh do pedido e existência de recursos em situações muito diversas, inclusive hipóteses que permitem a análise caso a caso, como uma muito específica e muito utilizada no âmbito da PGFN, que diz o seguinte, que eh é possível conhecer a procedência do pedido da outra parte nos casos em que for possível antever que o ato processual resultaria em interesses em prejuízo aos interesses da Fazenda Nacional. Ou seja, para além daquelas hipóteses tradicionais eh em que se dispensa contestação e recurso nos casos de deferências precedentes firmados pelos tribunais superiores, que esses são já há muitos anos incorporados, se dispensa recurso, se dispensa contestação, eh a Receita Federal é vinculada para evitar novos lançamentos. Para além desses casos, a PGFN vai além e diz o seguinte, diz que os seus procuradores e procuradoras, diante das particularidades do caso concreto, podem avaliar o custo benefício da prática do ato e concluir, por exemplo, por reconhecer a procedência do pedido. Essa é uma prática que evita o prolongamento de milhares de litígios. Acontece que também é muito natural e republicano que essa análise precise ser justificada. e muitos casos, sobretudo nesses casos mais fáticos, eh em que você não tem necessariamente um parâmetro objetivo externo como um repetitivo, por exemplo. É uma das formas mais comuns e objetivas de se ponderar esse custob benefício e tomar a decisão de não contestar é a avaliação sobre a condenação do ente público em honorários. Então, não é raro que a Fazenda Nacional, diante de uma ação, mesmo podendo contestar, mesmo tendo fundamento para contestar, ela faça uma avaliação e diga: \"Não vou fazê-lo\" para evitar que o ente público seja condenado em honorários advocatícias. compreender que hipóteses como essas, que são muito comuns e são eh eh as ela elas levam em consideração particularidades fáticas, sejam materiais, sejam processuais do caso concreto, compreender que elas não estão contempladas pelo artigo 19, parágrafo primeiro, implicaria primeiro um alongamento desnecessário de litígios e segundo o enfraquecimento de um pilar eh muito importante na política de redução de litosidade da PGFN, que aliás é uma política que vem vem sendo reconhecida também já há algum tempo pelos atores do sistema de justiça, inclusive aqui pelo STJ. E aqui eu registro o acordo de cooperação técnica celebrado entre a GU e o STJ, que já resultou na desistência de milhões de recursos e que eh diante do seu sucesso foi renovado recentemente. Há uma notícia no site do STJ que dá conta de que desde a implementação desse acordo já se reduziu em 3,8 milhões o número de processos em tramitação no judiciário. A PGFN registrou uma redução de 68% no quantitativo de processos recursais e o número de processos em que a União a União atua como recorrente no STJ diminuiu 40%. E acordos como este que foi que foi celebrado aqui eh também são celebrados nos âmbitos dos tribunais regionais. Então, a PGFN tem acordos desse eh nesses moldes em todos os seis TRFs, de modo que essa política está espraiada em todas as instâncias em que a PGFN atua. Todos esses atos normativos internos e esses acordos celebrados com os tribunais que contém essas autorizações, eles são muito baseados eh na lógica do artigo 19 da lei 15 da lei 10 1522. O objetivo da norma é claramente incentivar a política de redução de litígios, dando, entre outros, é claro, mas dando esse parâmetro objetivo e econômico da dispensa de condenação e honorários advocatistas para balizar a ação dos procuradores e procuradoras da Fazenda Nacional na hora de desistir de decidir contestar ou não ação. De modo que seria de certa forma um contracenso interpretar a norma para dizer que nas hipóteses mais tradicionais, como por exemplo no caso do repetitivo, ela se aplica, mas nas hipóteses em que se vai além para analisar as circunstâncias do caso concreto e perceber que ali é também caso de reconhecer o pedido, ela não vale. E às vezes nessa hipótese ela até mais necessária porque a análise do custo benefício ela se faz mais necessária. Se você se reconhece que nessas hipóteses ela não vale, isso implicaria uma regressão nessa política de redução de litígios que tem sido adotada pela União e tem sido incentivada pelo poder judiciário. Eh, há precedência dessa corte nesse sentido, e aqui eu menciono o 2.23.326 1326 de Santa Catarina, de relatoria do ministro eh Paulo Sérgio Domingues, em que sua excelência eh eh fala uma frase muito importante, diz o seguinte: \"A imposição de ônus fazenda nacional em portes autorizadas pela lei poderia gerar o efeito contrário ao pretendido pelo legislador, estimulando a litigância, porque a toda evidência desistir não faria sentido\". E não faria mesmo, não faria sentido mesmo, porque nesses casos essa análise de custo benefício da prática do ato, ou ela ficaria completamente prejudicada, difícil de ser mensurada, ou ela se inverteria e a continuidade da ação passaria a ser mais vantajosa pro ente público do que o reconhecimento do pedido. o que é absolutamente contrário a essas premissas de redução de litosidade, de busca pela solução consensual, enfim, todas essas premissas que t orientado a atuação da União e que t sido muito incentivadas também pelo poder judiciário. Por essas razões, a Fazenda Nacional, sem antes dar os parabéns à Min. Maria Thereza de Assis Moura pelo seu aniversário, requer que seja fixada a tese no sentido de considerar que a dispensa de honorários advocatícios de que trata o parágrafo único do artigo 19 da lei 1052 deve ser interpretado de forma sistemática, de modo que havendo desistência com fundamento nesse dispositivo regulamentado por atos internos da PGFN, não haveria falar em condenação do ente público em honorários advocatícios. Muito obrigada, presidente.\n\n**[03:36:20] Dra. Sara Mendes (Procuradora da Fazenda Nacional):** Pois não, Dra. Sara, agora, Dr. Gabriel, pelo tempo regimental já anunciado.\n\n**[03:36:27] Dr. Gabriel Galvão (Procurador Federal / ANS):** Excelentíssimas senhoras ministras, excelentíssimos senhores ministros, boa tarde a todos. Bom, a Agência Nacional de Saúde Suplementar defende aqui a mesma tese da Fazenda Nacional, né? Só gostaria de acrescentar eh talvez detalhes e peculiaridades em relação à posição das autarquias, entidades federais defendidas pela procuradoria geral federal. eh umas peculiaridades legislativas, detalhas da legislação e que levam ao mesmo cenário. Na verdade, só para dizer que a própria legislação faz aplicar as autarquias e as causas defendidas pela Procuradoria Geral Federal essas mesmas disposições. Falando sobre o caso concreto e e só para ilustrar que realmente se fala hoje aqui de uma política eh destinada a eh reduzir a litigiosidade, o caso é de uma autuação regulatória da ANS contra uma empresa. pelas circunstâncias do caso, a Procuradoriagal Federal reconheceu a a situação e pediu a extinção da execução e esse processo chegou aqui, mesmo passando e pela primeira instância, pela segunda instância e e nessas decisões reconheceu o acerto da análise da PGF em relação a essa autação da NSP. eh e mesmo assim decidiu afastar a incidência de honorários. Então o processo em que a NS é recorrida, é um processo em que a empresa quer receber a indenização, eh, e justamente numa numa situação em que uma causa desse tipo não deveria ter chegado ao STJ. Agora, falando sobre a tese como um todo e porque e por que é importante falar do contexto e também eh reforçar o que foi dito pela Fazenda Nacional, eu ia fazer referência ao mesmo acórdão que foi mencionado pela colega da fazenda, que fez uma leitura muito interessante e muito bem contextualizada sobre a finalidade da legislação, porque esse é um problema que começa eh com uma característica de eh final de processo judicial. A gente tá falando de indenização, de condenação e honorários. Eh, isso seria, teria uma repercussão eh meramente processual e talvez patrimonial para uma parte dos interessados. E talvez por essa perspectiva que essas teses têm tido sucesso, porque se quando se defende que essa é uma prescrição taxativa, é porque se tá defendendo alguma coisa que se que seria objeto da condenação. Agora, como foi muito bem dito no precedente da Primeira Turma, isso tem que ser lido eh por uma interpretação sistemática e teleológica, justamente porque a característica da legislação é de um eh projeto de redução de litígio. Isso é praticamente uma política pública. E por essa e nessa medida é que não faz sentido se entender que a lista é taxativa justamente porque a legislação estabeleceu procedimentos internos da administração federal destinados a reduzir a litoridade. Isso passa a pela análise da Fazenda Nacional, dos órgãos da Fazenda Nacional e os demais órgãos da Advocacia Geral da União. E numa daquelas situações, eh, e espero que seja essa uma boa leitura do dos precedentes e do, né, do que a foi dito no Supremo Tribunal Federal há muito tempo sobre a função eh dos advogados públicos e eh que numa situação em que os advogados públicos presentam a administração e não necessariamente representam, justamente porque nesse caso eh essas situações partem de desistência de recursos, no caso específico da NS. é uma desistência de execução fiscal. Eh, e com essas considerações, eh, gostaria de reforçar essa finalidade da legislação, que não é exatamente eh a melhor solução para o caso, caso se entenda que a lista é taxativa. Muito obrigado com essas considerações. Eh, agradeço a tentão, Dr. Gabriel, eu passo a palavra ao ministro relator, que é o Sérgio Cuquina, eh observando que há destaque do ministro Paulo Sérgio Domingues, que já antecipou que pedir a vista.\n\n**[03:41:03] Min. Sérgio Kukina (Relator):** Pois não, senhor presidente, senorquina. Eh, até em função disso, né, também serei sintético na minha na minha exposição. Eh, antes, claro, cumprimentando, né, pelas sustentações, Dra. Sara Mendes, eh, que falou pela fazenda, né, e o Dr. Gabriel Galvão, pela agência reguladora, né, ANS. Eh, e trazem aqui, não é, referências que sempre permanentemente deve ser objeto de atenção, né, a redução de litigiosidade, busca pela consensualidade. Eu fico muito satisfeito quando quando vem à tona, né, esses acordos, essas parcerias que vê sendo feitas a aqui no âmbito do STJ, né, notadamente no âmbito da AGU, noocador, Dr. Fábio Monnerat, né, tem sido um combatente, né, nessa nesse setor, né, e claro que não virei as costas para esses questionamentos, né? Eh, mas no exame que fiz, eh, voltei os olhos também para precedentes que já que já existem, né, no âmbito da Primeira Seção, julgados, não é, que já existem. Há, evidentemente não há uma unanimidade desses julgados, né? foi citado aqui do ministro Paulo Sérgio, que é muito oportuna, né, a sua pretensão, né, de tomar vista dos autos, que contribuirá, né, muito eh, certamente com o debate, né, mas por hora, eu trago o entendimento, proponho tese que vai na mão exatamente de se emprestar numa interpretação restritiva, né, a ao dispositivo da 10.52. Eu leio rapidamente dizendo o seguinte: conforme diretriz interpretativa já sedimentada nesta Corte Superior, em matéria de honorários de advogado, quando confrontado com a literalidade do artigo 20 do CPC 73, o antigo, ou com a aplicação de regras isentivas dos honorários, este tribunal vem de modo sistemático interpretando restritivamente as últimas normas, nãoé? e extensivamente o primeiro dispositivo processual, considerando vetusto princípio de direito, segundo o qual a lei não pode honerar aquele em cujo favor opera. Tal foi o raciocínio que presidiu a edição da súmula 153 do STJ. Aspas, a desistência da execução fiscal, após oferecimento dos embargos, não exime o execuente dos encargos da sucumbência, né? foi relatado pela saudosa Min. Assusete Magalhães Magalhães em 2021. Prossigo dizendo na espécie extra da literalidade da regra incerta no parágrafo primeiro, combinado com a de seu respectivo inciso um, que a dispensa de condenação do ente público na verba sucumbencial encontra-se efetivamente atrelada às aspas matérias de que trata este artigo. Fecho. Em outros termos, somente se pode deixar de condenar o ente público a arcar com os honorários de sucumbência naquelas exatas situações previstas nos incisos do capte do artigo 19 da lei 1052. Outro sim, para além para além da consideração literal dos termos do normativo examinado, está-se diante de preceito relativo a honorários sucumbenciais, isto é, verba com natureza alimentar, que por lei pertence ao advogado. Nesse contexto e a luz da baliza hermenêutica aludida acima, né, bem como do preceito obrigatório constante do artigo 85, cap, parágrafo 14 do CPC, o afastamento da condenação em honorários sucumvenciais é exceção à regra, exigindo, por conseguinte expressa previsão legal nesse sentido. Em conclusão, o artigo 19, parágrafo 1eº, inciso 1, da lei 1052, não pode ser interpretado de forma elástica, albergando outras hipóteses diversas daquelas nele previstas. Tese firmada, né? A dispensa de condenação em honorários do ente público federal a que se refere o artigo 19, parágrafo 1º, inciso 1, da lei 1052, se restringe as hipóteses dos incisos 1 a 7 do CAOD, tratando-se de enumeração legal exaustiva. E na resolução dos casos concretos, né, e eu dou provimento ao ESESP, né, movido pelo particular e desprovejo o recurso especial, né, aviado pela Agência Nacional, não é? É como encaminho o voto. Eminente Paulo Sérgio, então confirma o pedido de vista.\n\n**[03:46:34] Min. Paulo Sérgio Domingues:** Sim, presidente. Se os colegas permitirem, seria vista,\n\n**[03:46:38] Min. Gurgel de Faria (Presidente):** com certeza. Então, no primeiro feito, eh, a parte recorrente é o administrado, a gente pode assim denominar, é Unimed e o a tese é indicada pelo relator que dá provimento ao recurso especial. No segundo caso, final 250 de Sergipe, a parte recorrente aqui é a Fazenda Nacional e a tese é a indicada pelo proposta, né, pelo relator e o voto, no caso concreto, é negando provimento da Fazenda Nacional. Em ambos, após as manifestações do relator, pediu visto antecipada o ministro Paulo Sérgio Domingues, aguardam os demais. Agradeço aos ilustres advogados pela participação. Vamos agora apregoar o último feito das sustentações orais, tema 14:32. Convido o Dr. Fábio Monnerat para vir à tribuna, representando o Instituto Nacional de Colonização e Reforma Agrária, e apregou os processos que são os de números. REsp 1.809.093 do Ceará, REsp 1.814.350 do Ceará, REsp 1.950.981 de Pernambuco e REsp 2.004.109 de Sergipe. Relatoria do Min. Afrânio Vilela, eu indago eh há um destaque do ministro Herman Benjamim no momento moment assim está ausente. Eu vou passar a palavra a o Dr. Fábio. Antes disso, indago se dispensa a leitura do relatório.\n\n**[03:48:20] Min. Gurgel de Faria (Presidente):** Sim, excelência, boa tarde. Convido o Dr. Fábio Monnerat para vir à tribuna, representando o Instituto Nacional de Colonização e Reforma Agrária (INCRA), e apregoo os processos afetados ao Tema 1432/STJ: REsp 1.809.093/CE, REsp 1.814.350/SE, REsp 1.950.981/PE e REsp 2.004.109/SE, da relatoria do Min. Afrânio Vilela. Indago se todos dispensam a leitura do relatório.\n\n**[03:48:26] Dr. Fábio Monnerat (Procurador Federal / INCRA):** Ministros, ministras, muito boa tarde mais uma vez. Eh, vamos tratar agora de um tema muitíssimo importante pro poder público como um todo, especialmente paraas autarquias que aqui represento, Incra, Denit, DNO, que é o Departamento Nacional de Obras contra secas. E aqui se discute o momento no qual se define o valor do imóvel desapropriado, né? Portanto, trata-se de um dos elementos intriccamente ligados ao conceito de justa indenização, que é, ninguém duvida, um direito de todo particular que venha ter o seu imóvel desapropriado. E trata-se de uma controvérsia extremamente eh eh interessante, pois o valor é um dado dinâmico que muda para mais ou para menos ao longo do tempo. E aqui se está a discutir em que momento esse retrato do valor será formulado. E de antemão eu trago um dado do Incra por meio do estudo de análise de mercado de terras e de sua planilha de preços referenciais, que conseguindo o seguinte, entre os meses, entre os anos, me desculpem, de 2017 e 2024, o preço da terra variou, se valorizou no Brasil, foram pesquisados mais de 5.000 municípios e o preço aumentou cerca de 23,9% ao ano. Min. Sérgio Kukina. Então, a terra que valia 100.000 em 2017, valia praticamente 124.000 em 2018, mais de 150.000 em 2019, mais de 175 em 2020, já o dobro em 2021. Então eu tenho aqui, em primeiro lugar celebrar essa oportunidade de debater esse tema com a profundidade que o procedimento dos repetitivos permite, justamente porque, e talvez esse seja o principal aspecto a ser destacado, não há um único momento correto e válido para que seja definido. O momento desse retrato vai variar de acordo com a modalidade licitatória e com o procedimento, ou seja, com o rito, com a sequência de atos processuais que a desapropriação vai se desenvolver. Portanto, meu desafio aqui nesses minutos é desenvolver não uma tese, quatro teses, porque são quatro as situações que identificamos em que a resposta à mesma pergunta, em que momento se deve tirar o retrato do valor para fim de desapropriação. A depender de quatro situações, a resposta é distinta. E eu vou tentar explicar o porquê. A primeira hipótese, a perícia judicial poe, o momento da perícia judicial pode ser considerado o termo. Isso é correto, isso já consagrado na jurisprudência dessa corte. Que hipótese é essa? a desapropriação ordinária pelo rito normal, sem missão de posse, sem depósito prévio. Esse procedimento se dá da seguinte forma: o Incra avalia o imóvel, indica na petição inicial o valor que pretende pagar. Caso haja oposição do particular desapropriado, o juiz nomeia um perito para, repito, avaliar o imóvel. Nesse nesse caso o a data da perícia pode ser o momento da avaliação, não tem problema nenhum, porque o INCRA ainda não se emitiu na posse, o INCRA ainda não pagou nada, ele apenas indicou na inicial e a sentença nessa situação, ela é declaratória do valor. Tanto assim que o poder público pode falar: \"Olha, por esse valor não tem orçamento, eu não vou desapropriar\". Então, nessa primeira situação em que segue-se o rito ordinário normal, sem nenhuma liminar de missão na sem nenhum pagamento depósito, etc., A data perícia judicial pode ser o momento. Agora, segunda situação, desapropriação com liminar de missão na posse. A desapropriação com liminar de missão na posse, ela possui um pressuposto, o depósito do valor que o INC tem de correto. E, portanto, o procedimento é diferente. A petição inicial traz o pedido de liminar que se deferido, o Incra deposita o valor. Logo, o objeto da perícia não mais será um valor futuro a ser pago. O objeto da perícia será exatamente o acerto ou desacerto do valor depositado. Logo, o objeto da sentença é condenar o INCR a pagar ou o poder público pagar a diferença. Que diferença? A diferença entre o valor que já foi depositado, e aqui o depósito tem força de pagamento, o valor que foi depositado e o valor do imóvel. O valor do imóvel quando? Esse é o ponto. O valor do imóvel quando o valor do imóvel quando o Incra fez avaliação e pagou. Então, exemplificando, né? Se o se o imóvel vale 200 e o Incra paga 150, o Incra poderá ser condenado a pagar essa diferença de 50. E já logo o registro, haverá o pagamento de juros compensatórios pelo período entre o pagamento a menor e o efetivo recebimento, 6% ao ano. Não se discute isso. Agora, se aguarda 6, 7, 10, 12 anos, como é um dos casos repetivos, se aguarda 12 anos, o imóvel não vale mais nem 150, nem 200. Pelos cálculos do incro aplicando a média, ele pode valer 480. Eu não posso deduzir os 480 do imóvel que vale em 2014, comparar com o laudo do Incra que é de 2002, tô falando de um dos casos concretos, e condenar o Incra pagar a diferença de 330.000 e mais perversamente 330.000 desde a emissão na posse, ou seja, é um bizo. Então a questão aqui é metodológica. O que a perícia está avaliando? A perícia está avaliando o pagamento a menor pelo INCRA. Qual é o parâmetro temporal que a perícia judicial deve observar? O momento em que o INCRA fez o pagamento. Então a segunda situação é uma segunda tese. Nas desapropriações culminares de missão na posse e depósito prévio, o momento a ser considerado pelo judiciário para fim de avaliação do imóvel desapropriado é o momento do pagamento com a correção e e com a incidência dos juros compensatórios. Mas não se incide a valorização. A terceira situação é bastante parecida. Ela é a desapropriação para fim de reforma agrária. Aqui ela é regida pela Lei Complementar 76 de 1993. Portanto, ela já pressupõe o não cumprimento da função social da propriedade, né? E como funciona o procedimento? Aí, aí eu insisto, depende da modalidade, depende do rito. Esse é o ponto. Essa é a grandeza de se discutir isso no repetitivo e não em casos concretos em que se pega a data da perícia queivale para uma situação e se aplica para outra. Na no rito de desapropriação paraf da reforma agrária, a petição inicial do poder do público, no caso do INCRA, vem acompanhado de três elementos. o laudo de vistoria para consignar a o não cumprimento da função eh social da propriedade, a avaliação administrativa feita pelo INCRA do imóvel e o lançamento deste valor em TDA no que diz respeito à terra nua e o depósito em dinheiro, pagamento das benfeitorias. Apresentada a petição inicial, a emissão na posse é Opeleges, artigo 6º da Lei Complementar 76 de 93. E aqui nesse contexto o objeto da perícia é o acerto ou desacerto do laudo administrativo. De novo, se esperarmos seis ou 7 anos para de acordo com o valor da terra na época do da perícia judicial, nesse caso, para apontar erros no laudo administrativo, é lógico que o laudo administrativo vai ser reputado como errado, mas o erro não tá no laudo lá atrás. O erro, o eventual, a eventual diferença se justifica pela valorização da Terra. Eu estou, nesse caso, McQue, eu estaria comparando coisas diferentes. Quanto vale a Terra em 17, quanto vale a Terra em 26. Mal comparando, imaginem uma radiografia que tira o o a radiografia de um tumor em 2017, 0,5 mm. Eu não posso em 2026 descobrir que esse esse esse esse tubor tem 7 cm e dizer que o médico lá atrás tá errado. O retrato foi momento diferente e o momento é definidor do valor, integra a metodologia de cálculo. Então, em conclusão dessa terceira situação, que é justamente a desapropriação por interesse social para fim de reforma agrária, a perícia judicial e o judiciário como um todo deve levar em consideração a data do laudo administrativo. E de novo, insisto, se houver diferença, outros erros. Se tiver erro efetivamente no lado administrativo, a perícia judicial aponta e o pagamento é feito com juros, se incidentes. Ou seja, o tempo não é corrigido pela evolução do valor do imóvel. O tempo é corrigido, é compensado por juros compensatórios. Agora, a discussão aqui é outra. A discussão é quando se define o momento, o valor do imóvel. Então, na desapropriação para a reforma agrária é o momento do laudo administrativo. E ainda existe uma quarta situação, que é a desapropriação indireta. As apropriação indireta, ela segue outro rito para começo de conversa e outro procedimento. É uma ação movida pelo particular contra o poder público. Aqui que se diga, sem a prévia indenização se apossoua administrativamente do bem imóvel. Então, na desapropriação indireta, a discussão gira em torno de um pedido indenizatório, ou seja, o poder público se aposou sem a prévia indenização e esse pedido indenizatório é um pedido de receber a justa indenização. Como calcular a justa indenização nesse contexto de apoçamento administrativo? Como calcular o prejuízo? Como indenizar o proprietário que ainda não recebeu? olhando paraa data do apoçamento administrativo. Então, nessa quarta situação em que há uma desapropriação indireta, que é a tomada do bem pelo poder público, a data a ser considerada pelo perito judicial e pela sentença e pelo judiciário. Não é a data da avaliação judicial, é a data do desaposamento. É ali que se afere o prejuízo. E de lá para cá, eu insisto, desde o momento da emissão na posse, o valor encontrado da Terra naquela época, ele é corrigido por juros compensatórios. Até por isso, caso sejam fixados outros marcos temporais na definição do valor, há um pedido subsidiário que precisa ser feito e decidido aqui, uma tese subsidiária que o Incar propõe na eventualidade de esses marcos temporais aqui descritos não sejam estabelecidos. A consideração deve ser considerado em razão da natureza dos juros compensatórios. Esses não podem incidir em data anterior ao marco temporal. Nesse exemplo aqui da desapropriação indireta é que eu me encaminho pro fim. Se eu olho pra data que o imóvel vale hoje e a desapropriação se deu a 10 anos, eu não posso pegar o valor de hoje, retroagir para 10 anos e no valor que o imóvel já vale hoje, 140, 200% a mais, ainda colocar 6% a on compensatório. Benidem. Mas essa é a tese subsidiária, porque as teses principais, e aqui eu encerro, são as seguintes e são quatro porque vislumbramos quatro situações no dia a dia das centenas de milhares de processos. Esse é o ganho. Agradeço ministro CQU na referência a ao acordo de cooperação renovado. É bom que se diga na presidência do ministro Herman. Esse é o ganho de um debate com qualidade, porque estamos diante de centenas de milhares de ação discutindo a mesma coisa e muitas vezes se valendo da jurisprudência fixada corretamente um contexto para outro contexto. Eu olho a desapropriação pelo rito ordinário, sem depósito prévio, sem emissão na posse e aplico a ideia para desapropriação indireta. Mudou o contexto, mudou a tese jurídica. E encerrando, sem adentrar nos casos concretos em razão do tempo, e eu já previa isso, eu vou pedir para que sejam aplicadas as teses de acordo com a situação, mas o mais importante aqui são as teses, a segurança jurídica que esse julgamento vai proporcionar em centenas de milhares de ações caríssimas, antigas, que geram angústia no proprietário, gera angústia em quem defende o poder público. As teses são as seguintes: nas desapropriações ordinárias, sem emissão na posse, o marco temporal da avaliação é a data da realização da perícia judicial. Tudo bem, o Incra não pagou nada, não se metiu na posse, não adentrou, não perfe a desapropriação. Agora, nas desapropriações ordinárias com emissão na posse, pagamento e depósito do valor, o momento temporal da avaliação é a data dos depósitos da oferta. Há pura diferença. Se tiver errado, o Incra paga. Pode ter outros erros, mas eu não posso esperar 10 anos e dizer que o INCR errou lá atrás no depósito. Nas desapropriações, tese três, por interesse social para f de reforma agrária, lei complementar 76, o marco temporal da avaliação é a data da perícia administrativa. De novo, se tiver diferença, o laudo aponta, mas metodologicamente tem que se olhar pro momento em que a perícia administrativa foi feita. A perícia pode apontar erros de lá, não evoluções. E por fim, nas desapropriações indiretas, o marco temporal da avaliação é a data da efetiva ocupação ou apoçamento administrativo, isto é, a data da ocorrência do dano. Subsidiariamente pede o INCRA que qualquer marco temporal diferente desse seja vedado à contagem de juros compensatórios a partir de um outro momento que não o marco temporal da avaliação do bem. Com essas palavras, presidente, eu agradeço e fica à disposição.\n\n**[04:03:36] Min. Gurgel de Faria (Presidente):** Pois não, Dr. Fábio. Vamos então passar a palavra para o ministro relator Afran Vilela, lembrando que há um destaque do ministro Herman Benjamin.\n\n**[04:03:46] Min. Afrânio Vilela (Relator):** Depois eu vou explicar aqui o destaque eu já retirei. Min. Herman Benjamin quer explicar sobre o destaque, eu posso fazer o\n\n**[04:03:53] Min. Herman Benjamin:** Não, já apresente seu voto que aí depois\n\n**[04:03:55] Min. Afrânio Vilela (Relator):** é perfeito. Bom, senhor presidente, eminentes pares, senhoras e senhores, meus cumprimentos ao Dr. Fábio Monnerat. Eh, eu trago um voto que é longo e ele aborda toda a matéria discutida nesses eh recursos e é realmente uma matéria conflitante, uma matéria que exige deliberação, até porque num dado momento aqui no que toca a juros compensatórios, nós estaremos revisitando e revendo eh decisões deste Superior Tribunal de Justiça. Não vou ler o voto todo, vou começar apenas com algumas informações. Nós temos mais de 90.000 processos envolvendo desapropriações em trâmite no Brasil, 75.000 deles só na justiça estadual e o tempo médio é de 6 anos só para se chegar à perícia, né? E eu vejo aqui que o CNJ aponta que o mais antigo pendente de julgamento é de 1928. são mais de 6.000 processos pendentes com mais de 15 anos no judiciário eh nacional, né? Então, realmente é um valor bastante expressivo em termos numéricos. Também busquei informações eh no sentido de que algumas regiões rurais a valorização é muito maior do que em outras. em algumas em alguns centros urbanos, eh o cenário também apresenta uma variação muito eh consistente que pode ir de entre 10 e 20%. Mas enfim, eh, num cenário de uma taxa Selic de 14%, realmente uma valorização de 20% anuais sem comprometimento de capital, somada a condenação em sucumbência pode gerar alguns incentivos à litigiosidade, né? Eh, o cenário gera efeitos esperados. Eh, eu abordo no meu voto bem especificamente a origem da polêmica jurídica. Passo pelo estudo do preço justo, que eh também aborda a questão da inflação, um debate obviamente pela legislação de 1956, eh a polêmica que surgiu dentro de um contexto específico, que naquele tempo inexistia correção monetária, eh, principalmente contra a fazenda pública. Depois, com a introdução do parágrafo 2º no artigo e da lei de 1965 da 468 86 de 65, estipulando que o preço tivesse sido definido há mais de ano e que o juiz determinaria a correção monetária do valor antes da sentença. sobre a jurisprudência majoritária que limitava a incorporação de juros de mora ao preço estabelecido no momento da declaração de utilidade pública, né? E daí a necessidade sucessiva alterações, primeiro estabelecendo o momento da avaliação como marco temporal a ser considerado pelo juízo, depois a incidência da correção monetária, inicialmente após um ano desse marco, e depois os juros eh compensatórios. Mas cito também que a jurisprudência, diante da Constituição de 46, que havia incorporado o conceito de preço justo, a indenização expropriatória, a aplicava e mesmo da lei, depois da lei de 65 intensificou essa previsão. Eh, trago inclusive eh comentários sobre a súmula 416 do Supremo Tribunal Federal, depois eh superada pela lei pela súmula 560. Então eu comento que a jurisprudência foi condutora da norma depois positivada, aliás, como é bastante usual eh em diversas matérias, inclusive na expropriatória eh no Brasil, né? E busco também ajuda na doutrina para entender o que é o preço justo nas expropriações e o que deve representar eh quantia exata que seria alcançada caso o bem tivesse sido submetida a negócio de compra e venda comum, contratual e voluntário, como já dizia eh Cretela Júnior eh nos comentários da lei da desapropriação em 1998. e mais recentemente essa lógica confirmada no regramento da desapropriação para reforma agrária, né? Eh, eu mostro, então, procuro mostrar que essa preocupação não é contemporânea. Eh, não há muito o Supremo Tribunal Federal e esta Corte estabeleceram que a correção monetária não pode ser definida em lei quando imponha índice descasado da efetiva variação dos preços da economia, né? E comento que não é por meio da realização de nova perícia que deve ser atualizado o preço anos após a deflagração do processo expropriatório. Eu comento que esse efeito é obtido sobre as normas vigentes por meio da devida correção monetária, mesmo porque a nova perícia deve retratar eh aí aspas os mesmos fatos sobre os as quais recaiu a primeira. Isso tá no artigo 480, parágrafo primeiro, do Código de Processo Civil. e os fatos verificados anos depois não serão os mesmos, né? Momento sobre outros doutrinadores também aborda o momento básico da ferição do preço, né? eh tratando desse momento, eh, a sua justiça ante os efeitos econômicos do tempo sobre o preço, que sempre foi a preocupação doutrinária. E nesse sentido eu busco ajuda em Seabra Fagundes, já em 1949, que dizia que regulando-se a indenização pelas condições do bem, no dia de sua fixação, isto é, no dia da decisão judicial que arbitra o preço e que o valor da coisa, a data da doação do plano ou projeto de obra seria o mais eh, digamos apropriado. Então aquele momento em que se verifica a desapropriação também defendia Rui Barbosa. Se formos retornar muito tempo no império também nós tínhamos regras mais ou menos parecidas. E na atual, já sob a norma atual, Cretela Júnior diz que nem mesmo pode aceitar-se a colocação sustentada a tempo por muitos pela qual se deveria considerar o valor que a coisa apresenta no momento da avaliação. Este momento é variável e independente de todo elemento jurídico. Então, eh, seria necessário tomar o ponto de referência, a data do ato da desapropriação. É, em outras palavras, um momento básico que antes era contemporâneo, a época da declaração de utilidade pública. Isso lá em 1941, depois em 56 o da avaliação do bem e a data da publicação do decreto que declarava utilidade pública e que fixava o momento básico do estado da coisa para cálculo do peso do preço, mesmo que houvesse para o futuro variações do valor, foi substituída pela data da avaliação. eh do bem.\n\n**[04:11:30] Min. Afrânio Vilela (Relator):** Parece-me então que o critério pragmático adotado nas normas em vigor deve ser lido também de forma pragmática pelo julgador. e a lei faz presunções acerca do momento da perícia, eh, busca atender a justiça do preço em favor do proprietário expropriado, mas poderia ser compreendida em uma medida mais alargada, eh, ignorar certas condições materiais de exercício possível de uma decisão administrativa. A questão então é definir o momento que equivaleria na desapropriação a assinatura do contrato no negócio de compra e venda, que é o que Cretela Júnior sempre discutiu. Então eu tenho que nessa premissa as avaliações periciais posteriores ao dito momento básico, devem buscar o preço contemporâneo a ele. Nesses casos, quando necessária reavalação reavaliação, ela deve ser feita, se possível, com os elementos já colhidos ao tempo da primeira perícia. Se inviável por absolutamente inservíveis ou insuficientes os dados originais, mesmo essas perícias posteriores devem se reportar aos preços vigentes naquele momento básico, mediante metodologias adequadas disponíveis aos técnicos. Então, começamos aqui a identificar que quanto à desapropriação para a reforma agrária, Dr. Fábio, senhoras e senhores, há um prazo disposto em lei complementar, né, de especial status normativo para a apresentação pelo período do laudo, no máximo 60 dias do seu compromisso, né, e a seu turno, esse compromisso deve ser firmado pelo perito em 5 dias, desde o recebimento eh da contestação. E aqui, obviamente, nós sabemos que nós que estivemos principalmente no primeiro grau, ah, esse prazo ele é sempre eh um pouco estendido, porque vem a discussão da dos honorários, o depósito dos honorários e, em regra ele, isso aí é acertado pelo juízo no caso concreto, né? Eh, portanto, a norma reguladora, com a suposição de que o movimento básico da fixação do preço ocorreria em menos de 90 dias da propositura da ação de desapropriação para fins de reforma agrária. No que diz respeito à desapropriação por utilidade pública, não há um prazo similar a esse. Entretanto, há uma menção explícita, eh, ao momento em que a norma pressupõe o descasamento relevante entre a realidade econômica e o preço aferido, um ano, nos termos do artigo 26 para o segundo decreto 3365 de eh 41. E eu transcrevo esse dispositivo, artigo 26, né? E esse prazo de 1 ano, ele deve servir como marco temporal máximo para a própria realização da avaliação judicial. contado desde a propositura da ação. Eh, esse é o mundo ideal que a lei prega. Qualquer perícia realizada após esse marco nas desapropriações por utilidade pública deve reportar-se a esse momento eh básico. É mais provável que a demora não decorra de algo eh processual e fora do trâmite processual, mas por exemplo, um estravio de autos, um atraso na própria realização da perícia por falta de pagamentos, como eu disse, né? Enfim, nesses casos, sendo o ônus do expropiante, arcar com o custo dessa prova. Eh, o que se está fazendo, na realidade não é propriamente uma perícia, mas sim uma vistoria para fins daquela primeira avaliação e uma nova situação mercadológica.\n\n**[04:15:31] Min. Afrânio Vilela (Relator):** resta o eh só completando a a o raciocínio, portanto, é impossível comparar uma avaliação pericial com data de referência igual à data da perícia com uma avaliação administrativa ocorrida em anos, eu cito aqui, posteriores, mas poderia também ser para o passado, como bem foi exposto do da tribuna. Resta o prazo a ser seguido nas desapropriações indiretas. E nesse caso, eh, eu, eu trago para a turma, eh, se houver uma ação ilícita do Estado, o Estado no sentido amplo, né, deve ser severamente desincentivada. Eh, pode-se considerar que há, na verdade, incentivo contrário. Todo processo administrativo pode ser prejudicado pelas vantagens para o expropriado da rejeição da oferta, a condução do processo judicial, havendo incentivos para que o estado apenas responda judicialmente por uma ocupação ilícita, quando assim efetivamente eh ocorrer. Ah, eu abordo também a valorização decorrente de possíveis obras, né? quando a perícia é considerada pelo juízo avaliar preço afetado pela obra realizada ou serviço público já implantado ou implantação, e esse sobreprepço não poderá ser pago ao expropriado, né, sob pena de um enriquecimento injusto, eh, pela melhoria trazida pelo ente público. Então, é preciso distinguir essa situação daquela em que a jurisprudência antiga denominava a plus-valia. Desde a Constituição de 46, entende-se então que esse valor acrescido ao imóvel pelas obras públicas não pode ser cobrado exclusivamente do expropriado eh por uma questão eh lógica. Então, resumindo já o meu a minha compreensão, como tudo dito, a justiça do preço, ela deve operar em ambos os sentidos, tanto em favor do proprietário quanto do ente público. Nesse passo, se aquele não pode ser penalizado por ações arbitárias do poder público, tampouco este o poder público pode ser prejudicado pela resistência indevida do particular, que poderia apostar na especulação imobiliária para obter vantagens que não teria pela simples venda eh do imóvel no mercado eh em momento visado. Sim, se a perícia for necessária, após longo decurso de tempo, essa valorização decorrente da própria ação estatal não pode prejudicar a si mesma. É preciso e adequado que o preço assim encontrado reflita eh aquele que o proprietário obteria no mercado à época do negócio, né? Isso vem para que de modo substitua seu bem eh obtido por força do Estado em razão de finalidades públicas, sociais, coletivas. Eu abordo também eh a modulação, questão dos efeitos, a data da nomeação do perito. Eh, e lembro que os precedentes vinculantes, além de retratar a melhor interpretação do direito obtido pela visão plural dos tribunais, também devem eh ter efeito operativo concreto para viabilizar a prestação jurisdicional eficiente. que relembro mais uma vez, nós temos 1000 ações pendentes de apreciação eh em todo o eh em todo o Brasil. Eh, de outro lado, eh, como eu já disse e repito para finalizar, determinar simplesmente renovação de perícias já realizadas para identificação de preço anterior ao marco temporal imporá ao expropiante novos custos, além de gerar tumulto processual que não deve ser promovido pelo estabelecimento de tese vinculante. Portanto, em suma, os efeitos desses julgados devem desse julgado devem incidir sobre os casos em que a perícia seja determinada a partir da publicação deste acordo, isto é, com nomeação do perito a partir do momento e valerá para os casos que sejam necessárias eh novas perícias aí dentro daquelas situações concretas. Eh, uma situação que eh eu vou eh debater e aí tá no caso eh concreto é que até então nós temos jurisprudência dentro deste tribunal no sentido do pagamento dos juros compensatórios, ainda quando a o o bem eh expropriado ele não seja de forma alguma utilizada eh utilizado para eh pelo proprietário, né? Então, nesse caso, é que eu disse que estamos eh eh sugerindo que seja isso revisitado, esse esse aspecto revisitado para que os juros compensatórios sejam atribuídos quando efetivamente a terra expropriada ela estiver com alguma função social. Se ela não tem essa função social, eu não vejo como impor eh juros compensatórios por aquilo que se perdeu na produção, sendo que produção obviamente não existe. Então essa, senhor presidente, é a a posição eh da tese em si. Nós temos diversos eh casos concretos. A tese ela é alongada, eu vou lê-la rapidamente. Eh, nas desapropriações em geral, a contemporaneidade entre o preço e o valor indizatório é definida pelo momento básico de sua ferição técnica, em regra correspondente ao preço de mercado do bem quando da realização da perícia judicial. Essa é a letra A. Letra B. Nas desapropriações por utilidade pública ou interesse social, o momento básico não pode ser superior a um ano desde a propositura da ação judicial. C. Nas desapropriações para fins de reforma agrária, o momento básico não pode exceder 90 dias desde a propositura da ação judicial. D1. Nas indenizações por desapropriação indireta, o momento básico corresponde à data do apossamento administrativo. A perícia deve reconstituir o preço de mercado do bem nessa data, sem prejuízo da correção monetária e dos juros compensatórios na forma da lei. D2. Quando o expropiante der causa a demora na realização da primeira perícia, por fato a ele imputável e reconhecida em decisão fundamentada, o limite temporal das teses B e C será acrescido apenas do período de atraso que lhe for atribuível. A demora imputável ao expropriado, ao serviço judiciário ou a terceiro não afasta nem dilata esse limite. E as perícias realizadas após o prazo estipulado devem reportar-se ao preço de mercado do momento básico limite, mediante técnicas disponíveis no campo científico. F. Em qualquer situação, as variações de preço decorrentes da própria ação estatal devem ser identificadas em separado pelo perito e descontadas do valor indenizatório fixado em juízo. E G. E última, as teses incidem nos casos com perícias determinadas a partir da publicação deste acordo, isto é, com peritos nomeados a partir eh deste momento. Com isso, senhor presidente, eh, no AV1, que é o primeiro, que é esse que eu estou abordando, eh, a sugestão, no caso concreto, é que seja conhecido em parte o recurso especial. Nessa parte, dado parcial, provimento para determinar a atualização do valor da oferta pelo IPCA, é para fins de apuração da diferença entre esse valor e o da condenação indenizatória e seus consecutários, conforme será verificado na liquidação da sentença com fixação das teses acima sobre o regime de relevância, né, da questão. E eu tenho ainda o AV5, AV7 e o AV9, que eu aguardo, se for o caso, o pronunciamento da da sessão para dar prosseguimento.\n\n**[04:24:09] Min. Gurgel de Faria (Presidente):** Acho que a gente como de prá, Min. Afrânio Vilela, Vossa Excelência, ministro Herman, gostaria de se pronunciar logo. Sim. Eh, eh, presidente,\n\n**[04:24:17] Min. Afrânio Vilela (Relator):** permita-me só, eh, Min. Herman Benjamin, eh, eu não poderia terminar, eu ia fazê-lo quando eh dos demais, mas por efeito de justiça, eu quero agradecer o tanto que os colegas eh ajudaram e foram participativos nesse eh trabalho que efetivamente eh foi muito eh custoso, mas de uma maneira muito especial, Min. Herman Benjamin Benjamim, que também eh colaborou muito no sentido da confecção desse desse voto.\n\n**[04:24:51] Min. Herman Benjamin:** Bem, eu agradeço eh presidente min pares, eu realmente me preocupei com não tanto com eh eh as teses em si, mas a clareza das teses, porque como muito bem afirmado aqui da tribuna, nós estamos cuidando de centenas de milhares de ações no país como um todo. E sabemos que em alguns dos setores, como foi o caso da Serra do Mar em São Paulo, exatamente por conta de um período de inflação em que o juiz não tinha ideia do que de valores, nós chegamos a a absurdos que estão até hoje ainda seja em ação reccisória ou suspensos eh pelo Supremo Tribunal. eh federal. Eh, cito o exemplo eh de um de uma área lá em Ubatuba de 150 hectares, né, nas ribanceiras e penhascos rochosos daquele daquele maciço em que a condenação eh na época passava de 1 bilhão de dólares, 13.500 haar. Só para dar uma ideia de que nós estamos cuidando aqui não só dos casos pequenos, eh, e partindo sempre da premissa que o direito de propriedade não só é reconhecido no nosso ordenamento jurídico, como é garantido, seja pelos institutos clássicos e de proteção de direito de propriedade, eh particulares, contra particulares, mas também eh eh o contra o próprio Estado por desapropriação direta ou o indireta. E daí que eu eu festejo eh a esta esse julgamento que nós estamos fazendo hoje aqui. Quais eram as dificuldades? E primeira, isso já foi dito pelo próprio relator e da tribuna, nós não é que falte regulação jurídica. legal, desculpe, nós temos, mas há um pot-pourri de normas eh legais e até constitucionais que precisam ser ser integradas. E aqui o propósito é, nós não vamos encerrar inteiramente a casuística que essa matéria desperta, mas certamente estaremos eh dando um encaminhamento a a questões que são extremamente relevantes e que t impacto financeiro. Atenção, não é impacto financeiro legítimo, é impacto financeiro ilegítimo para todos nós que pagamos impostos para o e para gerações futuras. que os débitos continuam aí para serem pagos pelos nossos descendentes e os descendentes dos nossos descendentes. Primeira observação que eu havia feito era em relação à separação dos dois sistemas, da reforma agrária e da desapropriação indireta. E o eminente relator agora e acho que está na no item D, não é, ministro eh Afrânio, eh tudo isso já estava no voto do relator. Apenas minhas sugestões foram de eh eh de aprimoramento eh eh do verbo, eh é da não da expressão daquilo que já estava no voto do relator, porque nós não queremos eh ter repetitivo do repetitivo, né? ter que depois decidir a aspectos que nem barcos de declaração nós não eh teríamos conseguido ou iríamos conseguir eh resolver. Então, primeiro era a distinção desses dois desses dois sistemas. O segundo é fazer justiça no que se refere a e aí no plano da causalidade, quando o próprio Estado é quem dá em ser a demora na avaliação e no próprio procedimento, ou melhor dizendo, no na efetiva do direito eh do expropriado. E isso está agora bem bem claro, já estava, mas ficou mais claro ainda no voto do relator. Mas o que ficou mais claro e por isso eu me dou satisfeito, senhor presidente, eminentes pares, é a expressão peremptória dita pelo eminente relator de que quando a demora for causada pelo próprio expropriado ou pelos serviços judiciais no interior da Amazônia. Mas mesmo, Min. Gurgel de Faria, eh nós que somos eh e nordestinos, nós sabemos, aliás, está aqui o subprocurador geral, que também é é nordestino. Nós sabemos que há comarca em que os processos ficam lá parados eh por anos. Então, primeiro, quando é o próprio expropriado, quando são serviços judiciais ou terceiros. Nessas hipóteses, não há que se imputar o plus que decorre, que seria um uma espécie de plus sancionatório, eh, que decorreria desse comportamento eh que prejudica o expropriado. Então, para mim, esse ponto é eh é muito muito importante. E também aqui, ministra Regina, Min. Maria Thereza de Assis Moura, é, é um ponto, é o último, um ponto eh que mais cedo ou mais tarde nós vamos mudar a nossa legislação. Já mudamos, me refiro da dos prazos prescricionais que no Código Civil eh eh anterior era 20 anos, prazo máximo. No código, na legislação anterior ao Código Civil, eh, era de 30 e hoje é o prazo é 10, mas 10 anos ainda pressupõe de certa maneira que nós estamos na época do pombo Correio ou das dos Bandeirantes, dificuldades de acesso hoje eh não há a necessidade de prazos de 10 anos de prescrição. Então, esta não é uma questão apenas da desapropriação, tanto que há prazos na desapropriação que foram reduzidos para não da desapropriação, mas do uso capião, uso capião urbano. E se for para as pessoas pobres, salvo engano, tem um prazo menor menor ainda pela questão social e que se quer com isso garantir. Eu me estendi um pouco porque nós não podemos admitir na perspectiva da prestação jurisdicional, mas também da segurança jurídica e que o prazo de 10 anos seja utilizado não só para o seu objetivo principal, que é garantir o acesso à justiça, mas para criar uma fábrica de créditos e aí o desenvolvimento das da chamada da chamada máfia da desapropriação, que é alguns setores, em alguns estados ainda existe. E penso que o eminente relator, com as teses que postas agora da forma que o fez, de certa maneira eh põe um põe os gatilhos eh que são necessários para e para essa para essa matéria. Então, o meu destaque foi esse. Só ficou pendente, ministro eh Afrânio, a questão do caso concreto, porque a nossa jurisprudência hoje do Supremo, ao contrário do que diz expressamente o o o Tribunal de Origem, é no sentido de que se a terra é improdutiva, não cabe juro compensatório. Então, o tribunal num num desses acórdons cita, por exemplo, precedente eh do Superior Tribunal de Justiça 2009. A jurisprudência nossa toda hoje aqui, eh, desde a época do Min. Teori Zavascki, eh, e depois eh no Supremo é de que eh o juro compensatório não pode, beneficiar quem não explora economicamente a Terra. E isso tem repercussões tributárias, como a própria ministra Regina Lina eh muito muito bem sabe. Então, penso que nós precisaríamos nos casos deixar muito expresso que não cabe os juros eh compensatórios se a propriedade, se o imóvel for improdutivo. Não, isso não vai mudar as teses do repetitivo, mas é simplesmente para, no caso concreto, nós termos a certeza de que o tribunal vai aplicar eh e eh corretamente.\n\n**[04:35:00] Min. Gurgel de Faria (Presidente):** Algum colega gostaria de se pronunciar?\n\n**[04:35:03] Min. Maria Thereza de Assis Moura:** Presidente, rapidamente.\n\n**[04:35:04] Min. Afrânio Vilela (Relator):** Pois não, ministra. Eh, Min. Herman Benjamin, logo que pouco antes de ler as a a tese ou as e as subteses, eu já fiz esse comentário que vou acrescer ao voto, mais claramente que, né, eh quando não houver a utilização social, a utilização comercial eh daquele imóvel, a exploração, não haverá então os juros compensatórios. Isso eu vou acrescentar ao voto. Mas, eh, senhor presidente, passando já pro caso concreto, posso pode ser o então o REsp 1.814.350 do Ceará, nesse caso, eh, uma ação de desapropriação do Sítio Amparo por interesse social para fins de reforma agrária, regularizando o território quilombola, Lagoa dos Campinhos e Amparo de São Francisco, no Sergipe. É, o Tribunal Regional Federal assentou a contemporaneidade do valor na data da perícia, mas fixou os jures compensatórios no patamar de 12. Então, eh, a sugestão aqui é de reforma parcial, nesse caso, trazer os juros compensatórios para os 6%.\n\n**[04:36:10] Min. Maria Thereza de Assis Moura:** Mas é que nós não sabemos se a terra é produtiva.\n\n**[04:36:14] Min. Afrânio Vilela (Relator):** Mas nesse caso eu olhei o o o e o acórdão não fala. Então\n\n**[04:36:20] Min. Herman Benjamin:** não, mas o acórdão afirma, cita precedentes nossos para dizer eh que eh eu acho que nós nem precisaríamos perder tempo com esse com isso aqui. Deixamos com Vossa Excelência, Vossa Excelência eh analisa melhor o que não pode ao tribunal citar jurisprudência nossa dizendo antiga, superada, eh, dizendo que mesmo sendo a terra improdutiva, eh,\n\n**[04:36:46] Min. Afrânio Vilela (Relator):** o número sete, o o AV7, que é o de Pernambuco, isso fica bem claro, mas então se a a a Corte me delega, eu farei o ajuste essa delegação que a gente tá dando é o Min. Herman Benjamin, que eu acho que a gente não pode dar não. É,\n\n**[04:37:01] Min. Maria Thereza de Assis Moura:** a gente tem que concluir o julgamento a não ser que haja um adiamento. A gente não pode chegar acordo, vai delegar pro relator.\n\n**[04:37:09] Min. Afrânio Vilela (Relator):** Não, não, mas mas não é mas não é delegação nesse sentido. Não é delegação.\n\n**[04:37:13] Min. Gurgel de Faria (Presidente):** Mas a gente precisa proclamar, não vai proclamar o resultado. Então fica proclamado o resultado. Eh, sim. Neste caso específico teria que se examinar. Realmente\n\n**[04:37:24] Min. Maria Thereza de Assis Moura:** quando caso concreto precisa saber, precisa saber com certeza. tem razão, porque eu achei que colocava no voto, mas não, mas nós temos que proclamar também o resultado do caso concreto.\n\n**[04:37:33] Min. Afrânio Vilela (Relator):** Com certeza. Veja, veja bem, no caso concreto, o 1950, 1981 está expresso que o bem não tinha nenhuma atividade econômica, está expresso lá. Então, nesse caso, eu estou eh eh sugerindo que seja decotado o juro compensatório objetivamente. Os demais eh eu não vi essa decisão nos juros, no nos acód. Então, eu estou eh entendendo que os juros eh nesse caso são daqueles do de 6% até 2017. eh, no percentual equivalente aos TDAs, né, conforme o artigo 5º, parágrafo 9º da lei 8 629 de 93. Obviamente, se não for o caso, com certeza virão os embargos de declaração.\n\n**[04:38:29] Dr. Fábio Monnerat (Procurador Federal / INCRA):** Poderia fazer um esclarecimento?\n\n**[04:38:31] Min. Afrânio Vilela (Relator):** Pois não, doutor.\n\n**[04:38:32] Dr. Fábio Monnerat (Procurador Federal / INCRA):** O esclarecimento de fato simples. São os paradigmas dois são eh desapropriação para fins de reforma agrária que pressupõe o descumprimento da função social da propriedade e, portanto, a aplicação do 15A, parágrafo 2º, juro zero em razão da não função social. Da não cumpriment,\n\n**[04:38:50] Min. Afrânio Vilela (Relator):** poderia dar os números, então.\n\n**[04:38:51] Dr. Fábio Monnerat (Procurador Federal / INCRA):** Poderia dar os números, sim, excelência. Porque para esses dois, se é eh se trata de reforma agrária e a reforma agrária não foi impugnada eh e eh pelo próprio tribunal eh eh de origem, então é porque a terra improdutiva.\n\n**[04:39:08] Min. Afrânio Vilela (Relator):** Exato. Esse é o pressuposto. Seriam, se me permite, senhor relator, o citado por Vossa Excelência. Sim,\n\n**[04:39:15] Dr. Fábio Monnerat (Procurador Federal / INCRA):** o REsp 1.950.981 de Pernambuco, é uma desapropriação para f de reforma agrária e na minha lista aqui o útil é o REsp 1.809.093, onde o Incra pede juro zero em razão do descumprimento dação social. Os outros dois para regularização de terra quilombola, o pedido da autarquia é de juro de 6% na linha decidida pelo Supremo na DI 2332. Esse caso,\n\n**[04:39:38] Min. Afrânio Vilela (Relator):** então seriam é dois casos zero, dois casos seis. Esse caso que eu acabei de sugerir aqui, então, que é o REsp 1.814.350 Sergipe, é esse de 6% reduzid 14 350 Sergipe 6% assim é regularização de terra que mas os outros dois que são de nós vamos chegar lá. Ah, tá. Tá bom. Então, mas o primeiro, só para fazer uma observação e colaborar aqui, eh, no caso com o andamento do feito, no primeiro, Min. Afrânio Vilela, Vossa Excelência tá mantendo os juros compensatórios, embora reduza para 6%, mas tá mantendo. Então, eh, REsp 1.809.093, Dr. Fábio, esse 093 é o REsp 1.809.093 do Ceará. Isso. Eu eu pediria ao procurador para primeiro reforma agrá\n\n**[04:40:32] Dr. Fábio Monnerat (Procurador Federal / INCRA):** passe o número eh do que é quilombola, porque é desapropriação indireta. E é este em que haveria e acho que o o ministro Flando está fazendo, reduzindo de 12 para seis. E da em seguida, nos outros dois, Vossa Excelência fala os números, o estado e aí o próprio relator poderia fazer o ajuste.\n\n**[04:40:57] Min. Afrânio Vilela (Relator):** Eh, no REsp 1.809.093, qual é o estado\n\n**[04:41:01] Dr. Fábio Monnerat (Procurador Federal / INCRA):** também? Esse é o de Ceará, é o número um, AB1. É reforma agrária. Mas aí é reforma agrária. Sim. por utilidade pública para fim de reforma agrária. O momento básico não pode exceder 90 dias desde a propositura da ação judicial e nas indenizações. Eh,\n\n**[04:41:20] Min. Afrânio Vilela (Relator):** então, mas reformaré aí já não seria o caso de\n\n**[04:41:23] Min. Gurgel de Faria (Presidente):** Senhor presidente, posso fazer uma sugestão? Mas não, ministro, então se fosse o caso de a gente suspender e concluir o julgamento com relação aos casos concretos, eu acho que\n\n**[04:41:32] Min. Afrânio Vilela (Relator):** não é isso até o ministro tem mais tempo para nós não ficarmos aqui meio inseguros.\n\n**[04:41:38] Min. Gurgel de Faria (Presidente):** É, vamos seguir a linha que já foi decidida aqui, né? Importante acho que estão todos de acordo com as teses. E sendo assim, suspender-seia e e se retomaria apenas para concluir o julgamento com relação aos casos concretos.\n\n**[04:41:49] Min. Afrânio Vilela (Relator):** Os casos concretos. Perfeito. Até porque acho que a gente também acho que tem claro, né, que nesses casos reforma agrária, como não utilizou a função social é zero. Isso né? É. É. E vejam bem, só para dizer que não estive atento, eh, nesse caso, hã, só um minutinho,\n\n**[04:42:11] Min. Gurgel de Faria (Presidente):** mas se vamos suspender, não precisamos nem mais eh,\n\n**[04:42:15] Min. Afrânio Vilela (Relator):** é procurar eh nesse caso de do REsp 1.950.981, eu digo que não incidem juros compensatórios, porque o imóvel é improdutivo, né, e que também nesse caso o passivo ambiental deve ser descontado do valor indenizatório. Então a minha dúvida foi só quanto a esse primeiro aí que eu vou fazer o ajuste e trazer o caso concreto na próxima\n\n**[04:42:43] Min. Gurgel de Faria (Presidente):** ficam suspensos, não é, esses julgamentos para que a gente possa analisar o caso concreto, a tese ao mesmo tempo os próprios colegas eh podem eh eh examinar o item D especialmente, não é, Min. Afrânio Vilela? que eh enfim, foi onde realmente ocorreu eh ocorreram os ajustes para ver se há algum outro ajuste que possa eventualmente, mas realmente eh esse é é um é um instante memorável para nós aqui no Superior Tribunal de Justiça numa questão de relevância não só financeira, mas social. Perfeito. Então, uma vez já aprovada a tese, ficam suspensos os julgamentos para que haja uma análise dos casos concretos. E aí na sessão seguinte, não é isso, Min. Afrânio Vilela, posso assim proclamar?\n\n**[04:43:39] Min. Afrânio Vilela (Relator):** É, pode. É um caso concreto na realidade, mas pode pode contar casos concretos. Eu acho que é melhor deixarmos os quatro que aí a gente, né, porque senão fica desgarrado um do outro,\n\n**[04:43:49] Min. Gurgel de Faria (Presidente):** é claro. A gente então fica assim proclamado. Dr. Fábio Monnerat, obrigado pela participação aqui no nosso julgamento. Eh, eu indico, o adiamento do Tema 1415/STJ, votos-vista que seria apresentado pelo ministro Paulo Sérgio Domingues. Recursos especiais REsp 2.238.885 e REsp 2.238.889. Eh, de acordo com o ministro Paulo Sérgio, queria apresentar vista, inclusive entrou em contato com a relatora Min. Maria Thereza de Assis Moura e ficou acertado de que será adiado para a sessão seguinte. Posso proclamar assim?\n\n**[04:44:27] Min. Paulo Sérgio Domingues:** Eh, sim, presidente. A, acho que achamos que seria conveniente até por causa do quórum que agora quum.\n\n**[04:44:31] Min. Gurgel de Faria (Presidente):** Perfeito. Então, já proclamada, eh, no caso que teremos esse adiamento e vamos agora para o último feito. É uma preferência com questão de fato, eh, embargos declaratórios. Eu peço que, como são eh, dois advogados irão acompanhar por videoconferência, eu peço que o a secretaria então promova a participação do Dr. Stephan Guimarães Emerim. Eh, o primeiro falando pela pelas pela parte embargada Wilson de Menezes Dias e o segundo pela Associação dos Expresos e Perseguidos Políticos do Estado do Rio Grande do Sul. Eh, ministro Afrânio tem a palavra. Observe que não há destaque. O Dr. Stephan já entrou. Dr. Dr. Ramiro não está na sala, mas o Dr. Stephan está para acompanhar o julgamento. Ministro Afrânio tem a palavra. Observe que não há destaque, ministro.\n\n**[04:45:32] Min. Afrânio Vilela (Relator):** Senhor senhor presidente, eh não foram constatados vícios e por isso a sugestão é de rejeição dos embargos de declaração. O voto que é longo está à disposição dos ilustres advogados.\n\n**[04:45:44] Min. Gurgel de Faria (Presidente):** Indago aos pares, não há destaque. Então eu proclamo a sessão à unanimidade, rejeitou os embargos de declaração nos termos do voto do relator. Dr. Stephan, obrigado pela participação. Agradeço igualmente a participação de todos que aqui estiveram no decorrer desta desta tarde e declaro encerrada a nossa sessão. Obrigado,\n",
     "stats": {
       "total": 11,
+      "pautaTotal": 41,
       "providos": 3,
       "desprovidos": 3,
       "parciais": 0,
@@ -109,9 +110,2134 @@ const resumosData = [
       "relevantCount": 8,
       "thesesCount": 11
     },
+    "pauta": {
+      "seq_sessao": 2050236007,
+      "orgao_slug": "primeira_secao",
+      "cod_orgao_stj": "S1",
+      "nome_orgao": "Primeira Seção",
+      "data_iso": "2026-10-14",
+      "data_br": "14/10/2026",
+      "tipo_sessao": "Ordinária",
+      "hora_inicio": "",
+      "url_pauta_pdf": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/401075455/pdf",
+      "url_ata_pdf": "",
+      "documentos": [
+        {
+          "seq_documento": 401075455,
+          "cod_tipo": 40,
+          "tipo": "PAUTA DE JULGAMENTOS",
+          "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/401075455/pdf"
+        },
+        {
+          "seq_documento": null,
+          "cod_tipo": 0,
+          "tipo": "SUST. ORAL",
+          "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/2050236007/sustentacoes-orais"
+        }
+      ],
+      "total_itens": 41,
+      "total_sustentacoes": 51,
+      "itens": [
+        {
+          "item": 1,
+          "num_registro": "201902065800",
+          "registro_formatado": "2019/0206580-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "1826796",
+          "numero_formatado": "1826796",
+          "uf": "SC",
+          "processo": "REsp 1.826.796/SC",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 1826796 - SC (2019/0206580-0) - Tema Repetitivo n. 1220",
+          "tema_repetitivo": "Tema Repetitivo n. 1220",
+          "relator": "Min. Teodoro Silva Santos",
+          "vistor": "",
+          "ministro_sessao": "Min. Teodoro Silva Santos",
+          "categoria": "Destaque da Presidência",
+          "ind_categoria": "DP",
+          "assunto": "Auxílio-Doença Acidentário",
+          "resultado_oficial": "DESAFETADO AO RITO DOS RECURSOS REPETITIVOS",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JOSE HANK"
+            }
+          ],
+          "advogados": [
+            "ANDERSON MACOHIN E OUTRO(S) - SC023056",
+            "JANE LÚCIA WILHELM BERWANGER - RS046917"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FERNANDO MACIEL",
+              "partes": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+            },
+            {
+              "advogado": "ALINE LAUX DANELON",
+              "partes": "INSTITUTO BRASILEIRO DE DIREITO PREVIDENCIÁRIO IBDP"
+            }
+          ],
+          "matchedProcessIndex": 2,
+          "timestamp": "00:26:29",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=1589s"
+        },
+        {
+          "item": 2,
+          "num_registro": "202300507664",
+          "registro_formatado": "2023/0050766-4",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2053569",
+          "numero_formatado": "2053569",
+          "uf": "AM",
+          "processo": "REsp 2.053.569/AM",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2053569 - AM (2023/0050766-4) - Tema Repetitivo n. 1244",
+          "tema_repetitivo": "Tema Repetitivo n. 1244",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "",
+          "ministro_sessao": "Min. Marco Aurélio Bellizze",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "COFINS - Importação",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "ALMI SANTOS DE MEDEIROS - EMPRESA DE PEQUENO PORTE"
+            }
+          ],
+          "advogados": [
+            "JOSUÉ NASCIMENTO PIMENTEL - AM009118",
+            "GERMANO COSTA ANDRADE - AM002835"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 1,
+          "timestamp": "00:21:32",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=1292s"
+        },
+        {
+          "item": 3,
+          "num_registro": "202300520256",
+          "registro_formatado": "2023/0052025-6",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2053647",
+          "numero_formatado": "2053647",
+          "uf": "AM",
+          "processo": "REsp 2.053.647/AM",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2053647 - AM (2023/0052025-6) - Tema Repetitivo n. 1244",
+          "tema_repetitivo": "Tema Repetitivo n. 1244",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "",
+          "ministro_sessao": "Min. Marco Aurélio Bellizze",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Cofins",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "TOCHAMIX INSTALACAO ELETRICA LTDA"
+            }
+          ],
+          "advogados": [
+            "GERMANO COSTA ANDRADE - AM002835",
+            "GERMANO COSTA ANDRADE - AM002835"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "VICTOR BASTOS DA COSTA",
+              "partes": "TOCHAMIX INSTALACAO ELETRICA LTDA"
+            },
+            {
+              "advogado": "MARCELO KOSMINSKY",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 4,
+          "num_registro": "202300066895",
+          "registro_formatado": "2023/0006689-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2046893",
+          "numero_formatado": "2046893",
+          "uf": "AM",
+          "processo": "REsp 2.046.893/AM",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2046893 - AM (2023/0006689-5) - Tema Repetitivo n. 1244",
+          "tema_repetitivo": "Tema Repetitivo n. 1244",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "",
+          "ministro_sessao": "Min. Marco Aurélio Bellizze",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Cofins",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JUST TIME INDUSTRIA DOS METAIS LTDA"
+            }
+          ],
+          "advogados": [
+            "VERA CARLA NELSON CRUZ SILVEIRA - DF019640",
+            "GERMANO COSTA ANDRADE - AM002835",
+            "AUDREY DA FONSECA CAMINHA - AM004053",
+            "PEDRO CÂMARA JUNIOR - AM002834"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "VERA CARLA NELSON CRUZ SILVEIRA",
+              "partes": "JUST TIME INDUSTRIA DOS METAIS LTDA"
+            },
+            {
+              "advogado": "VERA CARLA NELSON CRUZ SILVEIRA",
+              "partes": "JUST TIME INDUSTRIA DOS METAIS LTDA"
+            },
+            {
+              "advogado": "MARCELO KOSMINSKY",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 5,
+          "num_registro": "202301374234",
+          "registro_formatado": "2023/0137423-4",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2070059",
+          "numero_formatado": "2070059",
+          "uf": "SP",
+          "processo": "REsp 2.070.059/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2070059 - SP (2023/0137423-4) - Tema Repetitivo n. 1379",
+          "tema_repetitivo": "Tema Repetitivo n. 1379",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "IRPF/Imposto de Renda de Pessoa Física",
+          "resultado_oficial": "NEGOU PROVIMENTO",
+          "segredo_justica": true,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A."
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "NOTRE DAME INTERMEDICA SAUDE S.A."
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "J P N"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "F E R"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "M E M"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "M G O J"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "A P F G"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "D DE M J"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "R N O"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "G DA S R"
+            }
+          ],
+          "advogados": [
+            "GABRIELA SILVA DE LEMOS - SP208452",
+            "BRENO FERREIRA MARTINS VASCONCELOS - SP224120"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "JOSE EDUARDO MARTINS CARDOZO",
+              "partes": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A.; NOTRE DAME INTERMEDICA SAUDE S.A."
+            },
+            {
+              "advogado": "CARLOS HENRIQUE DE OLIVEIRA",
+              "partes": "ASSOCIACAO BRASILEIRA DAS COMPANHIAS ABERTAS ABRASCA"
+            },
+            {
+              "advogado": "RAQUEL GODOY DE MIRANDA ARAUJO",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": 3,
+          "timestamp": "00:45:09",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=2709s"
+        },
+        {
+          "item": 6,
+          "num_registro": "202500645090",
+          "registro_formatado": "2025/0064509-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2199631",
+          "numero_formatado": "2199631",
+          "uf": "SP",
+          "processo": "REsp 2.199.631/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2199631 - SP (2025/0064509-0) - Tema Repetitivo n. 1379",
+          "tema_repetitivo": "Tema Repetitivo n. 1379",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Contribuições Previdenciárias",
+          "resultado_oficial": "NEGOU PROVIMENTO",
+          "segredo_justica": true,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "D C C S"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "D P DE A P J"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "E S C"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "G P F"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "G B R"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "J L DE O E"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "M C S M V"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "M H F O"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A."
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "NOTRE DAME INTERMEDICA SAUDE S.A."
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "S R DE P F"
+            }
+          ],
+          "advogados": [
+            "GABRIELA SILVA DE LEMOS - SP208452",
+            "HALLEY HENARES NETO - SP125645",
+            "BRENO FERREIRA MARTINS VASCONCELOS - SP224120"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "CARLOS HENRIQUE DE OLIVEIRA",
+              "partes": "ASSOCIACAO BRASILEIRA DAS COMPANHIAS ABERTAS ABRASCA"
+            },
+            {
+              "advogado": "MARCELLO PEDROSO PEREIRA",
+              "partes": "ASSOCIACAO BRASILEIRA DE ADVOCACIA TRIBUTARIA - ABAT"
+            },
+            {
+              "advogado": "RAQUEL GODOY DE MIRANDA ARAUJO",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": 3,
+          "timestamp": "00:45:09",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=2709s"
+        },
+        {
+          "item": 7,
+          "num_registro": "202402248505",
+          "registro_formatado": "2024/0224850-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2152197",
+          "numero_formatado": "2152197",
+          "uf": "SP",
+          "processo": "REsp 2.152.197/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2152197 - SP (2024/0224850-5) - Tema Repetitivo n. 1324",
+          "tema_repetitivo": "Tema Repetitivo n. 1324",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Multas e demais Sanções",
+          "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO E, NESSA PARTE DEU-LHE PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "HERMES & RUAS FRETAMENTO E LOCADORA LTDA"
+            }
+          ],
+          "advogados": [
+            "FELIPE MOREIRA DA CONCEIÇÃO - SP396235",
+            "DEFENSORIA PÚBLICA DO DISTRITO FEDERAL"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "PAULO MARTINS DOS SANTOS",
+              "partes": "ESTADO DO CEARA"
+            },
+            {
+              "advogado": "CAMILLA GAMBARRA MOREIRA",
+              "partes": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+            }
+          ],
+          "matchedProcessIndex": 4,
+          "timestamp": "01:09:02",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=4142s"
+        },
+        {
+          "item": 8,
+          "num_registro": "202402248315",
+          "registro_formatado": "2024/0224831-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2152255",
+          "numero_formatado": "2152255",
+          "uf": "SP",
+          "processo": "REsp 2.152.255/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2152255 - SP (2024/0224831-5) - Tema Repetitivo n. 1324",
+          "tema_repetitivo": "Tema Repetitivo n. 1324",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Multas e demais Sanções",
+          "resultado_oficial": "CONHECEU DO RECURSO E LHE DEU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JOSE TEIXEIRA DA SILVA"
+            }
+          ],
+          "advogados": [
+            "THALIS HENRIQUE DOMINGOS BARRELIN - SP380588",
+            "DEFENSORIA PÚBLICA DO DISTRITO FEDERAL"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "CARLOS EDUARDO VIEIRA DA SILVA",
+              "partes": "GRUPO DE ATUAÇÃO ESTRATÉGICA DAS DEFENSORIAS PÚBLICAS ESTADUAIS E DISTRITAL NOS TRIBUNAIS SUPERIORES"
+            },
+            {
+              "advogado": "CAMILLA GAMBARRA MOREIRA",
+              "partes": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+            }
+          ],
+          "matchedProcessIndex": 4,
+          "timestamp": "01:09:02",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=4142s"
+        },
+        {
+          "item": 9,
+          "num_registro": "202402346680",
+          "registro_formatado": "2024/0234668-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2174050",
+          "numero_formatado": "2174050",
+          "uf": "SP",
+          "processo": "REsp 2.174.050/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2174050 - SP (2024/0234668-0) - Tema Repetitivo n. 1324",
+          "tema_repetitivo": "Tema Repetitivo n. 1324",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Multas e demais Sanções",
+          "resultado_oficial": "CONHECEU DO RECURSO E LHE DEU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "WALDOMIRO JOAO DE JESUS LALLA"
+            }
+          ],
+          "advogados": [
+            "MARIA LALLA SANTOS - SP410900",
+            "DEFENSORIA PÚBLICA DO DISTRITO FEDERAL"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "CAMILLA GAMBARRA MOREIRA",
+              "partes": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+            }
+          ],
+          "matchedProcessIndex": 4,
+          "timestamp": "01:09:02",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=4142s"
+        },
+        {
+          "item": 10,
+          "num_registro": "202504869698",
+          "registro_formatado": "2025/0486969-8",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2249171",
+          "numero_formatado": "2249171",
+          "uf": "CE",
+          "processo": "REsp 2.249.171/CE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2249171 - CE (2025/0486969-8) - Tema Repetitivo n. 1433",
+          "tema_repetitivo": "Tema Repetitivo n. 1433",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FUNDAÇÃO NACIONAL DE SAÚDE"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "HUGO LOPES GALVAO"
+            }
+          ],
+          "advogados": [
+            "JOSE ULISSES DE LIMA JUNIOR - PE029475",
+            "SERGIO LUDMER - AL008910A",
+            "GISELE LAVALHOS SAVOLDI - DF020187",
+            "GLENIO LUIS OHLWEILER FERREIRA - RS023021"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "CLAUDIO SANTOS DA SILVA",
+              "partes": "FED NAC SIND TRAB SAUDE TRAB E PREVIDENCIA SOCIAL"
+            },
+            {
+              "advogado": "SERGIO LUDMER",
+              "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+            },
+            {
+              "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+              "partes": "FUNDAÇÃO NACIONAL DE SAÚDE"
+            },
+            {
+              "advogado": "CLAUDIO SANTOS DA SILVA",
+              "partes": "FED NAC SIND TRAB SAUDE TRAB E PREVIDENCIA SOCIAL"
+            }
+          ],
+          "matchedProcessIndex": 5,
+          "timestamp": "01:26:35",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=5195s"
+        },
+        {
+          "item": 11,
+          "num_registro": "202505058167",
+          "registro_formatado": "2025/0505816-7",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2251538",
+          "numero_formatado": "2251538",
+          "uf": "PE",
+          "processo": "REsp 2.251.538/PE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2251538 - PE (2025/0505816-7) - Tema Repetitivo n. 1433",
+          "tema_repetitivo": "Tema Repetitivo n. 1433",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "SIND DOS TRAB EM EMPRESAS FERROVIARIAS DO NORDESTE"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "ROBEVANIA NUNES CORDEIRO"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "ALDENIRA MARIANA DE LIMA"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "CELIA MARIA GOMES DE MELO"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "EDIVA MARIA DE AGUIAR"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "EUNICE LOPES GONZAGA"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "JULIA EMILIA DE ALMEIDA"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "MARIA JOSE FAUSTINO DA SILVA"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "MARIA JOSE MAGERO DOS SANTOS"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "MARIA TEREZA CLAUDINO DA SILVA"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "MARIA CRISTINA PIMENTA DA FRANCA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "UNIÃO"
+            }
+          ],
+          "advogados": [
+            "JOAQUIM PEDRO CARNEIRO CAMPELLO FILHO - PE036681",
+            "GISELE LAVALHOS SAVOLDI - DF020187",
+            "SERGIO LUDMER - AL008910A"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "THAIS FERREIRA DE ALMEIDA",
+              "partes": "UNIÃO"
+            },
+            {
+              "advogado": "JEAN PAULO RUZZARIN",
+              "partes": "SIND DOS TRAB EM EMPRESAS FERROVIARIAS DO NORDESTE"
+            },
+            {
+              "advogado": "SERGIO LUDMER",
+              "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+            }
+          ],
+          "matchedProcessIndex": 5,
+          "timestamp": "01:26:35",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=5195s"
+        },
+        {
+          "item": 12,
+          "num_registro": "202504994660",
+          "registro_formatado": "2025/0499466-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2250737",
+          "numero_formatado": "2250737",
+          "uf": "PE",
+          "processo": "REsp 2.250.737/PE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2250737 - PE (2025/0499466-0) - Tema Repetitivo n. 1433",
+          "tema_repetitivo": "Tema Repetitivo n. 1433",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "MARIA JUCINEIDE VIEIRA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+            }
+          ],
+          "advogados": [
+            "RAFAEL NEVES REGO - PE032053",
+            "SERGIO LUDMER - AL008910A",
+            "GISELE LAVALHOS SAVOLDI - DF020187"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FERNANDO PEREIRA ABREU",
+              "partes": "SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL"
+            },
+            {
+              "advogado": "SERGIO LUDMER",
+              "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+            },
+            {
+              "advogado": "RAFAEL NEVES REGO",
+              "partes": "MARIA JUCINEIDE VIEIRA"
+            },
+            {
+              "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+              "partes": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+            }
+          ],
+          "matchedProcessIndex": 5,
+          "timestamp": "01:26:35",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=5195s"
+        },
+        {
+          "item": 13,
+          "num_registro": "202502362585",
+          "registro_formatado": "2025/0236258-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2234888",
+          "numero_formatado": "2234888",
+          "uf": "MS",
+          "processo": "REsp 2.234.888/MS",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2234888 - MS (2025/0236258-5) - Tema Repetitivo n. 1433",
+          "tema_repetitivo": "Tema Repetitivo n. 1433",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "BERNADETE DE SOUZA FILHA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MARIA DE SOUZA FILHA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JUAREZ DE SOUZA FILHO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "CICERA DE SOUZA FILHA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JOSE DE SOUZA FILHO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JOSE FERNANDO FILHO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "EDSON JOHNY SILVA DE SOUZA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "EULINA DANYELY SILVA DE SOUZA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JOAO BOSCO DE SOUZA FILHO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "VITALINA DE SOUZA BEZERRA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "CICERO DE SOUZA FILHO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MARIA DAYANE DE SOUZA NEPOMUCENO - ESPÓLIO"
+            }
+          ],
+          "advogados": [
+            "DIEGO MORAES BRAGA - ES025493",
+            "GISELE LAVALHOS SAVOLDI - DF020187",
+            "SERGIO LUDMER - DF066509"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FERNANDO PEREIRA ABREU",
+              "partes": "SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL"
+            },
+            {
+              "advogado": "SERGIO LUDMER",
+              "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+            },
+            {
+              "advogado": "EDUARDO COSTA NASSUR",
+              "partes": "CICERA DE SOUZA FILHA; BERNADETE DE SOUZA FILHA; JOSE FERNANDO FILHO; MARIA DAYANE DE SOUZA NEPOMUCENO; JOAO BOSCO DE SOUZA FILHO; EDSON JOHNY SILVA DE SOUZA; MARIA DE SOUZA FILHA; JOSE DE SOUZA FILHO; EULINA DANYELY SILVA DE SOUZA; JUAREZ DE SOUZA FILHO; VITALINA DE SOUZA BEZERRA; CICERO DE SOUZA FILHO"
+            },
+            {
+              "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+              "partes": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT"
+            }
+          ],
+          "matchedProcessIndex": 5,
+          "timestamp": "01:26:35",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=5195s"
+        },
+        {
+          "item": 14,
+          "num_registro": "202302282525",
+          "registro_formatado": "2023/0228252-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2213084",
+          "numero_formatado": "2213084",
+          "uf": "RJ",
+          "processo": "REsp 2.213.084/RJ",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2213084 - RJ (2023/0228252-5) - Tema Repetitivo n. 1386",
+          "tema_repetitivo": "Tema Repetitivo n. 1386",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Concessão",
+          "resultado_oficial": "DEU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "ANA LUCIA VELLOSO BRASIL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "LUCIA MARIA VELLOSO BRASIL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "ESTADO DO RIO DE JANEIRO"
+            }
+          ],
+          "advogados": [
+            "MARCO TAYAH - RJ011951",
+            "DUVAL VIANNA - RJ020526",
+            "JORGE CELSO FLEMING DE ALMEIDA FILHO - RJ164736",
+            "JANE LÚCIA WILHELM BERWANGER - RS046917",
+            "DEFENSORIA PÚBLICA DA UNIÃO"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "AUGUSTO CÉSAR ALMEIDA DA SILVA",
+              "partes": "INSTITUTO BRASILEIRO DE DIREITO PREVIDENCIÁRIO IBDP"
+            },
+            {
+              "advogado": "JULIANA FLORENTINO DE MOURA",
+              "partes": "ESTADO DO RIO DE JANEIRO"
+            }
+          ],
+          "matchedProcessIndex": 6,
+          "timestamp": "02:32:55",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=9175s"
+        },
+        {
+          "item": 15,
+          "num_registro": "202301275172",
+          "registro_formatado": "2023/0127517-2",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2227232",
+          "numero_formatado": "2227232",
+          "uf": "RS",
+          "processo": "REsp 2.227.232/RS",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2227232 - RS (2023/0127517-2) - Tema Repetitivo n. 1386",
+          "tema_repetitivo": "Tema Repetitivo n. 1386",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Concessão",
+          "resultado_oficial": "DEU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "CRISLAINE RODRIGUES SILVEIRA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "DEPARTAMENTO MUNICIPAL DE PREVIDÊNCIA DOS"
+            }
+          ],
+          "advogados": [
+            "MARIANA DUTRA E SILVA - RS079593",
+            "LUIG ALMEIDA MOTA - RS120965B",
+            "JANE LÚCIA WILHELM BERWANGER - RS046917",
+            "DEFENSORIA PÚBLICA DA UNIÃO"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "AUGUSTO CÉSAR ALMEIDA DA SILVA",
+              "partes": "INSTITUTO BRASILEIRO DE DIREITO PREVIDENCIÁRIO IBDP"
+            },
+            {
+              "advogado": "MARIANA DUTRA E SILVA",
+              "partes": "CRISLAINE RODRIGUES SILVEIRA"
+            }
+          ],
+          "matchedProcessIndex": 6,
+          "timestamp": "02:32:55",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=9175s"
+        },
+        {
+          "item": 16,
+          "num_registro": "202402119085",
+          "registro_formatado": "2024/0211908-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2150097",
+          "numero_formatado": "2150097",
+          "uf": "CE",
+          "processo": "REsp 2.150.097/CE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2150097 - CE (2024/0211908-5) - Tema Repetitivo n. 1364",
+          "tema_repetitivo": "Tema Repetitivo n. 1364",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Não Cumulatividade",
+          "resultado_oficial": "CONHECEU DO RECURSO MAS LHE NEGOU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "CIL - COMERCIO DE INFORMATICA LTDA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "HUGO MACHADO GUEDES ALCOFORADO - PE033402"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "RAFAELA MATEUS DUARTE",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": 7,
+          "timestamp": "02:52:48",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=10368s"
+        },
+        {
+          "item": 17,
+          "num_registro": "202402164930",
+          "registro_formatado": "2024/0216493-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2150848",
+          "numero_formatado": "2150848",
+          "uf": "RS",
+          "processo": "REsp 2.150.848/RS",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2150848 - RS (2024/0216493-0) - Tema Repetitivo n. 1364",
+          "tema_repetitivo": "Tema Repetitivo n. 1364",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "PIS",
+          "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "DL TRANSPORTES E LOGISTICA NACIONAL E INTERNACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "CARLOS ALBERTO BRUSTOLIN - SC019433"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "MARCEL VIESA PEREIRA DA COSTA",
+              "partes": "DL TRANSPORTES E LOGISTICA NACIONAL E INTERNACIONAL LTDA"
+            },
+            {
+              "advogado": "RAFAELA MATEUS DUARTE",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": 7,
+          "timestamp": "02:52:48",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=10368s"
+        },
+        {
+          "item": 18,
+          "num_registro": "202402168426",
+          "registro_formatado": "2024/0216842-6",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2150894",
+          "numero_formatado": "2150894",
+          "uf": "SC",
+          "processo": "REsp 2.150.894/SC",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2150894 - SC (2024/0216842-6) - Tema Repetitivo n. 1364",
+          "tema_repetitivo": "Tema Repetitivo n. 1364",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Cofins",
+          "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "AROMITALIA DO BRASIL LTDA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "FERNANDO EDUARDO SEREC - SP086352"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "BRUNO RODRIGUES TEIXEIRA DE LIMA",
+              "partes": "AROMITALIA DO BRASIL LTDA"
+            },
+            {
+              "advogado": "ARIANE COSTA GUIMARAES",
+              "partes": "FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DO PARANÁ"
+            },
+            {
+              "advogado": "RAFAELA MATEUS DUARTE",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": 7,
+          "timestamp": "02:52:48",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=10368s"
+        },
+        {
+          "item": 19,
+          "num_registro": "202402186562",
+          "registro_formatado": "2024/0218656-2",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2151146",
+          "numero_formatado": "2151146",
+          "uf": "RS",
+          "processo": "REsp 2.151.146/RS",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2151146 - RS (2024/0218656-2) - Tema Repetitivo n. 1364",
+          "tema_repetitivo": "Tema Repetitivo n. 1364",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Cofins",
+          "resultado_oficial": "NEGOU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "ANDERLE-TRANSPORTES LTDA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "MARCELO AUGUSTO SELLA - PR038404"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "RAFAELA MATEUS DUARTE",
+              "partes": "FAZENDA NACIONAL"
+            },
+            {
+              "advogado": "MARCELO TONETTE JUNIOR",
+              "partes": "ANDERLE-TRANSPORTES LTDA"
+            }
+          ],
+          "matchedProcessIndex": 7,
+          "timestamp": "02:52:48",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=10368s"
+        },
+        {
+          "item": 20,
+          "num_registro": "202504030197",
+          "registro_formatado": "2025/0403019-7",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2239244",
+          "numero_formatado": "2239244",
+          "uf": "CE",
+          "processo": "REsp 2.239.244/CE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2239244 - CE (2025/0403019-7) - Tema Repetitivo n. 1454",
+          "tema_repetitivo": "Tema Repetitivo n. 1454",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Profissional",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR"
+            }
+          ],
+          "advogados": [
+            "FLAVIA MARIA DE PAULA MENESCAL - CE006143"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "GABRIEL DE MELLO GALVAO",
+              "partes": "AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR"
+            }
+          ],
+          "matchedProcessIndex": 8,
+          "timestamp": "03:27:23",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=12443s"
+        },
+        {
+          "item": 21,
+          "num_registro": "202504030250",
+          "registro_formatado": "2025/0403025-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2239250",
+          "numero_formatado": "2239250",
+          "uf": "SE",
+          "processo": "REsp 2.239.250/SE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2239250 - SE (2025/0403025-0) - Tema Repetitivo n. 1454",
+          "tema_repetitivo": "Tema Repetitivo n. 1454",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Repetição de indébito",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "SOCIEDADE DE EDUCACAO TIRADENTES S.A"
+            }
+          ],
+          "advogados": [
+            "PAMELA ALINE LIMA SANTANA - SE008633"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "SARA MENDES CARCARA",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": 8,
+          "timestamp": "03:27:23",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=12443s"
+        },
+        {
+          "item": 22,
+          "num_registro": "201901043400",
+          "registro_formatado": "2019/0104340-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "1809093",
+          "numero_formatado": "1809093",
+          "uf": "CE",
+          "processo": "REsp 1.809.093/CE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 1809093 - CE (2019/0104340-0) - Tema Repetitivo n. 1432",
+          "tema_repetitivo": "Tema Repetitivo n. 1432",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+          "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "DIOCESE DE TIANGUA"
+            }
+          ],
+          "advogados": [
+            "OLINTHO FRANKLIN GADELHA - CE008956",
+            "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+              "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+            }
+          ],
+          "matchedProcessIndex": 9,
+          "timestamp": "03:47:23",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=13643s"
+        },
+        {
+          "item": 23,
+          "num_registro": "201901369387",
+          "registro_formatado": "2019/0136938-7",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "1814350",
+          "numero_formatado": "1814350",
+          "uf": "SE",
+          "processo": "REsp 1.814.350/SE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 1814350 - SE (2019/0136938-7) - Tema Repetitivo n. 1432",
+          "tema_repetitivo": "Tema Repetitivo n. 1432",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+          "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "JORGE GOMES DA SILVA"
+            }
+          ],
+          "advogados": [
+            "ANGELO MELO DE SOUZA - SE006265",
+            "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+              "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+            }
+          ],
+          "matchedProcessIndex": 9,
+          "timestamp": "03:47:23",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=13643s"
+        },
+        {
+          "item": 24,
+          "num_registro": "202102335482",
+          "registro_formatado": "2021/0233548-2",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "1950981",
+          "numero_formatado": "1950981",
+          "uf": "PE",
+          "processo": "REsp 1.950.981/PE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 1950981 - PE (2021/0233548-2) - Tema Repetitivo n. 1432",
+          "tema_repetitivo": "Tema Repetitivo n. 1432",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+          "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "GREGORIO FERREIRA GUARDIAO - ESPÓLIO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "BANCO DO NORDESTE DO BRASIL SA"
+            }
+          ],
+          "advogados": [
+            "MARCUS ANDRE ALMEIDA LINS - PE016844",
+            "AILMA DIAS DE HOLANDA - PE014585",
+            "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+              "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+            }
+          ],
+          "matchedProcessIndex": 9,
+          "timestamp": "03:47:23",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=13643s"
+        },
+        {
+          "item": 25,
+          "num_registro": "202201500950",
+          "registro_formatado": "2022/0150095-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2004109",
+          "numero_formatado": "2004109",
+          "uf": "SE",
+          "processo": "REsp 2.004.109/SE",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2004109 - SE (2022/0150095-0) - Tema Repetitivo n. 1432",
+          "tema_repetitivo": "Tema Repetitivo n. 1432",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Repetitivos",
+          "ind_categoria": "RP",
+          "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+          "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "DEJANIRA VIEIRA DE SOUZA"
+            }
+          ],
+          "advogados": [
+            "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M",
+            "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+              "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+            }
+          ],
+          "matchedProcessIndex": 9,
+          "timestamp": "03:47:23",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=13643s"
+        },
+        {
+          "item": 26,
+          "num_registro": "202203221614",
+          "registro_formatado": "2022/0322161-4",
+          "sg_classe": "EDcl no REsp",
+          "classe_completa": "EDcl no REsp",
+          "num_proc_classe": "2032021",
+          "numero_formatado": "2032021",
+          "uf": "RS",
+          "processo": "EDcl no REsp 2.032.021/RS",
+          "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2032021 - RS (2022/0322161-4) - Tema Repetitivo n. 1251",
+          "tema_repetitivo": "Tema Repetitivo n. 1251",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Preferências de Julgamento",
+          "ind_categoria": "PJ",
+          "assunto": "Anistia Política",
+          "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Embargante",
+              "nome": "UNIÃO"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "WILSON DE MENEZES DIAS - SUCESSÃO"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "ELIANA DO CANTO DIAS - HERDEIRO"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "MARCELO PACIFICO DO CANTO DIAS - HERDEIRO"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "MARCOS CARMAIA DO CANTO DIAS - HERDEIRO"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "WILSON BELCHIOR DO CANTO DIAS - HERDEIRO"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "ELAINE DO CANTO DIAS - HERDEIRO"
+            }
+          ],
+          "advogados": [
+            "JOSE VECCHIO FILHO - RS031437",
+            "RAMIRO NODARI GOULART - RS083812"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 11,
+          "timestamp": "04:44:40",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=17080s"
+        },
+        {
+          "item": 27,
+          "num_registro": "202203142873",
+          "registro_formatado": "2022/0314287-3",
+          "sg_classe": "EDcl no REsp",
+          "classe_completa": "EDcl no REsp",
+          "num_proc_classe": "2031813",
+          "numero_formatado": "2031813",
+          "uf": "SC",
+          "processo": "EDcl no REsp 2.031.813/SC",
+          "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2031813 - SC (2022/0314287-3) - Tema Repetitivo n. 1251",
+          "tema_repetitivo": "Tema Repetitivo n. 1251",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Preferências de Julgamento",
+          "ind_categoria": "PJ",
+          "assunto": "Anistia Política",
+          "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Embargante",
+              "nome": "UNIÃO"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "ROQUE FELIPPE"
+            }
+          ],
+          "advogados": [
+            "MARCELO PEREIRA PIAZZA - SC007260"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 11,
+          "timestamp": "04:44:40",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=17080s"
+        },
+        {
+          "item": 28,
+          "num_registro": "202401827845",
+          "registro_formatado": "2024/0182784-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2170092",
+          "numero_formatado": "2170092",
+          "uf": "SP",
+          "processo": "REsp 2.170.092/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2170092 - SP (2024/0182784-5) - Tema Repetitivo n. 1275",
+          "tema_repetitivo": "Tema Repetitivo n. 1275",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "Min. Paulo Sérgio Domingues",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Indenização Trabalhista",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "SERVIÇO SOCIAL DA INDÚSTRIA - SESI"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "BIMEDA BRASIL S.A."
+            }
+          ],
+          "advogados": [
+            "CÁSSIO ROBERTO SIQUEIRA DOS SANTOS - SP225408",
+            "MARCELINO ALVES DE ALCÂNTARA - SP237360",
+            "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+            "LARISSA MOREIRA COSTA - DF016745"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 29,
+          "num_registro": "202402068289",
+          "registro_formatado": "2024/0206828-9",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2170082",
+          "numero_formatado": "2170082",
+          "uf": "SP",
+          "processo": "REsp 2.170.082/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2170082 - SP (2024/0206828-9) - Tema Repetitivo n. 1275",
+          "tema_repetitivo": "Tema Repetitivo n. 1275",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "Min. Paulo Sérgio Domingues",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "SERVICO SOCIAL DA INDUSTRIA - SESI"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "GRANERO LIMPADORES DE PARABRISAS LTDA"
+            }
+          ],
+          "advogados": [
+            "CÁSSIO ROBERTO SIQUEIRA DOS SANTOS - SP225408",
+            "LUIZ APARECIDO FERREIRA - SP095654",
+            "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+            "LARISSA MOREIRA COSTA - DF016745"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 30,
+          "num_registro": "202203360522",
+          "registro_formatado": "2022/0336052-2",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2034824",
+          "numero_formatado": "2034824",
+          "uf": "RJ",
+          "processo": "REsp 2.034.824/RJ",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2034824 - RJ (2022/0336052-2) - Tema Repetitivo n. 1275",
+          "tema_repetitivo": "Tema Repetitivo n. 1275",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "Min. Paulo Sérgio Domingues",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "W ENGENHARIA LTDA."
+            }
+          ],
+          "advogados": [
+            "FERNANDO SUCUPIRA MORENO - DF022425",
+            "LUIZ HENRIQUE CASTRO DA FONSECA ZAIDAN - RJ137224",
+            "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+            "LARISSA MOREIRA COSTA - DF016745"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 1,
+          "timestamp": "00:21:32",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=1292s"
+        },
+        {
+          "item": 31,
+          "num_registro": "202401989182",
+          "registro_formatado": "2024/0198918-2",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2148056",
+          "numero_formatado": "2148056",
+          "uf": "SP",
+          "processo": "REsp 2.148.056/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2148056 - SP (2024/0198918-2) - Tema Repetitivo n. 1397",
+          "tema_repetitivo": "Tema Repetitivo n. 1397",
+          "relator": "Min. Teodoro Silva Santos",
+          "vistor": "Min. Sérgio Kukina",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Violação dos Princípios Administrativos",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "JOAO PAULO DE LIMA ROLIM"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "CARINA VEIGA SILVA"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "EDIVALDO NERES DE MEIRA"
+            },
+            {
+              "papel": "Recorrente",
+              "nome": "MARCOS NICOLAU IZZO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO"
+            }
+          ],
+          "advogados": [
+            "FERNANDA BARRETTO MIRANDA DAOLIO - SP198176",
+            "MARIA DAS GRAÇAS SILVA SIQUEIRA - SP098830",
+            "CARINA VEIGA SILVA (EM CAUSA PRÓPRIA) - SP195967"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 32,
+          "num_registro": "201900207413",
+          "registro_formatado": "2019/0020741-3",
+          "sg_classe": "EREsp",
+          "classe_completa": "EREsp",
+          "num_proc_classe": "1793915",
+          "numero_formatado": "1793915",
+          "uf": "RJ",
+          "processo": "EREsp 1.793.915/RJ",
+          "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1793915 - RJ (2019/0020741-3) - Tema Repetitivo n. 1275",
+          "tema_repetitivo": "Tema Repetitivo n. 1275",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "Min. Paulo Sérgio Domingues",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Embargante",
+              "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "KRISTYLUX INDUSTRIA E COMERCIO DE ROUPAS LTDA"
+            }
+          ],
+          "advogados": [
+            "MÁRCIO BRUNO SOUSA ELIAS - DF012533",
+            "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M",
+            "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+            "LARISSA MOREIRA COSTA - DF016745"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 1,
+          "timestamp": "00:21:32",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=1292s"
+        },
+        {
+          "item": 33,
+          "num_registro": "202102789285",
+          "registro_formatado": "2021/0278928-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "1957818",
+          "numero_formatado": "1957818",
+          "uf": "SP",
+          "processo": "REsp 1.957.818/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 1957818 - SP (2021/0278928-5) - Tema IAC n. 21",
+          "tema_repetitivo": "Tema IAC n. 21",
+          "relator": "Min. Afrânio Vilela",
+          "vistor": "",
+          "ministro_sessao": "Min. Afrânio Vilela",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Fornecimento de Gás",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "AGENCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "PETRÓLEO BRASILEIRO S A PETROBRAS"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "PETRA ENERGIA S/A"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "BAYAR EMPREENDIMENTOS E PARTICIPACOES LTDA."
+            }
+          ],
+          "advogados": [
+            "RAFAEL DE MATOS GOMES DA SILVA - DF021428",
+            "PEDRO PAULO BARROS DE MAGALHAES - RJ087384",
+            "CESAR AUGUSTO DE ARRUDA MENDES JUNIOR - SP149876",
+            "GALILEU MARINHO DAS CHAGAS - SP098941",
+            "EURICO ROSAN FELICIO - SP269516",
+            "MARCOS ANTONIO DO AMARAL - SP145984",
+            "FLAVIO JOSE DI STEFANO FILHO - SP159304",
+            "MÁRCIO TERUO MATSUMOTO - SP133431",
+            "CLAUDIO JUSTINIANO DE ANDRADE - SP121387",
+            "ANTÔNIO ROMUALDO DOS SANTOS FILHO - SP024373",
+            "RAFAEL ECHEVERRIA LOPES - SP321174",
+            "DEFENSORIA PÚBLICA DA UNIÃO",
+            "JANAINA SANTOS CASTRO - DF046175",
+            "BIANCA DE FIGUEIREDO MELO VILLAS BÔAS - SP525488",
+            "JOSENI MELO DE ALMEIDA - PE011916",
+            "DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO",
+            "CARLOS MARIO DA SILVA VELLOSO FILHO - DF006534",
+            "LUIZ ALBERTO BETTIOL - DF006157"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 1,
+          "timestamp": "00:21:32",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=1292s"
+        },
+        {
+          "item": 34,
+          "num_registro": "202401918397",
+          "registro_formatado": "2024/0191839-7",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2146834",
+          "numero_formatado": "2146834",
+          "uf": "AP",
+          "processo": "REsp 2.146.834/AP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2146834 - AP (2024/0191839-7) - Tema Repetitivo n. 1302",
+          "tema_repetitivo": "Tema Repetitivo n. 1302",
+          "relator": "Min. Teodoro Silva Santos",
+          "vistor": "Min. Paulo Sérgio Domingues",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Organização Sindical",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FRANCISCO DE ASSIS OLIVEIRA DE SOUSA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "ESTADO DO AMAPÁ"
+            }
+          ],
+          "advogados": [
+            "CÉSAR FARIAS DA ROSA - AP001462A",
+            "FABRICIO CORREIA DE AQUINO - DF018486",
+            "GLENIO LUIS OHLWEILER FERREIRA - RS023021",
+            "RAIMUNDO CEZAR BRITTO ARAGAO - DF032147",
+            "JOSÉ LUIS WAGNER - DF017183",
+            "FERNANDO HUGO RABELLO MIRANDA - DF019246",
+            "DANIEL BRAGA ALBUQUERQUE - CE028282",
+            "GISELE LAVALHOS SAVOLDI - DF020187",
+            "CASSIO SCARPINELLA BUENO - SP128328"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 1,
+          "timestamp": "00:21:32",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=1292s"
+        },
+        {
+          "item": 35,
+          "num_registro": "202401918462",
+          "registro_formatado": "2024/0191846-2",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2146839",
+          "numero_formatado": "2146839",
+          "uf": "AP",
+          "processo": "REsp 2.146.839/AP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2146839 - AP (2024/0191846-2) - Tema Repetitivo n. 1302",
+          "tema_repetitivo": "Tema Repetitivo n. 1302",
+          "relator": "Min. Teodoro Silva Santos",
+          "vistor": "Min. Paulo Sérgio Domingues",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Organização Sindical",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "RENATO TAVARES RANGEL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "ESTADO DO AMAPÁ"
+            }
+          ],
+          "advogados": [
+            "CÉSAR FARIAS DA ROSA - AP001462A",
+            "JOSÉ LUIS WAGNER - DF017183",
+            "RAIMUNDO CEZAR BRITTO ARAGAO - DF032147",
+            "FABRICIO CORREIA DE AQUINO - DF018486",
+            "CASSIO SCARPINELLA BUENO - SP128328",
+            "FERNANDO HUGO RABELLO MIRANDA - DF019246",
+            "GISELE LAVALHOS SAVOLDI - DF020187"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 36,
+          "num_registro": "202503616574",
+          "registro_formatado": "2025/0361657-4",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2238885",
+          "numero_formatado": "2238885",
+          "uf": "SP",
+          "processo": "REsp 2.238.885/SP",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2238885 - SP (2025/0361657-4) - Tema Repetitivo n. 1415",
+          "tema_repetitivo": "Tema Repetitivo n. 1415",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "CGI - TRANSMISSORA CAMPINA GRANDE IGARACU S.A."
+            }
+          ],
+          "advogados": [
+            "RICARDO FERREIRA BOLAN - SP164881"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 10,
+          "timestamp": "04:43:59",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=17039s"
+        },
+        {
+          "item": 37,
+          "num_registro": "202201113616",
+          "registro_formatado": "2022/0111361-6",
+          "sg_classe": "EREsp",
+          "classe_completa": "EREsp",
+          "num_proc_classe": "1997816",
+          "numero_formatado": "1997816",
+          "uf": "RJ",
+          "processo": "EREsp 1.997.816/RJ",
+          "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1997816 - RJ (2022/0111361-6) - Tema Repetitivo n. 1275",
+          "tema_repetitivo": "Tema Repetitivo n. 1275",
+          "relator": "Min. Marco Aurélio Bellizze",
+          "vistor": "Min. Paulo Sérgio Domingues",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Dívida Ativa (Execução Fiscal)",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Embargante",
+              "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "EMISSAO S/A"
+            }
+          ],
+          "advogados": [
+            "FERNANDO SUCUPIRA MORENO - DF022425",
+            "ELTON LUIZ ALVES DA SILVA - RJ109441",
+            "LARISSA MOREIRA COSTA - DF016745",
+            "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 38,
+          "num_registro": "202404654276",
+          "registro_formatado": "2024/0465427-6",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2186838",
+          "numero_formatado": "2186838",
+          "uf": "MG",
+          "processo": "REsp 2.186.838/MG",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2186838 - MG (2024/0465427-6) - Tema Repetitivo n. 1397",
+          "tema_repetitivo": "Tema Repetitivo n. 1397",
+          "relator": "Min. Teodoro Silva Santos",
+          "vistor": "Min. Sérgio Kukina",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "HELVECIO LUIZ REIS"
+            }
+          ],
+          "advogados": [
+            "VIVIANE MACEDO GARCIA - MG080902"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 1,
+          "timestamp": "00:21:32",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=1292s"
+        },
+        {
+          "item": 39,
+          "num_registro": "202503567244",
+          "registro_formatado": "2025/0356724-4",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2238889",
+          "numero_formatado": "2238889",
+          "uf": "DF",
+          "processo": "REsp 2.238.889/DF",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2238889 - DF (2025/0356724-4) - Tema Repetitivo n. 1415",
+          "tema_repetitivo": "Tema Repetitivo n. 1415",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MARIANA TRANSMISSORA DE ENERGIA ELETRICA S.A."
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MIRACEMA TRANSMISSORA DE ENERGIA ELETRICA S/A"
+            }
+          ],
+          "advogados": [
+            "MARCELO BAETA IPPOLITO - SP111361"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 10,
+          "timestamp": "04:43:59",
+          "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=17039s"
+        },
+        {
+          "item": 40,
+          "num_registro": "202403124532",
+          "registro_formatado": "2024/0312453-2",
+          "sg_classe": "REsp",
+          "classe_completa": "EDcl no REsp",
+          "num_proc_classe": "2166208",
+          "numero_formatado": "2166208",
+          "uf": "RS",
+          "processo": "EDcl no REsp 2.166.208/RS",
+          "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2166208 - RS (2024/0312453-2) - Tema Repetitivo n. 1307",
+          "tema_repetitivo": "Tema Repetitivo n. 1307",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Aposentadoria Especial (Art. 57/8)",
+          "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Embargante",
+              "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "NILTON BATISTA"
+            }
+          ],
+          "advogados": [
+            "MARCELO ADAIME DUARTE - RS062293",
+            "JANE LÚCIA WILHELM BERWANGER - RS046917",
+            "JOSE ENEAS KOVALCZUK FILHO - SC019657"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 41,
+          "num_registro": "202403104690",
+          "registro_formatado": "2024/0310469-0",
+          "sg_classe": "REsp",
+          "classe_completa": "EDcl no REsp",
+          "num_proc_classe": "2164724",
+          "numero_formatado": "2164724",
+          "uf": "RS",
+          "processo": "EDcl no REsp 2.164.724/RS",
+          "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2164724 - RS (2024/0310469-0) - Tema Repetitivo n. 1307",
+          "tema_repetitivo": "Tema Repetitivo n. 1307",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Aposentadoria Especial (Art. 57/8)",
+          "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Embargante",
+              "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+            },
+            {
+              "papel": "Embargado",
+              "nome": "JULIO DOS SANTOS MAYER"
+            }
+          ],
+          "advogados": [
+            "ADRIANE BRAMANTE DE CASTRO LADENTHIN - SP125436",
+            "JANE LÚCIA WILHELM BERWANGER - RS046917"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        }
+      ]
+    },
     "hermanHighlights": [
       {
-        "title": "Questão de Ordem no REsp 1.826.796 / Tema 1220/STJ",
+        "title": "Questão de Ordem no REsp 1.826.796/SC / Tema 1220/STJ",
         "text": "Solicitou esclarecimentos à Min. Maria Thereza de Assis Moura e ao Presidente Min. Gurgel de Faria acerca dos fundamentos para a manutenção da afetação do recurso repetitivo relativo à interrupção da prescrição pelo Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS (art. 202, VI, do Código Civil). Ponderou que, diferentemente da praxe recomendável de afetar três a cinco processos representativos para prevenir óbices de admissibilidade ou dúvidas documentais, apenas um recurso especial havia sido afetado ao Tema 1220/STJ, e propôs solução intermediária ao Relator, Min. Teodoro Silva Santos, consistente em manter a relatoria e agregar outros recursos especiais livres de óbices. Esclarecido pelo Presidente e pela Min. Maria Thereza de Assis Moura que o processo provinha de Incidente de Resolução de Demandas Repetitivas (IRDR) com transcrição integral do memorando no acórdão recorrido, o Min. Herman Benjamin registrou que, fiel à sua diretriz na Corte Especial de não divergir do relator que propõe a desafetação de repetitivo, acompanhava o Relator pelo acolhimento da questão de ordem e desafetação do tema.",
         "timestamp": "00:31:49",
         "seconds": 1909,
@@ -187,8 +2313,8 @@ const resumosData = [
         "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs"
       },
       {
-        "title": "Questão de Ordem no REsp 1.826.796 (Tema 1220/STJ) — Desafetação de Repetitivo por Maioria",
-        "text": "Por maioria (5 votos a 3, vencidos a Min. Maria Thereza de Assis Moura, o Min. Marco Aurélio Bellizze e o Min. Sérgio Kukina, com abstenção do Presidente Min. Gurgel de Faria pelo princípio da simetria), a Seção acolheu questão de ordem proposta pelo Relator, Min. Teodoro Silva Santos, para desafetar o REsp 1.826.796 e cancelar o Tema 1220/STJ diante de óbices processuais ao conhecimento do recurso.",
+        "title": "Questão de Ordem no REsp 1.826.796/SC (Tema 1220/STJ) — Desafetação de Repetitivo por Maioria",
+        "text": "Por maioria (5 votos a 3, vencidos a Min. Maria Thereza de Assis Moura, o Min. Marco Aurélio Bellizze e o Min. Sérgio Kukina, com abstenção do Presidente Min. Gurgel de Faria pelo princípio da simetria), a Seção acolheu questão de ordem proposta pelo Relator, Min. Teodoro Silva Santos, para desafetar o REsp 1.826.796/SC e cancelar o Tema 1220/STJ diante de óbices processuais ao conhecimento do recurso.",
         "timestamp": "",
         "seconds": 0,
         "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs"
@@ -197,8 +2323,8 @@ const resumosData = [
     "processes": [
       {
         "index": 1,
-        "heading": "REsp 2.053.569, REsp 2.146.834, REsp 2.134.824, EREsp 1.793.915, REsp 2.186.838 e REsp 1.957.818/SP - Adiamentos anunciados na abertura (Temas 1244, 1302, 1275 e 1397/STJ e IAC 21/STJ) e aprovação de bloco",
-        "processNumber": "REsp 2.053.569, REsp 2.146.834, REsp 2.134.824, EREsp 1.793.915, REsp 2.186.838 e REsp 1.957.818/SP",
+        "heading": "REsp 2.053.569/AM, REsp 2.146.834/AP, REsp 2.034.824/RJ, EREsp 1.793.915/RJ, REsp 2.186.838/MG e REsp 1.957.818/SP - Adiamentos anunciados na abertura (Temas 1244, 1302, 1275 e 1397/STJ e IAC 21/STJ) e aprovação de bloco",
+        "processNumber": "REsp 2.053.569/AM, REsp 2.146.834/AP, REsp 2.034.824/RJ, EREsp 1.793.915/RJ, REsp 2.186.838/MG e REsp 1.957.818/SP",
         "theme": "Adiamentos anunciados na abertura (Temas 1244, 1302, 1275 e 1397/STJ e IAC 21/STJ) e aprovação de bloco",
         "timestamp": "00:21:32",
         "seconds": 1292,
@@ -229,12 +2355,147 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Adiamento de julgamento dos processos constantes da relação anunciada na abertura da sessão e aprovação à unanimidade dos dois feitos integrantes da lista em bloco sem destaques.",
         "teseType": "proposta",
-        "resumoDiscussao": "Na abertura dos trabalhos, foram anunciados os adiamentos do Tema 1244/STJ (REsp 2.053.569, REsp 2.053.647 e REsp 2.046.893, de relatoria do Min. Marco Aurélio Bellizze), dos votos-vista do Min. Paulo Sérgio Domingues no Tema 1302/STJ (REsp 2.146.834 e REsp 2.146.839), no Tema 1275/STJ (REsp 2.134.824, REsp 2.170.082 e REsp 2.170.092) e nos EREsp 1.793.915 e EREsp 1.997.816, dos votos-vista do Min. Sérgio Kukina no Tema 1397/STJ (REsp 2.186.838 e REsp 2.148.056) e da vista regimental do Min. Afrânio Vilela no IAC 21/STJ (REsp 1.957.818/SP). Na sequência, às 00:24:27, o Presidente Min. Gurgel de Faria submeteu ao colegiado os dois processos constantes do bloco sem destaques, que foram aprovados à unanimidade, seguindo-se homenagem institucional pelo aniversário da Min. Maria Thereza de Assis Moura."
+        "resumoDiscussao": "Na abertura dos trabalhos, foram anunciados os adiamentos do Tema 1244/STJ (REsp 2.053.569/AM, REsp 2.053.647/AM e REsp 2.046.893/AM, de relatoria do Min. Marco Aurélio Bellizze), dos votos-vista do Min. Paulo Sérgio Domingues no Tema 1302/STJ (REsp 2.146.834/AP e REsp 2.146.839/AP), no Tema 1275/STJ (REsp 2.034.824/RJ, REsp 2.170.082/SP e REsp 2.170.092/SP) e nos EREsp 1.793.915/RJ e EREsp 1.997.816/RJ, dos votos-vista do Min. Sérgio Kukina no Tema 1397/STJ (REsp 2.186.838/MG e REsp 2.148.056/SP) e da vista regimental do Min. Afrânio Vilela no IAC 21/STJ (REsp 1.957.818/SP). Na sequência, às 00:24:27, o Presidente Min. Gurgel de Faria submeteu ao colegiado os dois processos constantes do bloco sem destaques (Itens 40 e 41 da pauta — EDcl no REsp 2.166.208/RS e EDcl no REsp 2.164.724/RS, Tema 1307/STJ), que foram aprovados à unanimidade, seguindo-se homenagem institucional pelo aniversário da Min. Maria Thereza de Assis Moura.",
+        "pautaItems": [
+          {
+            "item": 2,
+            "processo": "REsp 2.053.569/AM",
+            "categoria": "Repetitivos",
+            "assunto": "COFINS - Importação",
+            "temaRepetitivo": "Tema Repetitivo n. 1244",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FAZENDA NACIONAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "ALMI SANTOS DE MEDEIROS - EMPRESA DE PEQUENO PORTE"
+              }
+            ]
+          },
+          {
+            "item": 30,
+            "processo": "REsp 2.034.824/RJ",
+            "categoria": "Votos-Vista",
+            "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+            "temaRepetitivo": "Tema Repetitivo n. 1275",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "W ENGENHARIA LTDA."
+              }
+            ]
+          },
+          {
+            "item": 32,
+            "processo": "EREsp 1.793.915/RJ",
+            "categoria": "Votos-Vista",
+            "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+            "temaRepetitivo": "Tema Repetitivo n. 1275",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Embargante",
+                "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "KRISTYLUX INDUSTRIA E COMERCIO DE ROUPAS LTDA"
+              }
+            ]
+          },
+          {
+            "item": 33,
+            "processo": "REsp 1.957.818/SP",
+            "categoria": "Votos-Vista",
+            "assunto": "Fornecimento de Gás",
+            "temaRepetitivo": "Tema IAC n. 21",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "AGENCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "PETRÓLEO BRASILEIRO S A PETROBRAS"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "PETRA ENERGIA S/A"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "BAYAR EMPREENDIMENTOS E PARTICIPACOES LTDA."
+              }
+            ]
+          },
+          {
+            "item": 34,
+            "processo": "REsp 2.146.834/AP",
+            "categoria": "Votos-Vista",
+            "assunto": "Organização Sindical",
+            "temaRepetitivo": "Tema Repetitivo n. 1302",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FRANCISCO DE ASSIS OLIVEIRA DE SOUSA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "ESTADO DO AMAPÁ"
+              }
+            ]
+          },
+          {
+            "item": 38,
+            "processo": "REsp 2.186.838/MG",
+            "categoria": "Votos-Vista",
+            "assunto": "Improbidade Administrativa",
+            "temaRepetitivo": "Tema Repetitivo n. 1397",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "HELVECIO LUIZ REIS"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "COFINS - Importação",
+        "temaRepetitivo": "Tema Repetitivo n. 1244",
+        "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "FAZENDA NACIONAL"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "ALMI SANTOS DE MEDEIROS - EMPRESA DE PEQUENO PORTE"
+          }
+        ]
       },
       {
         "index": 2,
-        "heading": "QO no REsp 1.826.796 (Tema 1220/STJ) - Desafetação de repetitivo sobre o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS como marco interruptivo da prescrição",
-        "processNumber": "QO no REsp 1.826.796 (Tema 1220/STJ)",
+        "heading": "QO no REsp 1.826.796/SC (Tema 1220/STJ) - Desafetação de repetitivo sobre o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS como marco interruptivo da prescrição",
+        "processNumber": "QO no REsp 1.826.796/SC (Tema 1220/STJ)",
         "theme": "Desafetação de repetitivo sobre o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS como marco interruptivo da prescrição",
         "timestamp": "00:26:29",
         "seconds": 1589,
@@ -265,7 +2526,40 @@ const resumosData = [
         "hermanManifestation": "Pediu esclarecimentos à Min. Maria Thereza de Assis Moura e ao Presidente Min. Gurgel de Faria sobre as razões contrárias à desafetação, ponderando que apenas um recurso especial fora afetado ao Tema 1220/STJ, quando a boa técnica recomenda afetar múltiplos feitos para prevenir óbices formais ou documentais, e sugeriu solução intermediária consistente em manter a afetação sob a relatoria do Min. Teodoro Silva Santos com o acréscimo de outros processos representativos. Esclarecido de que o feito provinha de IRDR com o memorando integralmente transcrito no acórdão de origem, declarou acompanhar o Relator pela desafetação, fiel à orientação que adota na Corte Especial de não divergir do relator que propõe a desafetação de recurso repetitivo.",
         "tese": "Em virtude de óbices intransponíveis para o conhecimento do recurso especial, impõe-se a sua desafetação do regime dos recursos repetitivos, bem como o cancelamento do Tema n. 1220/STJ, determinando-se a respectiva tramitação pelo rito dos recursos especiais comuns na Segunda Turma. [VOTO VENCIDO] A transcrição integral do Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS no acórdão proferido em IRDR pelo tribunal de origem afasta o óbice da Súmula 7/STJ e permite o exame direto da alegada violação ao art. 202, VI, do Código Civil quanto à caracterização de marco interruptivo da prescrição.",
         "teseType": "vencido",
-        "resumoDiscussao": "O Presidente Min. Gurgel de Faria anunciou inicialmente que, pelo princípio da simetria (já que o Presidente da Seção não vota na afetação), abster-se-ia de votar na questão de ordem de desafetação, embora houvesse encaminhado reflexão prévia aos pares. O Relator, Min. Teodoro Silva Santos, propôs a desafetação do REsp 1.826.796 e o cancelamento do Tema 1220/STJ (que visava definir se o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS configura marco interruptivo do prazo prescricional nas demandas de revisão de benefício previdenciário, nos termos do art. 202, VI, do Código Civil), apontando precedentes que aplicaram óbices de conhecimento à qualificação jurídica de ato administrativo infralegal. A Min. Maria Thereza de Assis Moura abriu divergência para manter a afetação, secundada pelas ponderações do Presidente Min. Gurgel de Faria, ressaltando que o recurso se originava de IRDR cujo acórdão transcrevera na íntegra o memorando circular, tratando-se de qualificação jurídica direta à luz do art. 202 do Código Civil, sem óbice da Súmula 7/STJ. O Min. Herman Benjamin sugeriu agregar novos processos representativos à afetação, mas, diante da explicação de que o feito já era oriundo de IRDR e seguindo sua praxe na Corte Especial de prestigiar o relator que propõe desafetação, acompanhou o Min. Teodoro Silva Santos. O Min. Afrânio Vilela, a Min. Regina Helena Costa e o Min. Paulo Sérgio Domingues também acompanharam o Relator (destacando o Min. Afrânio Vilela a ausência de utilidade prática da afetação diante do cumprimento administrativo do memorando e da interpretação feita pelo tribunal local), enquanto os Mins. Marco Aurélio Bellizze e Sérgio Kukina acompanharam a divergência da Min. Maria Thereza de Assis Moura. Ao final, por maioria, a Seção acolheu a questão de ordem para desafetar o recurso e cancelar o Tema 1220/STJ."
+        "resumoDiscussao": "O Presidente Min. Gurgel de Faria anunciou inicialmente que, pelo princípio da simetria (já que o Presidente da Seção não vota na afetação), abster-se-ia de votar na questão de ordem de desafetação, embora houvesse encaminhado reflexão prévia aos pares. O Relator, Min. Teodoro Silva Santos, propôs a desafetação do REsp 1.826.796/SC e o cancelamento do Tema 1220/STJ (que visava definir se o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS configura marco interruptivo do prazo prescricional nas demandas de revisão de benefício previdenciário, nos termos do art. 202, VI, do Código Civil), apontando precedentes que aplicaram óbices de conhecimento à qualificação jurídica de ato administrativo infralegal. A Min. Maria Thereza de Assis Moura abriu divergência para manter a afetação, secundada pelas ponderações do Presidente Min. Gurgel de Faria, ressaltando que o recurso se originava de IRDR cujo acórdão transcrevera na íntegra o memorando circular, tratando-se de qualificação jurídica direta à luz do art. 202 do Código Civil, sem óbice da Súmula 7/STJ. O Min. Herman Benjamin sugeriu agregar novos processos representativos à afetação, mas, diante da explicação de que o feito já era oriundo de IRDR e seguindo sua praxe na Corte Especial de prestigiar o relator que propõe desafetação, acompanhou o Min. Teodoro Silva Santos. O Min. Afrânio Vilela, a Min. Regina Helena Costa e o Min. Paulo Sérgio Domingues também acompanharam o Relator (destacando o Min. Afrânio Vilela a ausência de utilidade prática da afetação diante do cumprimento administrativo do memorando e da interpretação feita pelo tribunal local), enquanto os Mins. Marco Aurélio Bellizze e Sérgio Kukina acompanharam a divergência da Min. Maria Thereza de Assis Moura. Ao final, por maioria, a Seção acolheu a questão de ordem para desafetar o recurso e cancelar o Tema 1220/STJ.",
+        "pautaItems": [
+          {
+            "item": 1,
+            "processo": "REsp 1.826.796/SC",
+            "categoria": "Destaque da Presidência",
+            "assunto": "Auxílio-Doença Acidentário",
+            "temaRepetitivo": "Tema Repetitivo n. 1220",
+            "resultadoOficial": "DESAFETADO AO RITO DOS RECURSOS REPETITIVOS",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "JOSE HANK"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Auxílio-Doença Acidentário",
+        "temaRepetitivo": "Tema Repetitivo n. 1220",
+        "resultadoOficial": "DESAFETADO AO RITO DOS RECURSOS REPETITIVOS",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "JOSE HANK"
+          }
+        ]
       },
       {
         "index": 3,
@@ -301,7 +2595,170 @@ const resumosData = [
         "hermanManifestation": "Acompanhou o voto do Relator em observância à orientação firmada pela maioria do colegiado no Tema 1226/STJ, mas registrou expressamente a ressalva de seu ponto de vista pessoal, consignando que estava ausente da jurisdição quando daquele julgamento anterior e que, se estivesse julgando a matéria ab initio, decidiria em sentido oposto, alinhando-se à ressalva manifestada pela Min. Maria Thereza de Assis Moura.",
         "tese": "No regime do Stock Option Plan previsto no art. 168, § 3º, da Lei n. 6.404/1976, por se tratar de operação de natureza mercantil, conforme definido no Tema 1226 do STJ, não incidem a contribuição previdenciária patronal e as destinadas a terceiros no momento do exercício da opção de compra de ações, por não configurar remuneração destinada a retribuir o trabalho.",
         "teseType": "final",
-        "resumoDiscussao": "Em sustentação oral pela Fazenda Nacional, a Procuradora Dra. Raquel Godói de Miranda Araújo sustentou que o entendimento firmado no Tema 1226/STJ (restrito ao imposto de renda das pessoas físicas) não poderia ser automaticamente transposto para as contribuições previdenciárias (arts. 22, I, e 28, I, da Lei n. 8.212/1991 e art. 195, I, a, da CF), argumentando que: (i) a materialidade previdenciária alcança ganhos habituais sob a forma de utilidades; (ii) sob a ótica da companhia outorgante, a entrega de ações com expressivo deságio após período de carência (vesting) retribui exclusivamente o trabalho fidelizado e alinhado a metas; (iii) o STF, ao recusar a repercussão geral do RE interposto no próprio paradigma do Tema 1226/STJ, assentou que a natureza do plano depende das cláusulas contratuais concretas; e (iv) a exclusão definitiva das stock options retiraria da base de financiamento da seguridade social a parcela mais expressiva da remuneração de altos executivos. O Relator, Min. Sérgio Kukina, elogiou a sustentação fazendária e concordou que a diversidade de materialidades tributárias exigia exame próprio, bem como registrou o pronunciamento do STF sobre o caráter infraconstitucional da matéria; contudo, superando o óbice da Súmula 7/STJ e partindo da qualificação jurídica assentada pela Primeira Seção no Tema 1226/STJ, reafirmou a natureza estritamente mercantil e não laboral-remuneratória do Stock Option Plan disciplinado no art. 168, § 3º, da Lei das S.A., concluindo pela não incidência das contribuições previdenciárias patronais e de terceiros no momento do exercício da opção e negando provimento a ambos os recursos especiais da Fazenda Nacional. A Min. Maria Thereza de Assis Moura e o Min. Herman Benjamin acompanharam o Relator em deferência ao colegiado, ressalvando seus entendimentos pessoais em sentido contrário, e a decisão foi proclamada à unanimidade."
+        "resumoDiscussao": "Em sustentação oral pela Fazenda Nacional, a Procuradora Dra. Raquel Godói de Miranda Araújo sustentou que o entendimento firmado no Tema 1226/STJ (restrito ao imposto de renda das pessoas físicas) não poderia ser automaticamente transposto para as contribuições previdenciárias (arts. 22, I, e 28, I, da Lei n. 8.212/1991 e art. 195, I, a, da CF), argumentando que: (i) a materialidade previdenciária alcança ganhos habituais sob a forma de utilidades; (ii) sob a ótica da companhia outorgante, a entrega de ações com expressivo deságio após período de carência (vesting) retribui exclusivamente o trabalho fidelizado e alinhado a metas; (iii) o STF, ao recusar a repercussão geral do RE interposto no próprio paradigma do Tema 1226/STJ, assentou que a natureza do plano depende das cláusulas contratuais concretas; e (iv) a exclusão definitiva das stock options retiraria da base de financiamento da seguridade social a parcela mais expressiva da remuneração de altos executivos. O Relator, Min. Sérgio Kukina, elogiou a sustentação fazendária e concordou que a diversidade de materialidades tributárias exigia exame próprio, bem como registrou o pronunciamento do STF sobre o caráter infraconstitucional da matéria; contudo, superando o óbice da Súmula 7/STJ e partindo da qualificação jurídica assentada pela Primeira Seção no Tema 1226/STJ, reafirmou a natureza estritamente mercantil e não laboral-remuneratória do Stock Option Plan disciplinado no art. 168, § 3º, da Lei das S.A., concluindo pela não incidência das contribuições previdenciárias patronais e de terceiros no momento do exercício da opção e negando provimento a ambos os recursos especiais da Fazenda Nacional. A Min. Maria Thereza de Assis Moura e o Min. Herman Benjamin acompanharam o Relator em deferência ao colegiado, ressalvando seus entendimentos pessoais em sentido contrário, e a decisão foi proclamada à unanimidade.",
+        "pautaItems": [
+          {
+            "item": 5,
+            "processo": "REsp 2.070.059/SP",
+            "categoria": "Repetitivos",
+            "assunto": "IRPF/Imposto de Renda de Pessoa Física",
+            "temaRepetitivo": "Tema Repetitivo n. 1379",
+            "resultadoOficial": "NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FAZENDA NACIONAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A."
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "NOTRE DAME INTERMEDICA SAUDE S.A."
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "J P N"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "F E R"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "M E M"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "M G O J"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "A P F G"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "D DE M J"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "R N O"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "G DA S R"
+              }
+            ]
+          },
+          {
+            "item": 6,
+            "processo": "REsp 2.199.631/SP",
+            "categoria": "Repetitivos",
+            "assunto": "Contribuições Previdenciárias",
+            "temaRepetitivo": "Tema Repetitivo n. 1379",
+            "resultadoOficial": "NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FAZENDA NACIONAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "D C C S"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "D P DE A P J"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "E S C"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "G P F"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "G B R"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "J L DE O E"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "M C S M V"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "M H F O"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A."
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "NOTRE DAME INTERMEDICA SAUDE S.A."
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "S R DE P F"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "IRPF/Imposto de Renda de Pessoa Física",
+        "temaRepetitivo": "Tema Repetitivo n. 1379",
+        "resultadoOficial": "NEGOU PROVIMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "FAZENDA NACIONAL"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A."
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "NOTRE DAME INTERMEDICA SAUDE S.A."
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "J P N"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "F E R"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "M E M"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "M G O J"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "A P F G"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "D DE M J"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "R N O"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "G DA S R"
+          }
+        ]
       },
       {
         "index": 4,
@@ -337,12 +2794,81 @@ const resumosData = [
         "hermanManifestation": "Acompanhou o voto técnico do Relator por refletir a jurisprudência pacífica da Primeira e da Segunda Seção e a literalidade expressa do art. 134 do CTB (\"responsabilizar-se solidariamente\"), que veda ao intérprete judicial convolar a obrigação em subsidiária. Proferiu, entretanto, reflexão crítica apontando o dispositivo como exemplo de norma \"antipobre\", que ignora a realidade das vendas informais de veículos e motocicletas de baixo valor nas periferias e inviabiliza a subsistência de milhões de motoristas de aplicativos que têm a CNH suspensa ou bens penhorados por infrações de terceiros, concitando a Defensoria Pública a propor urgente alteração legislativa ao Congresso Nacional (a começar pelo Senado Federal).",
         "tese": "O proprietário alienante de veículo automotor que deixa de comunicar a venda ao órgão de trânsito competente, na forma e no prazo estabelecidos pelo art. 134 do Código de Trânsito Brasileiro, responde solidariamente pelas penalidades decorrentes das infrações administrativas e/ou de trânsito cometidas após a alienação e até a efetiva comunicação.",
         "teseType": "final",
-        "resumoDiscussao": "Pelo Grupo de Atuação Estratégica das Defensorias Públicas Estaduais e Distrital (GAETS), sustentou oralmente o Defensor Público Dr. Carlos Eduardo Vieira, invocando a transmissão da propriedade móvel pela tradição (arts. 1.226 e 1.267 do Código Civil), a prevalência da realidade fática sobre o cadastro administrativo reconhecida pelo STF no Tema 708/RG, o princípio constitucional da intranscendência das penas (art. 257, § 3º, do CTB) e o grave impacto social sobre cerca de 2 milhões de trabalhadores de transporte por aplicativo e hipossuficientes que realizam vendas informais sem comunicação ao Detran. O Relator, Min. Paulo Sérgio Domingues, distinguiu os efeitos civis da tradição (arts. 1.226 e 1.267 do CC) e a responsabilidade tributária por IPVA (excepcionada pela Súmula 585/STJ) do dever jurídico-administrativo autônomo imposto pelo art. 134 do CTB, cuja finalidade é preservar a confiabilidade do cadastro público de veículos para fins de fiscalização, segurança viária e imputação de responsabilidades administrativas, civis e penais. Diante da literalidade do preceito legal e da jurisprudência consolidada de ambas as Turmas de Direito Público, votou pela fixação da tese da responsabilidade solidária do alienante omisso, sem modulação de efeitos, dando provimento aos três recursos especiais interpostos pela ANTT. Após a intervenção crítica do Min. Herman Benjamin e esclarecimento adicional do Relator quanto à distinção em relação à Súmula 585/STJ, o colegiado aprovou a tese e proveu os recursos por unanimidade."
+        "resumoDiscussao": "Pelo Grupo de Atuação Estratégica das Defensorias Públicas Estaduais e Distrital (GAETS), sustentou oralmente o Defensor Público Dr. Carlos Eduardo Vieira, invocando a transmissão da propriedade móvel pela tradição (arts. 1.226 e 1.267 do Código Civil), a prevalência da realidade fática sobre o cadastro administrativo reconhecida pelo STF no Tema 708/RG, o princípio constitucional da intranscendência das penas (art. 257, § 3º, do CTB) e o grave impacto social sobre cerca de 2 milhões de trabalhadores de transporte por aplicativo e hipossuficientes que realizam vendas informais sem comunicação ao Detran. O Relator, Min. Paulo Sérgio Domingues, distinguiu os efeitos civis da tradição (arts. 1.226 e 1.267 do CC) e a responsabilidade tributária por IPVA (excepcionada pela Súmula 585/STJ) do dever jurídico-administrativo autônomo imposto pelo art. 134 do CTB, cuja finalidade é preservar a confiabilidade do cadastro público de veículos para fins de fiscalização, segurança viária e imputação de responsabilidades administrativas, civis e penais. Diante da literalidade do preceito legal e da jurisprudência consolidada de ambas as Turmas de Direito Público, votou pela fixação da tese da responsabilidade solidária do alienante omisso, sem modulação de efeitos, dando provimento aos três recursos especiais interpostos pela ANTT. Após a intervenção crítica do Min. Herman Benjamin e esclarecimento adicional do Relator quanto à distinção em relação à Súmula 585/STJ, o colegiado aprovou a tese e proveu os recursos por unanimidade.",
+        "pautaItems": [
+          {
+            "item": 7,
+            "processo": "REsp 2.152.197/SP",
+            "categoria": "Repetitivos",
+            "assunto": "Multas e demais Sanções",
+            "temaRepetitivo": "Tema Repetitivo n. 1324",
+            "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO E, NESSA PARTE DEU-LHE PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "HERMES & RUAS FRETAMENTO E LOCADORA LTDA"
+              }
+            ]
+          },
+          {
+            "item": 8,
+            "processo": "REsp 2.152.255/SP",
+            "categoria": "Repetitivos",
+            "assunto": "Multas e demais Sanções",
+            "temaRepetitivo": "Tema Repetitivo n. 1324",
+            "resultadoOficial": "CONHECEU DO RECURSO E LHE DEU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "JOSE TEIXEIRA DA SILVA"
+              }
+            ]
+          },
+          {
+            "item": 9,
+            "processo": "REsp 2.174.050/SP",
+            "categoria": "Repetitivos",
+            "assunto": "Multas e demais Sanções",
+            "temaRepetitivo": "Tema Repetitivo n. 1324",
+            "resultadoOficial": "CONHECEU DO RECURSO E LHE DEU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "WALDOMIRO JOAO DE JESUS LALLA"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Multas e demais Sanções",
+        "temaRepetitivo": "Tema Repetitivo n. 1324",
+        "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO E, NESSA PARTE DEU-LHE PROVIMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "HERMES & RUAS FRETAMENTO E LOCADORA LTDA"
+          }
+        ]
       },
       {
         "index": 5,
-        "heading": "REsp 2.234.888, REsp 2.249.171/CE e REsp 2.250.737/PE (Tema 1433/STJ) - Limites subjetivos e territoriais do título executivo coletivo da ACP n. 0005019-15.1997.4.03.6000 sobre o reajuste de 28,86%",
-        "processNumber": "REsp 2.234.888, REsp 2.249.171/CE e REsp 2.250.737/PE (Tema 1433/STJ)",
+        "heading": "REsp 2.234.888/MS, REsp 2.249.171/CE, REsp 2.250.737/PE e REsp 2.251.538/PE (Tema 1433/STJ) - Limites subjetivos e territoriais do título executivo coletivo da ACP n. 0005019-15.1997.4.03.6000 sobre o reajuste de 28,86%",
+        "processNumber": "REsp 2.234.888/MS, REsp 2.249.171/CE, REsp 2.250.737/PE e REsp 2.251.538/PE (Tema 1433/STJ)",
         "theme": "Limites subjetivos e territoriais do título executivo coletivo da ACP n. 0005019-15.1997.4.03.6000 sobre o reajuste de 28,86%",
         "timestamp": "01:26:35",
         "seconds": 5195,
@@ -373,7 +2899,178 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Definir se a sentença coletiva proferida na Ação Civil Pública n. 0005019-15.1997.4.03.6000 (1ª Vara Federal de Campo Grande/MS), que reconheceu o direito ao reajuste de 28,86%, estende seus efeitos a servidores públicos federais não domiciliados no Estado de Mato Grosso do Sul e se alcança servidores pertencentes aos quadros de autarquias e fundações federais não arroladas no aditamento à petição inicial.",
         "teseType": "proposta",
-        "resumoDiscussao": "A controvérsia repetitiva consiste em definir o alcance territorial e subjetivo do título judicial transitado em julgado em 2019 na ACP n. 0005019-15.1997.4.03.6000, ajuizada pelo MPF perante a 1ª Vara Federal de Campo Grande/MS para assegurar o reajuste de 28,86% (Leis n. 8.622/1993 e n. 8.627/1993 e Súmula Vinculante 51). Pela União e pelas autarquias federais (DNIT, FUNASA e INSS), sustentaram oralmente a Dra. Thaís Ferreira e o Dr. Fábio Monnerat que: (i) no aditamento à inicial, o próprio MPF delimitou o pedido ao arrolar oito autarquias e fundações (IBAMA, INCRA, INSS, DNER/DNIT, UFMS, FUNASA, IBGE e FUNAI) especificando que suas repartições \"neste Estado\" (Mato Grosso do Sul) receberiam os efeitos da sentença; (ii) a limitação decorre do próprio pedido e da boa-fé objetiva (arts. 5º, 322, § 2º, 489, § 3º, e 508 do CPC), e não do art. 16 da LACP, que sequer foi invocado no título; (iii) o MPF ajuizou ações idênticas em outros Estados (como Bahia e Rio Grande do Sul) e, após o cumprimento para os servidores de Mato Grosso do Sul, requereu o arquivamento do feito original dando-o por integralmente cumprido; e (iv) a aplicação retroativa do Tema 1075/STF (julgado em 2021) a título transitado em julgado em 2019 esbarraria no Tema 733/STF. Pelos exequentes e entidades sindicais/associativas (Bernadete Souza Filha, Sindicato dos Trabalhadores em Empresas Ferroviárias do Nordeste, Maria Jucineide, Sindifisco, Fenasps e Unafisco Nacional), sustentaram os Drs. Eduardo Costa Nassur, Jean Paulo, Rafael Neves Rego, Fernando Pereira Abreu, Cláudio Santos e Sérgio Ludmer que: (i) a inicial e o dispositivo da sentença asseguraram o reajuste a \"todos os servidores públicos civis federais, ativos, inativos e pensionistas\", estabelecendo apenas duas exclusões subjetivas (litigantes em outras ações e signatários de acordo administrativo da MP n. 1.704), sem nenhuma restrição geográfica; (ii) a alusão às repartições em Mato Grosso do Sul no aditamento destinou-se apenas a indicar o endereço local de citação, conforme parecer do próprio MPF nos autos; (iii) a União jamais suscitou limitação territorial na fase de conhecimento ou recursal; e (iv) a jurisprudência do STJ já afastava a limitação territorial desde os Temas 480 e 481 (2011), oito anos antes do trânsito em julgado. Pelo Ministério Público Federal (custos legis), o Subprocurador-Geral da República Dr. Eitel Santiago de Brito Pereira manifestou-se pelo provimento dos recursos dos entes públicos e desprovimento dos recursos dos exequentes, sustentando que a demanda não foi proposta nem julgada em âmbito nacional, que o MPF ajuizou ações análogas em outros Estados e que a expansão tardia do título violaria a coisa julgada, a prescrição quinquenal (Decreto n. 20.910/1932) e a segurança jurídica (Tema 733/STF). Encerradas as sustentações, o Relator, Min. Afrânio Vilela, pediu vista regimental para reavaliar os pontos debatidos e os memoriais recebidos."
+        "resumoDiscussao": "A controvérsia repetitiva consiste em definir o alcance territorial e subjetivo do título judicial transitado em julgado em 2019 na ACP n. 0005019-15.1997.4.03.6000, ajuizada pelo MPF perante a 1ª Vara Federal de Campo Grande/MS para assegurar o reajuste de 28,86% (Leis n. 8.622/1993 e n. 8.627/1993 e Súmula Vinculante 51). Pela União e pelas autarquias federais (DNIT, FUNASA e INSS), sustentaram oralmente a Dra. Thaís Ferreira e o Dr. Fábio Monnerat que: (i) no aditamento à inicial, o próprio MPF delimitou o pedido ao arrolar oito autarquias e fundações (IBAMA, INCRA, INSS, DNER/DNIT, UFMS, FUNASA, IBGE e FUNAI) especificando que suas repartições \"neste Estado\" (Mato Grosso do Sul) receberiam os efeitos da sentença; (ii) a limitação decorre do próprio pedido e da boa-fé objetiva (arts. 5º, 322, § 2º, 489, § 3º, e 508 do CPC), e não do art. 16 da LACP, que sequer foi invocado no título; (iii) o MPF ajuizou ações idênticas em outros Estados (como Bahia e Rio Grande do Sul) e, após o cumprimento para os servidores de Mato Grosso do Sul, requereu o arquivamento do feito original dando-o por integralmente cumprido; e (iv) a aplicação retroativa do Tema 1075/STF (julgado em 2021) a título transitado em julgado em 2019 esbarraria no Tema 733/STF. Pelos exequentes e entidades sindicais/associativas (Bernadete Souza Filha, Sindicato dos Trabalhadores em Empresas Ferroviárias do Nordeste, Maria Jucineide, Sindifisco, Fenasps e Unafisco Nacional), sustentaram os Drs. Eduardo Costa Nassur, Jean Paulo, Rafael Neves Rego, Fernando Pereira Abreu, Cláudio Santos e Sérgio Ludmer que: (i) a inicial e o dispositivo da sentença asseguraram o reajuste a \"todos os servidores públicos civis federais, ativos, inativos e pensionistas\", estabelecendo apenas duas exclusões subjetivas (litigantes em outras ações e signatários de acordo administrativo da MP n. 1.704), sem nenhuma restrição geográfica; (ii) a alusão às repartições em Mato Grosso do Sul no aditamento destinou-se apenas a indicar o endereço local de citação, conforme parecer do próprio MPF nos autos; (iii) a União jamais suscitou limitação territorial na fase de conhecimento ou recursal; e (iv) a jurisprudência do STJ já afastava a limitação territorial desde os Temas 480 e 481 (2011), oito anos antes do trânsito em julgado. Pelo Ministério Público Federal (custos legis), o Subprocurador-Geral da República Dr. Eitel Santiago de Brito Pereira manifestou-se pelo provimento dos recursos dos entes públicos e desprovimento dos recursos dos exequentes, sustentando que a demanda não foi proposta nem julgada em âmbito nacional, que o MPF ajuizou ações análogas em outros Estados e que a expansão tardia do título violaria a coisa julgada, a prescrição quinquenal (Decreto n. 20.910/1932) e a segurança jurídica (Tema 733/STF). Encerradas as sustentações, o Relator, Min. Afrânio Vilela, pediu vista regimental para reavaliar os pontos debatidos e os memoriais recebidos.",
+        "pautaItems": [
+          {
+            "item": 10,
+            "processo": "REsp 2.249.171/CE",
+            "categoria": "Repetitivos",
+            "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+            "temaRepetitivo": "Tema Repetitivo n. 1433",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FUNDAÇÃO NACIONAL DE SAÚDE"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "HUGO LOPES GALVAO"
+              }
+            ]
+          },
+          {
+            "item": 11,
+            "processo": "REsp 2.251.538/PE",
+            "categoria": "Repetitivos",
+            "assunto": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+            "temaRepetitivo": "Tema Repetitivo n. 1433",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "SIND DOS TRAB EM EMPRESAS FERROVIARIAS DO NORDESTE"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "ROBEVANIA NUNES CORDEIRO"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "ALDENIRA MARIANA DE LIMA"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "CELIA MARIA GOMES DE MELO"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "EDIVA MARIA DE AGUIAR"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "EUNICE LOPES GONZAGA"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "JULIA EMILIA DE ALMEIDA"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "MARIA JOSE FAUSTINO DA SILVA"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "MARIA JOSE MAGERO DOS SANTOS"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "MARIA TEREZA CLAUDINO DA SILVA"
+              },
+              {
+                "papel": "Recorrente",
+                "nome": "MARIA CRISTINA PIMENTA DA FRANCA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "UNIÃO"
+              }
+            ]
+          },
+          {
+            "item": 12,
+            "processo": "REsp 2.250.737/PE",
+            "categoria": "Repetitivos",
+            "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+            "temaRepetitivo": "Tema Repetitivo n. 1433",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "MARIA JUCINEIDE VIEIRA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+              }
+            ]
+          },
+          {
+            "item": 13,
+            "processo": "REsp 2.234.888/MS",
+            "categoria": "Repetitivos",
+            "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+            "temaRepetitivo": "Tema Repetitivo n. 1433",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "BERNADETE DE SOUZA FILHA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "MARIA DE SOUZA FILHA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "JUAREZ DE SOUZA FILHO"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "CICERA DE SOUZA FILHA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "JOSE DE SOUZA FILHO"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "JOSE FERNANDO FILHO"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "EDSON JOHNY SILVA DE SOUZA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "EULINA DANYELY SILVA DE SOUZA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "JOAO BOSCO DE SOUZA FILHO"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "VITALINA DE SOUZA BEZERRA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "CICERO DE SOUZA FILHO"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "MARIA DAYANE DE SOUZA NEPOMUCENO - ESPÓLIO"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+        "temaRepetitivo": "Tema Repetitivo n. 1433",
+        "resultadoOficial": "PEDIDO DE VISTA",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "FUNDAÇÃO NACIONAL DE SAÚDE"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "HUGO LOPES GALVAO"
+          }
+        ]
       },
       {
         "index": 6,
@@ -409,7 +3106,66 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas no período de 5 (cinco) anos anteriores ao ajuizamento da ação.",
         "teseType": "final",
-        "resumoDiscussao": "Assumindo a presidência para o pregão do feito, o Min. Paulo Sérgio Domingues concedeu a palavra à Procuradora do Estado do Rio de Janeiro, Dra. Juliana Florentino de Moura, que defendeu a incidência da prescrição quinquenal do próprio fundo de direito (art. 1º do Decreto n. 20.910/1932, Súmula 85/STJ e Tema 1410/STJ) a partir da ciência do indeferimento administrativo expresso do pedido de pensão por morte no Regime Próprio de Previdência Social (RPPS), sustentando que a ADI 6.096/STF restringiu-se ao Regime Geral (RGPS), que a imprescritibilidade prejudica o contraditório e a prova administrativa após décadas (no caso do RJ, o óbito ocorreu em 1978 e o requerimento em 2014) e pleiteando, subsidiariamente, a vedação de pagamento retroativo em duplicidade quando a pensão integral já houver sido paga de boa-fé a outro dependente habilitado (a mãe da autora) e o retorno dos autos à origem para exame da legislação estadual. O Relator, Min. Gurgel de Faria, votou pelo afastamento da prescrição do fundo de direito, fundamentando que o STF, na ADI 6.096, assentou que institutos extintivos do próprio direito fundamental à concessão de benefício previdenciário nas hipóteses de indeferimento administrativo violam o núcleo essencial do direito social à previdência, e que essa ratio decidendi não comporta distinção entre o RGPS e o RPPS, sob pena de impor tratamento mais gravoso aos dependentes de servidores públicos em afronta à dignidade da pessoa humana e à coerência do sistema. Afastou a modulação de efeitos por inexistir inovação ou jurisprudência pacífica anterior em sentido contrário e, nos casos concretos do Rio de Janeiro e do Rio Grande do Sul, deu provimento aos recursos especiais tão somente para afastar a prescrição do fundo de direito, determinando o retorno dos autos aos tribunais de origem para que examinem as demais questões de mérito e peculiaridades locais (inclusive eventual pagamento anterior a outro beneficiário e aplicação da legislação estadual). Os patronos da recorrente e do amicus curiae (IBDP) dispensaram a palavra, e o colegiado aprovou o voto e a tese por unanimidade."
+        "resumoDiscussao": "Assumindo a presidência para o pregão do feito, o Min. Paulo Sérgio Domingues concedeu a palavra à Procuradora do Estado do Rio de Janeiro, Dra. Juliana Florentino de Moura, que defendeu a incidência da prescrição quinquenal do próprio fundo de direito (art. 1º do Decreto n. 20.910/1932, Súmula 85/STJ e Tema 1410/STJ) a partir da ciência do indeferimento administrativo expresso do pedido de pensão por morte no Regime Próprio de Previdência Social (RPPS), sustentando que a ADI 6.096/STF restringiu-se ao Regime Geral (RGPS), que a imprescritibilidade prejudica o contraditório e a prova administrativa após décadas (no caso do RJ, o óbito ocorreu em 1978 e o requerimento em 2014) e pleiteando, subsidiariamente, a vedação de pagamento retroativo em duplicidade quando a pensão integral já houver sido paga de boa-fé a outro dependente habilitado (a mãe da autora) e o retorno dos autos à origem para exame da legislação estadual. O Relator, Min. Gurgel de Faria, votou pelo afastamento da prescrição do fundo de direito, fundamentando que o STF, na ADI 6.096, assentou que institutos extintivos do próprio direito fundamental à concessão de benefício previdenciário nas hipóteses de indeferimento administrativo violam o núcleo essencial do direito social à previdência, e que essa ratio decidendi não comporta distinção entre o RGPS e o RPPS, sob pena de impor tratamento mais gravoso aos dependentes de servidores públicos em afronta à dignidade da pessoa humana e à coerência do sistema. Afastou a modulação de efeitos por inexistir inovação ou jurisprudência pacífica anterior em sentido contrário e, nos casos concretos do Rio de Janeiro e do Rio Grande do Sul, deu provimento aos recursos especiais tão somente para afastar a prescrição do fundo de direito, determinando o retorno dos autos aos tribunais de origem para que examinem as demais questões de mérito e peculiaridades locais (inclusive eventual pagamento anterior a outro beneficiário e aplicação da legislação estadual). Os patronos da recorrente e do amicus curiae (IBDP) dispensaram a palavra, e o colegiado aprovou o voto e a tese por unanimidade.",
+        "pautaItems": [
+          {
+            "item": 14,
+            "processo": "REsp 2.213.084/RJ",
+            "categoria": "Repetitivos",
+            "assunto": "Concessão",
+            "temaRepetitivo": "Tema Repetitivo n. 1386",
+            "resultadoOficial": "DEU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "ANA LUCIA VELLOSO BRASIL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "LUCIA MARIA VELLOSO BRASIL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "ESTADO DO RIO DE JANEIRO"
+              }
+            ]
+          },
+          {
+            "item": 15,
+            "processo": "REsp 2.227.232/RS",
+            "categoria": "Repetitivos",
+            "assunto": "Concessão",
+            "temaRepetitivo": "Tema Repetitivo n. 1386",
+            "resultadoOficial": "DEU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "CRISLAINE RODRIGUES SILVEIRA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "DEPARTAMENTO MUNICIPAL DE PREVIDÊNCIA DOS"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Concessão",
+        "temaRepetitivo": "Tema Repetitivo n. 1386",
+        "resultadoOficial": "DEU PROVIMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "ANA LUCIA VELLOSO BRASIL"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "LUCIA MARIA VELLOSO BRASIL"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "ESTADO DO RIO DE JANEIRO"
+          }
+        ]
       },
       {
         "index": 7,
@@ -445,12 +3201,99 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "É vedada a apuração de créditos da Contribuição ao PIS e da COFINS, no regime não cumulativo, sobre o valor do ICMS que tenha incidido sobre a operação de aquisição, nos termos do art. 3º, § 2º, III, das Leis n. 10.637/2002 e n. 10.833/2003, incluído pela Lei n. 14.592/2023.",
         "teseType": "final",
-        "resumoDiscussao": "Pelos contribuintes recorrentes (DL Transporte e Logística Nacional Ltda., Aromitalia do Brasil Ltda. e Anderle Transportes Ltda.) e pela amicus curiae Federação das Indústrias do Estado do Paraná (FIEP), sustentaram oralmente os Drs. Marcel Viana Pereira da Costa, Bruno Rodrigues, Marcelo Tonette Júnior e Ariane Costa Guimarães que: (i) na sistemática não cumulativa do PIS e da COFINS (método subtrativo indireto, art. 3º, § 1º, I, das Leis n. 10.637/2002 e n. 10.833/2003), a base de cálculo do crédito é o valor/custo de aquisição do bem ou insumo (art. 13 do Decreto-Lei n. 1.598/1977), grandeza jurídica distinta da receita bruta do vendedor objeto do Tema 69/STF; (ii) diferentemente do IPI não recuperável (Tema 1373/STJ) e do ICMS-ST (Tema 1231/STJ), que incidem \"por fora\", o ICMS próprio incide \"por dentro\" (Lei Kandir) e integra intrinsecamente o preço de aquisição, conforme reconhecido pela própria PGFN no Parecer SEI n. 12.943/2021; (iii) ao menos quanto ao ICMS irrecuperável suportado por prestadores de serviços (como transportadoras) e exportadores, o imposto estadual constitui custo efetivo que comporá a base de saída tributada; e (iv) a vedação introduzida pela MP n. 1.159/2023 e pela Lei n. 14.592/2023 desnatura a não cumulatividade constitucional (art. 195, § 12, da CF), justificando o provimento dos recursos ou a instauração de incidente de inconstitucionalidade perante a Corte Especial. O Relator, Min. Paulo Sérgio Domingues, destacou que o art. 195, § 12, da Constituição confere autonomia ao legislador ordinário para definir os critérios de operacionalização da não cumulatividade do PIS e da COFINS (Tema 756/STF) e que a inclusão do inciso III ao § 2º do art. 3º das Leis n. 10.637/2002 e n. 10.833/2003 pela Lei n. 14.592/2023 (precedida pela MP n. 1.159/2023, observada a anterioridade nonagesimal a partir de 1º/5/2023) preserva a coerência lógica do sistema não cumulativo, uma vez que o ICMS destacado na nota fiscal não integra a base de cálculo das contribuições na operação antecedente por força do Tema 69/STF, alinhando-se aos precedentes vinculantes que afastam o creditamento quando não há incidência na etapa anterior (Temas 1093 e 1231 do STJ, Tema 844/STF e Súmula Vinculante 58). Assim, votou pela fixação da tese vedando o creditamento e, nos casos concretos, conheceu parcialmente e negou provimento aos recursos de finais 097/CE, 848/RS e 894/SC e negou provimento ao recurso de final 1.146/RS, sendo acompanhado à unanimidade pelo colegiado."
+        "resumoDiscussao": "Pelos contribuintes recorrentes (DL Transporte e Logística Nacional Ltda., Aromitalia do Brasil Ltda. e Anderle Transportes Ltda.) e pela amicus curiae Federação das Indústrias do Estado do Paraná (FIEP), sustentaram oralmente os Drs. Marcel Viana Pereira da Costa, Bruno Rodrigues, Marcelo Tonette Júnior e Ariane Costa Guimarães que: (i) na sistemática não cumulativa do PIS e da COFINS (método subtrativo indireto, art. 3º, § 1º, I, das Leis n. 10.637/2002 e n. 10.833/2003), a base de cálculo do crédito é o valor/custo de aquisição do bem ou insumo (art. 13 do Decreto-Lei n. 1.598/1977), grandeza jurídica distinta da receita bruta do vendedor objeto do Tema 69/STF; (ii) diferentemente do IPI não recuperável (Tema 1373/STJ) e do ICMS-ST (Tema 1231/STJ), que incidem \"por fora\", o ICMS próprio incide \"por dentro\" (Lei Kandir) e integra intrinscamente o preço de aquisição, conforme reconhecido pela própria PGFN no Parecer SEI n. 12.943/2021; (iii) ao menos quanto ao ICMS irrecuperável suportado por prestadores de serviços (como transportadoras) e exportadores, o imposto estadual constitui custo efetivo que comporá a base de saída tributada; e (iv) a vedação introduzida pela MP n. 1.159/2023 e pela Lei n. 14.592/2023 desnatura a não cumulatividade constitucional (art. 195, § 12, da CF), justificando o provimento dos recursos ou a instauração de incidente de inconstitucionalidade perante a Corte Especial. O Relator, Min. Paulo Sérgio Domingues, destacou que o art. 195, § 12, da Constituição confere autonomia ao legislador ordinário para definir os critérios de operacionalização da não cumulatividade do PIS e da COFINS (Tema 756/STF) e que a inclusão do inciso III ao § 2º do art. 3º das Leis n. 10.637/2002 e n. 10.833/2003 pela Lei n. 14.592/2023 (precedida pela MP n. 1.159/2023, observada a anterioridade nonagesimal a partir de 1º/5/2023) preserva a coerência lógica do sistema não cumulativo, uma vez que o ICMS destacado na nota fiscal não integra a base de cálculo das contribuições na operação antecedente por força do Tema 69/STF, alinhando-se aos precedentes vinculantes que afastam o creditamento quando não há incidência na etapa anterior (Temas 1093 e 1231 do STJ, Tema 844/STF e Súmula Vinculante 58). Assim, votou pela fixação da tese vedando o creditamento e, nos casos concretos, conheceu parcialmente e negou provimento aos recursos de finais 097/CE, 848/RS e 894/SC e negou provimento ao recurso de final 1.146/RS, sendo acompanhado à unanimidade pelo colegiado.",
+        "pautaItems": [
+          {
+            "item": 16,
+            "processo": "REsp 2.150.097/CE",
+            "categoria": "Repetitivos",
+            "assunto": "Não Cumulatividade",
+            "temaRepetitivo": "Tema Repetitivo n. 1364",
+            "resultadoOficial": "CONHECEU DO RECURSO MAS LHE NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "CIL - COMERCIO DE INFORMATICA LTDA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          },
+          {
+            "item": 17,
+            "processo": "REsp 2.150.848/RS",
+            "categoria": "Repetitivos",
+            "assunto": "PIS",
+            "temaRepetitivo": "Tema Repetitivo n. 1364",
+            "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "DL TRANSPORTES E LOGISTICA NACIONAL E INTERNACIONAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          },
+          {
+            "item": 18,
+            "processo": "REsp 2.150.894/SC",
+            "categoria": "Repetitivos",
+            "assunto": "Cofins",
+            "temaRepetitivo": "Tema Repetitivo n. 1364",
+            "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "AROMITALIA DO BRASIL LTDA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          },
+          {
+            "item": 19,
+            "processo": "REsp 2.151.146/RS",
+            "categoria": "Repetitivos",
+            "assunto": "Cofins",
+            "temaRepetitivo": "Tema Repetitivo n. 1364",
+            "resultadoOficial": "NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "ANDERLE-TRANSPORTES LTDA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Não Cumulatividade",
+        "temaRepetitivo": "Tema Repetitivo n. 1364",
+        "resultadoOficial": "CONHECEU DO RECURSO MAS LHE NEGOU PROVIMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "CIL - COMERCIO DE INFORMATICA LTDA"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "FAZENDA NACIONAL"
+          }
+        ]
       },
       {
         "index": 8,
-        "heading": "REsp 2.239.204/CE e REsp 2.239.250/SE (Tema 1454/STJ) - Taxatividade das hipóteses de dispensa de honorários advocatícios previstas no art. 19, § 1º, I, da Lei n. 10.522/2002",
-        "processNumber": "REsp 2.239.204/CE e REsp 2.239.250/SE (Tema 1454/STJ)",
+        "heading": "REsp 2.239.244/CE e REsp 2.239.250/SE (Tema 1454/STJ) - Taxatividade das hipóteses de dispensa de honorários advocatícios previstas no art. 19, § 1º, I, da Lei n. 10.522/2002",
+        "processNumber": "REsp 2.239.244/CE e REsp 2.239.250/SE (Tema 1454/STJ)",
         "theme": "Taxatividade das hipóteses de dispensa de honorários advocatícios previstas no art. 19, § 1º, I, da Lei n. 10.522/2002",
         "timestamp": "03:27:23",
         "seconds": 12443,
@@ -481,7 +3324,58 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "A dispensa de condenação em honorários do ente público federal a que se refere o art. 19, § 1º, I, da Lei n. 10.522/2002 se restringe às hipóteses dos incisos I a VII do caput, tratando-se de enumeração legal exaustiva.",
         "teseType": "proposta",
-        "resumoDiscussao": "A controvérsia repetitiva consiste em definir se a dispensa de condenação em honorários advocatícios prevista no art. 19, § 1º, I, da Lei n. 10.522/2002, quando o ente público federal reconhece a procedência do pedido ou desiste de execução fiscal antes da sentença ou após embargos, restringe-se às hipóteses elencadas nos incisos do caput do art. 19 ou alcança outras hipóteses previstas em atos normativos internos de redução de litigiosidade da PGFN e da PGF. Pela Fazenda Nacional e pela Agência Nacional de Saúde Suplementar (ANS), sustentaram oralmente a Dra. Sara Mendes Carcará e o Dr. Gabriel de Melo Galvão que a norma deve receber interpretação sistemática e teleológica para prestigiar a política pública de desjudicialização e os acordos de cooperação técnica firmados entre a AGU e o STJ (que já reduziram milhões de processos), invocando precedente da Primeira Turma de relatoria do Min. Paulo Sérgio Domingues (REsp 2.023.326/SC) segundo o qual impor sucumbência quando a Fazenda reconhece o pedido por análise de custo-benefício regulamentada internamente desestimularia a desistência e fomentaria a litigância. O Relator, Min. Sérgio Kukina, embora enaltecendo os acordos de cooperação institucional para redução da litigiosidade, ressaltou que a jurisprudência consolidada da Primeira Seção (a exemplo da Súmula 153/STJ e de julgados relatados pela saudosa Min. Assusete Magalhães) interpreta restritivamente as regras isentivas de honorários sucumbenciais, dada a natureza alimentar da verba pertencente ao advogado (art. 85, caput e § 14, do CPC) e o princípio da causalidade, concluindo que a expressão \"matérias de que trata este artigo\" contida no § 1º do art. 19 da Lei n. 10.522/2002 vincula estritamente a dispensa às hipóteses taxativas dos incisos I a VII do caput. Votou, assim, pela fixação da tese da taxatividade do rol legal, dando provimento ao REsp 2.239.204/CE (interposto pela Unimed contra a ANS) e negando provimento ao REsp 2.239.250/SE (interposto pela Fazenda Nacional). Na sequência, o Min. Paulo Sérgio Domingues pediu vista antecipada dos autos, aguardando os demais Ministros."
+        "resumoDiscussao": "A controvérsia repetitiva consiste em definir se a dispensa de condenação em honorários advocatícios prevista no art. 19, § 1º, I, da Lei n. 10.522/2002, quando o ente público federal reconhece a procedência do pedido ou desiste de execução fiscal antes da sentença ou após embargos, restringe-se às hipóteses elencadas nos incisos do caput do art. 19 ou alcança outras hipóteses previstas em atos normativos internos de redução de litigiosidade da PGFN e da PGF. Pela Fazenda Nacional e pela Agência Nacional de Saúde Suplementar (ANS), sustentaram oralmente a Dra. Sara Mendes Carcará e o Dr. Gabriel de Melo Galvão que a norma deve receber interpretação sistemática e teleológica para prestigiar a política pública de desjudicialização e os acordos de cooperação técnica firmados entre a AGU e o STJ (que já reduziram milhões de processos), invocando precedente da Primeira Turma de relatoria do Min. Paulo Sérgio Domingues (REsp 2.023.326/SC) segundo o qual impor sucumbência quando a Fazenda reconhece o pedido por análise de custo-benefício regulamentada internamente desestimularia a desistência e fomentaria a litigância. O Relator, Min. Sérgio Kukina, embora enaltecendo os acordos de cooperação institucional para redução da litigiosidade, ressaltou que a jurisprudência consolidada da Primeira Seção (a exemplo da Súmula 153/STJ e de julgados relatados pela saudosa Min. Assusete Magalhães) interpreta restritivamente as regras isentivas de honorários sucumbenciais, dada a natureza alimentar da verba pertencente ao advogado (art. 85, caput e § 14, do CPC) e o princípio da causalidade, concluindo que a expressão \"matérias de que trata este artigo\" contida no § 1º do art. 19 da Lei n. 10.522/2002 vincula estritamente a dispensa às hipóteses taxativas dos incisos I a VII do caput. Votou, assim, pela fixação da tese da taxatividade do rol legal, dando provimento ao REsp 2.239.244/CE (interposto pela Unimed contra a ANS) e negando provimento ao REsp 2.239.250/SE (interposto pela Fazenda Nacional). Na sequência, o Min. Paulo Sérgio Domingues pediu vista antecipada dos autos, aguardando os demais Ministros.",
+        "pautaItems": [
+          {
+            "item": 20,
+            "processo": "REsp 2.239.244/CE",
+            "categoria": "Repetitivos",
+            "assunto": "Profissional",
+            "temaRepetitivo": "Tema Repetitivo n. 1454",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR"
+              }
+            ]
+          },
+          {
+            "item": 21,
+            "processo": "REsp 2.239.250/SE",
+            "categoria": "Repetitivos",
+            "assunto": "Repetição de indébito",
+            "temaRepetitivo": "Tema Repetitivo n. 1454",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FAZENDA NACIONAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "SOCIEDADE DE EDUCACAO TIRADENTES S.A"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Profissional",
+        "temaRepetitivo": "Tema Repetitivo n. 1454",
+        "resultadoOficial": "PEDIDO DE VISTA",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR"
+          }
+        ]
       },
       {
         "index": 9,
@@ -517,12 +3411,103 @@ const resumosData = [
         "hermanManifestation": "Colaborou ativamente na redação e no aprimoramento técnico das subteses do voto do Relator, conforme agradecimento registrado pelo Min. Afrânio Vilela, e proferiu densa manifestação ressaltando a relevância do julgado para cerca de 90 mil ações expropriatórias no país e para a proteção do erário contra distorções históricas (como a condenação superior a 1 bilhão de dólares na desapropriação de 13.500 hectares de penhascos rochosos na Serra do Mar, em Ubatuba/SP). Enfatizou três pilares das teses: (i) a distinção entre os regimes da reforma agrária, da utilidade pública e da desapropriação indireta (item D1, fixando a data do apossamento administrativo como momento básico); (ii) o princípio da causalidade na demora pericial (item D2), estabelecendo que apenas o atraso imputável ao expropriante e reconhecido em decisão fundamentada dilata o limite temporal das teses B e C, enquanto a demora causada pelo expropriado, pelo serviço judiciário ou por terceiros jamais afasta nem dilata esse limite; e (iii) o desestímulo ao uso estratégico do prazo prescricional decenal como fábrica de créditos (\"máfia da desapropriação\"). Suscitou, por fim, a necessidade de explicitar nos casos concretos a não incidência de juros compensatórios em imóveis improdutivos (jurisprudência consolidada do STJ desde o Min. Teori Zavascki e do STF na ADI 2.332), distinguindo os dois recursos de reforma agrária (juros zero) dos dois recursos de regularização de território quilombola (juros de 6% ao ano), o que levou à suspensão consensual do julgamento para ajuste e proclamação conjunta na sessão seguinte.",
         "tese": "(a) Nas desapropriações em geral, a contemporaneidade entre o preço e o valor indenizatório é definida pelo momento básico de sua aferição técnica, em regra correspondente ao preço de mercado do bem quando da realização da perícia judicial; (b) Nas desapropriações por utilidade pública ou interesse social, o momento básico não pode ser superior a 1 (um) ano desde a propositura da ação judicial; (c) Nas desapropriações para fins de reforma agrária, o momento básico não pode exceder 90 (noventa) dias desde a propositura da ação judicial; (d.1) Nas indenizações por desapropriação indireta, o momento básico corresponde à data do apossamento administrativo, devendo a perícia reconstituir o preço de mercado do bem nessa data, sem prejuízo da correção monetária e dos juros compensatórios na forma da lei; (d.2) Quando o expropriante der causa à demora na realização da primeira perícia, por fato a ele imputável e reconhecido em decisão fundamentada, o limite temporal das teses 'b' e 'c' será acrescido apenas do período de atraso que lhe for atribuível, sendo que a demora imputável ao expropriado, ao serviço judiciário ou a terceiro não afasta nem dilata esse limite; (e) As perícias realizadas após o prazo estipulado devem reportar-se ao preço de mercado do momento básico limite, mediante técnicas disponíveis no campo científico; (f) Em qualquer situação, as variações de preço decorrentes da própria ação estatal devem ser identificadas em separado pelo perito e descontadas do valor indenizatório fixado em juízo; (g) As teses incidem nos casos com perícias determinadas a partir da publicação deste acórdão, isto é, com peritos nomeados a partir deste momento.",
         "teseType": "proposta",
-        "resumoDiscussao": "Pelo INCRA, sustentou oralmente o Procurador Federal Dr. Fábio Monnerat, expondo dados de valorização média anual de 23,9% das terras rurais no Brasil entre 2017 e 2024 e defendendo que a definição do marco temporal do valor do imóvel desapropriado deve variar conforme o rito processual em quatro hipóteses: (i) data da perícia judicial apenas nas desapropriações ordinárias sem imissão provisória na posse; (ii) data do depósito prévio nas desapropriações ordinárias com imissão liminar na posse; (iii) data do laudo administrativo de vistoria e avaliação nas desapropriações por interesse social para reforma agrária (LC n. 76/1993); e (iv) data do efetivo apossamento administrativo nas desapropriações indiretas, sob pena de bis in idem entre a valorização imobiliária superveniente e a fluência retroativa de juros compensatórios e correção monetária. O Relator, Min. Afrânio Vilela, apresentou amplo voto histórico e doutrinário (reportando-se a Seabra Fagundes, Rui Barbosa e Cretella Júnior, ao art. 26, § 2º, do Decreto-Lei n. 3.365/1941, à LC n. 76/1993 e às estatísticas do CNJ de mais de 90 mil processos expropriatórios no país, com tempo médio de 6 anos até a perícia), demonstrando que a justa indenização deve refletir o valor de mercado contemporâneo ao momento básico previsto pelo legislador, cabendo à correção monetária recompor a inflação posterior, sem transferir ao erário a especulação imobiliária ou a mais-valia gerada pela própria obra estatal, e propôs a fixação das subteses A a G com modulação prospectiva para perícias determinadas a partir da publicação do acórdão. Após a intervenção do Min. Herman Benjamin — que destacou a precisão das subteses D1 e D2 e alertou para a impossibilidade de incidência de juros compensatórios em terras improdutivas nos casos concretos de reforma agrária (REsp 1.809.093/CE e REsp 1.950.981/PE, em contraposição aos REsp 1.814.350/SE e REsp 2.004.109/SE, relativos à regularização de territórios quilombolas, nos quais os juros são reduzidos de 12% para 6% ao ano) —, o colegiado manifestou consenso em torno das teses e deliberou suspender o julgamento para a sessão seguinte a fim de que o Relator ajuste o dispositivo do primeiro caso concreto e se proceda à proclamação conjunta das teses e dos quatro recursos afetados."
+        "resumoDiscussao": "Pelo INCRA, sustentou oralmente o Procurador Federal Dr. Fábio Monnerat, expondo dados de valorização média anual de 23,9% das terras rurais no Brasil entre 2017 e 2024 e defendendo que a definição do marco temporal do valor do imóvel desapropriado deve variar conforme o rito processual em quatro hipóteses: (i) data da perícia judicial apenas nas desapropriações ordinárias sem imissão provisória na posse; (ii) data do depósito prévio nas desapropriações ordinárias com imissão liminar na posse; (iii) data do laudo administrativo de vistoria e avaliação nas desapropriações por interesse social para reforma agrária (LC n. 76/1993); e (iv) data do efetivo apossamento administrativo nas desapropriações indiretas, sob pena de bis in idem entre a valorização imobiliária superveniente e a fluência retroativa de juros compensatórios e correção monetária. O Relator, Min. Afrânio Vilela, apresentou amplo voto histórico e doutrinário (reportando-se a Seabra Fagundes, Rui Barbosa e Cretella Júnior, ao art. 26, § 2º, do Decreto-Lei n. 3.365/1941, à LC n. 76/1993 e às estatísticas do CNJ de mais de 90 mil processos expropriatórios no país, com tempo médio de 6 anos até a perícia), demonstrando que a justa indenização deve refletir o valor de mercado contemporâneo ao momento básico previsto pelo legislador, cabendo à correção monetária recompor a inflação posterior, sem transferir ao erário a especulação imobiliária ou a mais-valia gerada pela própria obra estatal, e propôs a fixação das subteses A a G com modulação prospectiva para perícias determinadas a partir da publicação do acórdão. Após a intervenção do Min. Herman Benjamin — que destacou a precisão das subteses D1 e D2 e alertou para a impossibilidade de incidência de juros compensatórios em terras improdutivas nos casos concretos de reforma agrária (REsp 1.809.093/CE e REsp 1.950.981/PE, em contraposição aos REsp 1.814.350/SE e REsp 2.004.109/SE, relativos à regularização de territórios quilombolas, nos quais os juros são reduzidos de 12% para 6% ao ano) —, o colegiado manifestou consenso em torno das teses e deliberou suspender o julgamento para a sessão seguinte a fim de que o Relator ajuste o dispositivo do primeiro caso concreto e se proceda à proclamação conjunta das teses e dos quatro recursos afetados.",
+        "pautaItems": [
+          {
+            "item": 22,
+            "processo": "REsp 1.809.093/CE",
+            "categoria": "Repetitivos",
+            "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+            "temaRepetitivo": "Tema Repetitivo n. 1432",
+            "resultadoOficial": "SUSPENSÃO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "DIOCESE DE TIANGUA"
+              }
+            ]
+          },
+          {
+            "item": 23,
+            "processo": "REsp 1.814.350/SE",
+            "categoria": "Repetitivos",
+            "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+            "temaRepetitivo": "Tema Repetitivo n. 1432",
+            "resultadoOficial": "SUSPENSÃO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "JORGE GOMES DA SILVA"
+              }
+            ]
+          },
+          {
+            "item": 24,
+            "processo": "REsp 1.950.981/PE",
+            "categoria": "Repetitivos",
+            "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+            "temaRepetitivo": "Tema Repetitivo n. 1432",
+            "resultadoOficial": "SUSPENSÃO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "GREGORIO FERREIRA GUARDIAO - ESPÓLIO"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "BANCO DO NORDESTE DO BRASIL SA"
+              }
+            ]
+          },
+          {
+            "item": 25,
+            "processo": "REsp 2.004.109/SE",
+            "categoria": "Repetitivos",
+            "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+            "temaRepetitivo": "Tema Repetitivo n. 1432",
+            "resultadoOficial": "SUSPENSÃO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "DEJANIRA VIEIRA DE SOUZA"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Desapropriação por Interesse Social para Reforma Agrária",
+        "temaRepetitivo": "Tema Repetitivo n. 1432",
+        "resultadoOficial": "SUSPENSÃO DE JULGAMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "DIOCESE DE TIANGUA"
+          }
+        ]
       },
       {
         "index": 10,
-        "heading": "REsp 2.238.885 e REsp 2.238.889 (Tema 1415/STJ) - Adiamento de apresentação de voto-vista em recurso repetitivo",
-        "processNumber": "REsp 2.238.885 e REsp 2.238.889 (Tema 1415/STJ)",
+        "heading": "REsp 2.238.885/SP e REsp 2.238.889/DF (Tema 1415/STJ) - Adiamento de apresentação de voto-vista em recurso repetitivo",
+        "processNumber": "REsp 2.238.885/SP e REsp 2.238.889/DF (Tema 1415/STJ)",
         "theme": "Adiamento de apresentação de voto-vista em recurso repetitivo",
         "timestamp": "04:43:59",
         "seconds": 17039,
@@ -553,13 +3538,68 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Julgamento adiado para a próxima sessão para apresentação de voto-vista pelo Min. Paulo Sérgio Domingues.",
         "teseType": "proposta",
-        "resumoDiscussao": "O Presidente Min. Gurgel de Faria anunciou o adiamento da continuidade do julgamento do Tema 1415/STJ (REsp 2.238.885 e REsp 2.238.889, de relatoria da Min. Maria Thereza de Assis Moura), no qual seria apresentado voto-vista pelo Min. Paulo Sérgio Domingues, ficando acordado entre o Ministro vistor e a Relatora o adiamento para a sessão seguinte em razão da redução do quórum ao final da sessão."
+        "resumoDiscussao": "O Presidente Min. Gurgel de Faria anunciou o adiamento da continuidade do julgamento do Tema 1415/STJ (REsp 2.238.885/SP e REsp 2.238.889/DF, de relatoria da Min. Maria Thereza de Assis Moura), no qual seria apresentado voto-vista pelo Min. Paulo Sérgio Domingues, ficando acordado entre o Ministro vistor e a Relatora o adiamento para a sessão seguinte em razão da redução do quórum ao final da sessão.",
+        "pautaItems": [
+          {
+            "item": 36,
+            "processo": "REsp 2.238.885/SP",
+            "categoria": "Votos-Vista",
+            "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+            "temaRepetitivo": "Tema Repetitivo n. 1415",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FAZENDA NACIONAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "CGI - TRANSMISSORA CAMPINA GRANDE IGARACU S.A."
+              }
+            ]
+          },
+          {
+            "item": 39,
+            "processo": "REsp 2.238.889/DF",
+            "categoria": "Votos-Vista",
+            "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+            "temaRepetitivo": "Tema Repetitivo n. 1415",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "FAZENDA NACIONAL"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "MARIANA TRANSMISSORA DE ENERGIA ELETRICA S.A."
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "MIRACEMA TRANSMISSORA DE ENERGIA ELETRICA S/A"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+        "temaRepetitivo": "Tema Repetitivo n. 1415",
+        "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "FAZENDA NACIONAL"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "CGI - TRANSMISSORA CAMPINA GRANDE IGARACU S.A."
+          }
+        ]
       },
       {
         "index": 11,
-        "heading": "EDcl [Processo não identificado] (Embargados: Wilson de Menezes Dias e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul) - Embargos de declaração em matéria de perseguidos políticos",
-        "processNumber": "EDcl [Processo não identificado] (Embargados: Wilson de Menezes Dias e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul)",
-        "theme": "Embargos de declaração em matéria de perseguidos políticos",
+        "heading": "EDcl no REsp 2.032.021/RS e EDcl no REsp 2.031.813/SC (Tema 1251/STJ — Itens 26 e 27 da pauta) - Embargos de declaração em matéria de anistia política / perseguidos políticos",
+        "processNumber": "EDcl no REsp 2.032.021/RS e EDcl no REsp 2.031.813/SC (Tema 1251/STJ",
+        "theme": "Itens 26 e 27 da pauta) - Embargos de declaração em matéria de anistia política / perseguidos políticos",
         "timestamp": "04:44:40",
         "seconds": 17080,
         "videoUrl": "https://www.youtube.com/watch?v=59Xi4wO9VVs&t=17080s",
@@ -589,15 +3629,106 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado, impõe-se a rejeição dos embargos de declaração.",
         "teseType": "final",
-        "resumoDiscussao": "Apregoado como preferência por questão de fato no encerramento da sessão, com acompanhamento por videoconferência do advogado Dr. Stephan Guimarães Emerim (representando os embargados Wilson de Menezes Dias e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul), o Relator, Min. Afrânio Vilela, votou pela rejeição dos embargos de declaração por ausência de quaisquer vícios integrativos no acórdão embargado, sendo acompanhado à unanimidade pelo colegiado."
+        "resumoDiscussao": "Apregoados como preferência no encerramento da sessão (Itens 26 e 27 da pauta — EDcl no REsp 2.032.021/RS e EDcl no REsp 2.031.813/SC, Tema 1251/STJ), com acompanhamento por videoconferência do advogado Dr. Stephan Guimarães Emerim (representando os embargados Wilson de Menezes Dias — Sucessão e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul), o Relator, Min. Afrânio Vilela, votou pela rejeição dos embargos de declaração opostos pela União por ausência de quaisquer vícios integrativos no acórdão embargado, sendo acompanhado à unanimidade pelo colegiado.",
+        "pautaItems": [
+          {
+            "item": 26,
+            "processo": "EDcl no REsp 2.032.021/RS",
+            "categoria": "Preferências de Julgamento",
+            "assunto": "Anistia Política",
+            "temaRepetitivo": "Tema Repetitivo n. 1251",
+            "resultadoOficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+            "partes": [
+              {
+                "papel": "Embargante",
+                "nome": "UNIÃO"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "WILSON DE MENEZES DIAS - SUCESSÃO"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "ELIANA DO CANTO DIAS - HERDEIRO"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "MARCELO PACIFICO DO CANTO DIAS - HERDEIRO"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "MARCOS CARMAIA DO CANTO DIAS - HERDEIRO"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "WILSON BELCHIOR DO CANTO DIAS - HERDEIRO"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "ELAINE DO CANTO DIAS - HERDEIRO"
+              }
+            ]
+          },
+          {
+            "item": 27,
+            "processo": "EDcl no REsp 2.031.813/SC",
+            "categoria": "Preferências de Julgamento",
+            "assunto": "Anistia Política",
+            "temaRepetitivo": "Tema Repetitivo n. 1251",
+            "resultadoOficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+            "partes": [
+              {
+                "papel": "Embargante",
+                "nome": "UNIÃO"
+              },
+              {
+                "papel": "Embargado",
+                "nome": "ROQUE FELIPPE"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Anistia Política",
+        "temaRepetitivo": "Tema Repetitivo n. 1251",
+        "resultadoOficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+        "partes": [
+          {
+            "papel": "Embargante",
+            "nome": "UNIÃO"
+          },
+          {
+            "papel": "Embargado",
+            "nome": "WILSON DE MENEZES DIAS - SUCESSÃO"
+          },
+          {
+            "papel": "Embargado",
+            "nome": "ELIANA DO CANTO DIAS - HERDEIRO"
+          },
+          {
+            "papel": "Embargado",
+            "nome": "MARCELO PACIFICO DO CANTO DIAS - HERDEIRO"
+          },
+          {
+            "papel": "Embargado",
+            "nome": "MARCOS CARMAIA DO CANTO DIAS - HERDEIRO"
+          },
+          {
+            "papel": "Embargado",
+            "nome": "WILSON BELCHIOR DO CANTO DIAS - HERDEIRO"
+          },
+          {
+            "papel": "Embargado",
+            "nome": "ELAINE DO CANTO DIAS - HERDEIRO"
+          }
+        ]
       }
     ],
     "theses": [
       {
         "text": "Adiamento de julgamento dos processos constantes da relação anunciada na abertura da sessão e aprovação à unanimidade dos dois feitos integrantes da lista em bloco sem destaques.",
         "type": "proposta",
-        "processTitle": "REsp 2.053.569, REsp 2.146.834, REsp 2.134.824, EREsp 1.793.915, REsp 2.186.838 e REsp 1.957.818/SP - Adiamentos anunciados na abertura (Temas 1244, 1302, 1275 e 1397/STJ e IAC 21/STJ) e aprovação de bloco",
-        "processNumber": "REsp 2.053.569, REsp 2.146.834, REsp 2.134.824, EREsp 1.793.915, REsp 2.186.838 e REsp 1.957.818/SP",
+        "processTitle": "REsp 2.053.569/AM, REsp 2.146.834/AP, REsp 2.034.824/RJ, EREsp 1.793.915/RJ, REsp 2.186.838/MG e REsp 1.957.818/SP - Adiamentos anunciados na abertura (Temas 1244, 1302, 1275 e 1397/STJ e IAC 21/STJ) e aprovação de bloco",
+        "processNumber": "REsp 2.053.569/AM, REsp 2.146.834/AP, REsp 2.034.824/RJ, EREsp 1.793.915/RJ, REsp 2.186.838/MG e REsp 1.957.818/SP",
         "processIndex": 1,
         "materiaId": 5,
         "materiaCode": "5. Atos Administrativos",
@@ -609,8 +3740,8 @@ const resumosData = [
       {
         "text": "Em virtude de óbices intransponíveis para o conhecimento do recurso especial, impõe-se a sua desafetação do regime dos recursos repetitivos, bem como o cancelamento do Tema n. 1220/STJ, determinando-se a respectiva tramitação pelo rito dos recursos especiais comuns na Segunda Turma. [VOTO VENCIDO] A transcrição integral do Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS no acórdão proferido em IRDR pelo tribunal de origem afasta o óbice da Súmula 7/STJ e permite o exame direto da alegada violação ao art. 202, VI, do Código Civil quanto à caracterização de marco interruptivo da prescrição.",
         "type": "vencido",
-        "processTitle": "QO no REsp 1.826.796 (Tema 1220/STJ) - Desafetação de repetitivo sobre o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS como marco interruptivo da prescrição",
-        "processNumber": "QO no REsp 1.826.796 (Tema 1220/STJ)",
+        "processTitle": "QO no REsp 1.826.796/SC (Tema 1220/STJ) - Desafetação de repetitivo sobre o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS como marco interruptivo da prescrição",
+        "processNumber": "QO no REsp 1.826.796/SC (Tema 1220/STJ)",
         "processIndex": 2,
         "materiaId": 11,
         "materiaCode": "11. Direito Previdenciário",
@@ -648,8 +3779,8 @@ const resumosData = [
       {
         "text": "Definir se a sentença coletiva proferida na Ação Civil Pública n. 0005019-15.1997.4.03.6000 (1ª Vara Federal de Campo Grande/MS), que reconheceu o direito ao reajuste de 28,86%, estende seus efeitos a servidores públicos federais não domiciliados no Estado de Mato Grosso do Sul e se alcança servidores pertencentes aos quadros de autarquias e fundações federais não arroladas no aditamento à petição inicial.",
         "type": "proposta",
-        "processTitle": "REsp 2.234.888, REsp 2.249.171/CE e REsp 2.250.737/PE (Tema 1433/STJ) - Limites subjetivos e territoriais do título executivo coletivo da ACP n. 0005019-15.1997.4.03.6000 sobre o reajuste de 28,86%",
-        "processNumber": "REsp 2.234.888, REsp 2.249.171/CE e REsp 2.250.737/PE (Tema 1433/STJ)",
+        "processTitle": "REsp 2.234.888/MS, REsp 2.249.171/CE, REsp 2.250.737/PE e REsp 2.251.538/PE (Tema 1433/STJ) - Limites subjetivos e territoriais do título executivo coletivo da ACP n. 0005019-15.1997.4.03.6000 sobre o reajuste de 28,86%",
+        "processNumber": "REsp 2.234.888/MS, REsp 2.249.171/CE, REsp 2.250.737/PE e REsp 2.251.538/PE (Tema 1433/STJ)",
         "processIndex": 5,
         "materiaId": 4,
         "materiaCode": "4. Servidor Público Civil e Militar",
@@ -687,8 +3818,8 @@ const resumosData = [
       {
         "text": "A dispensa de condenação em honorários do ente público federal a que se refere o art. 19, § 1º, I, da Lei n. 10.522/2002 se restringe às hipóteses dos incisos I a VII do caput, tratando-se de enumeração legal exaustiva.",
         "type": "proposta",
-        "processTitle": "REsp 2.239.204/CE e REsp 2.239.250/SE (Tema 1454/STJ) - Taxatividade das hipóteses de dispensa de honorários advocatícios previstas no art. 19, § 1º, I, da Lei n. 10.522/2002",
-        "processNumber": "REsp 2.239.204/CE e REsp 2.239.250/SE (Tema 1454/STJ)",
+        "processTitle": "REsp 2.239.244/CE e REsp 2.239.250/SE (Tema 1454/STJ) - Taxatividade das hipóteses de dispensa de honorários advocatícios previstas no art. 19, § 1º, I, da Lei n. 10.522/2002",
+        "processNumber": "REsp 2.239.244/CE e REsp 2.239.250/SE (Tema 1454/STJ)",
         "processIndex": 8,
         "materiaId": 8,
         "materiaCode": "8. Direito Tributário",
@@ -713,8 +3844,8 @@ const resumosData = [
       {
         "text": "Julgamento adiado para a próxima sessão para apresentação de voto-vista pelo Min. Paulo Sérgio Domingues.",
         "type": "proposta",
-        "processTitle": "REsp 2.238.885 e REsp 2.238.889 (Tema 1415/STJ) - Adiamento de apresentação de voto-vista em recurso repetitivo",
-        "processNumber": "REsp 2.238.885 e REsp 2.238.889 (Tema 1415/STJ)",
+        "processTitle": "REsp 2.238.885/SP e REsp 2.238.889/DF (Tema 1415/STJ) - Adiamento de apresentação de voto-vista em recurso repetitivo",
+        "processNumber": "REsp 2.238.885/SP e REsp 2.238.889/DF (Tema 1415/STJ)",
         "processIndex": 10,
         "materiaId": 5,
         "materiaCode": "5. Atos Administrativos",
@@ -726,8 +3857,8 @@ const resumosData = [
       {
         "text": "Inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado, impõe-se a rejeição dos embargos de declaração.",
         "type": "final",
-        "processTitle": "EDcl [Processo não identificado] (Embargados: Wilson de Menezes Dias e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul) - Embargos de declaração em matéria de perseguidos políticos",
-        "processNumber": "EDcl [Processo não identificado] (Embargados: Wilson de Menezes Dias e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul)",
+        "processTitle": "EDcl no REsp 2.032.021/RS e EDcl no REsp 2.031.813/SC (Tema 1251/STJ — Itens 26 e 27 da pauta) - Embargos de declaração em matéria de anistia política / perseguidos políticos",
+        "processNumber": "EDcl no REsp 2.032.021/RS e EDcl no REsp 2.031.813/SC (Tema 1251/STJ",
         "processIndex": 11,
         "materiaId": 7,
         "materiaCode": "7. Responsabilidade Civil da Administração",
@@ -819,7 +3950,7 @@ const resumosData = [
         "count": 1
       }
     ],
-    "content": "# Resumo — Primeira Seção — 14/10/2026\n\n**Vídeo:** [Primeira Seção - STJ -  14/10/2026](https://www.youtube.com/watch?v=59Xi4wO9VVs)\n**Data:** 14/10/2026\n**Duração:** 4h 47min\n**Órgão:** Primeira Seção\n\n---\n\n## Atuação e Manifestações do Min. Herman Benjamin\n- **Questão de Ordem no REsp 1.826.796 / Tema 1220/STJ (Início: 00:31:49):** Solicitou esclarecimentos à Min. Maria Thereza de Assis Moura e ao Presidente Min. Gurgel de Faria acerca dos fundamentos para a manutenção da afetação do recurso repetitivo relativo à interrupção da prescrição pelo Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS (art. 202, VI, do Código Civil). Ponderou que, diferentemente da praxe recomendável de afetar três a cinco processos representativos para prevenir óbices de admissibilidade ou dúvidas documentais, apenas um recurso especial havia sido afetado ao Tema 1220/STJ, e propôs solução intermediária ao Relator, Min. Teodoro Silva Santos, consistente em manter a relatoria e agregar outros recursos especiais livres de óbices. Esclarecido pelo Presidente e pela Min. Maria Thereza de Assis Moura que o processo provinha de Incidente de Resolução de Demandas Repetitivas (IRDR) com transcrição integral do memorando no acórdão recorrido, o Min. Herman Benjamin registrou que, fiel à sua diretriz na Corte Especial de não divergir do relator que propõe a desafetação de repetitivo, acompanhava o Relator pelo acolhimento da questão de ordem e desafetação do tema.\n- **REsp 2.070.059/SP e REsp 2.199.631/SP / Tema 1379/STJ (Início: 01:07:59):** No julgamento repetitivo sobre a não incidência de contribuição previdenciária patronal e de terceiros nos planos de opção de compra de ações (Stock Option Plan, art. 168, § 3º, da Lei n. 6.404/1976), acompanhou o Relator, Min. Sérgio Kukina, em respeito à orientação colegiada já firmada pela Primeira Seção no Tema 1226/STJ quanto à natureza mercantil da operação, mas deixou expressamente registrada a ressalva de seu entendimento pessoal, consignando que estava ausente da jurisdição por ocasião do julgamento do Tema 1226/STJ e que, se estivesse apreciando a matéria ab initio, votaria em sentido oposto, na mesma linha da ressalva manifestada pela Min. Maria Thereza de Assis Moura.\n- **REsp 2.152.197/SP, REsp 2.152.255/SP e REsp 2.174.050/SP / Tema 1324/STJ (Início: 01:22:00):** Acompanhou o voto do Relator, Min. Paulo Sérgio Domingues, reconhecendo que a tese reflete a jurisprudência pacífica da Primeira e da Segunda Seção e a literalidade inafastável do art. 134 do Código de Trânsito Brasileiro, que prevê expressamente a responsabilidade solidária do proprietário alienante que não comunica a venda do veículo ao órgão de trânsito pelas infrações cometidas até a efetiva comunicação. Formulou, contudo, contundente crítica social e legislativa ao dispositivo, qualificando-o como norma antipobre que penaliza severamente cidadãos vulneráveis e trabalhadores de aplicativos nas vendas informais de veículos e motocicletas de baixo valor. Diante do quase fechamento das portas do Poder Judiciário decorrente da fixação de tese repetitiva, exortou a Defensoria Pública, como cidadão, a apresentar urgente proposição de alteração legislativa ao Congresso Nacional, iniciando pelo Senado Federal, para substituir a solidariedade por responsabilidade subsidiária ou instituir mecanismos digitais simplificados de comunicação da tradição.\n- **REsp 1.809.093/CE, REsp 1.814.350/SE, REsp 1.950.981/PE e REsp 2.004.109/SE / Tema 1432/STJ (Início: 04:24:14):** Teve participação decisiva na construção e no aperfeiçoamento redacional das subteses do Tema 1432/STJ sobre o marco temporal (momento básico) da avaliação pericial nas desapropriações, recebendo agradecimento expresso do Relator, Min. Afrânio Vilela. Destacou a relevância financeira e intergeracional do julgamento para cerca de 90 mil processos expropriatórios em curso no país, recordando distorções históricas como a desapropriação de 13.500 hectares de penhascos rochosos no Parque Estadual da Serra do Mar, em Ubatuba/SP, que gerou condenação superior a 1 bilhão de dólares. Ressaltou três eixos estruturantes consolidados nas teses: (i) a distinção rigorosa entre os regimes da desapropriação para reforma agrária (momento básico de até 90 dias da propositura da ação), da desapropriação por utilidade pública (até 1 ano da propositura) e da desapropriação indireta (item D1, fixando a data do apossamento administrativo como momento básico); (ii) a aplicação estrita da causalidade na demora pericial (item D2), segundo a qual apenas o atraso imputável ao expropriante e reconhecido em decisão fundamentada dilata o limite temporal das teses B e C, enquanto a demora atribuível ao expropriado, ao serviço judiciário ou a terceiros jamais afasta nem dilata esse limite; e (iii) o combate ao uso estratégico de prazos prescricionais decenais como fábrica de créditos supervenientes. Por fim, suscitou a necessidade de explicitar nos casos concretos a vedação de juros compensatórios sobre imóveis improdutivos (jurisprudência consolidada do STJ desde o Min. Teori Zavascki e do STF na ADI 2.332), diferenciando os dois processos de reforma agrária (juros zero) dos dois processos de regularização de território quilombola (juros de 6% ao ano), o que ensejou a suspensão consensual do julgamento para ajuste e proclamação conjunta na sessão seguinte.\n\n## Destaques da Sessão\n- **Tema 1379/STJ (REsp 2.070.059/SP e REsp 2.199.631/SP) — Stock Option Plan e Contribuições Previdenciárias:** A Primeira Seção, por unanimidade, fixou tese repetitiva no sentido de que, no regime do Stock Option Plan (art. 168, § 3º, da Lei n. 6.404/1976), por se tratar de operação de natureza mercantil conforme definido no Tema 1226/STJ, não incidem a contribuição previdenciária patronal e as destinadas a terceiros no momento do exercício da opção de compra de ações, por não configurar remuneração destinada a retribuir o trabalho, com ressalva de entendimento pessoal da Min. Maria Thereza de Assis Moura e do Min. Herman Benjamin.\n- **Tema 1324/STJ (REsp 2.152.197/SP, REsp 2.152.255/SP e REsp 2.174.050/SP) — Responsabilidade Solidária do Alienante de Veículo Automotor (Art. 134 do CTB):** O colegiado reafirmou por unanimidade, sob o rito dos recursos repetitivos, que o proprietário alienante de veículo automotor que deixa de comunicar a venda ao órgão de trânsito competente responde solidariamente pelas penalidades decorrentes das infrações administrativas e/ou de trânsito cometidas após a alienação e até a efetiva comunicação, distinguindo a responsabilidade administrativa da responsabilidade tributária por IPVA (Súmula 585/STJ), com importante reflexão crítica do Min. Herman Benjamin sobre o impacto social da norma e exortação à Defensoria Pública por reforma legislativa.\n- **Tema 1386/STJ (REsp 2.213.084/RJ e REsp 2.227.232/RS) — Imprescritibilidade do Fundo de Direito à Pensão por Morte de Servidor Público:** Aplicando a ratio decidendi firmada pelo STF na ADI 6.096 ao Regime Próprio de Previdência Social, a Primeira Seção fixou, à unanimidade, a tese repetitiva de que o direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas nos cinco anos anteriores ao ajuizamento da ação.\n- **Tema 1364/STJ (REsp 2.150.097/CE, REsp 2.150.848/RS, REsp 2.150.894/SC e REsp 2.151.146/RS) — Vedação ao Creditamento de PIS/COFINS sobre o ICMS Incidente na Aquisição:** Por unanimidade, o colegiado fixou tese repetitiva validando a vedação de apuração de créditos da Contribuição ao PIS e da COFINS, no regime não cumulativo, sobre o valor do ICMS incidente na operação de aquisição, nos termos do art. 3º, § 2º, III, das Leis n. 10.637/2002 e n. 10.833/2003, incluído pela Lei n. 14.592/2023 (oriunda da MP n. 1.159/2023), a partir de 1º/5/2023.\n- **Tema 1432/STJ (REsp 1.809.093/CE, REsp 1.814.350/SE, REsp 1.950.981/PE e REsp 2.004.109/SE) — Marco Temporal da Avaliação Judicial nas Desapropriações e Juros Compensatórios:** Em debate de alta densidade doutrinária e prática conduzido pelo Relator, Min. Afrânio Vilela, com expressiva contribuição do Min. Herman Benjamin, o colegiado estruturou sete subteses (A a G) disciplinando o momento básico de aferição do preço nas desapropriações por utilidade pública (limite de 1 ano da propositura), para reforma agrária (limite de 90 dias da propositura) e indiretas (data do apossamento administrativo), a regra de causalidade na demora pericial, o decote da mais-valia decorrente da obra estatal e a modulação prospectiva para perícias determinadas a partir da publicação do acórdão, suspendendo a proclamação final para a sessão seguinte a fim de ajustar a solução dos quatro casos concretos quanto aos juros compensatórios.\n- **Tema 1433/STJ (Limites do Título Coletivo dos 28,86% de Mato Grosso do Sul) e Tema 1454/STJ (Dispensa de Honorários na Lei n. 10.522/2002):** Dois importantes recursos repetitivos tiveram pedidos de vista: no Tema 1433/STJ, após oito sustentações orais e parecer do Ministério Público Federal sobre o alcance territorial e subjetivo da ACP n. 0005019-15.1997.4.03.6000, o Relator, Min. Afrânio Vilela, pediu vista regimental; no Tema 1454/STJ, após o voto do Relator, Min. Sérgio Kukina, pela taxatividade do rol do art. 19, caput, da Lei n. 10.522/2002 para fins de dispensa de honorários sucumbenciais, pediu vista antecipada o Min. Paulo Sérgio Domingues.\n- **Questão de Ordem no REsp 1.826.796 (Tema 1220/STJ) — Desafetação de Repetitivo por Maioria:** Por maioria (5 votos a 3, vencidos a Min. Maria Thereza de Assis Moura, o Min. Marco Aurélio Bellizze e o Min. Sérgio Kukina, com abstenção do Presidente Min. Gurgel de Faria pelo princípio da simetria), a Seção acolheu questão de ordem proposta pelo Relator, Min. Teodoro Silva Santos, para desafetar o REsp 1.826.796 e cancelar o Tema 1220/STJ diante de óbices processuais ao conhecimento do recurso.\n\n## Processos Julgados\n\n### 1. REsp 2.053.569, REsp 2.146.834, REsp 2.134.824, EREsp 1.793.915, REsp 2.186.838 e REsp 1.957.818/SP - Adiamentos anunciados na abertura (Temas 1244, 1302, 1275 e 1397/STJ e IAC 21/STJ) e aprovação de bloco (Início: 00:21:32)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Adiado\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** [PROPOSTA] Adiamento de julgamento dos processos constantes da relação anunciada na abertura da sessão e aprovação à unanimidade dos dois feitos integrantes da lista em bloco sem destaques.\n- **Resumo da discussão:** Na abertura dos trabalhos, foram anunciados os adiamentos do Tema 1244/STJ (REsp 2.053.569, REsp 2.053.647 e REsp 2.046.893, de relatoria do Min. Marco Aurélio Bellizze), dos votos-vista do Min. Paulo Sérgio Domingues no Tema 1302/STJ (REsp 2.146.834 e REsp 2.146.839), no Tema 1275/STJ (REsp 2.134.824, REsp 2.170.082 e REsp 2.170.092) e nos EREsp 1.793.915 e EREsp 1.997.816, dos votos-vista do Min. Sérgio Kukina no Tema 1397/STJ (REsp 2.186.838 e REsp 2.148.056) e da vista regimental do Min. Afrânio Vilela no IAC 21/STJ (REsp 1.957.818/SP). Na sequência, às 00:24:27, o Presidente Min. Gurgel de Faria submeteu ao colegiado os dois processos constantes do bloco sem destaques, que foram aprovados à unanimidade, seguindo-se homenagem institucional pelo aniversário da Min. Maria Thereza de Assis Moura.\n\n### 2. QO no REsp 1.826.796 (Tema 1220/STJ) - Desafetação de repetitivo sobre o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS como marco interruptivo da prescrição (Início: 00:26:29)\n- **Matéria:** 11. Direito Previdenciário\n- **Relator:** Min. Teodoro Silva Santos\n- **Resultado:** Provido (acolhida a questão de ordem para desafetar o processo e cancelar o Tema 1220/STJ)\n- **Votação:** Maioria (vencidos a Min. Maria Thereza de Assis Moura, o Min. Marco Aurélio Bellizze e o Min. Sérgio Kukina)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Pediu esclarecimentos à Min. Maria Thereza de Assis Moura e ao Presidente Min. Gurgel de Faria sobre as razões contrárias à desafetação, ponderando que apenas um recurso especial fora afetado ao Tema 1220/STJ, quando a boa técnica recomenda afetar múltiplos feitos para prevenir óbices formais ou documentais, e sugeriu solução intermediária consistente em manter a afetação sob a relatoria do Min. Teodoro Silva Santos com o acréscimo de outros processos representativos. Esclarecido de que o feito provinha de IRDR com o memorando integralmente transcrito no acórdão de origem, declarou acompanhar o Relator pela desafetação, fiel à orientação que adota na Corte Especial de não divergir do relator que propõe a desafetação de recurso repetitivo.\n- **Tese fixada:** Em virtude de óbices intransponíveis para o conhecimento do recurso especial, impõe-se a sua desafetação do regime dos recursos repetitivos, bem como o cancelamento do Tema n. 1220/STJ, determinando-se a respectiva tramitação pelo rito dos recursos especiais comuns na Segunda Turma. [VOTO VENCIDO] A transcrição integral do Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS no acórdão proferido em IRDR pelo tribunal de origem afasta o óbice da Súmula 7/STJ e permite o exame direto da alegada violação ao art. 202, VI, do Código Civil quanto à caracterização de marco interruptivo da prescrição.\n- **Resumo da discussão:** O Presidente Min. Gurgel de Faria anunciou inicialmente que, pelo princípio da simetria (já que o Presidente da Seção não vota na afetação), abster-se-ia de votar na questão de ordem de desafetação, embora houvesse encaminhado reflexão prévia aos pares. O Relator, Min. Teodoro Silva Santos, propôs a desafetação do REsp 1.826.796 e o cancelamento do Tema 1220/STJ (que visava definir se o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS configura marco interruptivo do prazo prescricional nas demandas de revisão de benefício previdenciário, nos termos do art. 202, VI, do Código Civil), apontando precedentes que aplicaram óbices de conhecimento à qualificação jurídica de ato administrativo infralegal. A Min. Maria Thereza de Assis Moura abriu divergência para manter a afetação, secundada pelas ponderações do Presidente Min. Gurgel de Faria, ressaltando que o recurso se originava de IRDR cujo acórdão transcrevera na íntegra o memorando circular, tratando-se de qualificação jurídica direta à luz do art. 202 do Código Civil, sem óbice da Súmula 7/STJ. O Min. Herman Benjamin sugeriu agregar novos processos representativos à afetação, mas, diante da explicação de que o feito já era oriundo de IRDR e seguindo sua praxe na Corte Especial de prestigiar o relator que propõe desafetação, acompanhou o Min. Teodoro Silva Santos. O Min. Afrânio Vilela, a Min. Regina Helena Costa e o Min. Paulo Sérgio Domingues também acompanharam o Relator (destacando o Min. Afrânio Vilela a ausência de utilidade prática da afetação diante do cumprimento administrativo do memorando e da interpretação feita pelo tribunal local), enquanto os Mins. Marco Aurélio Bellizze e Sérgio Kukina acompanharam a divergência da Min. Maria Thereza de Assis Moura. Ao final, por maioria, a Seção acolheu a questão de ordem para desafetar o recurso e cancelar o Tema 1220/STJ.\n\n### 3. REsp 2.070.059/SP e REsp 2.199.631/SP (Tema 1379/STJ) - Não incidência de contribuição previdenciária patronal e de terceiros sobre Stock Option Plan (Início: 00:45:09)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime (com ressalva de entendimento pessoal da Min. Maria Thereza de Assis Moura e do Min. Herman Benjamin)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Acompanhou o voto do Relator em observância à orientação firmada pela maioria do colegiado no Tema 1226/STJ, mas registrou expressamente a ressalva de seu ponto de vista pessoal, consignando que estava ausente da jurisdição quando daquele julgamento anterior e que, se estivesse julgando a matéria ab initio, decidiria em sentido oposto, alinhando-se à ressalva manifestada pela Min. Maria Thereza de Assis Moura.\n- **Tese fixada:** No regime do Stock Option Plan previsto no art. 168, § 3º, da Lei n. 6.404/1976, por se tratar de operação de natureza mercantil, conforme definido no Tema 1226 do STJ, não incidem a contribuição previdenciária patronal e as destinadas a terceiros no momento do exercício da opção de compra de ações, por não configurar remuneração destinada a retribuir o trabalho.\n- **Resumo da discussão:** Em sustentação oral pela Fazenda Nacional, a Procuradora Dra. Raquel Godói de Miranda Araújo sustentou que o entendimento firmado no Tema 1226/STJ (restrito ao imposto de renda das pessoas físicas) não poderia ser automaticamente transposto para as contribuições previdenciárias (arts. 22, I, e 28, I, da Lei n. 8.212/1991 e art. 195, I, a, da CF), argumentando que: (i) a materialidade previdenciária alcança ganhos habituais sob a forma de utilidades; (ii) sob a ótica da companhia outorgante, a entrega de ações com expressivo deságio após período de carência (vesting) retribui exclusivamente o trabalho fidelizado e alinhado a metas; (iii) o STF, ao recusar a repercussão geral do RE interposto no próprio paradigma do Tema 1226/STJ, assentou que a natureza do plano depende das cláusulas contratuais concretas; e (iv) a exclusão definitiva das stock options retiraria da base de financiamento da seguridade social a parcela mais expressiva da remuneração de altos executivos. O Relator, Min. Sérgio Kukina, elogiou a sustentação fazendária e concordou que a diversidade de materialidades tributárias exigia exame próprio, bem como registrou o pronunciamento do STF sobre o caráter infraconstitucional da matéria; contudo, superando o óbice da Súmula 7/STJ e partindo da qualificação jurídica assentada pela Primeira Seção no Tema 1226/STJ, reafirmou a natureza estritamente mercantil e não laboral-remuneratória do Stock Option Plan disciplinado no art. 168, § 3º, da Lei das S.A., concluindo pela não incidência das contribuições previdenciárias patronais e de terceiros no momento do exercício da opção e negando provimento a ambos os recursos especiais da Fazenda Nacional. A Min. Maria Thereza de Assis Moura e o Min. Herman Benjamin acompanharam o Relator em deferência ao colegiado, ressalvando seus entendimentos pessoais em sentido contrário, e a decisão foi proclamada à unanimidade.\n\n### 4. REsp 2.152.197/SP, REsp 2.152.255/SP e REsp 2.174.050/SP (Tema 1324/STJ) - Responsabilidade solidária do alienante que não comunica a venda do veículo pelas infrações administrativas e de trânsito (Início: 01:09:02)\n- **Matéria:** 9. Poder de Polícia (Exceto Ambiental)\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Provido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Acompanhou o voto técnico do Relator por refletir a jurisprudência pacífica da Primeira e da Segunda Seção e a literalidade expressa do art. 134 do CTB (\"responsabilizar-se solidariamente\"), que veda ao intérprete judicial convolar a obrigação em subsidiária. Proferiu, entretanto, reflexão crítica apontando o dispositivo como exemplo de norma \"antipobre\", que ignora a realidade das vendas informais de veículos e motocicletas de baixo valor nas periferias e inviabiliza a subsistência de milhões de motoristas de aplicativos que têm a CNH suspensa ou bens penhorados por infrações de terceiros, concitando a Defensoria Pública a propor urgente alteração legislativa ao Congresso Nacional (a começar pelo Senado Federal).\n- **Tese fixada:** O proprietário alienante de veículo automotor que deixa de comunicar a venda ao órgão de trânsito competente, na forma e no prazo estabelecidos pelo art. 134 do Código de Trânsito Brasileiro, responde solidariamente pelas penalidades decorrentes das infrações administrativas e/ou de trânsito cometidas após a alienação e até a efetiva comunicação.\n- **Resumo da discussão:** Pelo Grupo de Atuação Estratégica das Defensorias Públicas Estaduais e Distrital (GAETS), sustentou oralmente o Defensor Público Dr. Carlos Eduardo Vieira, invocando a transmissão da propriedade móvel pela tradição (arts. 1.226 e 1.267 do Código Civil), a prevalência da realidade fática sobre o cadastro administrativo reconhecida pelo STF no Tema 708/RG, o princípio constitucional da intranscendência das penas (art. 257, § 3º, do CTB) e o grave impacto social sobre cerca de 2 milhões de trabalhadores de transporte por aplicativo e hipossuficientes que realizam vendas informais sem comunicação ao Detran. O Relator, Min. Paulo Sérgio Domingues, distinguiu os efeitos civis da tradição (arts. 1.226 e 1.267 do CC) e a responsabilidade tributária por IPVA (excepcionada pela Súmula 585/STJ) do dever jurídico-administrativo autônomo imposto pelo art. 134 do CTB, cuja finalidade é preservar a confiabilidade do cadastro público de veículos para fins de fiscalização, segurança viária e imputação de responsabilidades administrativas, civis e penais. Diante da literalidade do preceito legal e da jurisprudência consolidada de ambas as Turmas de Direito Público, votou pela fixação da tese da responsabilidade solidária do alienante omisso, sem modulação de efeitos, dando provimento aos três recursos especiais interpostos pela ANTT. Após a intervenção crítica do Min. Herman Benjamin e esclarecimento adicional do Relator quanto à distinção em relação à Súmula 585/STJ, o colegiado aprovou a tese e proveu os recursos por unanimidade.\n\n### 5. REsp 2.234.888, REsp 2.249.171/CE e REsp 2.250.737/PE (Tema 1433/STJ) - Limites subjetivos e territoriais do título executivo coletivo da ACP n. 0005019-15.1997.4.03.6000 sobre o reajuste de 28,86% (Início: 01:26:35)\n- **Matéria:** 4. Servidor Público Civil e Militar\n- **Relator:** Min. Afrânio Vilela\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (vista regimental do Relator, Min. Afrânio Vilela)\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** [PROPOSTA] Definir se a sentença coletiva proferida na Ação Civil Pública n. 0005019-15.1997.4.03.6000 (1ª Vara Federal de Campo Grande/MS), que reconheceu o direito ao reajuste de 28,86%, estende seus efeitos a servidores públicos federais não domiciliados no Estado de Mato Grosso do Sul e se alcança servidores pertencentes aos quadros de autarquias e fundações federais não arroladas no aditamento à petição inicial.\n- **Resumo da discussão:** A controvérsia repetitiva consiste em definir o alcance territorial e subjetivo do título judicial transitado em julgado em 2019 na ACP n. 0005019-15.1997.4.03.6000, ajuizada pelo MPF perante a 1ª Vara Federal de Campo Grande/MS para assegurar o reajuste de 28,86% (Leis n. 8.622/1993 e n. 8.627/1993 e Súmula Vinculante 51). Pela União e pelas autarquias federais (DNIT, FUNASA e INSS), sustentaram oralmente a Dra. Thaís Ferreira e o Dr. Fábio Monnerat que: (i) no aditamento à inicial, o próprio MPF delimitou o pedido ao arrolar oito autarquias e fundações (IBAMA, INCRA, INSS, DNER/DNIT, UFMS, FUNASA, IBGE e FUNAI) especificando que suas repartições \"neste Estado\" (Mato Grosso do Sul) receberiam os efeitos da sentença; (ii) a limitação decorre do próprio pedido e da boa-fé objetiva (arts. 5º, 322, § 2º, 489, § 3º, e 508 do CPC), e não do art. 16 da LACP, que sequer foi invocado no título; (iii) o MPF ajuizou ações idênticas em outros Estados (como Bahia e Rio Grande do Sul) e, após o cumprimento para os servidores de Mato Grosso do Sul, requereu o arquivamento do feito original dando-o por integralmente cumprido; e (iv) a aplicação retroativa do Tema 1075/STF (julgado em 2021) a título transitado em julgado em 2019 esbarraria no Tema 733/STF. Pelos exequentes e entidades sindicais/associativas (Bernadete Souza Filha, Sindicato dos Trabalhadores em Empresas Ferroviárias do Nordeste, Maria Jucineide, Sindifisco, Fenasps e Unafisco Nacional), sustentaram os Drs. Eduardo Costa Nassur, Jean Paulo, Rafael Neves Rego, Fernando Pereira Abreu, Cláudio Santos e Sérgio Ludmer que: (i) a inicial e o dispositivo da sentença asseguraram o reajuste a \"todos os servidores públicos civis federais, ativos, inativos e pensionistas\", estabelecendo apenas duas exclusões subjetivas (litigantes em outras ações e signatários de acordo administrativo da MP n. 1.704), sem nenhuma restrição geográfica; (ii) a alusão às repartições em Mato Grosso do Sul no aditamento destinou-se apenas a indicar o endereço local de citação, conforme parecer do próprio MPF nos autos; (iii) a União jamais suscitou limitação territorial na fase de conhecimento ou recursal; e (iv) a jurisprudência do STJ já afastava a limitação territorial desde os Temas 480 e 481 (2011), oito anos antes do trânsito em julgado. Pelo Ministério Público Federal (custos legis), o Subprocurador-Geral da República Dr. Eitel Santiago de Brito Pereira manifestou-se pelo provimento dos recursos dos entes públicos e desprovimento dos recursos dos exequentes, sustentando que a demanda não foi proposta nem julgada em âmbito nacional, que o MPF ajuizou ações análogas em outros Estados e que a expansão tardia do título violaria a coisa julgada, a prescrição quinquenal (Decreto n. 20.910/1932) e a segurança jurídica (Tema 733/STF). Encerradas as sustentações, o Relator, Min. Afrânio Vilela, pediu vista regimental para reavaliar os pontos debatidos e os memoriais recebidos.\n\n### 6. REsp 2.213.084/RJ e REsp 2.227.232/RS (Tema 1386/STJ) - Imprescritibilidade do fundo de direito à pensão por morte de servidor público mesmo após indeferimento administrativo (Início: 02:32:55)\n- **Matéria:** 4. Servidor Público Civil e Militar\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Provido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas no período de 5 (cinco) anos anteriores ao ajuizamento da ação.\n- **Resumo da discussão:** Assumindo a presidência para o pregão do feito, o Min. Paulo Sérgio Domingues concedeu a palavra à Procuradora do Estado do Rio de Janeiro, Dra. Juliana Florentino de Moura, que defendeu a incidência da prescrição quinquenal do próprio fundo de direito (art. 1º do Decreto n. 20.910/1932, Súmula 85/STJ e Tema 1410/STJ) a partir da ciência do indeferimento administrativo expresso do pedido de pensão por morte no Regime Próprio de Previdência Social (RPPS), sustentando que a ADI 6.096/STF restringiu-se ao Regime Geral (RGPS), que a imprescritibilidade prejudica o contraditório e a prova administrativa após décadas (no caso do RJ, o óbito ocorreu em 1978 e o requerimento em 2014) e pleiteando, subsidiariamente, a vedação de pagamento retroativo em duplicidade quando a pensão integral já houver sido paga de boa-fé a outro dependente habilitado (a mãe da autora) e o retorno dos autos à origem para exame da legislação estadual. O Relator, Min. Gurgel de Faria, votou pelo afastamento da prescrição do fundo de direito, fundamentando que o STF, na ADI 6.096, assentou que institutos extintivos do próprio direito fundamental à concessão de benefício previdenciário nas hipóteses de indeferimento administrativo violam o núcleo essencial do direito social à previdência, e que essa ratio decidendi não comporta distinção entre o RGPS e o RPPS, sob pena de impor tratamento mais gravoso aos dependentes de servidores públicos em afronta à dignidade da pessoa humana e à coerência do sistema. Afastou a modulação de efeitos por inexistir inovação ou jurisprudência pacífica anterior em sentido contrário e, nos casos concretos do Rio de Janeiro e do Rio Grande do Sul, deu provimento aos recursos especiais tão somente para afastar a prescrição do fundo de direito, determinando o retorno dos autos aos tribunais de origem para que examinem as demais questões de mérito e peculiaridades locais (inclusive eventual pagamento anterior a outro beneficiário e aplicação da legislação estadual). Os patronos da recorrente e do amicus curiae (IBDP) dispensaram a palavra, e o colegiado aprovou o voto e a tese por unanimidade.\n\n### 7. REsp 2.150.097/CE, REsp 2.150.848/RS, REsp 2.150.894/SC e REsp 2.151.146/RS (Tema 1364/STJ) - Vedação ao creditamento de PIS e COFINS no regime não cumulativo sobre o ICMS incidente na operação de aquisição (Início: 02:52:48)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** É vedada a apuração de créditos da Contribuição ao PIS e da COFINS, no regime não cumulativo, sobre o valor do ICMS que tenha incidido sobre a operação de aquisição, nos termos do art. 3º, § 2º, III, das Leis n. 10.637/2002 e n. 10.833/2003, incluído pela Lei n. 14.592/2023.\n- **Resumo da discussão:** Pelos contribuintes recorrentes (DL Transporte e Logística Nacional Ltda., Aromitalia do Brasil Ltda. e Anderle Transportes Ltda.) e pela amicus curiae Federação das Indústrias do Estado do Paraná (FIEP), sustentaram oralmente os Drs. Marcel Viana Pereira da Costa, Bruno Rodrigues, Marcelo Tonette Júnior e Ariane Costa Guimarães que: (i) na sistemática não cumulativa do PIS e da COFINS (método subtrativo indireto, art. 3º, § 1º, I, das Leis n. 10.637/2002 e n. 10.833/2003), a base de cálculo do crédito é o valor/custo de aquisição do bem ou insumo (art. 13 do Decreto-Lei n. 1.598/1977), grandeza jurídica distinta da receita bruta do vendedor objeto do Tema 69/STF; (ii) diferentemente do IPI não recuperável (Tema 1373/STJ) e do ICMS-ST (Tema 1231/STJ), que incidem \"por fora\", o ICMS próprio incide \"por dentro\" (Lei Kandir) e integra intrinsecamente o preço de aquisição, conforme reconhecido pela própria PGFN no Parecer SEI n. 12.943/2021; (iii) ao menos quanto ao ICMS irrecuperável suportado por prestadores de serviços (como transportadoras) e exportadores, o imposto estadual constitui custo efetivo que comporá a base de saída tributada; e (iv) a vedação introduzida pela MP n. 1.159/2023 e pela Lei n. 14.592/2023 desnatura a não cumulatividade constitucional (art. 195, § 12, da CF), justificando o provimento dos recursos ou a instauração de incidente de inconstitucionalidade perante a Corte Especial. O Relator, Min. Paulo Sérgio Domingues, destacou que o art. 195, § 12, da Constituição confere autonomia ao legislador ordinário para definir os critérios de operacionalização da não cumulatividade do PIS e da COFINS (Tema 756/STF) e que a inclusão do inciso III ao § 2º do art. 3º das Leis n. 10.637/2002 e n. 10.833/2003 pela Lei n. 14.592/2023 (precedida pela MP n. 1.159/2023, observada a anterioridade nonagesimal a partir de 1º/5/2023) preserva a coerência lógica do sistema não cumulativo, uma vez que o ICMS destacado na nota fiscal não integra a base de cálculo das contribuições na operação antecedente por força do Tema 69/STF, alinhando-se aos precedentes vinculantes que afastam o creditamento quando não há incidência na etapa anterior (Temas 1093 e 1231 do STJ, Tema 844/STF e Súmula Vinculante 58). Assim, votou pela fixação da tese vedando o creditamento e, nos casos concretos, conheceu parcialmente e negou provimento aos recursos de finais 097/CE, 848/RS e 894/SC e negou provimento ao recurso de final 1.146/RS, sendo acompanhado à unanimidade pelo colegiado.\n\n### 8. REsp 2.239.204/CE e REsp 2.239.250/SE (Tema 1454/STJ) - Taxatividade das hipóteses de dispensa de honorários advocatícios previstas no art. 19, § 1º, I, da Lei n. 10.522/2002 (Início: 03:27:23)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (após o voto do Relator, pediu vista antecipada o Min. Paulo Sérgio Domingues; aguardam os demais)\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** [PROPOSTA] A dispensa de condenação em honorários do ente público federal a que se refere o art. 19, § 1º, I, da Lei n. 10.522/2002 se restringe às hipóteses dos incisos I a VII do caput, tratando-se de enumeração legal exaustiva.\n- **Resumo da discussão:** A controvérsia repetitiva consiste em definir se a dispensa de condenação em honorários advocatícios prevista no art. 19, § 1º, I, da Lei n. 10.522/2002, quando o ente público federal reconhece a procedência do pedido ou desiste de execução fiscal antes da sentença ou após embargos, restringe-se às hipóteses elencadas nos incisos do caput do art. 19 ou alcança outras hipóteses previstas em atos normativos internos de redução de litigiosidade da PGFN e da PGF. Pela Fazenda Nacional e pela Agência Nacional de Saúde Suplementar (ANS), sustentaram oralmente a Dra. Sara Mendes Carcará e o Dr. Gabriel de Melo Galvão que a norma deve receber interpretação sistemática e teleológica para prestigiar a política pública de desjudicialização e os acordos de cooperação técnica firmados entre a AGU e o STJ (que já reduziram milhões de processos), invocando precedente da Primeira Turma de relatoria do Min. Paulo Sérgio Domingues (REsp 2.023.326/SC) segundo o qual impor sucumbência quando a Fazenda reconhece o pedido por análise de custo-benefício regulamentada internamente desestimularia a desistência e fomentaria a litigância. O Relator, Min. Sérgio Kukina, embora enaltecendo os acordos de cooperação institucional para redução da litigiosidade, ressaltou que a jurisprudência consolidada da Primeira Seção (a exemplo da Súmula 153/STJ e de julgados relatados pela saudosa Min. Assusete Magalhães) interpreta restritivamente as regras isentivas de honorários sucumbenciais, dada a natureza alimentar da verba pertencente ao advogado (art. 85, caput e § 14, do CPC) e o princípio da causalidade, concluindo que a expressão \"matérias de que trata este artigo\" contida no § 1º do art. 19 da Lei n. 10.522/2002 vincula estritamente a dispensa às hipóteses taxativas dos incisos I a VII do caput. Votou, assim, pela fixação da tese da taxatividade do rol legal, dando provimento ao REsp 2.239.204/CE (interposto pela Unimed contra a ANS) e negando provimento ao REsp 2.239.250/SE (interposto pela Fazenda Nacional). Na sequência, o Min. Paulo Sérgio Domingues pediu vista antecipada dos autos, aguardando os demais Ministros.\n\n### 9. REsp 1.809.093/CE, REsp 1.814.350/SE, REsp 1.950.981/PE e REsp 2.004.109/SE (Tema 1432/STJ) - Marco temporal de avaliação judicial do imóvel em desapropriações diretas, para reforma agrária e indiretas e juros compensatórios (Início: 03:47:23)\n- **Matéria:** 2. Desapropriação / Intervenção do Estado\n- **Relator:** Min. Afrânio Vilela\n- **Resultado:** Adiado\n- **Votação:** Aguardando conclusão (após a apresentação das teses pelo Relator e debates, o julgamento foi suspenso para proclamação conjunta das teses e dos quatro casos concretos na sessão seguinte)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Colaborou ativamente na redação e no aprimoramento técnico das subteses do voto do Relator, conforme agradecimento registrado pelo Min. Afrânio Vilela, e proferiu densa manifestação ressaltando a relevância do julgado para cerca de 90 mil ações expropriatórias no país e para a proteção do erário contra distorções históricas (como a condenação superior a 1 bilhão de dólares na desapropriação de 13.500 hectares de penhascos rochosos na Serra do Mar, em Ubatuba/SP). Enfatizou três pilares das teses: (i) a distinção entre os regimes da reforma agrária, da utilidade pública e da desapropriação indireta (item D1, fixando a data do apossamento administrativo como momento básico); (ii) o princípio da causalidade na demora pericial (item D2), estabelecendo que apenas o atraso imputável ao expropriante e reconhecido em decisão fundamentada dilata o limite temporal das teses B e C, enquanto a demora causada pelo expropriado, pelo serviço judiciário ou por terceiros jamais afasta nem dilata esse limite; e (iii) o desestímulo ao uso estratégico do prazo prescricional decenal como fábrica de créditos (\"máfia da desapropriação\"). Suscitou, por fim, a necessidade de explicitar nos casos concretos a não incidência de juros compensatórios em imóveis improdutivos (jurisprudência consolidada do STJ desde o Min. Teori Zavascki e do STF na ADI 2.332), distinguindo os dois recursos de reforma agrária (juros zero) dos dois recursos de regularização de território quilombola (juros de 6% ao ano), o que levou à suspensão consensual do julgamento para ajuste e proclamação conjunta na sessão seguinte.\n- **Tese fixada:** [PROPOSTA] (a) Nas desapropriações em geral, a contemporaneidade entre o preço e o valor indenizatório é definida pelo momento básico de sua aferição técnica, em regra correspondente ao preço de mercado do bem quando da realização da perícia judicial; (b) Nas desapropriações por utilidade pública ou interesse social, o momento básico não pode ser superior a 1 (um) ano desde a propositura da ação judicial; (c) Nas desapropriações para fins de reforma agrária, o momento básico não pode exceder 90 (noventa) dias desde a propositura da ação judicial; (d.1) Nas indenizações por desapropriação indireta, o momento básico corresponde à data do apossamento administrativo, devendo a perícia reconstituir o preço de mercado do bem nessa data, sem prejuízo da correção monetária e dos juros compensatórios na forma da lei; (d.2) Quando o expropriante der causa à demora na realização da primeira perícia, por fato a ele imputável e reconhecido em decisão fundamentada, o limite temporal das teses 'b' e 'c' será acrescido apenas do período de atraso que lhe for atribuível, sendo que a demora imputável ao expropriado, ao serviço judiciário ou a terceiro não afasta nem dilata esse limite; (e) As perícias realizadas após o prazo estipulado devem reportar-se ao preço de mercado do momento básico limite, mediante técnicas disponíveis no campo científico; (f) Em qualquer situação, as variações de preço decorrentes da própria ação estatal devem ser identificadas em separado pelo perito e descontadas do valor indenizatório fixado em juízo; (g) As teses incidem nos casos com perícias determinadas a partir da publicação deste acórdão, isto é, com peritos nomeados a partir deste momento.\n- **Resumo da discussão:** Pelo INCRA, sustentou oralmente o Procurador Federal Dr. Fábio Monnerat, expondo dados de valorização média anual de 23,9% das terras rurais no Brasil entre 2017 e 2024 e defendendo que a definição do marco temporal do valor do imóvel desapropriado deve variar conforme o rito processual em quatro hipóteses: (i) data da perícia judicial apenas nas desapropriações ordinárias sem imissão provisória na posse; (ii) data do depósito prévio nas desapropriações ordinárias com imissão liminar na posse; (iii) data do laudo administrativo de vistoria e avaliação nas desapropriações por interesse social para reforma agrária (LC n. 76/1993); e (iv) data do efetivo apossamento administrativo nas desapropriações indiretas, sob pena de bis in idem entre a valorização imobiliária superveniente e a fluência retroativa de juros compensatórios e correção monetária. O Relator, Min. Afrânio Vilela, apresentou amplo voto histórico e doutrinário (reportando-se a Seabra Fagundes, Rui Barbosa e Cretella Júnior, ao art. 26, § 2º, do Decreto-Lei n. 3.365/1941, à LC n. 76/1993 e às estatísticas do CNJ de mais de 90 mil processos expropriatórios no país, com tempo médio de 6 anos até a perícia), demonstrando que a justa indenização deve refletir o valor de mercado contemporâneo ao momento básico previsto pelo legislador, cabendo à correção monetária recompor a inflação posterior, sem transferir ao erário a especulação imobiliária ou a mais-valia gerada pela própria obra estatal, e propôs a fixação das subteses A a G com modulação prospectiva para perícias determinadas a partir da publicação do acórdão. Após a intervenção do Min. Herman Benjamin — que destacou a precisão das subteses D1 e D2 e alertou para a impossibilidade de incidência de juros compensatórios em terras improdutivas nos casos concretos de reforma agrária (REsp 1.809.093/CE e REsp 1.950.981/PE, em contraposição aos REsp 1.814.350/SE e REsp 2.004.109/SE, relativos à regularização de territórios quilombolas, nos quais os juros são reduzidos de 12% para 6% ao ano) —, o colegiado manifestou consenso em torno das teses e deliberou suspender o julgamento para a sessão seguinte a fim de que o Relator ajuste o dispositivo do primeiro caso concreto e se proceda à proclamação conjunta das teses e dos quatro recursos afetados.\n\n### 10. REsp 2.238.885 e REsp 2.238.889 (Tema 1415/STJ) - Adiamento de apresentação de voto-vista em recurso repetitivo (Início: 04:43:59)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Maria Thereza de Assis Moura\n- **Resultado:** Adiado\n- **Votação:** Aguardando conclusão (voto-vista do Min. Paulo Sérgio Domingues adiado para a sessão seguinte)\n- **Relevância:** Ordinária\n- **Tese fixada:** [PROPOSTA] Julgamento adiado para a próxima sessão para apresentação de voto-vista pelo Min. Paulo Sérgio Domingues.\n- **Resumo da discussão:** O Presidente Min. Gurgel de Faria anunciou o adiamento da continuidade do julgamento do Tema 1415/STJ (REsp 2.238.885 e REsp 2.238.889, de relatoria da Min. Maria Thereza de Assis Moura), no qual seria apresentado voto-vista pelo Min. Paulo Sérgio Domingues, ficando acordado entre o Ministro vistor e a Relatora o adiamento para a sessão seguinte em razão da redução do quórum ao final da sessão.\n\n### 11. EDcl [Processo não identificado] (Embargados: Wilson de Menezes Dias e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul) - Embargos de declaração em matéria de perseguidos políticos (Início: 04:44:40)\n- **Matéria:** 7. Responsabilidade Civil da Administração\n- **Relator:** Min. Afrânio Vilela\n- **Resultado:** Desprovido (embargos de declaração rejeitados)\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado, impõe-se a rejeição dos embargos de declaração.\n- **Resumo da discussão:** Apregoado como preferência por questão de fato no encerramento da sessão, com acompanhamento por videoconferência do advogado Dr. Stephan Guimarães Emerim (representando os embargados Wilson de Menezes Dias e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul), o Relator, Min. Afrânio Vilela, votou pela rejeição dos embargos de declaração por ausência de quaisquer vícios integrativos no acórdão embargado, sendo acompanhado à unanimidade pelo colegiado.\n\n## Estatísticas\n- Total de processos apreciados: 11\n- Providos: 3 | Desprovidos: 3 | Parcialmente providos: 0 | Pedidos de vista / Adiados / Outros: 5\n- Processos com atuação destacada do Min. Herman Benjamin: 4"
+    "content": "# Resumo — Primeira Seção — 14/10/2026\n\n**Vídeo:** [Primeira Seção - STJ -  14/10/2026](https://www.youtube.com/watch?v=59Xi4wO9VVs)\n**Data:** 14/10/2026\n**Duração:** 4h 47min\n**Órgão:** Primeira Seção\n\n---\n\n## Atuação e Manifestações do Min. Herman Benjamin\n- **Questão de Ordem no REsp 1.826.796/SC / Tema 1220/STJ (Início: 00:31:49):** Solicitou esclarecimentos à Min. Maria Thereza de Assis Moura e ao Presidente Min. Gurgel de Faria acerca dos fundamentos para a manutenção da afetação do recurso repetitivo relativo à interrupção da prescrição pelo Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS (art. 202, VI, do Código Civil). Ponderou que, diferentemente da praxe recomendável de afetar três a cinco processos representativos para prevenir óbices de admissibilidade ou dúvidas documentais, apenas um recurso especial havia sido afetado ao Tema 1220/STJ, e propôs solução intermediária ao Relator, Min. Teodoro Silva Santos, consistente em manter a relatoria e agregar outros recursos especiais livres de óbices. Esclarecido pelo Presidente e pela Min. Maria Thereza de Assis Moura que o processo provinha de Incidente de Resolução de Demandas Repetitivas (IRDR) com transcrição integral do memorando no acórdão recorrido, o Min. Herman Benjamin registrou que, fiel à sua diretriz na Corte Especial de não divergir do relator que propõe a desafetação de repetitivo, acompanhava o Relator pelo acolhimento da questão de ordem e desafetação do tema.\n- **REsp 2.070.059/SP e REsp 2.199.631/SP / Tema 1379/STJ (Início: 01:07:59):** No julgamento repetitivo sobre a não incidência de contribuição previdenciária patronal e de terceiros nos planos de opção de compra de ações (Stock Option Plan, art. 168, § 3º, da Lei n. 6.404/1976), acompanhou o Relator, Min. Sérgio Kukina, em respeito à orientação colegiada já firmada pela Primeira Seção no Tema 1226/STJ quanto à natureza mercantil da operação, mas deixou expressamente registrada a ressalva de seu entendimento pessoal, consignando que estava ausente da jurisdição por ocasião do julgamento do Tema 1226/STJ e que, se estivesse apreciando a matéria ab initio, votaria em sentido oposto, na mesma linha da ressalva manifestada pela Min. Maria Thereza de Assis Moura.\n- **REsp 2.152.197/SP, REsp 2.152.255/SP e REsp 2.174.050/SP / Tema 1324/STJ (Início: 01:22:00):** Acompanhou o voto do Relator, Min. Paulo Sérgio Domingues, reconhecendo que a tese reflete a jurisprudência pacífica da Primeira e da Segunda Seção e a literalidade inafastável do art. 134 do Código de Trânsito Brasileiro, que prevê expressamente a responsabilidade solidária do proprietário alienante que não comunica a venda do veículo ao órgão de trânsito pelas infrações cometidas até a efetiva comunicação. Formulou, contudo, contundente crítica social e legislativa ao dispositivo, qualificando-o como norma antipobre que penaliza severamente cidadãos vulneráveis e trabalhadores de aplicativos nas vendas informais de veículos e motocicletas de baixo valor. Diante do quase fechamento das portas do Poder Judiciário decorrente da fixação de tese repetitiva, exortou a Defensoria Pública, como cidadão, a apresentar urgente proposição de alteração legislativa ao Congresso Nacional, iniciando pelo Senado Federal, para substituir a solidariedade por responsabilidade subsidiária ou instituir mecanismos digitais simplificados de comunicação da tradição.\n- **REsp 1.809.093/CE, REsp 1.814.350/SE, REsp 1.950.981/PE e REsp 2.004.109/SE / Tema 1432/STJ (Início: 04:24:14):** Teve participação decisiva na construção e no aperfeiçoamento redacional das subteses do Tema 1432/STJ sobre o marco temporal (momento básico) da avaliação pericial nas desapropriações, recebendo agradecimento expresso do Relator, Min. Afrânio Vilela. Destacou a relevância financeira e intergeracional do julgamento para cerca de 90 mil processos expropriatórios em curso no país, recordando distorções históricas como a desapropriação de 13.500 hectares de penhascos rochosos no Parque Estadual da Serra do Mar, em Ubatuba/SP, que gerou condenação superior a 1 bilhão de dólares. Ressaltou três eixos estruturantes consolidados nas teses: (i) a distinção rigorosa entre os regimes da desapropriação para reforma agrária (momento básico de até 90 dias da propositura da ação), da desapropriação por utilidade pública (até 1 ano da propositura) e da desapropriação indireta (item D1, fixando a data do apossamento administrativo como momento básico); (ii) a aplicação estrita da causalidade na demora pericial (item D2), segundo a qual apenas o atraso imputável ao expropriante e reconhecido em decisão fundamentada dilata o limite temporal das teses B e C, enquanto a demora atribuível ao expropriado, ao serviço judiciário ou a terceiros jamais afasta nem dilata esse limite; e (iii) o combate ao uso estratégico de prazos prescricionais decenais como fábrica de créditos supervenientes. Por fim, suscitou a necessidade de explicitar nos casos concretos a vedação de juros compensatórios sobre imóveis improdutivos (jurisprudência consolidada do STJ desde o Min. Teori Zavascki e do STF na ADI 2.332), diferenciando os dois processos de reforma agrária (juros zero) dos dois processos de regularização de território quilombola (juros de 6% ao ano), o que ensejou a suspensão consensual do julgamento para ajuste e proclamação conjunta na sessão seguinte.\n\n## Destaques da Sessão\n- **Tema 1379/STJ (REsp 2.070.059/SP e REsp 2.199.631/SP) — Stock Option Plan e Contribuições Previdenciárias:** A Primeira Seção, por unanimidade, fixou tese repetitiva no sentido de que, no regime do Stock Option Plan (art. 168, § 3º, da Lei n. 6.404/1976), por se tratar de operação de natureza mercantil conforme definido no Tema 1226/STJ, não incidem a contribuição previdenciária patronal e as destinadas a terceiros no momento do exercício da opção de compra de ações, por não configurar remuneração destinada a retribuir o trabalho, com ressalva de entendimento pessoal da Min. Maria Thereza de Assis Moura e do Min. Herman Benjamin.\n- **Tema 1324/STJ (REsp 2.152.197/SP, REsp 2.152.255/SP e REsp 2.174.050/SP) — Responsabilidade Solidária do Alienante de Veículo Automotor (Art. 134 do CTB):** O colegiado reafirmou por unanimidade, sob o rito dos recursos repetitivos, que o proprietário alienante de veículo automotor que deixa de comunicar a venda ao órgão de trânsito competente responde solidariamente pelas penalidades decorrentes das infrações administrativas e/ou de trânsito cometidas após a alienação e até a efetiva comunicação, distinguindo a responsabilidade administrativa da responsabilidade tributária por IPVA (Súmula 585/STJ), com importante reflexão crítica do Min. Herman Benjamin sobre o impacto social da norma e exortação à Defensoria Pública por reforma legislativa.\n- **Tema 1386/STJ (REsp 2.213.084/RJ e REsp 2.227.232/RS) — Imprescritibilidade do Fundo de Direito à Pensão por Morte de Servidor Público:** Aplicando a ratio decidendi firmada pelo STF na ADI 6.096 ao Regime Próprio de Previdência Social, a Primeira Seção fixou, à unanimidade, a tese repetitiva de que o direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas nos cinco anos anteriores ao ajuizamento da ação.\n- **Tema 1364/STJ (REsp 2.150.097/CE, REsp 2.150.848/RS, REsp 2.150.894/SC e REsp 2.151.146/RS) — Vedação ao Creditamento de PIS/COFINS sobre o ICMS Incidente na Aquisição:** Por unanimidade, o colegiado fixou tese repetitiva validando a vedação de apuração de créditos da Contribuição ao PIS e da COFINS, no regime não cumulativo, sobre o valor do ICMS incidente na operação de aquisição, nos termos do art. 3º, § 2º, III, das Leis n. 10.637/2002 e n. 10.833/2003, incluído pela Lei n. 14.592/2023 (oriunda da MP n. 1.159/2023), a partir de 1º/5/2023.\n- **Tema 1432/STJ (REsp 1.809.093/CE, REsp 1.814.350/SE, REsp 1.950.981/PE e REsp 2.004.109/SE) — Marco Temporal da Avaliação Judicial nas Desapropriações e Juros Compensatórios:** Em debate de alta densidade doutrinária e prática conduzido pelo Relator, Min. Afrânio Vilela, com expressiva contribuição do Min. Herman Benjamin, o colegiado estruturou sete subteses (A a G) disciplinando o momento básico de aferição do preço nas desapropriações por utilidade pública (limite de 1 ano da propositura), para reforma agrária (limite de 90 dias da propositura) e indiretas (data do apossamento administrativo), a regra de causalidade na demora pericial, o decote da mais-valia decorrente da obra estatal e a modulação prospectiva para perícias determinadas a partir da publicação do acórdão, suspendendo a proclamação final para a sessão seguinte a fim de ajustar a solução dos quatro casos concretos quanto aos juros compensatórios.\n- **Tema 1433/STJ (Limites do Título Coletivo dos 28,86% de Mato Grosso do Sul) e Tema 1454/STJ (Dispensa de Honorários na Lei n. 10.522/2002):** Dois importantes recursos repetitivos tiveram pedidos de vista: no Tema 1433/STJ, após oito sustentações orais e parecer do Ministério Público Federal sobre o alcance territorial e subjetivo da ACP n. 0005019-15.1997.4.03.6000, o Relator, Min. Afrânio Vilela, pediu vista regimental; no Tema 1454/STJ, após o voto do Relator, Min. Sérgio Kukina, pela taxatividade do rol do art. 19, caput, da Lei n. 10.522/2002 para fins de dispensa de honorários sucumbenciais, pediu vista antecipada o Min. Paulo Sérgio Domingues.\n- **Questão de Ordem no REsp 1.826.796/SC (Tema 1220/STJ) — Desafetação de Repetitivo por Maioria:** Por maioria (5 votos a 3, vencidos a Min. Maria Thereza de Assis Moura, o Min. Marco Aurélio Bellizze e o Min. Sérgio Kukina, com abstenção do Presidente Min. Gurgel de Faria pelo princípio da simetria), a Seção acolheu questão de ordem proposta pelo Relator, Min. Teodoro Silva Santos, para desafetar o REsp 1.826.796/SC e cancelar o Tema 1220/STJ diante de óbices processuais ao conhecimento do recurso.\n\n## Processos Julgados\n\n### 1. REsp 2.053.569/AM, REsp 2.146.834/AP, REsp 2.034.824/RJ, EREsp 1.793.915/RJ, REsp 2.186.838/MG e REsp 1.957.818/SP - Adiamentos anunciados na abertura (Temas 1244, 1302, 1275 e 1397/STJ e IAC 21/STJ) e aprovação de bloco (Início: 00:21:32)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Adiado\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** [PROPOSTA] Adiamento de julgamento dos processos constantes da relação anunciada na abertura da sessão e aprovação à unanimidade dos dois feitos integrantes da lista em bloco sem destaques.\n- **Resumo da discussão:** Na abertura dos trabalhos, foram anunciados os adiamentos do Tema 1244/STJ (REsp 2.053.569/AM, REsp 2.053.647/AM e REsp 2.046.893/AM, de relatoria do Min. Marco Aurélio Bellizze), dos votos-vista do Min. Paulo Sérgio Domingues no Tema 1302/STJ (REsp 2.146.834/AP e REsp 2.146.839/AP), no Tema 1275/STJ (REsp 2.034.824/RJ, REsp 2.170.082/SP e REsp 2.170.092/SP) e nos EREsp 1.793.915/RJ e EREsp 1.997.816/RJ, dos votos-vista do Min. Sérgio Kukina no Tema 1397/STJ (REsp 2.186.838/MG e REsp 2.148.056/SP) e da vista regimental do Min. Afrânio Vilela no IAC 21/STJ (REsp 1.957.818/SP). Na sequência, às 00:24:27, o Presidente Min. Gurgel de Faria submeteu ao colegiado os dois processos constantes do bloco sem destaques (Itens 40 e 41 da pauta — EDcl no REsp 2.166.208/RS e EDcl no REsp 2.164.724/RS, Tema 1307/STJ), que foram aprovados à unanimidade, seguindo-se homenagem institucional pelo aniversário da Min. Maria Thereza de Assis Moura.\n\n### 2. QO no REsp 1.826.796/SC (Tema 1220/STJ) - Desafetação de repetitivo sobre o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS como marco interruptivo da prescrição (Início: 00:26:29)\n- **Matéria:** 11. Direito Previdenciário\n- **Relator:** Min. Teodoro Silva Santos\n- **Resultado:** Provido (acolhida a questão de ordem para desafetar o processo e cancelar o Tema 1220/STJ)\n- **Votação:** Maioria (vencidos a Min. Maria Thereza de Assis Moura, o Min. Marco Aurélio Bellizze e o Min. Sérgio Kukina)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Pediu esclarecimentos à Min. Maria Thereza de Assis Moura e ao Presidente Min. Gurgel de Faria sobre as razões contrárias à desafetação, ponderando que apenas um recurso especial fora afetado ao Tema 1220/STJ, quando a boa técnica recomenda afetar múltiplos feitos para prevenir óbices formais ou documentais, e sugeriu solução intermediária consistente em manter a afetação sob a relatoria do Min. Teodoro Silva Santos com o acréscimo de outros processos representativos. Esclarecido de que o feito provinha de IRDR com o memorando integralmente transcrito no acórdão de origem, declarou acompanhar o Relator pela desafetação, fiel à orientação que adota na Corte Especial de não divergir do relator que propõe a desafetação de recurso repetitivo.\n- **Tese fixada:** Em virtude de óbices intransponíveis para o conhecimento do recurso especial, impõe-se a sua desafetação do regime dos recursos repetitivos, bem como o cancelamento do Tema n. 1220/STJ, determinando-se a respectiva tramitação pelo rito dos recursos especiais comuns na Segunda Turma. [VOTO VENCIDO] A transcrição integral do Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS no acórdão proferido em IRDR pelo tribunal de origem afasta o óbice da Súmula 7/STJ e permite o exame direto da alegada violação ao art. 202, VI, do Código Civil quanto à caracterização de marco interruptivo da prescrição.\n- **Resumo da discussão:** O Presidente Min. Gurgel de Faria anunciou inicialmente que, pelo princípio da simetria (já que o Presidente da Seção não vota na afetação), abster-se-ia de votar na questão de ordem de desafetação, embora houvesse encaminhado reflexão prévia aos pares. O Relator, Min. Teodoro Silva Santos, propôs a desafetação do REsp 1.826.796/SC e o cancelamento do Tema 1220/STJ (que visava definir se o Memorando Circular Conjunto n. 21/DIRBEN/PFE/INSS configura marco interruptivo do prazo prescricional nas demandas de revisão de benefício previdenciário, nos termos do art. 202, VI, do Código Civil), apontando precedentes que aplicaram óbices de conhecimento à qualificação jurídica de ato administrativo infralegal. A Min. Maria Thereza de Assis Moura abriu divergência para manter a afetação, secundada pelas ponderações do Presidente Min. Gurgel de Faria, ressaltando que o recurso se originava de IRDR cujo acórdão transcrevera na íntegra o memorando circular, tratando-se de qualificação jurídica direta à luz do art. 202 do Código Civil, sem óbice da Súmula 7/STJ. O Min. Herman Benjamin sugeriu agregar novos processos representativos à afetação, mas, diante da explicação de que o feito já era oriundo de IRDR e seguindo sua praxe na Corte Especial de prestigiar o relator que propõe desafetação, acompanhou o Min. Teodoro Silva Santos. O Min. Afrânio Vilela, a Min. Regina Helena Costa e o Min. Paulo Sérgio Domingues também acompanharam o Relator (destacando o Min. Afrânio Vilela a ausência de utilidade prática da afetação diante do cumprimento administrativo do memorando e da interpretação feita pelo tribunal local), enquanto os Mins. Marco Aurélio Bellizze e Sérgio Kukina acompanharam a divergência da Min. Maria Thereza de Assis Moura. Ao final, por maioria, a Seção acolheu a questão de ordem para desafetar o recurso e cancelar o Tema 1220/STJ.\n\n### 3. REsp 2.070.059/SP e REsp 2.199.631/SP (Tema 1379/STJ) - Não incidência de contribuição previdenciária patronal e de terceiros sobre Stock Option Plan (Início: 00:45:09)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime (com ressalva de entendimento pessoal da Min. Maria Thereza de Assis Moura e do Min. Herman Benjamin)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Acompanhou o voto do Relator em observância à orientação firmada pela maioria do colegiado no Tema 1226/STJ, mas registrou expressamente a ressalva de seu ponto de vista pessoal, consignando que estava ausente da jurisdição quando daquele julgamento anterior e que, se estivesse julgando a matéria ab initio, decidiria em sentido oposto, alinhando-se à ressalva manifestada pela Min. Maria Thereza de Assis Moura.\n- **Tese fixada:** No regime do Stock Option Plan previsto no art. 168, § 3º, da Lei n. 6.404/1976, por se tratar de operação de natureza mercantil, conforme definido no Tema 1226 do STJ, não incidem a contribuição previdenciária patronal e as destinadas a terceiros no momento do exercício da opção de compra de ações, por não configurar remuneração destinada a retribuir o trabalho.\n- **Resumo da discussão:** Em sustentação oral pela Fazenda Nacional, a Procuradora Dra. Raquel Godói de Miranda Araújo sustentou que o entendimento firmado no Tema 1226/STJ (restrito ao imposto de renda das pessoas físicas) não poderia ser automaticamente transposto para as contribuições previdenciárias (arts. 22, I, e 28, I, da Lei n. 8.212/1991 e art. 195, I, a, da CF), argumentando que: (i) a materialidade previdenciária alcança ganhos habituais sob a forma de utilidades; (ii) sob a ótica da companhia outorgante, a entrega de ações com expressivo deságio após período de carência (vesting) retribui exclusivamente o trabalho fidelizado e alinhado a metas; (iii) o STF, ao recusar a repercussão geral do RE interposto no próprio paradigma do Tema 1226/STJ, assentou que a natureza do plano depende das cláusulas contratuais concretas; e (iv) a exclusão definitiva das stock options retiraria da base de financiamento da seguridade social a parcela mais expressiva da remuneração de altos executivos. O Relator, Min. Sérgio Kukina, elogiou a sustentação fazendária e concordou que a diversidade de materialidades tributárias exigia exame próprio, bem como registrou o pronunciamento do STF sobre o caráter infraconstitucional da matéria; contudo, superando o óbice da Súmula 7/STJ e partindo da qualificação jurídica assentada pela Primeira Seção no Tema 1226/STJ, reafirmou a natureza estritamente mercantil e não laboral-remuneratória do Stock Option Plan disciplinado no art. 168, § 3º, da Lei das S.A., concluindo pela não incidência das contribuições previdenciárias patronais e de terceiros no momento do exercício da opção e negando provimento a ambos os recursos especiais da Fazenda Nacional. A Min. Maria Thereza de Assis Moura e o Min. Herman Benjamin acompanharam o Relator em deferência ao colegiado, ressalvando seus entendimentos pessoais em sentido contrário, e a decisão foi proclamada à unanimidade.\n\n### 4. REsp 2.152.197/SP, REsp 2.152.255/SP e REsp 2.174.050/SP (Tema 1324/STJ) - Responsabilidade solidária do alienante que não comunica a venda do veículo pelas infrações administrativas e de trânsito (Início: 01:09:02)\n- **Matéria:** 9. Poder de Polícia (Exceto Ambiental)\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Provido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Acompanhou o voto técnico do Relator por refletir a jurisprudência pacífica da Primeira e da Segunda Seção e a literalidade expressa do art. 134 do CTB (\"responsabilizar-se solidariamente\"), que veda ao intérprete judicial convolar a obrigação em subsidiária. Proferiu, entretanto, reflexão crítica apontando o dispositivo como exemplo de norma \"antipobre\", que ignora a realidade das vendas informais de veículos e motocicletas de baixo valor nas periferias e inviabiliza a subsistência de milhões de motoristas de aplicativos que têm a CNH suspensa ou bens penhorados por infrações de terceiros, concitando a Defensoria Pública a propor urgente alteração legislativa ao Congresso Nacional (a começar pelo Senado Federal).\n- **Tese fixada:** O proprietário alienante de veículo automotor que deixa de comunicar a venda ao órgão de trânsito competente, na forma e no prazo estabelecidos pelo art. 134 do Código de Trânsito Brasileiro, responde solidariamente pelas penalidades decorrentes das infrações administrativas e/ou de trânsito cometidas após a alienação e até a efetiva comunicação.\n- **Resumo da discussão:** Pelo Grupo de Atuação Estratégica das Defensorias Públicas Estaduais e Distrital (GAETS), sustentou oralmente o Defensor Público Dr. Carlos Eduardo Vieira, invocando a transmissão da propriedade móvel pela tradição (arts. 1.226 e 1.267 do Código Civil), a prevalência da realidade fática sobre o cadastro administrativo reconhecida pelo STF no Tema 708/RG, o princípio constitucional da intranscendência das penas (art. 257, § 3º, do CTB) e o grave impacto social sobre cerca de 2 milhões de trabalhadores de transporte por aplicativo e hipossuficientes que realizam vendas informais sem comunicação ao Detran. O Relator, Min. Paulo Sérgio Domingues, distinguiu os efeitos civis da tradição (arts. 1.226 e 1.267 do CC) e a responsabilidade tributária por IPVA (excepcionada pela Súmula 585/STJ) do dever jurídico-administrativo autônomo imposto pelo art. 134 do CTB, cuja finalidade é preservar a confiabilidade do cadastro público de veículos para fins de fiscalização, segurança viária e imputação de responsabilidades administrativas, civis e penais. Diante da literalidade do preceito legal e da jurisprudência consolidada de ambas as Turmas de Direito Público, votou pela fixação da tese da responsabilidade solidária do alienante omisso, sem modulação de efeitos, dando provimento aos três recursos especiais interpostos pela ANTT. Após a intervenção crítica do Min. Herman Benjamin e esclarecimento adicional do Relator quanto à distinção em relação à Súmula 585/STJ, o colegiado aprovou a tese e proveu os recursos por unanimidade.\n\n### 5. REsp 2.234.888/MS, REsp 2.249.171/CE, REsp 2.250.737/PE e REsp 2.251.538/PE (Tema 1433/STJ) - Limites subjetivos e territoriais do título executivo coletivo da ACP n. 0005019-15.1997.4.03.6000 sobre o reajuste de 28,86% (Início: 01:26:35)\n- **Matéria:** 4. Servidor Público Civil e Militar\n- **Relator:** Min. Afrânio Vilela\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (vista regimental do Relator, Min. Afrânio Vilela)\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** [PROPOSTA] Definir se a sentença coletiva proferida na Ação Civil Pública n. 0005019-15.1997.4.03.6000 (1ª Vara Federal de Campo Grande/MS), que reconheceu o direito ao reajuste de 28,86%, estende seus efeitos a servidores públicos federais não domiciliados no Estado de Mato Grosso do Sul e se alcança servidores pertencentes aos quadros de autarquias e fundações federais não arroladas no aditamento à petição inicial.\n- **Resumo da discussão:** A controvérsia repetitiva consiste em definir o alcance territorial e subjetivo do título judicial transitado em julgado em 2019 na ACP n. 0005019-15.1997.4.03.6000, ajuizada pelo MPF perante a 1ª Vara Federal de Campo Grande/MS para assegurar o reajuste de 28,86% (Leis n. 8.622/1993 e n. 8.627/1993 e Súmula Vinculante 51). Pela União e pelas autarquias federais (DNIT, FUNASA e INSS), sustentaram oralmente a Dra. Thaís Ferreira e o Dr. Fábio Monnerat que: (i) no aditamento à inicial, o próprio MPF delimitou o pedido ao arrolar oito autarquias e fundações (IBAMA, INCRA, INSS, DNER/DNIT, UFMS, FUNASA, IBGE e FUNAI) especificando que suas repartições \"neste Estado\" (Mato Grosso do Sul) receberiam os efeitos da sentença; (ii) a limitação decorre do próprio pedido e da boa-fé objetiva (arts. 5º, 322, § 2º, 489, § 3º, e 508 do CPC), e não do art. 16 da LACP, que sequer foi invocado no título; (iii) o MPF ajuizou ações idênticas em outros Estados (como Bahia e Rio Grande do Sul) e, após o cumprimento para os servidores de Mato Grosso do Sul, requereu o arquivamento do feito original dando-o por integralmente cumprido; e (iv) a aplicação retroativa do Tema 1075/STF (julgado em 2021) a título transitado em julgado em 2019 esbarraria no Tema 733/STF. Pelos exequentes e entidades sindicais/associativas (Bernadete Souza Filha, Sindicato dos Trabalhadores em Empresas Ferroviárias do Nordeste, Maria Jucineide, Sindifisco, Fenasps e Unafisco Nacional), sustentaram os Drs. Eduardo Costa Nassur, Jean Paulo, Rafael Neves Rego, Fernando Pereira Abreu, Cláudio Santos e Sérgio Ludmer que: (i) a inicial e o dispositivo da sentença asseguraram o reajuste a \"todos os servidores públicos civis federais, ativos, inativos e pensionistas\", estabelecendo apenas duas exclusões subjetivas (litigantes em outras ações e signatários de acordo administrativo da MP n. 1.704), sem nenhuma restrição geográfica; (ii) a alusão às repartições em Mato Grosso do Sul no aditamento destinou-se apenas a indicar o endereço local de citação, conforme parecer do próprio MPF nos autos; (iii) a União jamais suscitou limitação territorial na fase de conhecimento ou recursal; e (iv) a jurisprudência do STJ já afastava a limitação territorial desde os Temas 480 e 481 (2011), oito anos antes do trânsito em julgado. Pelo Ministério Público Federal (custos legis), o Subprocurador-Geral da República Dr. Eitel Santiago de Brito Pereira manifestou-se pelo provimento dos recursos dos entes públicos e desprovimento dos recursos dos exequentes, sustentando que a demanda não foi proposta nem julgada em âmbito nacional, que o MPF ajuizou ações análogas em outros Estados e que a expansão tardia do título violaria a coisa julgada, a prescrição quinquenal (Decreto n. 20.910/1932) e a segurança jurídica (Tema 733/STF). Encerradas as sustentações, o Relator, Min. Afrânio Vilela, pediu vista regimental para reavaliar os pontos debatidos e os memoriais recebidos.\n\n### 6. REsp 2.213.084/RJ e REsp 2.227.232/RS (Tema 1386/STJ) - Imprescritibilidade do fundo de direito à pensão por morte de servidor público mesmo após indeferimento administrativo (Início: 02:32:55)\n- **Matéria:** 4. Servidor Público Civil e Militar\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Provido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** O direito à pensão por morte de servidor público não se submete à prescrição do fundo de direito, ainda que haja prévio indeferimento administrativo, incidindo apenas a prescrição quinquenal sobre as prestações vencidas no período de 5 (cinco) anos anteriores ao ajuizamento da ação.\n- **Resumo da discussão:** Assumindo a presidência para o pregão do feito, o Min. Paulo Sérgio Domingues concedeu a palavra à Procuradora do Estado do Rio de Janeiro, Dra. Juliana Florentino de Moura, que defendeu a incidência da prescrição quinquenal do próprio fundo de direito (art. 1º do Decreto n. 20.910/1932, Súmula 85/STJ e Tema 1410/STJ) a partir da ciência do indeferimento administrativo expresso do pedido de pensão por morte no Regime Próprio de Previdência Social (RPPS), sustentando que a ADI 6.096/STF restringiu-se ao Regime Geral (RGPS), que a imprescritibilidade prejudica o contraditório e a prova administrativa após décadas (no caso do RJ, o óbito ocorreu em 1978 e o requerimento em 2014) e pleiteando, subsidiariamente, a vedação de pagamento retroativo em duplicidade quando a pensão integral já houver sido paga de boa-fé a outro dependente habilitado (a mãe da autora) e o retorno dos autos à origem para exame da legislação estadual. O Relator, Min. Gurgel de Faria, votou pelo afastamento da prescrição do fundo de direito, fundamentando que o STF, na ADI 6.096, assentou que institutos extintivos do próprio direito fundamental à concessão de benefício previdenciário nas hipóteses de indeferimento administrativo violam o núcleo essencial do direito social à previdência, e que essa ratio decidendi não comporta distinção entre o RGPS e o RPPS, sob pena de impor tratamento mais gravoso aos dependentes de servidores públicos em afronta à dignidade da pessoa humana e à coerência do sistema. Afastou a modulação de efeitos por inexistir inovação ou jurisprudência pacífica anterior em sentido contrário e, nos casos concretos do Rio de Janeiro e do Rio Grande do Sul, deu provimento aos recursos especiais tão somente para afastar a prescrição do fundo de direito, determinando o retorno dos autos aos tribunais de origem para que examinem as demais questões de mérito e peculiaridades locais (inclusive eventual pagamento anterior a outro beneficiário e aplicação da legislação estadual). Os patronos da recorrente e do amicus curiae (IBDP) dispensaram a palavra, e o colegiado aprovou o voto e a tese por unanimidade.\n\n### 7. REsp 2.150.097/CE, REsp 2.150.848/RS, REsp 2.150.894/SC e REsp 2.151.146/RS (Tema 1364/STJ) - Vedação ao creditamento de PIS e COFINS no regime não cumulativo sobre o ICMS incidente na operação de aquisição (Início: 02:52:48)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** É vedada a apuração de créditos da Contribuição ao PIS e da COFINS, no regime não cumulativo, sobre o valor do ICMS que tenha incidido sobre a operação de aquisição, nos termos do art. 3º, § 2º, III, das Leis n. 10.637/2002 e n. 10.833/2003, incluído pela Lei n. 14.592/2023.\n- **Resumo da discussão:** Pelos contribuintes recorrentes (DL Transporte e Logística Nacional Ltda., Aromitalia do Brasil Ltda. e Anderle Transportes Ltda.) e pela amicus curiae Federação das Indústrias do Estado do Paraná (FIEP), sustentaram oralmente os Drs. Marcel Viana Pereira da Costa, Bruno Rodrigues, Marcelo Tonette Júnior e Ariane Costa Guimarães que: (i) na sistemática não cumulativa do PIS e da COFINS (método subtrativo indireto, art. 3º, § 1º, I, das Leis n. 10.637/2002 e n. 10.833/2003), a base de cálculo do crédito é o valor/custo de aquisição do bem ou insumo (art. 13 do Decreto-Lei n. 1.598/1977), grandeza jurídica distinta da receita bruta do vendedor objeto do Tema 69/STF; (ii) diferentemente do IPI não recuperável (Tema 1373/STJ) e do ICMS-ST (Tema 1231/STJ), que incidem \"por fora\", o ICMS próprio incide \"por dentro\" (Lei Kandir) e integra intrinscamente o preço de aquisição, conforme reconhecido pela própria PGFN no Parecer SEI n. 12.943/2021; (iii) ao menos quanto ao ICMS irrecuperável suportado por prestadores de serviços (como transportadoras) e exportadores, o imposto estadual constitui custo efetivo que comporá a base de saída tributada; e (iv) a vedação introduzida pela MP n. 1.159/2023 e pela Lei n. 14.592/2023 desnatura a não cumulatividade constitucional (art. 195, § 12, da CF), justificando o provimento dos recursos ou a instauração de incidente de inconstitucionalidade perante a Corte Especial. O Relator, Min. Paulo Sérgio Domingues, destacou que o art. 195, § 12, da Constituição confere autonomia ao legislador ordinário para definir os critérios de operacionalização da não cumulatividade do PIS e da COFINS (Tema 756/STF) e que a inclusão do inciso III ao § 2º do art. 3º das Leis n. 10.637/2002 e n. 10.833/2003 pela Lei n. 14.592/2023 (precedida pela MP n. 1.159/2023, observada a anterioridade nonagesimal a partir de 1º/5/2023) preserva a coerência lógica do sistema não cumulativo, uma vez que o ICMS destacado na nota fiscal não integra a base de cálculo das contribuições na operação antecedente por força do Tema 69/STF, alinhando-se aos precedentes vinculantes que afastam o creditamento quando não há incidência na etapa anterior (Temas 1093 e 1231 do STJ, Tema 844/STF e Súmula Vinculante 58). Assim, votou pela fixação da tese vedando o creditamento e, nos casos concretos, conheceu parcialmente e negou provimento aos recursos de finais 097/CE, 848/RS e 894/SC e negou provimento ao recurso de final 1.146/RS, sendo acompanhado à unanimidade pelo colegiado.\n\n### 8. REsp 2.239.244/CE e REsp 2.239.250/SE (Tema 1454/STJ) - Taxatividade das hipóteses de dispensa de honorários advocatícios previstas no art. 19, § 1º, I, da Lei n. 10.522/2002 (Início: 03:27:23)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (após o voto do Relator, pediu vista antecipada o Min. Paulo Sérgio Domingues; aguardam os demais)\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** [PROPOSTA] A dispensa de condenação em honorários do ente público federal a que se refere o art. 19, § 1º, I, da Lei n. 10.522/2002 se restringe às hipóteses dos incisos I a VII do caput, tratando-se de enumeração legal exaustiva.\n- **Resumo da discussão:** A controvérsia repetitiva consiste em definir se a dispensa de condenação em honorários advocatícios prevista no art. 19, § 1º, I, da Lei n. 10.522/2002, quando o ente público federal reconhece a procedência do pedido ou desiste de execução fiscal antes da sentença ou após embargos, restringe-se às hipóteses elencadas nos incisos do caput do art. 19 ou alcança outras hipóteses previstas em atos normativos internos de redução de litigiosidade da PGFN e da PGF. Pela Fazenda Nacional e pela Agência Nacional de Saúde Suplementar (ANS), sustentaram oralmente a Dra. Sara Mendes Carcará e o Dr. Gabriel de Melo Galvão que a norma deve receber interpretação sistemática e teleológica para prestigiar a política pública de desjudicialização e os acordos de cooperação técnica firmados entre a AGU e o STJ (que já reduziram milhões de processos), invocando precedente da Primeira Turma de relatoria do Min. Paulo Sérgio Domingues (REsp 2.023.326/SC) segundo o qual impor sucumbência quando a Fazenda reconhece o pedido por análise de custo-benefício regulamentada internamente desestimularia a desistência e fomentaria a litigância. O Relator, Min. Sérgio Kukina, embora enaltecendo os acordos de cooperação institucional para redução da litigiosidade, ressaltou que a jurisprudência consolidada da Primeira Seção (a exemplo da Súmula 153/STJ e de julgados relatados pela saudosa Min. Assusete Magalhães) interpreta restritivamente as regras isentivas de honorários sucumbenciais, dada a natureza alimentar da verba pertencente ao advogado (art. 85, caput e § 14, do CPC) e o princípio da causalidade, concluindo que a expressão \"matérias de que trata este artigo\" contida no § 1º do art. 19 da Lei n. 10.522/2002 vincula estritamente a dispensa às hipóteses taxativas dos incisos I a VII do caput. Votou, assim, pela fixação da tese da taxatividade do rol legal, dando provimento ao REsp 2.239.244/CE (interposto pela Unimed contra a ANS) e negando provimento ao REsp 2.239.250/SE (interposto pela Fazenda Nacional). Na sequência, o Min. Paulo Sérgio Domingues pediu vista antecipada dos autos, aguardando os demais Ministros.\n\n### 9. REsp 1.809.093/CE, REsp 1.814.350/SE, REsp 1.950.981/PE e REsp 2.004.109/SE (Tema 1432/STJ) - Marco temporal de avaliação judicial do imóvel em desapropriações diretas, para reforma agrária e indiretas e juros compensatórios (Início: 03:47:23)\n- **Matéria:** 2. Desapropriação / Intervenção do Estado\n- **Relator:** Min. Afrânio Vilela\n- **Resultado:** Adiado\n- **Votação:** Aguardando conclusão (após a apresentação das teses pelo Relator e debates, o julgamento foi suspenso para proclamação conjunta das teses e dos quatro casos concretos na sessão seguinte)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Colaborou ativamente na redação e no aprimoramento técnico das subteses do voto do Relator, conforme agradecimento registrado pelo Min. Afrânio Vilela, e proferiu densa manifestação ressaltando a relevância do julgado para cerca de 90 mil ações expropriatórias no país e para a proteção do erário contra distorções históricas (como a condenação superior a 1 bilhão de dólares na desapropriação de 13.500 hectares de penhascos rochosos na Serra do Mar, em Ubatuba/SP). Enfatizou três pilares das teses: (i) a distinção entre os regimes da reforma agrária, da utilidade pública e da desapropriação indireta (item D1, fixando a data do apossamento administrativo como momento básico); (ii) o princípio da causalidade na demora pericial (item D2), estabelecendo que apenas o atraso imputável ao expropriante e reconhecido em decisão fundamentada dilata o limite temporal das teses B e C, enquanto a demora causada pelo expropriado, pelo serviço judiciário ou por terceiros jamais afasta nem dilata esse limite; e (iii) o desestímulo ao uso estratégico do prazo prescricional decenal como fábrica de créditos (\"máfia da desapropriação\"). Suscitou, por fim, a necessidade de explicitar nos casos concretos a não incidência de juros compensatórios em imóveis improdutivos (jurisprudência consolidada do STJ desde o Min. Teori Zavascki e do STF na ADI 2.332), distinguindo os dois recursos de reforma agrária (juros zero) dos dois recursos de regularização de território quilombola (juros de 6% ao ano), o que levou à suspensão consensual do julgamento para ajuste e proclamação conjunta na sessão seguinte.\n- **Tese fixada:** [PROPOSTA] (a) Nas desapropriações em geral, a contemporaneidade entre o preço e o valor indenizatório é definida pelo momento básico de sua aferição técnica, em regra correspondente ao preço de mercado do bem quando da realização da perícia judicial; (b) Nas desapropriações por utilidade pública ou interesse social, o momento básico não pode ser superior a 1 (um) ano desde a propositura da ação judicial; (c) Nas desapropriações para fins de reforma agrária, o momento básico não pode exceder 90 (noventa) dias desde a propositura da ação judicial; (d.1) Nas indenizações por desapropriação indireta, o momento básico corresponde à data do apossamento administrativo, devendo a perícia reconstituir o preço de mercado do bem nessa data, sem prejuízo da correção monetária e dos juros compensatórios na forma da lei; (d.2) Quando o expropriante der causa à demora na realização da primeira perícia, por fato a ele imputável e reconhecido em decisão fundamentada, o limite temporal das teses 'b' e 'c' será acrescido apenas do período de atraso que lhe for atribuível, sendo que a demora imputável ao expropriado, ao serviço judiciário ou a terceiro não afasta nem dilata esse limite; (e) As perícias realizadas após o prazo estipulado devem reportar-se ao preço de mercado do momento básico limite, mediante técnicas disponíveis no campo científico; (f) Em qualquer situação, as variações de preço decorrentes da própria ação estatal devem ser identificadas em separado pelo perito e descontadas do valor indenizatório fixado em juízo; (g) As teses incidem nos casos com perícias determinadas a partir da publicação deste acórdão, isto é, com peritos nomeados a partir deste momento.\n- **Resumo da discussão:** Pelo INCRA, sustentou oralmente o Procurador Federal Dr. Fábio Monnerat, expondo dados de valorização média anual de 23,9% das terras rurais no Brasil entre 2017 e 2024 e defendendo que a definição do marco temporal do valor do imóvel desapropriado deve variar conforme o rito processual em quatro hipóteses: (i) data da perícia judicial apenas nas desapropriações ordinárias sem imissão provisória na posse; (ii) data do depósito prévio nas desapropriações ordinárias com imissão liminar na posse; (iii) data do laudo administrativo de vistoria e avaliação nas desapropriações por interesse social para reforma agrária (LC n. 76/1993); e (iv) data do efetivo apossamento administrativo nas desapropriações indiretas, sob pena de bis in idem entre a valorização imobiliária superveniente e a fluência retroativa de juros compensatórios e correção monetária. O Relator, Min. Afrânio Vilela, apresentou amplo voto histórico e doutrinário (reportando-se a Seabra Fagundes, Rui Barbosa e Cretella Júnior, ao art. 26, § 2º, do Decreto-Lei n. 3.365/1941, à LC n. 76/1993 e às estatísticas do CNJ de mais de 90 mil processos expropriatórios no país, com tempo médio de 6 anos até a perícia), demonstrando que a justa indenização deve refletir o valor de mercado contemporâneo ao momento básico previsto pelo legislador, cabendo à correção monetária recompor a inflação posterior, sem transferir ao erário a especulação imobiliária ou a mais-valia gerada pela própria obra estatal, e propôs a fixação das subteses A a G com modulação prospectiva para perícias determinadas a partir da publicação do acórdão. Após a intervenção do Min. Herman Benjamin — que destacou a precisão das subteses D1 e D2 e alertou para a impossibilidade de incidência de juros compensatórios em terras improdutivas nos casos concretos de reforma agrária (REsp 1.809.093/CE e REsp 1.950.981/PE, em contraposição aos REsp 1.814.350/SE e REsp 2.004.109/SE, relativos à regularização de territórios quilombolas, nos quais os juros são reduzidos de 12% para 6% ao ano) —, o colegiado manifestou consenso em torno das teses e deliberou suspender o julgamento para a sessão seguinte a fim de que o Relator ajuste o dispositivo do primeiro caso concreto e se proceda à proclamação conjunta das teses e dos quatro recursos afetados.\n\n### 10. REsp 2.238.885/SP e REsp 2.238.889/DF (Tema 1415/STJ) - Adiamento de apresentação de voto-vista em recurso repetitivo (Início: 04:43:59)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Maria Thereza de Assis Moura\n- **Resultado:** Adiado\n- **Votação:** Aguardando conclusão (voto-vista do Min. Paulo Sérgio Domingues adiado para a sessão seguinte)\n- **Relevância:** Ordinária\n- **Tese fixada:** [PROPOSTA] Julgamento adiado para a próxima sessão para apresentação de voto-vista pelo Min. Paulo Sérgio Domingues.\n- **Resumo da discussão:** O Presidente Min. Gurgel de Faria anunciou o adiamento da continuidade do julgamento do Tema 1415/STJ (REsp 2.238.885/SP e REsp 2.238.889/DF, de relatoria da Min. Maria Thereza de Assis Moura), no qual seria apresentado voto-vista pelo Min. Paulo Sérgio Domingues, ficando acordado entre o Ministro vistor e a Relatora o adiamento para a sessão seguinte em razão da redução do quórum ao final da sessão.\n\n### 11. EDcl no REsp 2.032.021/RS e EDcl no REsp 2.031.813/SC (Tema 1251/STJ — Itens 26 e 27 da pauta) - Embargos de declaração em matéria de anistia política / perseguidos políticos (Início: 04:44:40)\n- **Matéria:** 7. Responsabilidade Civil da Administração\n- **Relator:** Min. Afrânio Vilela\n- **Resultado:** Desprovido (embargos de declaração rejeitados)\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado, impõe-se a rejeição dos embargos de declaração.\n- **Resumo da discussão:** Apregoados como preferência no encerramento da sessão (Itens 26 e 27 da pauta — EDcl no REsp 2.032.021/RS e EDcl no REsp 2.031.813/SC, Tema 1251/STJ), com acompanhamento por videoconferência do advogado Dr. Stephan Guimarães Emerim (representando os embargados Wilson de Menezes Dias — Sucessão e Associação dos Ex-Presos e Perseguidos Políticos do Estado do Rio Grande do Sul), o Relator, Min. Afrânio Vilela, votou pela rejeição dos embargos de declaração opostos pela União por ausência de quaisquer vícios integrativos no acórdão embargado, sendo acompanhado à unanimidade pelo colegiado.\n\n## Estatísticas\n- Total de processos apreciados: 11\n- Providos: 3 | Desprovidos: 3 | Parcialmente providos: 0 | Pedidos de vista / Adiados / Outros: 5\n- Processos com atuação destacada do Min. Herman Benjamin: 4"
   },
   {
     "id": "2026-10-13_primeira_turma",
@@ -844,6 +3975,7 @@ const resumosData = [
     "transcriptMarkdown": "# Transcrição Revisada e Saneada — Primeira Turma (13/10/2026)\n\n- **Órgão Julgador:** Primeira Turma — Superior Tribunal de Justiça\n- **Data da Sessão:** 13/10/2026\n- **Duração da Transmissão:** 4h 46min\n- **Vídeo Original:** [Primeira Turma - STJ - 13/10/2026](https://www.youtube.com/watch?v=Ikn2-1h60JU)\n- **Saneamento Taquigráfico:** Eliminação integral de vinhetas pré-sessão, correção fonética de nomes/acórdãos e estruturação por interlocutor\n\n---\n\n## Transcrição Organizada por Interlocutor e Minutagem\n\n**[00:29:09] Min. Sérgio Kukina (Presidente):** Boa tarde a todas e a todos. Ah, declaro abertos os trabalhos relativos a esta sessão do dia 13 de outubro de 2026 da nossa primeira turma do Superior Tribunal de Justiça. Eh, solicito à senhora secretária, Dra. Andrea Fujishima, que proceda à leitura da ata e preste as informações devidas.\n\n**[00:29:37] Dra. Andrea Fujishima (Secretária da Sessão):** Ata de julgamento, primeira turma. Ata da 19ª sessão ordinária, em 6 de outubro de 2026. Presidente, excelentíssimo senhor Min. Sérgio Kukina. Subprocurador geral da República, excelentíssimo senhor doutor Carlos Rodolfo Fonseca Tigre Maia. Secretária, Dra. Andrea Gonçalves Fujishima. Às 14:30, presentes os excelentíssimos senhores ministros Herman Benjamin, Sérgio Kukina, Regina Helena Costa Gurgel de Faria e Paulo Sérgio Domingues, foi aberta a sessão. Lida e não impugnada, foi aprovada a ata da sessão anterior.\n\n**[00:30:11] Dra. Andrea Fujishima (Secretária da Sessão):** Encerrou-se a sessão às 18:23, tendo sido julgados 16 processos, ficando adiado o julgamento dos demais feitos. Retirados de pauta. Pelo senhor ministro Gurgel de Faria, o REsp 2.277.513. Pelo senhor Min. Paulo Sérgio Domingues, o AgInt nos EDcl no AREsp 1.067.449. E, isso. E, Adiados pelo senhor Min. Sérgio Kukina, o REsp 2.160.450 e o AREsp 1.214.884. Prorrogação do prazo de pedido de vista pelo senhor Min. Paulo Sérgio Domingues, o AgInt no AREsp 1.365.238, o AgInt no AREsp 1.262.438 e o AgInt no RMS 76.452.\n\n**[00:31:18] Min. Sérgio Kukina (Presidente):** Pois não. É Quero inicialmente cumprimentar os meus eminentes colegas, o Min. Herman Benjamin, Min. Regina Helena Costa, Min. Gurgel de Faria, também Min. Paulo Sérgio Domingues, aqui a nos dando a honra da presença, ao Dr. Ronaldo Vasconcelos Álbu, ilustre Subprocurador-Geral da República, É, bem-vindo sempre. É, cumprimento aos nossos servidores na pessoa da secretária Dra. Andrea Fujishima, também quero me congratular com todos quantos se fazem presentes neste plenário, também aqueles que nos acompanham pelo canal do YouTube.\n\n**[00:32:12] Min. Sérgio Kukina (Presidente):** É também é motivo de satisfação comunicar, né, a este a este colegiado que se fazem presentes aqui entre nós os alunos da Faculdade de Direito da Real Faculdade de Brasília, né? Sejam estão postos aqui à esquerda, né? É, Real Faculdade de Brasília. São muito bem-vindos. Eu já tive oportunidade de estar, né? Nessa faculdade. E conhecer, né? Os elevados propósitos. Dos seus dirigentes. Ah, espero que, esperamos, não é? Que aproveitem. Ah. Os trabalhos aqui e possam. Né?\n\n**[00:33:11] Min. Sérgio Kukina (Presidente):** Sair inspirados, né? A seguir a carreira ou as carreiras, né? Da magistratura, do Ministério Público, advocacia pública, privada, Defensoria Pública, enfim, terão muitas opções, né? Hum, agradeço por terem. Vindo nos visitar, né? Eu quero aqui. Antes de entrarmos no, no primeiro bloco, que é o bloco das sustentações orais. Eu quero convidar ao Ministro Herman Benjamin. Que nos. Nos esclareça, né? Acerca. De uma questão de ordem que sua excelência. Está trazendo. Questão de ordem. No recurso especial REsp 2.093.860/RS. Do Rio Grande do Sul.\n\n**[00:34:17] Min. Gurgel de Faria:** Ministro, eu acho que esse caso poderia ficar para depois das sustentações orais se a Ministra Regina que também. É, já proferiu o voto e o Ministro Herman também concordar. Porque é um caso que talvez, é, a é uma questão de ordem que envolve, de certa forma, o debate do mérito do tema propriamente dito.\n\n**[00:34:36] Min. Sérgio Kukina (Presidente):** Certo.\n\n**[00:34:37] Min. Gurgel de Faria:** E aí, talvez\n\n**[00:34:38] Min. Regina Helena Costa:** Eu oponho.\n\n**[00:34:39] Min. Gurgel de Faria:** Se o ministro Herman concordar\n\n**[00:34:40] Min. Herman Benjamin:** Concordo.\n\n**[00:34:41] Min. Gurgel de Faria:** Eu agradeço.\n\n**[00:34:41] Min. Sérgio Kukina (Presidente):** Depois do bloco das sustentações\n\n**[00:34:43] Min. Gurgel de Faria:** É, depois do bloco das sustentações, a gente dá prioridade a ele.\n\n**[00:34:46] Min. Sérgio Kukina (Presidente):** No elevador, né?\n\n**[00:34:47] Min. Herman Benjamin:** Eu agradeço, presidente.\n\n**[00:34:51] Min. Sérgio Kukina (Presidente):** Então, é isso, né? Então, antes de, eh, ingressar nos, propriamente, no bloco das sustentações, eu declaro aprovado o bloco, né? Eh, o bloco que, nesta data, composto né, dos itens 20 Ah, já caiu aqui. Dos itens 29 a 34, né? Ah, aprovação do bloco, explico aos estudantes, eh, vem a ser o seguinte: aprovam-se esses processos indicados nessa numeração, por quê? Porque todos esses casos, os ministros relatores foram acompanhados pelos seus pares. Não houve divergência, então, nós já declaramos aprovados esses resultados, né? Eh, observo aqui, também, a presença ilustre do servidor da casa, né, assessor jurídico de nosso gabinete, Dr. Carlos Magno. Bem-vindo aí, na companhia dos estudantes.\n\n**[00:35:57] Min. Sérgio Kukina (Presidente):** Eh, vou apregoar agora o primeiro o item. Ah, para sustentação oral, trata-se do AREsp 2.683.537, eh, do estado do Mato Grosso do Sul. É relator sua excelência o Min. Gurgel de Faria. Aqui, a indicação de impedimento, né, anotado em relação ao Min. Paulo Sérgio Domingues. Portanto, não participa do quórum de nossa votação, não é? Ah.\n\n**[00:36:34] Min. Sérgio Kukina (Presidente):** Neste AREsp figura como parte agravante Atvos Bioenergia Eldorado S.A. Como parte agravada a Fazenda Nacional e parte interessada Atvos Bioenergia Santa Luzia S.A. que também responde por outro nome Agroenergia Santa Luzia S.A. É, tenho aqui, Ministro Relator, não é? A indicação de que haverá sustentação oral no interesse da parte agravante a cargo do Dr. Breno Ferreira Martins Vasconcelos e também sustentação, não é? No interesse da Fazenda Nacional agravada a cargo do Dr. Thiago Querenski de Moraes Couto, não é?\n\n**[00:37:25] Min. Sérgio Kukina (Presidente):** Ah, consulto os eminentes causídicos se dispensam a leitura do relatório. Dispensam, pois não. Então, nessa medida, eu vou convidar a que faça uso da palavra primeiramente, não é? Ah, o Dr. Breno Ferreira Martins Vasconcelos que fará falará em favor da agravante Atvos Bioenergia Eldorado S.A. no tempo regimental de 15 minutos. Tem a palavra, Doutor.\n\n**[00:37:56] Dr. Breno Ferreira Martins Vasconcelos:** Muito obrigado, excelentíssimo Ministro Presidente Sérgio Kukina, em nome de quem eu cumprimento todos aqui, não queria deixar de ser respeitoso, mas apenas em amor ao tempo, sintam-se, por favor, todos muito respeitosamente cumprimentados, todos e todas. Eu falo em nome da Atvos Bioenergia que é uma produtora de açúcar e álcool, excelências. E esse é um caso que exige, antes de tudo, clareza. Porque nele se encontram duas ideias normalmente confundidas que são a forma de calcular o tributo e a sua base de incidência, a sua materialidade.\n\n**[00:38:37] Dr. Breno Ferreira Martins Vasconcelos:** A pergunta que essa turma precisa responder, me parece, é uma só. Pode o ICMS ser tributado pelo PIS e pela COFINS? Supremo Tribunal, no Tema 69/STF da repercussão geral, já disse que não. Desculpa. Supremo Tribunal disse que não. A primeira seção dessa Superior Corte também já disse que não em dois em dois precedentes, em dois repetitivos. Me parece que a que a resposta continua a ser não, mesmo quando se muda a forma de calcular os as duas contribuições. Ou seja, o ICMS não pode ser tributado pelo PIS e pela COFINS, qualquer que seja a forma de cobrar essas contribuições.\n\n**[00:39:25] Dr. Breno Ferreira Martins Vasconcelos:** Demonstrarei isso em três para três passos, excelências. Primeiro, o que a sistemática de reintributa. Segundo, por que ela não é um benefício fiscal. E terceiro, como que os precedentes dessa Corte se aplicam ao caso. Eu começo pela lei federal, que é a lei violada. A Lei 9.718/1998, no artigo quinto, ela diz que o PIS e a COFINS incidem sobre a receita bruta auferida na venda de álcool. O parágrafo quarto permite ao produtor apurar e pagar essas contribuições com valores fixos por metro cúbico. É a chamada alíquota ad rem.\n\n**[00:40:08] Dr. Breno Ferreira Martins Vasconcelos:** A lei então mudou o modo de calcular e de pagar, mas não mudou e nem poderia mudar, excelências, a materialidade dessas contribuições. Se quisesse fazê-lo, teria que fazê-lo por meio de lei complementar, como diz a Constituição. A própria Receita Federal, em nota técnica que está nos autos, diz que essas alterações, \"aspas\", mudaram a sistemática de apuração das contribuições incidentes sobre a receita auferida na venda do álcool. E a lei amarra o valor fixo ao preço. O parágrafo 10 do artigo 5º da lei 9718 proíbe que esse valor fixo ultrapasse a alíquota modal do PIS e da COFINS, que é de 9,25 somada.\n\n**[00:40:54] Dr. Breno Ferreira Martins Vasconcelos:** Então, há uma equivalência. Segundo a Receita Federal, o valor estabelecido por decreto visando-se obter no preço de venda do álcool ao consumidor, a alíquota modal do PIS e COFINS de 9,25%. O valor fixo por litro equivale, portanto, aos mesmos 9,25% sobre o preço de cada litro. Somados todos os litros vendidos pela indústria produtora, o resultado será os mesmos 9,25 sobre a receita total da venda. Excelência, é como nós quiséssemos medir uma sala em metros ou polegadas.\n\n**[00:41:41] Dr. Breno Ferreira Martins Vasconcelos:** A unidade de medida muda, o tamanho da sala não muda. Agora, se nós medimos junto com a sala um cômodo vizinho, trocar o metro pela polegada não vai corrigir esse erro. O ICMS é esse cômodo que nós estamos medindo adicional, que pertence ao Estado, desde o Tema 69/STF da repercussão geral. Ele precisa também sair da medição da alíquota ad rem. Excelências, o ICMS está dentro do PIS Cofins na sistemática Ele está lá dentro. Não sou eu quem diz, é a Receita Federal e nota técnica obtida por meio de lei de acesso à informação.\n\n**[00:42:26] Dr. Breno Ferreira Martins Vasconcelos:** A própria Receita Federal afirma que o ICMS e o PIS e a Cofins incidem sobre o preço final do produto que será tributado pelo PIS Cofins ad rem. Se o valor fixo é 9,25% de um preço que contém ICMS, então a contribuição tá tributando o ICMS e, portanto, precisa ser excluído. O Tribunal Regional entendeu que, na sistemática ad rem, a base não estaria atrelada à receita, como se o volume vendido fosse uma base nova. Mas não é. O volume e a uni é o volume é a unidade de medida. O que se mede continua sendo a receita, a materialidade dessas contribuições, que é a materialidade prevista no artigo 195 da Constituição, com a alíquota permitida pelo artigo 149 da Constituição.\n\n**[00:43:17] Dr. Breno Ferreira Martins Vasconcelos:** O ICMS não pode ser tributado pelo PIS e pela Cofins, qualquer que seja a forma de cobrar essas contribuições, ministros. O acórdão recorrido chamou essa sistemática de espécie de benefício fiscal. Não é, por três razões. Primeiro, primeiro porque não reduz carga. Como pode um benefício fiscal que não reduz a carga tributária? O valor fixo é calibrado pela Receita Federal para reproduzir a alíquota modal do PIS Cofins ad valorem. Não há benefício. Segundo, a sistemática ad rem, ministros, ministra, ela nasceu para fiscalizar.\n\n**[00:44:04] Dr. Breno Ferreira Martins Vasconcelos:** A medida provisória que in incluiu essa sistemática na lei 9718, que é a medida provisória 413, convertida na lei 11727, ela disse que essa sistemática foi criada para melhor controle fiscal do setor e para proteger a concorrência. A mesma MP, a mesma medida provisória obrigou as usinas a instalar medidores de vazão. É, portanto, ministra Regina Helena, uma medida de praticabilidade do fisco. Não é benefício. E, por fim, terceiro lugar, não é benefício porque a própria União não trata como benefício, não tratou quando criou, não previu medida compensatória como exige a lei de responsabilidade fiscal, nunca colocou essa sistemática no demonstrativo de gastos tributários da União, que é enviado anualmente para a lei orçamentária anual.\n\n**[00:45:03] Dr. Breno Ferreira Martins Vasconcelos:** Se fosse renúncia de receita e, portanto, um benefício, estaria lá. Não está. Tudo isso, excelências, é exatamente o que a primeira seção dessa corte disse da substituição tributária do no tema, no julgamento do Tema 1125/STJ. Abro aspas: \"É um mecanismo especial de arrecadação destinado a conferir, sobretudo, maior eficiência ao procedimento de fiscalização, desculpa, de fiscalização, não configurando incentivo ou benefício fiscal, tão pouco implicando aumento ou diminuição da carga tributária\".\n\n**[00:45:39] Dr. Breno Ferreira Martins Vasconcelos:** Agora, tem um ponto. Mesmo que fosse benefício fiscal, a resposta seria a mesma, excelências, como compreendeu o professor Sérgio André Rocha em parecer acadêmico juntado aos autos. Uma opção fiscal, ela pode trazer consequências ao contribuinte, mas não pode transformar em tributável o que não é tributável. O ICMS não é tributável pelo PIS e pela COFINS. Qualquer que seja a forma de cobrança dessas contribuições. E aqui eu faço uma breve passagem pelos precedentes dessa corte. Eu começo com o Tema 1125/STJ, relatado por Vossa Excelência, Min. Gurgel de Faria.\n\n**[00:46:19] Dr. Breno Ferreira Martins Vasconcelos:** A sessão, por unanimidade, com os votos de Sua Excelência, Ministro Herman Benjamin e Sua Excelência, Min. Regina Helena Costa, retirou o ICMS-ST da base de cálculo do PIS e da COFINS. Porque é, abre aspas, \"incabível qualquer entendimento que contemple majoração de carga tributária ao substituir ao substituído tributário, tão somente em razão da peculiaridade na forma de operacionalizar a cobrança do tributo\". No Tema 1372/STJ, a, julgado em agosto desse ano, também sob a relatoria de Sua Excelência, Ministro Gurgel, a sessão, por unanimidade, com os votos de Sua Excelência, Min. Sérgio Kukina e Min. Regina Helena Costa, retirou da mesma base o chamado diferencial de alíquotas. Porque, aspas, \"a adoção desse método não implica na modificação da natureza do ICMS\".\n\n**[00:47:13] Dr. Breno Ferreira Martins Vasconcelos:** E respondeu antecipadamente ao possível argumento de que aqui não haveria receita de onde excluir. Aspas, \"não se trata, portanto, de excluir parcela que integraria a base de incidência, mas de reconhecer que os valores correspondentes ao ICMS não configuram hipótese de incidência das exações\". Por isso, não se pede, não pe, não peço a essa, a essa turma, que recalcule alíquota nenhuma. Pede-se apenas que se declare o direito. A apuração da alíquota vai ser feita quando da compensação dos créditos, em cálculo pela própria Receita Federal.\n\n**[00:47:52] Dr. Breno Ferreira Martins Vasconcelos:** O presente caso, Excelências, abrange tudo aquilo que tá nesses dois precedentes. As mesmas contribuições, o mesmo imposto estadual e a mesma razão. Uma forma especial de cobrar, criada para simplificar e fiscalizar, que não muda a natureza das contribuições. Resta somente o Tema 1008/STJ. E sobre ele eu faço distinção. Ele não se aplica ao caso, ele se distingue desse caso. E ele também relatado por sua excelência Min. Gurgel de Faria. O Ministro disse que para o PIS e a Cofins, a receita constitui a própria base de cálculo.\n\n**[00:48:30] Dr. Breno Ferreira Martins Vasconcelos:** Enquanto naquele caso em que era julgado o ICMS, a exclusão do ICMS da base de cálculo do IRPJ e da CSLL, na sistemática do lucro presumido. Na sistemática do lucro presumido, a receita representa apenas um parâmetro de tributação, sendo essa outra distinção relevante. É exatamente o presente caso, aqui nada se presume além da própria receita. Excelências, para fechar. Imaginemos duas usinas. De açúcar e álcool vizinhas, lá no estado do Mato Grosso do Sul. O mesmo etanol produzido, o mesmo preço de venda, o mesmo ICMS devido ao estado.\n\n**[00:49:14] Dr. Breno Ferreira Martins Vasconcelos:** Uma paga o PIS e a Cofins com alíquotas ad valorem, percentual. E desde o Tema 69/STF da repercussão geral, não paga sobre o ICMS. A outra, que aderiu à sistemática criada pelo fisco para simplificar e fiscalizar melhor o setor. Continua pagando a alíquota ad rem. Que contém o ICMS. O mesmo produto. A mesma receita. O mesmo imposto estadual. A única diferença entre elas. É a forma de se submeter à cobrança das contribuições. Para a usina que apura o percentual, o ICMS não é receita.\n\n**[00:49:53] Dr. Breno Ferreira Martins Vasconcelos:** Pra que apura por metro cúbico também não. Em metros ou em polegadas, o tamanho da sala não muda, ele é sempre o mesmo. Por isso, porque o ICMS não pode ser tributado pelo PIS e pela COFINS, qualquer que seja a forma de sua cobrança, a recorrente pede que essa turma conheça do agravo e dê provimento ao recurso especial para reconhecer o direito de excluir o ICMS do cálculo do PIS e da COFINS apurados na sistemática do parágrafo quarto do artigo quinto da lei 9718, com a restituição ou compensação do que foi pago na linha dos temas 1125, 1372. Muito obrigado por sua atenção, excelências.\n\n**[00:50:30] Min. Sérgio Kukina (Presidente):** Pois não. Doutor Breno, o colegiado agradece por sua exposição e em atenção a critério da metodologia adotado aqui, né, pelo colegiado, eu vou pedir ao Dr. Thiago Querenski, né, pela Fazenda Nacional, que aguarde, né, a manifestação do eminente relator, pra depois, caso entenda necessário, né, pronunciar-se. É, ministro Gurgel, a palavra então está com Vossa Excelência, notando a inexistência de destaques no sistema.\n\n**[00:51:03] Min. Gurgel de Faria (Relator):** Pois não, senhor presidente, eu inicio endossando os cumprimentos que já foram formulados por Vossa Excelência a todos que estão presentes, em especial os ilustres advogados que estão na tribuna, doutor Breno e doutor Thiago. Eu farei então um resumo do voto, iniciando a uma questão de negativa de prestação jurisdicional que eu entendo não existente, então eu refuto a negativa da prestação jurisdicional. É, destaco aqui que a controvérsia relacionada à possibilidade de o contribuinte produtor, importador ou distribuidor de álcool, inclusive para fins carburantes, excluir os valores relativos a ICMS da base de cálculo da contribuição do PIS e da COFINS quando apuradas e recolhidas pela incidência de alíquota ad rem, em que pese a adoção de unidade de medida por metro cúbico de combustível, a base de incidência das contribuições é constitucional e continua a ser receita\n\n**[00:51:56] Min. Gurgel de Faria (Relator):** ou faturamento à luz do artigo 195, inciso 1B da Constituição Federal. A partir do que se espera pela tributação sobre referidas grandezas é que isso estabelece os valores em reais que incidem sobre o volume de combustível contemplado na lei. Esta corte superior, na linha de compreensão adotada pela Suprema Corte, tem entendido que não se aplica a tese firmada no Tema 69/STF quando há facultatividade em relação ao regime de tributação, tal como acontece no caso vertente. E aí eu faço referência a dois temas, inclusive, um deles, não me recordo se os dois, mas um deles, mencionados da tribuna pelo doutor Breno, Tema 1008/STJ do Superior Tribunal de Justiça, mas faço referência também ao Tema 1048/STF é do Supremo Tribunal Federal.\n\n**[00:52:41] Min. Gurgel de Faria (Relator):** No julgamento do Tema 69/STF foi estabelecido que o valor do ICMS a ser excluído da contribuição para o PIS e da COFINS ser o destacado na nota fiscal. Essa peculiaridade afasta a observância desse precedente na tributação por alíquota ad rem que não contempla na sua composição o tributo estadual recolhido nessa sistemática. Eu conheço do agravo que efetivamente refuta os fundamentos da decisão de inadmissibilidade, mas no caso, adentrando no mérito do conhecendo também do recurso especial, eu nego provimento. É o brevíssimo resumo do voto, senhor presidente.\n\n**[00:53:15] Min. Sérgio Kukina (Presidente):** Pois não. Então, eminente relator, né? Encaminha o voto no sentido de negar provimento ao agravo. Consulta.\n\n**[00:53:25] Min. Gurgel de Faria (Relator):** Eu conheço do agravo e nego provimento ao recurso especial.\n\n**[00:53:28] Min. Sérgio Kukina (Presidente):** Para negar provimento ao recurso especial, desculpe. É Dr. Thiago Querenski, alguma observação? Não havendo, então, será registrada também a vossa presença, né? Não havendo destaques, como falei, eh, eu proclamo, né? Colegiado, nos termos do voto do relator, conheceu do agravo para negar provimento ao recurso especial, tá? Agradecemos a presença do Dr. Breno Ferreira Martins Vasconcelos, que sustentou, e também do Dr. Thiago Querenski, sempre bem-vindos. Um ótimo final de dia.\n\n**[00:54:19] Min. Sérgio Kukina (Presidente):** Eu chamo aqui a julgamento o agravo e recurso especial 3.220.567, do estado de Sergipe, é de minha relatoria, Min. Sérgio Kukina. Ah, figura como parte agravante Valmir dos Santos Costa, Erotildes José de Jesus, Campo do Gado Indústria de reciclagem animal, ah, ainda também Gustavo Luiz Pereira Machado, Manuel Messias de Souza e Joemerson da Trindade Mota, parte agravada é o Ministério Público do estado de Sergipe. Aqui a anotação, de sustentação oral, no interesse do agravante Valmir dos Santos Costa, né? A cargo do Dr. Filipe Botelho Silva Mauad. Eh, doutor Filipe, consulto a Vossa Excelência se dispensa a leitura do memorial?\n\n**[00:55:27] Dr. Filipe Botelho Silva Mauad:** Sim, excelência.\n\n**[00:55:28] Min. Sérgio Kukina (Presidente e Relator):** Dispensa? Então, Vossa Excelência tem a palavra pelo tempo regimental de 15 minutos.\n\n**[00:55:34] Dr. Filipe Botelho Silva Mauad:** Obrigado, excelência. Excelentíssimos senhores ministros, ilustre membro do Ministério Público, senhores servidores, colegas advogados aqui presentes. Estou em defesa do agravante Valmir dos Santos Costa, que à época dos fatos que aqui são tratados, era prefeito de Itabaiana, cidade de Sergipe. Excelências, esse caso, ele tem uma particularidade que eu peço licença para destacar logo de início. O agravante, em primeiro grau, ele foi absolvido nessa ação de improbidade que estava tramitando.\n\n**[00:56:04] Dr. Filipe Botelho Silva Mauad:** E mesmo absolvido, o agravante procurou o Ministério Público Estadual, do estado de Sergipe, para encerrar esse processo por meio de um ANPC. O acordo foi feito com o Ministério Público e ainda assim foi foi apresentado ao Tribunal de Sergipe e ainda assim o Tribunal recusou a homologar esse pacto, excelências. E logo em seguida, no julgamento da apelação que tinha sido interposta pelo Ministério Público de Sergipe, reformou a sentença e condenou aqui o agravante.\n\n**[00:56:33] Dr. Filipe Botelho Silva Mauad:** É, o recurso especial interposto, excelências, ele foi barrado na origem pela Súmula 83/STJ do STJ e para tanto foi mencionado ali o EARESP 102.585 do Rio Grande do Sul. É, mas excelências, naquele precedente, diferentemente do que ocorre nesse caso, já tinha uma já havia uma condenação em primeiro grau, o dano já estava ali liquidado, o ressarcimento já tinha sido imposto, é, como uma sanção e o acordo foi, é, apenas para substituir uma parte das penas, né? Aqui não há nada disso, excelências, então, é, não havia condenação, não havia, assim como não há dano liquidado, então, os casos não se confundem, excelências, e com o devido respeito, é, pugna-se pela não incidência da súmula.\n\n**[00:57:22] Dr. Filipe Botelho Silva Mauad:** É, as circunstâncias do caso aqui, excelências, são curtas e elas falam por si, eu diria. É, a ação, como eu mencionei, foi proposta pelo Ministério Público de Sergipe contra o agravante e outros cinco requeridos. A discussão ali é a contratação da empresa Campo do Gado para que excelências? Para dar destino ao resíduo, aos resíduos dos animais abatidos no matadouro municipal. Depois da instrução a sentença julgou os pedidos improcedentes, reconheceu que não havia comprovação comprovação do dolo e concluiu e eu abro aspas não caberia a municipalidade a propriedade dos restos de animais abatidos no matadouro municipal de Itabaiana. Fecho aspas.\n\n**[00:58:04] Dr. Filipe Botelho Silva Mauad:** O Ministério Público então apelou, em seguida as partes, em seguida as partes começaram a negociar o ANPC. É tanto é assim que o próprio procurador de justiça pediu a suspensão do processo ali por 45 dias justamente para que esse pacto pacto fosse eh concluído. E o que fez o tribunal de origem excelências? Indeferiu o pedido de suspensão que foi apresentado conjuntamente pelas partes e manteve o processo em pauta. É a defesa a época né no tribunal de Sergipe levantou questão de ordem na tribuna que foi rejeitada, o julgamento começou, em seguida foi interrompido por um pedido de vista.\n\n**[00:58:43] Dr. Filipe Botelho Silva Mauad:** Antes que a vista retornasse excelências o acordo foi firmado e foi levado a homologação no tribunal de Sergipe. Tribunal negou ali na oportunidade a homologação pretendida e em seguida como brevemente mencionei reformou a sentença condenou o agravante inclusive eh num num dano que ainda será apurado em fase de liquidação. Excelências aqui reputo o primeiro problema. O autor da ação, o Ministério Público de Sergipe e o réu foram juntos ali ao tribunal pedir eh digamos um tempo para concluir esse acordo.\n\n**[00:59:17] Dr. Filipe Botelho Silva Mauad:** Pediram antes do julgamento e o tribunal negou essa suspensão. O Código de Processo Civil excelências estabelece exatamente o contrário. Eh o livro em questão determina que o juiz estimule, promova a autocomposição a qualquer tempo que seja. Então, excelências, é por isso que num primeiro momento se pugna pela nulidade do julgamento realizado. É, mais ainda que se supere essa nulidade, excelências, há um segundo problema no caso. O tribunal ele negou a homologação do acordo porque não houve ali a previsão de ressarcimento integral do dano.\n\n**[00:59:53] Dr. Filipe Botelho Silva Mauad:** Mas eu pergunto aqui, excelências, que dano era esse que deveria ser integralmente ressarcido naquele momento? Eu rememoro que em primeiro grau o agravante Valmir foi absolvido. Então, não havia dano. Quando o acordo foi assinado, o que havia era uma uma sentença absolutória. O julgamento então de apelação estava em curso, não havia condenação. O voto até então proferido não trouxe previsão de ressarcimento, é, ele jogou para fase de liquidação essa apelação.\n\n**[01:00:26] Dr. Filipe Botelho Silva Mauad:** E isso é revelador, excelências, o próprio acórdão que condenou o agravante deixou o valor do dano para ser apurado posteriormente em sede de liquidação. Então, o tribunal exigiu como condição para homologação do acordo o ressarcimento integral de um dano que ele próprio não quantificou. É, a lei, excelências, com devido acatamento não exige isso. O artigo 17-B da lei admite o acordo em qualquer fase, inclusive na fase de mesmo que tenha ali uma sentença absolu- solutória, esteja e é, em caso de apelação, na análise de uma apelação. E não sou eu quem diz isso, excelências, foi esta primeira turma em recente julgamento. É, em junho de 2026, no REsp 2.263.884, também de Sergipe, excelências, de relatoria da excelentíssima ministra Regina Helena, esta turma enfrentou essa questão que eu estou colocando nesse momento e também analisando um um acordo celebrado a\n\n**[01:01:26] Dr. Filipe Botelho Silva Mauad:** acordo de não persecução celebrado com o Ministério Público de Sergipe e anulou ali a recusa de homologação e eu vou pedir vênia para ler o apenas o item quatro da ementa de desse caso que citei abro aspas sendo o acordo de não persecução civil ANPC meio alternativo de solução de controvérsia não se pode emprestar-lhe aspecto mais gravoso que aquele legalmente previsto isso para o desfecho judicial sendo de rigor empreender interpretação sistemática entre os artigos 17B um e 17C parágrafo segundo da Lei 8.429/1992/1992 no sentido de reconhecer ser cláusula obrigatória do ajuste o compromisso de integral reparação do dano limitado em caso de concurso de agentes a contribuição causal do imputado para sua ocorrência desde que possível mensurar o respectivo grau de participação no ilícito e para esse caso que está aqui em julgamento excelências é é importantíssimo esse ponto é o acordo\n\n**[01:02:28] Dr. Filipe Botelho Silva Mauad:** conforme o entendimento ele não pode ser mais pesado do que seria a própria condenação e o ressarcimento ele deve ser limitado por cada um dos seus que participou teria participado nesse suposto dano aqui excelências eu rememoro que são seis requeridos foram seis requeridos e o tribunal exigiu que o agravante reparasse integralmente o dano que nem foi liquidado ainda sem portanto delimitar qual teria sido a sua participação nesse ato qual seria o valor do dano que o agravante teria gerado é eram esses os argumentos a serem trazidos na tribuna excelências então pede-se o provimento do agravo para conhecer e que seja dado provimento ao recurso especial declarando ali a nulidade do julgamento realizado pelo tribunal de origem se assim não for o entendimento dessa turma Requer-se o reconhecimento da violação ao artigo 17-B, com a homologação do acordo firmado e\n\n**[01:03:24] Dr. Filipe Botelho Silva Mauad:** subsidiariamente, na linha do REsp 2.263.884, que os autos retornem ali à origem para que o acordo seja reapreciado à luz do artigo 17-C, parágrafo segundo. Muito obrigado pela atenção, excelências.\n\n**[01:03:38] Min. Sérgio Kukina (Presidente e Relator):** Pois não. Eh, o colegiado agradece, Dr. Filipe Botelho Silva Mauad, pela sustentação. Eu vou aqui eu percebo, não é que não há destaques de parte do colegiado, eu vou então me orientar pela pela ementa, né? Do julgado. Eu digo: a celebração do acordo de não persecução civil, no curso do processo, mesmo que não seja homologado, esvazia a utilidade do pedido de suspensão formulado para viabilizar as tratativas, acarretando a perda, hã? Acarretando a perda do interesse recursal quanto à alegada nulidade decorrente do indeferimento do sobrestamento.\n\n**[01:04:33] Min. Sérgio Kukina (Presidente e Relator):** Dois: nos termos do artigo 17-B, incisos um e dois, da Lei 8.429/1992, com a redação conferida pela Lei 14.230/2021, a o acordo de não persecução civil deve assegurar, no mínimo, o integral ressarcimento do dano e a reversão à pessoa jurídica lesada da vantagem indevidamente obtida, ainda que proveniente de agentes privados. Três: a inexistência de condenação, no momento da celebração do acordo, não afasta a obrigatoriedade de inclusão de cláusulas destinadas à reparação do prejuízo e à restituição da vantagem ilícita, por se tratar de exigência legal cogente, aplicável também aos ajustes celebrados na fase extrajudicial ou durante a tramitação da ação de improbidade.\n\n**[01:05:30] Min. Sérgio Kukina (Presidente e Relator):** Caso em que os prejuízos eram estimados em quantias milionárias na exordial e o acordo se limitou a fixar a multa em favor de fundo ligado ao Ministério Público, silenciando sobre ressarcimento. Quatro. A homologação judicial do acordo de não persecução não constitui ato meramente formal, competindo ao Poder Judiciário exercer controle corretivo de legalidade e recusar a chancela de ajuste que, desprovido de cláusulas de ressarcimento e de reversão da vantagem indevida, se revele inadequado à tutela do patrimônio público, sem que isso configure indevida interferência na autonomia negocial das partes. Nesse sentido, eu me reporto a julgado, não é, deste colegiado, o Recurso Especial 2.263.884, também de Sergipe, em que foi relatora a eminente Min. Regina Helena Costa, julgado em 15 de junho, transitado, não é? Ademais, a estipulação de multa civil integralmente destinada a fundo de\n\n**[01:06:41] Min. Sérgio Kukina (Presidente e Relator):** reaparelhamento do Ministério Público não satisfaz as exigências do artigo 17-B, incisos 1 e 2, da Lei de Improbidade Administrativa, porquanto a sanção a sanção pecuniária não se confunde com o dever de reparar o dano, nem beneficia diretamente a pessoa jurídica prejudicada. Então, nessa linha, eu concluo por conhecer do agravo para dar parcial para conhecer parcialmente do recurso especial e nessa extensão negar-lhe provimento. Não é? É como decido. É não havendo, não é? Dissenção, eu proclamo o colegiado não é? Por unanimidade nos termos do voto do relator não é? Conheceu do agravo para conhecer parcialmente do recurso especial e nessa extensão negou-lhe provimento. É o colegiado agradece, Dr. Filipe, pela sua presença, sempre bem-vindo. Chamo a julgamento o item três da ordem do dia.\n\n**[01:08:04] Min. Sérgio Kukina (Presidente e Relator):** Dra. Giovana. Dá por vídeo? Hum, ah, já está ali. É, trata-se do agravo interno no recurso especial 2.220.538 do Estado do Paraná. É de minha relatoria, Min. Sérgio Kukina. Ah, figura como parte agravante Fancar Germânia Limitada. Parte agravada é a Fazenda Nacional. Tenho aqui, não é? A anotação de que haverá sustentação oral no interesse da agravante, não é? É sustentação a cargo da Dra. Giovana Alves Correia que já se encontra entre nós por vídeo, não é? Dra. Giovana, seja bem-vinda, nos ouve bem?\n\n**[01:08:54] Dra. Giovana Alves Correia:** Boa tarde, ilustríssimos. Escuto bem sim, Presidente.\n\n**[01:08:58] Min. Sérgio Kukina (Presidente e Relator):** Ouve. Pois não. É, consulto a Excelência se dispensa a leitura do relatório.\n\n**[01:09:07] Dra. Giovana Alves Correia:** Sim, dispenso.\n\n**[01:09:08] Min. Sérgio Kukina (Presidente e Relator):** Dispenso, pois não. Então, sendo assim, Vossa Excelência dispõe do tempo de 15 minutos para a sustentação. Tem a palavra, doutora Giovana.\n\n**[01:09:24] Dra. Giovana Alves Correia:** Boa tarde, excelências. É, cumprimento o presidente na pessoa da do qual eu cumprimento os demais é, ministro e ministra Regina Helena. É, cumprimento os serventuários, o representante da fazenda, do Ministério Público. E esse caso, ele foi solicitação de destaque pelo ministro Gurgel. É, inicialmente porque nós temos aí os dois desdobramentos da do julgamento do Tema 1182/STJ da subvenção para investimento. O primeiro desdobramento está é, em debate na primeira e na segunda turma, já chegando à primeira sessão sobre a questão da necessidade ou não da prova pré-constituída em mandado de segurança preventivo. No caso da Fancar Germânia, nós temos a o segundo desdobramento, foi o que aconteceu nesse caso, sobre alguns casos do TRF4, que foi uma situação momentânea, não é mais objeto de decisão pelo próprio tribunal.\n\n**[01:10:32] Dra. Giovana Alves Correia:** É, mas esse caso, ele foi extinto sem resolução de mérito, porque o tribunal ele entendeu não ter ato coator que justificasse a impetração do mandado de segurança. É, nesse caso, ah, o recurso ele se sustenta na negativa de prestação jurisdicional, na violação do artigo primeiro do mandado de segurança, justamente é, diante da interpretação do ju, que seria o justo receio, né? Eh, então, o que nós aqui solicitamos e gostaria já de adentrar ao mérito do recurso.\n\n**[01:11:08] Dra. Giovana Alves Correia:** O tribunal entendeu que será ausente o, o ato coator, por, por isso extinguiu sem resolução de mérito, mas o que acontece é que após a impetração do mandado de segurança, que foi impetrado justamente pelas soluções de consultas reiteradas da Receita Federal, sobre a incidência, a necessidade de subvenção, de comprovação da implementação e expansão do empreendimento para o aproveitamento das subvenções, sobre possíveis autos de infração que estavam acontecendo e esse motivo, por esse motivo foi impetrado o mandado de segurança preventivo, a, além das soluções de consulta, a própria Receita Federal nos autos manifestou contrário ao direito da impetrante, o que já por si só justificaria o receio, o justo receio de uma autuação fiscal, de atos preparatórios contra o direito da impetrante. Então, eh, o nosso fundamento, ele subsiste exatamente nesse sentido. Eh, até pela questão da\n\n**[01:12:10] Dra. Giovana Alves Correia:** economia processual, do devido processo legal, eh, o processo tramitou durante anos, houve o reconhecimento do direito pela sentença, aí depois do julgamento do Tema 1182/STJ, o processo ele foi extinto sem resolução de mérito por ausência de ato coator, sendo que nos autos havia e há evidências suficientes da Receita reiterando contra, litigando contra o direito do impetrante, né, nesse sentido de aproveitar os benefícios fiscais, eh, em subvenção para investimento. Então, aqui a, a, a gente insurge contra a, essa decisão do TRF4 que extinguiu sem resolução de mérito, eh, nesse caso não há discussão sobre a questão da prova pré-constituída, não foi analisado o direito, eh, a aplicação efetiva do Tema 1182/STJ no TRF 4 porque o processo ele foi extinto. E, de novo, eh, foram poucos casos em que o TRF 4 extinguiu sem resolução de mérito, pois a maioria dos casos que tem chegado ao STJ, eles são\n\n**[01:13:17] Dra. Giovana Alves Correia:** relacionados à análise ou não de prova pré-constituída. E até nos próprios despachos de admissibilidade do próprio TRF 4, o vice-presidente tem reconhecido que o Tema 1182/STJ não tratou dos mandados de segurança preventivos, né? Então, eh, eu acho que essas são as considerações mais importantes que eu gostaria de trazer para apreciação da turma. E eu agradeço a atenção e a oportunidade de poder esclarecer os fundamentos de direito desse caso. Obrigada.\n\n**[01:13:48] Min. Sérgio Kukina (Presidente e Relator):** Pois não. Eh, o colegiado agradece, Doutora Giovana, pela sustentação oral, não é? Eu aqui já secundando, não é, o cenário trazido pela causídica, não é? Trata-se na origem de um mandado de segurança, não é, impetrado por sua cliente, uma comerciante de veículos, não é? Em que se postulou, não é, a dedução da base de cálculo do imposto de renda e da CSLL, CSLL, não é? A dedução de benefícios, não é? Subvenções concedidas, não é, pelo Estado no campo do ICMS. Ah, sua a sua impetração, no entanto, ela resultou denegada, não é?\n\n**[01:14:43] Min. Sérgio Kukina (Presidente e Relator):** Resultou denegada forte no argumento de que não se trouxe, né, demonstração capaz de revelar a alegada ameaça de lesão a direito, tá? Esse o mote da discussão. Eu aqui, já em decisão monocrática, né, havia havia me orientado no sentido de não conhecer do recurso especial interposto contra acórdão da quarta região, né? E agora que já em sede de agravo interno, examinando também com atenção, né, os argumentos trazidos pela parte contribuinte, né, entendo que ainda prevalecem os óbices mencionados na monocrática.\n\n**[01:15:38] Min. Sérgio Kukina (Presidente e Relator):** E não há, Ministro Gurgel anunciou, né, que levantou o destaque que havia feito, então, na falta de destaques, né, neste caso, eu vou me limitar aqui a ler a o conteúdo da ementa, tá? Um: não há ofensa aos artigos 489, parágrafo primeiro, e 1022, inciso dois do CPC, na medida em que o tribunal de origem dirimiu fundamentadamente as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, tendo-se pronunciado expressamente sobre a questão indicada no especial como olvidada, a saber, a alegada natureza preventiva do mandado de segurança.\n\n**[01:16:30] Min. Sérgio Kukina (Presidente e Relator):** Dois: é inviável a indicação de afronta a enunciados sumular, conforme ditame da Súmula 518/STJ deste STJ. Três: a corte local não examinou a contenda sob o enfoque dos artigos 4º, 5º e 6º do CPC, nem houve indicação de negativa de prestação jurisdicional nesse particular, razão pela qual ante a falta do indispensável pré-questionamento, aplicável o Súmula 211/STJ. Quatro, quanto à suscitada violação ao artigo 10 do CPC, o apelo raro deixou de impugnar fundamento autônomo e suficiente do acórdão recorrido ao afastar o levantado malferimento ao princípio da não surpresa, atraindo o enunciado 283 do STJ nesse ponto, tá?\n\n**[01:17:26] Min. Sérgio Kukina (Presidente e Relator):** Cinco, em relação à sugerida ofensa ao artigo 1º da Lei 12.016/2009, a lei do mandado de segurança, a alteração das premissas adotadas pelo tribunal de origem, ao reconhecer não ter sido demonstrado sequer o justo receio de sofrer violação a direito líquido e certo do mandado de segurança, tal como como colocada a questão nas razões recursais, demandaria necessariamente novo acervo a novo exame do acervo fático probatório constante dos autos, providência vedada em recurso especial conforme o óbice previsto na Súmula 7/STJ, né? Então nessa medida eu encaminho o voto, né, pelo desprovimento do agravo interno, é, que fica assim proclamado esse mesmo resultado. E colegiado então, Dra.\n\n**[01:18:23] Min. Sérgio Kukina (Presidente e Relator):** Giovana Alves Correia, agradeço por sua contribuição, né, sua presença, sempre bem-vinda, um ótimo final de dia, muito obrigado.\n\n**[01:18:34] Dra. Giovana Alves Correia:** Obrigada.\n\n**[01:18:36] Min. Sérgio Kukina (Presidente e Relator):** Boa tarde. Vamos agora ao item seis da ordem do dia. Eu apregoou. Trata-se do agravo interno no recurso especial 2.240.061 do estado do Rio de Janeiro. É é de minha relatoria, né, Min. Sérgio Kukina. A figura como parte agravante José Roberto Gama de Oliveira. Parte agravada é a Fazenda Nacional. Tenho aqui a anotação, né, de que será feita sustentação oral, né, no interesse da parte agravante, né, a cargo do doutor José Roberto Gama de Oliveira, né.\n\n**[01:19:32] Dr. Marcos André Siciliano Meneses:** É, a parte, excelência. O José Roberto parte, excelência.\n\n**[01:19:35] Min. Sérgio Kukina (Presidente e Relator):** Não, ah, não. Oh, meu Deus. Não, não, não. Deixa eu me corrigir aqui. Dr. Marcos André Siciliano Meneses. Perdoe que pela pela inversão. Ah, eu falei, mas esse nome tá estranho, né? Parece que Ai, ai. Me desculpe aqui o equívoco, né? Vossa excelência, então, seja bem-vindo a essa tribuna. É pergunto se dispensa a leitura de memória de relatório. Dispensa? Pois não. Então, tem a palavra pelo tempo regimental de 15 minutos.\n\n**[01:20:13] Dr. Marcos André Siciliano Meneses:** Excelentíssimo senhor Min. Sérgio Kukina, é, presidente desta primeira turma, excelentíssima ministra Regina Helena, Min. Paulo Sérgio Domingues, excelentíssimo ministro Gurgel, excelentíssimo ministro Herman Benjamin, douto membro do Ministério Público, é, colegas advogados e servidores. Excelência, nós estamos aqui em sede de agravo interno contra decisão de não conhecimento de recurso especial por óbice da Súmula 7/STJ. Na origem, tratou-se de recurso especial contra decisão em agravo de instrumento que não concedeu a extinção do feito em razão da falta de constituição, eh, da exigibilidade do título.\n\n**[01:20:57] Dr. Marcos André Siciliano Meneses:** Então, nós temos a seguinte situação, fazer um breve introito, primeiro do, de porquê deve ser conhecido o recurso e também dos fatos. O, o recorrente agravante neste caso é o ex-jogador de futebol Bebeto (tetracampeão mundial). Ele comprou um automóvel em 2013. Ele decidiu importar este automóvel. Então, ele é um automóvel produzido nos Estados Unidos que chegou no Rio de Janeiro, no Porto de Janeiro em abril de 2013. Discutia-se à época sobre a incidência do IPI quando o automóvel era comprado no exterior e, eh, se deveria, quando fosse pessoa física, destinatário final.\n\n**[01:21:39] Dr. Marcos André Siciliano Meneses:** Então, ocorre que o que se praticava à época era impetrar mandado de segurança contra a decisão de incidência do IPI e foi o que o, os, o, o recorrente fez. Ao impetrar mandado de segurança, foi concedida a ordem dizendo que a fazenda, a autoridade fiscal, deveria se abster de exigir o tributo. Eh, na sequência, você teve, pelo STF, o julgamento de recurso extraordinário do tema repetitivo 643, que decidiu que não, que não deveria, por um princípio de isonomia, deveria incidir sim o IPI nessas situações em que houvesse a aquisição do veículo no exterior, ainda que para pessoa física.\n\n**[01:22:23] Dr. Marcos André Siciliano Meneses:** Então, a partir desse julgamento, esse julgamento foi em fevereiro de 2013. Fevereiro de 2016, perdão, excelência. Houve a o julgamento pelo TRF2 em juízo de retratação, reformando a sentença e denegando a ordem no mandado de segurança. Em abril de 2023, 10 anos após a compra do veículo, o caso foi ajuizado pela Fazenda Nacional, a execução. Então, o que se pede aqui, excelência, nesse ponto específico é ao analisar a execução, percebeu-se que o título ele havia sido formado, ou seja, a lavratura do auto de infração ocorreu apenas três meses depois da concessão da ordem.\n\n**[01:23:09] Dr. Marcos André Siciliano Meneses:** Era o início daquele período do prazo quinquenal. Ou seja, não havia ali, eh, estava plenamente vigente a decisão judicial que determinada autoridade fazendária que se abstivesse de exigir aquele imposto. E não foi nem quatro meses após a concessão da segurança. E aí a Fazenda Nacional constituiu o crédito tributário enquanto o constituinte estava protegido por uma ordem judicial. Posteriormente, utilizou esse mesmo auto de infração para fundamentar a execução fiscal.\n\n**[01:23:39] Dr. Marcos André Siciliano Meneses:** E aí a gente a jurisprudência desse Superior Tribunal de Justiça oferece amparo à pretensão do contribuinte de ver extinto o caso, porque no recurso especial 1.140.956 julgado pela primeira seção sob o rito de recursos repetitivos, de relatoria do ministro Fux, foi o entendimento também posteriormente afirmado no agravo interno no recurso especial 1.731.423, de relatoria do ministro Benedito Gonçalves, julgado por esta primeira turma. Eu vou pedir licença para reproduzir um trecho que é no sentido de que a jurisprudência desta corte é no sentido de que os efeitos da suspensão da exigibilidade do crédito exequendo, quer no bojo de ação anulatória, quer no de ação declaratória de inexistência de relação jurídico-tributária ou mesmo no mandado de segurança, que é o caso dos autos, desde que ajuizados anteriormente à execução fiscal, tenham o condão de impedir a lavratura do auto de infração.\n\n**[01:24:33] Dr. Marcos André Siciliano Meneses:** Assim como de coibir o ato de inscrição em dívida ativa e o ajuizamento da execução fiscal, a qual, acaso proposta, deverá ser extinto. Esse também foi o entendimento aplicado pelo excelentíssimo ministro Gurgel no recurso no AREsp 2.827.792, decisão de fevereiro de 2025, que foi, por fim, a ratio adotada pelo desembargador federal do TRF-2, William Douglas, quando se manifestou em voto contrário à decisão de não extinguir a execução fiscal. Então, também para dizer, por fidelidade à Corte, que nós conhecemos a outra linha jurisprudencial do STJ, sabemos que existem precedentes admitindo a constituição de crédito tributário durante a suspensão de exigibilidade, com a finalidade de evitar a decadência, mas há uma particularidade fundamental neste processo.\n\n**[01:25:26] Dr. Marcos André Siciliano Meneses:** O veículo importado em 2013, a Fazenda lavrou o auto de infração naquele mesmo ano, apenas três meses depois da importação e da concessão da segurança. Em fevereiro de 2016, ou seja, dois anos e oito meses após a lavratura, quando o Supremo Tribunal Federal decidiu a controvérsia, sequer haviam transcorridos três anos, ou seja, o prazo decadencial estava em plena vigência. A Fazenda dispunha de prazo para buscar a revogação da proteção judicial e, superado o impedimento, constituir regularmente o crédito tributário.\n\n**[01:25:59] Dr. Marcos André Siciliano Meneses:** Então, não havia, portanto, em outubro de 2013, uma situação de decadência iminente que justificasse a antecipação daquele ato administrativo. É difícil compreender a necessidade de lavrar um auto de infração em plena vigência de ordem judicial contrária à exigência do imposto, quando aí havia prazo para uma constituição regular. E, por fim, senhor presidente, por que não incide a Súmula 7/STJ? É porque não existe uma única questão de fato a ser reexaminada nesse caso. As datas, a existência da decisão judicial, a lavratura do auto de infração e a posterior execução fiscal são atos incontroversos, reconhecidos no próprio acórdão recorrido.\n\n**[01:26:39] Dr. Marcos André Siciliano Meneses:** E o que submete a essa corte, então, é uma pergunta exclusivamente jurídica, é se pode a Fazenda Nacional lavrar auto de infração durante a vigência de decisão concessiva de segurança que impede a sua exigibilidade quando sequer iniciou, tinha acabado de iniciar o prazo quinquenal da decadência. E aí, responder a essa pergunta exige uma interpretação do artigo 151, inciso quarto, do CTN e dos efeitos jurídicos dessa decisão judicial, então, não exige reexame de provas.\n\n**[01:27:07] Dr. Marcos André Siciliano Meneses:** Por essa razão, senhor presidente, eminente ministro, eh, nós requeremos o provimento do agravo interno para afastar a Súmula 7/STJ, conhecer do recurso especial e, no mérito, o provimento do recurso especial para reconhecer a nulidade do auto de infração, da certidão de dívida ativa a dele decorrente e, consequentemente, a extinção da execução fiscal nos termos do artigo 803, inciso primeiro, do Código de Processo Civil. Esse é o sustentação. Muito obrigado, excelência.\n\n**[01:27:33] Min. Sérgio Kukina (Presidente e Relator):** Pois não, Dr. Marcos André Siciliano Meneses, né? O colegiado agradece por sua exposição. Eh, esse é um caso realmente interessante, né, até. Da tribuna, né, se colocou aqui em realce, né, a figura do, da parte recorrente. Ah, recebi também a visita do doutor Daniel, né, para falar sobre esse, também se encontra em plenário, seja bem-vindo, né? Eh, e a situação é essa, o tribunal local, né, partiu dessa premissa, né, de que a suspensão de exigibilidade do crédito não contemplaria também a possibi, impossibilidade da constituição do crédito desde o seu próprio lançamento, enfim, né.\n\n**[01:28:33] Min. Sérgio Kukina (Presidente e Relator):** E na medida em que isso foi posto em debate, né, esses argumentos foram postos em debate, ah, o caso aqui chegando, né, compreendi que haveria realmente esse, esse óbice mesmo da Súmula 7/STJ, de acordo com a motivação, as razões que vieram delineadas no próprio recurso especial, né. E esse entendimento que acabo mantendo aqui neste agravo, né, e leio aqui de forma sintética, né, a conclusão, digo que na espécie consignou o tribunal de origem que o juízo de piso, ao conceder a liminar em mandado de segurança, determinou a suspensão da exigibilidade do crédito tributário, mas não a sua constituição, concluindo pela certeza e liquidez da dívida inscrita.\n\n**[01:29:42] Min. Sérgio Kukina (Presidente e Relator):** Contexto em que eventual reversão do julgado, tal como colocada a questão nas razões recursais, exigiria o envolvimento fático probatório dos autos, o que não é cabível em recurso especial ante o óbice da Súmula 7/STJ, né. Mantenho esse entendimento e não percebo a inexistência de destaque no sistema, né? Eu proclamo, portanto, né? O colegiado, nos termos do voto do relator, negou provimento ao agravo interno. Eu agradeço ao doutor Marcos André, o colegiado agradece, pela sustentação, sempre bem-vindo, um ótimo final de dia, né? Tá bom. Consulta ao ao ministro Herman se podemos apregoar a questão de ordem? Podemos, então eu apregoo.\n\n**[01:30:48] Min. Sérgio Kukina (Presidente):** Chamo a julgamento o REsp 2.093.860/RS, em que é relator sua excelência o Min. Gurgel de Faria, né? A figura como a parte recorrente Indústrias de Calçados Indústria de Calçados Wirth Ltda.. Parte recorrida é a Fazenda Nacional. Trago aqui o conteúdo da certidão da sessão pretérita, prosseguindo o julgamento, após o voto vista do ministro relator, ratificando o seu voto anterior, negando provimento ao recurso especial e o voto da Min. Regina Helena Costa, dando parcial provimento ao recurso especial, pediu vista antecipada do ministro Herman Benjamin. É vista coletiva, né? Ministros Paulo Sérgio e Coquena. Ministro Humberto, a ministro Herman Benjamin, portanto, está nos trazendo uma questão de ordem, tem a palavra sua excelência.\n\n**[01:31:52] Min. Herman Benjamin:** Presidente, eminentes pares, eu estou trazendo essa questão de ordem e já adianto que se a questão de ordem for aceita\n\n**[01:32:12] Min. Herman Benjamin:** estará resolvido, não é? Agora se a questão de ordem for rejeitada eu já tenho um pedido de prorrogação de vista até porque o ministro Gurgel liberou uma retificação parcial eh do eh do voto dele. Eu vou ler só a ementa porque todos eh os colegas aqui eh tiveram acesso ao voto e eu digo que a empresa recorrente impetrou mandado de segurança preventivo para ver declarado o direito a não incidência de IRPJ e CSLL sobre as perdas nas operações de hedge na modalidade NDF por não constituírem no entendimento defendido pela impetrante acréscimo patrimonial e ou barra, não é? Lucro mas sim despesa operacional que deve eh refletir na dedução do lucro real, além do direito à compensação de valores que a esse título teriam ensejado o recolhimento de IRPJ e CSLL a maior.\n\n**[01:33:23] Min. Herman Benjamin:** A discussão travada no recurso especial diz respeito exclusivamente ao mérito do objeto litigioso. Balizei a relação eh jurídica de direito material. A matéria foi pré-questionada nas instâncias de origem e por essa razão aberta a instância especial tem incidência o entendimento de que cabe ao órgão julgador aplicar o direito à espécie. Nesses termos respaldados pelo artigo 255, parágrafo quinto do nosso regimento, do verifica-se que a petição inicial se fez acompanhar exclusivamente do contrato social da empresa e de uma simples {aspas} planilha de controle, {fecha aspas}, elaborada e subscrita de forma unilateral por contadora da empresa ou por ela contratada.\n\n**[01:34:20] Min. Herman Benjamin:** Não há qualquer documento que comprove a efetiva celebração de contrato ou contratos de derivativos, assim como de sua ou suas vinculações com a cobertura de contratos de exportação e ainda dos ganhos ou perdas a eles relacionados. Com base no artigo 10 do CPC, combinado com o artigo 255, parágrafo quinto, do nosso regimento já citado, submete-se a presente questão de ordem para que o recorrente se manifeste após intimado sobre o cabimento de mandado de segurança quando desacompanhado da prova pré-constituída do alegado direito líquido e certo. Então, é, é uma questão de ordem singela. Nós estamos, é, no âmbito de mandado de segurança, necessidade de prova pré-constituída e por isso eu apresento a questão, é, de ordem nesse mandado de segurança preventivo.\n\n**[01:35:27] Min. Sérgio Kukina (Presidente):** Pois não. É, então, assim, né, encaminhamento dessa questão de ordem, a, vejo no sistema um, um voto, né, retificação de voto disponibilizado, disponibilizado pelo ministro relator, Min. Gurgel de Faria. Tem a palavra.\n\n**[01:35:48] Min. Gurgel de Faria (Relator):** É, a ministra Regina Helena, quando viu a questão de ordem do Ministro Herman Benjamin ela fez um aditamento ao voto propondo a rejeição da questão de ordem. E eu vou pedir todas as vênias ao Ministro Herman e tô fazendo referência ao voto dela porque na verdade quem primeiro se pronunciou sobre a questão de ordem após o Ministro Herman foi a Ministra Regina para no caso endossar os fundamentos que ela apresentou é principalmente no sentido que como estamos no âmbito da instância especial a matéria tem que ser pré-questionada e na realidade é essa o tópico que é apresentado agora especificamente como ausência de prova pré-constituída ele não foi debatido no acórdão é no caso eu sei que é uma questão de ordem pública poderia ter sido debatido mas no âmbito da instância ordinária aqui nós temos essa é jurisprudência consolidada no sentido que mesmo as questões de ordem pública elas precisam\n\n**[01:36:48] Min. Gurgel de Faria (Relator):** ser pré-questionadas e isso não aconteceu é de maneira que em breves linhas é são esses os fundamentos que eu gostaria de apresentar é fazendo o registro de que quem primeiro os trouxe foi a Ministra Regina Helena né a gente sempre tem que dar o crédito a quem efetivamente merece e pedindo por óbvio todas as vênias ao Ministro Herman Benjamin para na hipótese rejeitar a questão de ordem.\n\n**[01:37:17] Min. Sérgio Kukina (Presidente):** Pois não. Ministra Regina. Eu ouvi primeiro o relator mas não assisti de Vossa Excelência.\n\n**[01:37:23] Min. Regina Helena Costa:** Ah muito obrigada Senhor Presidente. o voto no sistema.\n\n**[01:37:25] Min. Regina Helena Costa:** Bom boa tarde a todas e todos aqui presentes. É Senhor Presidente a respeito da questão de ordem suscitada pelo Ministro Benjamin o Ministro Gurgel já objetivamente já colocou o fundamento principal que é justamente esse né de acordo com a nossa jurisprudência é questões de ordem pública é mesmo eu em sede de recurso especial ela só pode ser analisada se houver o debate nas instâncias ordinárias, o que efetivamente aqui não ocorreu. Eh, e também eu gostaria de se de secundar esse argumento por um outro que eu coloco no meu aditamento ao voto, que é o seguinte, eh eh a vista do voto que eu havia apresentado, o voto vista que eu apresentar havia apresentado e que o ministro Gurgel também agora em retificação de voto, ah, a Fazenda Nacional mudou de posição.\n\n**[01:38:17] Min. Regina Helena Costa:** É isso que é importante aqui, porque eu tinha ponderado que havia uma autorização da Receita Federal para proceder como o contribuinte procedeu, né? E foi em razão disso o ministro Gurgel pediu vista regimental, agora traz uma retificação, porque o fato é que a situação a que estávamos analisando não era aquela, não é a verdadeira, não era aquela, não estava por completo nos autos e portanto, ah, a Fazenda Nacional em 26 de junho passado, após o início do julgamento, passou a defender posição parcialmente convergente com a diretriz intelectiva que eu externei.\n\n**[01:38:50] Min. Regina Helena Costa:** Então, até por isso me parece, aí já é um argumento pragmático, que de que não haveria necessidade que de acolher questão de ordem, porque a posição da Fazenda não é mais aquela que inicialmente defendia, não é? É outra. Então, agora ficou um um aspecto muito pontual para ser examinado e não mais a defesa da tese, porque a Fazenda Nacional reconheceu que não poderia fazê-lo se a Receita Federal orientou o contribuinte a proceder como ele con como ele efetivamente procedeu. É isso que eu gostaria de acrescentar. Muito obrigado.\n\n**[01:39:18] Min. Sérgio Kukina (Presidente):** Pois não. Então, também na linha da na linha da rejeição, a questão de ordem, eu voto em seguida, né? O eu também vou pedir vênia aqui ao eminente ministro Herman Benjamin para acompanhar, né, a divergência já trazida pelos ministros Gurgel e Regina Helena, né? Ministro Paulo Sérgio, como vota?\n\n**[01:39:45] Min. Paulo Sérgio Domingues:** Obrigado, senhor presidente. Primeira vez que me manifesto aqui na sessão. Eu cumprimento Vossa Excelência, estendo os cumprimentos que Vossa Excelência destinou a todos os presentes. Também peço vênia ao ministro Herman com relação à questão de ordem. Eh, de fato, em que pese a visão da turma sobre a necessidade do prequestionamento, inclusive de matéria de ordem pública, ah, entendo que a gente pode, por vezes, até mesmo de ofício, ah, levantar questões que possam impedir o adequado a o adequado apreciação da causa. Mas acho que nesse caso é possível a aqui que avancemos na apreciação. Não seria necessário que nós fizéssemos neste caso concreto. Por essa razão, também então acompanho eh, peço vênia ao ministro Herman, acompanho a divergência.\n\n**[01:40:30] Min. Sérgio Kukina (Presidente):** Pois não. Então, o colegiado, por maioria, né, ah, rejeitou a questão de ordem trazida pelo ministro Herman Benjamin. Os autos, portanto, vão em devolução, né?\n\n**[01:40:43] Min. Herman Benjamin:** Obrigado, presidente.\n\n**[01:40:44] Min. Sérgio Kukina (Presidente):** aos vosso gabinete, né, para que, oportunamente, apresente fato à vista. Eh, vou apregoar o item 13. É um item único, né? Bloco de preferências de julgamento. Eu apregoo. Eh, chamo a julgamento agravo interno no AREsp 2.726.591 do Rio Grande do Sul. Ah, é de minha relatoria, né? Sérgio Kukina. Figura como parte agravante B8 S.A. Parte agravada a Fazenda Nacional. Tenho aqui, não é, uma solicitação de preferência por parte do advogado da agravante. Preferência solicitada, não é, por pelo Dr. Eduardo Gonçalves Spitaliere. É. Como disse, um agravo interno. O doutor Eduardo Spitaliere é, está entre nós, não é, por vídeo. Seja bem-vindo, doutor Eduardo.\n\n**[01:42:10] Dr. Eduardo Gonçalves Spitaliere:** Boa tarde, presidente. Muito obrigado.\n\n**[01:42:12] Min. Sérgio Kukina (Presidente e Relator):** Pois não. Então, eu estou aqui é, encaminhando o voto, não é, respeitosamente pelo desprovimento do agravo interno, dizendo que, um, o tribunal de origem não dirimiu a contenda sob o enfoque das teses alegadas, a despeito dos aclaratórios opostos na origem. Tampouco cuidou de indicar a afronta ao artigo 1022, a fim de suprir eventual omissão. Portanto, a falta do necessário prequestionamento incide o Súmula 211/STJ. Dois, reverter a premissa do julgado recorrido quanto a ter-se operado a decadência para a impetração do subjacente mandado de segurança, conforme as bases nele assentadas, demandaria incursão nos fatos e nas provas dos autos, o que não é possível nesta instância superior, ante o óbice da Súmula 7/STJ, não é? E no corpo do voto, eu trago, não é, em abono esse encaminhamento, trago precedentes, não é, nessa nessa linha, não é, aqui defendida.\n\n**[01:43:28] Min. Sérgio Kukina (Presidente e Relator):** E, enfim, não é? Eu não observo a existência de destaque, né, no sistema. Sendo assim, eu proclamo, portanto, né, o colegiado, nos termos do voto do relator, negou provimento ao agravo interno, né? Eh, agradecemos a presença do Dr. Eduardo Gonçalves Hospitaliere, sempre bem-vindo, doutor. Bom final de dia.\n\n**[01:43:59] Dr. Eduardo Gonçalves Spitaliere:** Obrigado, presidente. Bom dia.\n\n**[01:44:01] Min. Sérgio Kukina (Presidente):** Obrigado. Entramos agora no bloco dos votos vista. Chamo a julgamento primeiro desses casos, agravo interno no AREsp 3.091.396. É do Rio de Janeiro. Relator, ah, o ministro Benedito Gonçalves, né? Ah, figura como a parte agravante Ministério Público do Estado do Rio de Janeiro. Como parte agravada, Josemar Laje de Souza. Aqui o conteúdo da certidão da sessão anterior, após o voto do ministro relator, ministro Benedito, negando provimento ao recurso, pediu vista antecipada o Min. Gurgel de Faria, que nesse momento tem a palavra. Ministro Gurgel.\n\n**[01:44:59] Min. Gurgel de Faria:** Senhor presidente, eu já antecipo que iria acompanhar o relator, mas por motivo diverso. É um caso de acumulação indevida de cargos, eh, envolvendo improbidade administrativa. Tava previsto isso antes no artigo 11, inciso 1, da Lei 8.429/1992, mas este dispositivo foi revogado e não há correspondência nas hipóteses taxativas do novo artigo 11. Então, a continuidade típico-normativa que a gente adota aqui no âmbito do nosso colegiado quando ela existe por óbvio ela não é possível, então seria caso de improcedência da ação de improbidade.\n\n**[01:45:37] Min. Gurgel de Faria:** A divergência diz respeito à motivação, não é? Na verdade eu tô entendendo que o tema é é que os dispositivos que são invocados pelo Ministério Público eles não foram pré-questionados. Então eu tô acompanhando o relator mas por motivo diverso. É o resumo do meu voto.\n\n**[01:45:56] Min. Sérgio Kukina (Presidente):** Pois não, então Min. Gurgel de Faria acompanha o relator, né? Pelo desprovimento do agravo interno, no entanto assim o faz por motivo diverso, né? Ah aqui era o Ministro Benedito, né? Então agora sou eu na sequência, né? Eu estou aqui também acompanhando a conclusão, né? Mesmo sentido de desprovimento é mas vou seguir, né? Examinei e li vou adotar os fundamentos trazidos pelo Min. Gurgel de Faria também, Min. Regina Helena Costa, como vota Vossa Excelência?\n\n**[01:46:48] Min. Regina Helena Costa:** Senhor Presidente, eu indago ao Ministro Gurgel se não é não seria melhor acompanhar pela conclusão?\n\n**[01:46:52] Min. Gurgel de Faria:** Eu acompanho pela conclusão.\n\n**[01:46:53] Min. Sérgio Kukina (Presidente):** Pela conclusão, né?\n\n**[01:46:54] Min. Gurgel de Faria:** É pela conclusão.\n\n**[01:46:55] Min. Regina Helena Costa:** Porque precisamente isso, somar os fundamentos não dá certo aqui.\n\n**[01:46:58] Min. Gurgel de Faria:** Não, não. É eu acompanho pela conclusão, talvez eu não tenha sido claro.\n\n**[01:47:02] Min. Regina Helena Costa:** Não, não, é só queria eu porque o é é eu gostaria de deixar então, Senhor Presidente, que eu estou acompanhando pela conclusão, não adoto a fundamentação do Senhor relator.\n\n**[01:47:11] Min. Paulo Sérgio Domingues:** Não, não adota a fundamentação dele.\n\n**[01:47:13] Min. Regina Helena Costa:** Porque elas não dialogam, né?\n\n**[01:47:15] Min. Sérgio Kukina (Presidente):** Não, isso. É que eu examinei a fundamentação do Ministro Gurgel, fiz questão de dizer que estava comungando, mas pela conclusão, sim, também pelo desprovimento, né? Ah, Ministro Paulo Sérgio.\n\n**[01:47:30] Min. Paulo Sérgio Domingues:** Talvez, senhor presidente, eu acompanho pela conclusão\n\n**[01:47:33] Min. Sérgio Kukina (Presidente):** pela conclusão do Ministro Gurgel.\n\n**[01:47:34] Min. Paulo Sérgio Domingues:** Acho que até os fundamentos dialogam, mas eles brigam.\n\n**[01:47:40] Min. Sérgio Kukina (Presidente):** O resultado do diálogo não é dos melhores. Pois não, mas enfim, a turma, a turma, o colegiado, né? A unanimidade de votos, ah, nos termos do voto do relator, negou provimento ao agravo interno, né? Sendo que os ministros Gurgel e Coquena, apontando motivação diversa, né? Vamos ao item seguinte, apregoou também aqui, agravo interno no agravo interno no Aresp, 2.745.000, 473 de Goiás. Relator, Ministro Benedito Gonçalves. A parte agravante é Lubercol Óleos Limitada. Parte agravada, Estado de Goiás. Tá? Ah, leio o conteúdo da certidão da sessão pretérita. Após o voto do Ministro relator negando provimento ao recurso, pediu vista antecipada Min. Gurgel de Faria, que tem a palavra.\n\n**[01:48:51] Min. Gurgel de Faria:** Presidente, aqui também eu vou acompanhar pela conclusão, mas com fundamento diverso. É um caso de honorários advocatícios, se é possível ou não a acumulação em sede de ação anulatória e diante da extinção da execução fiscal. Eh, no caso, eu estou entendendo que a decisão deve ser mantida, ou seja, negando provimento a ao recurso que é do contribuinte, tá? Mas por fundamento diferente. Qual é o fundamento diferente? O ministro Benedito aplicou a Súmula 7/STJ e eu aplico a Súmula 283/STF. Então, é o resumo do meu voto. Por quê? Por que a Súmula 283/STF? Por quê? Há fundamentos constantes no voto no tribunal de origem que não foram refutados, né? E aí, diante disso, eu a na minha compreensão aqui é pela 283.\n\n**[01:49:42] Min. Sérgio Kukina (Presidente):** Pois não. Então, a ministro Gurgel acompanha pela conclusão, hã? Voto do relator por motivo, no entanto, motivação diversa, né? Aqui agora eu também voto, vou na mesma linha, né? Pela conclusão, hã? Eh, negando provimento ao agravo interno. Ministra Regina?\n\n**[01:50:07] Min. Regina Helena Costa:** Eu também, senhor presidente, tô aderindo à proposta do ministro Gurgel, tô acompanhando o relator pela conclusão.\n\n**[01:50:11] Min. Sérgio Kukina (Presidente):** Pela conclusão, né? Pois não. E ministro Paulo Sérgio?\n\n**[01:50:15] Min. Paulo Sérgio Domingues:** Também, senhor presidente.\n\n**[01:50:17] Min. Sérgio Kukina (Presidente):** Pois não. Então, o colegiado, à unanimidade, nos termos eh acompanhou, hã? O relator no sentido do desprovimento do agravo interno com motivos diversos, né? Trazidos pelo ministro Gurgel. Eh, vamos agora ao item 17. Chamo a julgamento recurso especial 2.256.188, de São Paulo. É relatora sua excelência Min. Regina Helena Costa. Eh, é parte recorrente José Luís da Cunha. Parte recorrida é o Ministério Público do Estado de São Paulo. Eu leio aqui o conteúdo da certidão da sessão anterior. Após o voto da ministra relatora conhecendo parcialmente Opa, escapou aqui o Saiu do sistema.\n\n**[01:51:26] Min. Sérgio Kukina (Presidente):** Foi dar uma voltinha. Voltou? Voltou. Aqui. Eu falava sobre o conteúdo, né, da certidão da sessão anterior. Após o voto da ministra relatora, conhecendo parcialmente do recurso e nessa parte dando-lhe provimento, pediu vista antecipada o ministro Herman Benjamin, aguardam os demais. Ministro Herman tem a palavra, Vossa Excelência.\n\n**[01:52:04] Min. Herman Benjamin:** Presidente, eh, eu vou ler só a ementa. Ação civil pública por improbidade administrativa ajuizada contra ex-prefeito condenado por enriquecimento ilícito em virtude da apropriação eh, de motor pertencente a veículo da frota municipal. O valor é muito baixo, é 2.183. O recurso especial pretende a exclusão da suspensão dos direitos políticos, sob o fundamento que a reduzida expressão econômica do ilícito caracteriza eh, menor ofensa aos aos bens jurídicos tutelados pela pela lei de improbidade administrativa.\n\n**[01:52:55] Min. Herman Benjamin:** Eu digo que a incidência do artigo 12, parágrafo quinto, pressupõe a aferição da gravidade concreta do ato, consideradas as circunstâncias indicadas e eu cito os dispositivos. A revisão da dosimetria das sanções em recurso especial somente é admitida em caráter excepcional quando a manifesta desproporção pudesse reconhecida a partir das premissas estabelecidas do acórdão recorrido sem exame do conjunto fático probatório e aqui a Súmula 7/STJ. O tribunal de origem considerou a reduzida expressão econômica do dano e após examinar as circunstâncias do caso concluiu que a reprovabilidade da conduta justificava a manifesta a manutenção das sanções impostas.\n\n**[01:53:42] Min. Herman Benjamin:** A substituição desse juízo por nova ponderação de gravidade do ilícito penso demanda reexame da matéria fático probatória. Se podemos fazer aqui, podemos fazer em outros momentos também. A ausência de reflexos amplos sobre a administração municipal não constitui premissa estabelecida no acórdão recorrido. O silêncio da corte de origem sobre circunstância não examinada não permite afirmar sua inexistência para reduzir a gravidade da conduta. Subsidiariamente a reduzida expressão econômica do bem apropriado não basta para caracterizar menor ofensa prevista no artigo 12 parágrafo quinto.\n\n**[01:54:32] Min. Herman Benjamin:** O artigo 17-C quarto distingue para fins de dosimetria a natureza, a gravidade e o impacto da infração, da extensão do dano e do proveito patrimonial obtido. A apropriação consciente de bem da frota municipal pelo próprio chefe do executivo em contexto relacionado à gestão desse patrimônio envolvendo o responsável pela manutenção da frota e familiares do agente atinge diretamente a probidade do exercício da função pública e apresenta gravidade incompatível com a incidência do artigo 12 parágrafo quinto.\n\n**[01:55:12] Min. Herman Benjamin:** A suspensão dos direitos políticos parece-me diante dessas circunstâncias não apenas do valor mostra-se proporcional à natureza da infração praticada por agente investido em mandato eletivo consciente na obtenção de vantagem patrimonial indevida mediante apropriação de bem submetido à administração municipal. Então, eu vou pelo não, pelo não conhecimento. É, e não me manifesto acerca do, é, do mérito. Me pareceu que a hipótese não seria, é, de conhecimento.\n\n**[01:55:56] Min. Sérgio Kukina (Presidente):** Bem. Aqui, Ministra Regina, gostaria de te escutar\n\n**[01:56:01] Min. Regina Helena Costa (Relatora):** Sim, senhor Presidente, obrigada. É, eu gostaria de me deter um pouco mais, senhor Presidente, nessa questão, porque é, na verdade, esse, essa controvérsia desse recurso, como sabem, é inédita. Não é? Porque ela diz que o dispositivo foi introduzido na, na lei de, na lei de improbidade, não é, pela, pela lei 14.230/2021. Então, nós não examinamos, eu tenho também a impressão que a segunda turma também não o fez. É, então, eu acho importante que a gente se fixe nisso. O Ministro Benjamin, como bem colocou, está, é, é, propondo que se reconheça o, o não conhecimento do recurso especial. Eu vou ratificar meu voto é, por entender que não é o caso de aplicar a Súmula 7/STJ. Eu é, porque não há, não há necessidade de examinar conjunto fático probatório. Os fatos relevantes foram expressamente delimitados pelo Tribunal de origem.\n\n**[01:56:53] Min. Regina Helena Costa (Relatora):** A Corte local reconheceu a incorporação de motor pertencente à frota municipal, pertencente à frota municipal, ao patrimônio particular do requerente, então prefeito do município de Lavrinhas. Assentou igualmente a existência de dolo específico às circunstâncias da conduta, a expressão econômica do dano e as sanções impostas. Tais premissas permanecem inalteradas nesse voto que eu estou, que eu estou apresentando, nesse aditamento ou nessa ratificação. O voto que eu proferi anteriormente não afastou dolo específico, não desconstituiu o ato de improbidade, nem modificou circunstâncias reconhecidas pelo tribunal de origem. Eu estou a adotando exatamente a moldura fática que o tribunal de origem desenhou.\n\n**[01:57:37] Min. Regina Helena Costa (Relatora):** A controvérsia restringe-se à qualificação jurídica dessas premissas à luz do artigo 12, parágrafo quinto da LIA, especialmente para definir se a conduta configura ato de menor ofensa aos bens jurídicos tutelados e, por conseguinte, quais sanções podem ser aplicadas. A expressão \"menor ofensa aos bens jurídicos tutelados\" constitui conceito jurídico indeterminado, cuja concretização exige interpretação de norma federal, essa norma introduzida pela lei 14.230/2021, e sua aplicação aos fatos incontroversos.\n\n**[01:58:09] Min. Regina Helena Costa (Relatora):** A interpretação dessa norma não se confunde com o revolvimento do conjunto fático probatório. Com efeito, a Súmula 7/STJ incide quando, como todo mundo sabe, quando o acolhimento da pretensão recursal pressupõe alteração da moldura fática ou nova apreciação das provas. Não impede, contudo, a atribuição de consequência jurídica diversa aos fatos expressamente fixados pela instância ordinária. No caso, o próprio tribunal de origem reconheceu a reduzida expressão econômica do dano material.\n\n**[01:58:41] Min. Regina Helena Costa (Relatora):** Confira-se o seguinte trecho do acórdão proferido no juízo de adequação. Esse trecho está às folhas 1.209 e 1.217 dos autos, não é? E vou ler apenas o trecho que eu destaquei no trecho transcrito nesse meu voto ratificação. Aspas, o termo aspas, atos de menor ofensa aos bens jurídicos, fecho aspas, tem conceito aberto e não se restringe ao valor do dano patrimonial, conforme se denota do disposto do artigo primeiro no artigo primeiro da LIA, que define os bens jurídicos tutelados. Assim, ainda que pouco expressivo, o dano material, a reprovabilidade da conduta praticada pelo réu autoriza a manutenção das sanções como impostas, fecho aspas. Isso se extrai do acórdão de origem. O trecho do acórdão de origem demonstra que não há controvérsia quanto à reduzida expressão econômica do dano. A divergência situa-se na consequência jurídica atribuída a essa premissa e,\n\n**[01:59:37] Min. Regina Helena Costa (Relatora):** por conseguinte, na interpretação do disposto no artigo 12, parágrafo quinto da LIA, repetindo, incluído pela lei 14.230/2021. A referência à ausência de reflexos amplos sobre a administração municipal não introduz fato estranho à moldura estabelecida na origem. Traduz conclusão extraída da delimitação concreta da conduta e da extensão do dano reconhecida no acórdão recorrido, para fins de aferição da intensidade da ofensa aos bens jurídicos protegidos pela LIA. Portanto, não se acrescentou premissa fática ao acórdão recorrido.\n\n**[02:00:13] Min. Regina Helena Costa (Relatora):** Procedeu-se tão somente à qualificação jurídica dos fatos já fixados pela corte local para definir as sanções aplicáveis à luz da disciplina introduzida pelo já mencionado artigo 12, parágrafo quinto. Registre-se, ademais, que o voto vista, embora conclua pela incidência da Súmula 7/STJ, examina subsidiariamente as circunstâncias assentadas no acórdão recorrido e realiza juízos acerca da gravidade da conduta para afastar a incidência do 12, parágrafo quinto. Então, como Vossa Excelência, Ministro Benjamin, fez isso, eu vou avançar também.\n\n**[02:00:47] Min. Regina Helena Costa (Relatora):** Essa fundamentação subsidiária não configura contradição. Evidencia, contudo, que a controvérsia comporta análise jurídica dos fatos incontroversos e de sua subsunção ao conceito de menor ofensa aos bens jurídicos tutelados, sem envolvimento ao conjunto fático probatório. Em meu entender, o enquadramento adotado no voto do senhor ministro Benjamin, Herman Benjamin, todavia, não considera a especificidade da disciplina introduzida pela lei 14.230 de 2021. Os precedentes relativos à excepcional revisão da dosimetria foram firmados para aferir a proporcionalidade das sanções aplicadas segundo o regime tão vigente, mas não examinaram o alcance do artigo 12, parágrafo quinto da lei, até porque ele é novo, não é?\n\n**[02:01:34] Min. Regina Helena Costa (Relatora):** A interpretação permanece inédita nas turmas de direito público desta corte. O dispositivo não estabelece mera autorização genérica para revisão da dosimetria. Introduz regra sancionatória própria, segundo a qual, reconhecida a menor ofensa aos bens jurídicos tutelados, a sanção limitar-se-á, como tá entre aspas, né, do texto, limitar-se-á à multa civil, sem prejuízo do ressarcimento do dano e da perda dos valores obtidos. De todo modo, ainda que a questão seja examinada sob a perspectiva da jurisprudência relativa à dosimetria e à proporcionalidade da sanção, a hipótese insere-se na excepcionalidade admitida por esta corte. A desproporção entre a conduta e as sanções pode ser aferida a partir da própria moldura assentada na origem, sem necessidade de reexame de provas. A orientação de ambas as turmas que compõem a primeira seção desta corte admite, excepcionalmente, a revisão da\n\n**[02:02:33] Min. Regina Helena Costa (Relatora):** dosimetria das sanções aplicadas em ação de improbidade administrativa, desde que a desproporcionalidade entre os atos praticados e as sanções impostas possa ser constatada a partir das premissas fixadas no acórdão recorrido, sem a necessidade de reexame do conjunto fático probatório. Estou transcrevendo ementas aqui. Ah, uma da primeira turma, da relatoria da do um agravo interno no Aresp 1.230, 1.234.197 da Paraíba, da relatoria do ministro Og Fernandes Faria, julgado em 2021. E outra da segunda turma, no agravo interno recurso especial 2.034.228 Rio de Janeiro, relator ministro Afrânio Vilela. É um julgamento bem recente da segunda turma de outubro do ano passado.\n\n**[02:03:14] Min. Regina Helena Costa (Relatora):** E prossigo: na hipótese, os elementos necessários a esse exame constam expressamente dos acórdãos proferidos pela corte local. O dano foi fixado originalmente em 650 reais. Em contrapartida, foram impostos, além do ressarcimento integral e da multa civil correspondente a três vezes o prejuízo, a suspensão dos direitos políticos por oito anos e a proibição de contratar com o poder público ou receber benefícios ou incentivos pelo prazo de 10 anos. Assim, seja porque a controvérsia envolve a interpretação e aplicação da regra sancionatória específica prevista no artigo 12, parágrafo quinto, seja porque a desproporção pode ser aferida diretamente das premissas estabelecidas pela corte local, não incide, portanto, a Súmula 7/STJ.\n\n**[02:04:04] Min. Regina Helena Costa (Relatora):** Eh, eu poderia prosseguir, senhor presidente, mas ah, no caso, se eu prosseguir, vai ser mérito propriamente dito. Então, eu paro por aqui, já que a posição ah, ah, voto divergente cinge-se a, a aplicação da Súmula 7/STJ.\n\n**[02:04:22] Min. Sérgio Kukina (Presidente):** Pois não. Eh, só por um instante, aguardamos os colegas para colocarmos em votação, né, o conhecimento. Pois não, então, com o retorno dos colegas, a ministra Regina parou aqui, né, na questão que envolve o conhecimento, que, como vimos, né, teve a voz do ministro Herman, né, no sentido de não se conhecer do recurso pela aplicação da Súmula 7/STJ. Então, colocaremos em votação, né, a ministra Regina, entendendo que não há óbice, ministro Herman pelo óbice, né. Após o que, a depender do resultado, prosseguiremos com a apreciação do mérito. Aqui, então, é Min. Gurgel de Faria. Como vota você?\n\n**[02:06:27] Min. Gurgel de Faria:** Todas as vênias ao ministro, eh, Herman Benjamin, para endossar os fundamentos que já tinham sido apresentados pela ministra Regina e agora ratificados.\n\n**[02:06:38] Min. Sérgio Kukina (Presidente):** Pois não. Então, ministro Gurgel de Faria, né? Entende pelo conhecimento, nos termos do voto da relatora. Eh Min. Paulo Sérgio Domingues, como vota Vossa Excelência?\n\n**[02:06:57] Min. Paulo Sérgio Domingues:** Também peço vênia ao ministro Herman para acompanhar o voto da ministra relatora.\n\n**[02:07:03] Min. Sérgio Kukina (Presidente):** Pois não. Então, eu também acompanho esta mesma linha, né? No sentido de conhecimento e desse modo, né? Ministro Herman, Vossa Excelência prossegue no voto, né? Quanto ao mérito.\n\n**[02:07:23] Min. Gurgel de Faria:** Não, no mérito eh o valor realmente é muito baixo.\n\n**[02:07:27] Min. Regina Helena Costa (Relatora):** Não, eu não votei no mérito ainda, não avancei ainda.\n\n**[02:07:29] Min. Gurgel de Faria:** Tá.\n\n**[02:07:30] Min. Sérgio Kukina (Presidente):** Mas Vossa Excelência tem voto de mérito já também, né? Seu voto visto.\n\n**[02:07:34] Min. Regina Helena Costa (Relatora):** Aí a gente prossegue.\n\n**[02:07:35] Min. Sérgio Kukina (Presidente):** A palavra está com a relatora, né? Quanto ao mérito.\n\n**[02:07:38] Min. Regina Helena Costa (Relatora):** senhor presidente. Muito obrigado. Então, agora mais eu só tô ratificando, afinal, porque eu já eu já havia apresentado meu voto, mas aqui então concentrando na questão, na parte de do mérito do recurso. Eh acerca da interpretação da aplicação, da interpretação não, da interpretação do artigo 12, parágrafo quinto da lei de improbidade, no que se refere à incidência dessa nova disciplina sancionatória, o processo permanece em curso, não se pretende desconstituir coisa julgada nem alterar sanção em fase de execução. O Supremo Tribunal Federal, julgar o Tema 1199/STF de repercussão geral, como todos sabem, estabeleceu distinção entre as situações definitivamente julgadas e os processos ainda pendentes de pronunciamento. No item três da tese, reconheceu a aplicação da lei 14230/2021 aos atos culposos praticados na vigência da legislação anterior, quando inexistente condenação transitada em\n\n**[02:08:27] Min. Regina Helena Costa (Relatora):** julgado, como determinação para que o órgão competente examinasse eventual presença de dolo. A hipótese desses autos apresenta matéria inédita ainda não enfrentada pelas turmas, como já mencionei, não se busca afastar o dolo específico, nem desconstituir a configuração do ato de improbidade administrativa. Pretende-se definir as consequências sancionatórias aplicáveis a processo ainda não definitivamente encerrado diante da disciplina introduzida pelo artigo 12, parágrafo quinto da LIA. Esse dispositivo pressupõe a configuração do ato de improbidade administrativa, não afasta a tipicidade da conduta, não exclui dolo específico, nem se confunde com princípio da insignificância. A superveniência desse artigo modificou a disciplina jurídica das consequências do ato de improbidade. A norma passou a estabelecer comando sancionatório específico, segundo o qual nos atos de\n\n**[02:09:13] Min. Regina Helena Costa (Relatora):** menor ofensa aos bens jurídicos tutelados, a sanção limitar-se-á multa civil, sem prejuízo do ressarcimento do dano e da perda dos valores obtidos. A norma alcança atos que, embora típicos, dolosos e reprováveis, produzam ofensa de menor intensidade aos bens jurídicos protegidos. A reprovabilidade da conduta não afasta por si só a incidência do dispositivo. Se assim fosse, a norma não possuiria campo autônomo de aplicação, porquanto todo ato de improbidade pressupõe comportamento jurídico censurável. Em caso, a corte local descreveu a conduta como a incorporação ao patrimônio particular do recorrente de motor retirado de veículo pertencente ao município. Ao estabelecer as consequências do ato, o acórdão originário fixou o dano e aplicou cumulativamente as sanções nos seguintes termos, né? Com fundamento no artigo 12, inciso um, da LIA, suportará também a suspensão dos\n\n**[02:10:03] Min. Regina Helena Costa (Relatora):** direitos políticos por oito anos, não é? Então, ah, o pagamento de multa civil de três vezes o valor do ressarcimento atualizado, ficando ainda proibido de contratar com o poder público ou de rece de receber benefícios e incentivos pelo prazo de 10 anos. E digo eu, posteriormente, no juízo de adequação, o tribunal de origem já o valor do prejuízo, reconheceu de forma expressa sua reduzida dimensão econômica. Então aqui o trecho, eu peço licença para não ver, não ler. A transcrição demonstra que a própria corte local qualificou o dano moral como pouco expressivo. A divergência não está, portanto, na definição dos fatos ou na dimensão econômica do prejuízo, mas na consequência jurídica atribuída a essas premissas após a superveniência do artigo 12, parágrafo quinto da LIA. A conduta permanece típica, dolosa e reprovável, também permanece o dever de ressarcimento integral e a multa civil\n\n**[02:10:50] Min. Regina Helena Costa (Relatora):** correspondente a três vezes o valor do prejuízo. A aplicação do dispositivo não elimina, portanto, a responsabilização do recorrente, nem converte o ato de improbidade administrativa em mera irregularidade. Cumpre destacar, entretanto, que a insurgência recursal restringe-se ao afastamento da sanção de suspensão dos direitos políticos. O recorrente não impugnou a proibição de contratar com o poder público ou receber benefícios ou incentivos, de modo que essa combinação não integra o objeto devolvido a esta corte. Assim, a matéria devolvida a esta corte consiste em verificar se, diante do dano fixado originalmente em 650 reais e reconhecido pela própria origem como pouco expressivo, mostra-se compatível com a nova disciplina a imposição cumulativa de suspensão dos direitos políticos por 8 anos. Não se desconsidera a condição funcional do recorrente, nem as circunstâncias reconhecidas no acórdão\n\n**[02:11:39] Min. Regina Helena Costa (Relatora):** recorrido. Esses elementos justificam a configuração do ato de improbidade e o reconhecimento de dolo específico. Não determinam, contudo, a aplicação automática de todas as sanções previstas no regime anterior. Se a condição de prefeito, dolo específico e a reprovabilidade fossem suficientes, por si sós, para afastar o comando contido no artigo 12, parágrafo quinto, nenhum ato de enriquecimento ilícito poderia ser enquadrado no dispositivo. O legislador, entretanto, não restringiu sua incidência a determinada espécie de ato de improbidade. Estabeleceu, de forma geral, a limitação das sanções quando a intensidade da ofensa aos bens jurídicos tutelados não justificar a aplicação de penalidades mais gravosas.\n\n**[02:12:16] Min. Regina Helena Costa (Relatora):** Nesse contexto, o confronto entre o dano originalmente fixado em 650 reais e o ressarcimento integral, a multa civil de três vezes o prejuízo, a suspensão dos direitos políticos por oito anos e a proibição de contratar com o poder público por 10 anos revela, a partir das próprias premissas do acórdão recorrido, a desproporção da acumulação das sanções. Nos limites da pretensão recursal, impõe-se afastar tão somente a suspensão dos direitos políticos, mantidas as demais combinações impostas pelo tribunal de origem, inclusive o dever de ressarcimento ao erário, multa civil e a proibição de contratar com o poder público ou receber benefícios ou incentivos, considerados os valores atualizados e os juros de mora fixados no acórdão recorrido. A exclusão da suspensão dos direitos políticos não traduz ausência de resposta estatal ou indulgência judicial. Permanecem o\n\n**[02:13:05] Min. Regina Helena Costa (Relatora):** reconhecimento do ato de improbidade, a conclusão quanto ao dolo específico e as demais sanções impostas pela corte local. O provimento limita-se, portanto, à adequação da penalidade expressamente impugnada ao menor potencial ofensivo da conduta praticada pelo recorrente, à luz do dispositivo em comento. De Sarte, a gravidade necessária à configuração do ato de improbidade não conduz, por si só, à imposição da suspensão dos direitos políticos. Reconhecida a menor ofensa aos bens jurídicos tutelados, impõe-se a limitação prevista na nova disciplina sancionatória. Conclui-se, portanto, pela manutenção do voto anteriormente proferido, que ora ratifico, por dois fundamentos convergentes, quais sejam: um, o artigo 12, parágrafo quinto, que introduziu nova regra sancionatória específica, cuja aplicação aos fatos em controvérsia não se confunde com a revisão da dosimetria da\n\n**[02:13:49] Min. Regina Helena Costa (Relatora):** LIA, e dois, ainda que adotado o enquadramento jurisprudencial relativo à proporcionalidade das sanções, a desproporção da suspensão dos direitos políticos pode ser aferida diretamente das premissas fixadas no acórdão recorrido, como já foi decidido aqui, sem incidência da Súmula 7/STJ. Posto isso, eu estou pedindo licença ao ministro Herman Benjamin e ratifico o meu o voto anteriormente proferido, mantendo as conclusões nele consignadas para conhecer parcialmente do recurso especial e nessa extensão dar-lhe provimento, a fim de afastar tão somente a aplicação da penalidade da suspensão dos direitos políticos, mantidas as demais combinações impostas pelo tribunal de origem, nos termos do artigo 12, parágrafo quinto, da lei de improbidade administrativa. É seu voto, senhor presidente, meus colegas, obrigado.\n\n**[02:14:35] Min. Sérgio Kukina (Presidente):** Pois não. Então, Min. Regina Helena Costa, né? Ah, quanto ao mérito, dá provimento parcial. Conhecimento parcial e conhecimento parcial e nessa extensão provimento, né? Para se aplicar a, a, para se afastar a aplicação da penalidade de suspensão dos direitos políticos, mantidas as demais combinações. Ministro Herman Benjamin, vossa excelência, no mérito, como vota?\n\n**[02:15:08] Min. Herman Benjamin:** Presidente, eu queria agradecer à ministra Regina Helena, explicar um pouco, digamos, o, o, a minha preocupação com, agora sim, no mérito, com, é, com este caso. É que não me pareceu que fosse normal um tribunal de origem condenar, é, um, um administrador a uma pena tão, tão elevada, que suspensão de direitos políticos, simplesmente por 1.800, 2.000 reais, a, é, atualizados, o valor de um, é, de um motor. Mas o acórdão explica. Isso se deu em relação ou por conta ou, ou em razão do modus operandi que foi utilizado, é, nesse, neste caso, que só mesmo, é, no, no, numa cidade como o Odorico Paraguaçu, é que se encontraria algo assemelhado.\n\n**[02:16:19] Min. Herman Benjamin:** Porque, o que aconteceu? É, isso está no próprio acórdão recorrido. Francisco Carlos, nome de cantor de bolero, Francisco Carlos, cunhado do recorrente e responsável pela manutenção da frota, é, determinou a substituição do, do, do motor de um, do veículo, é, da prefeitura, por outro retirado de uma gaiola, eu nunca tinha ouvido falar, hum, essa expressão, é, gaiola, ah, para se referir para um, a, a um, a um, a um outro veículo. É um veículo artesanal, montado com peças de outros automóveis desmanchados, tudo isso está no acórdão recorrido.\n\n**[02:17:15] Min. Herman Benjamin:** E de sua propriedade. O motor municipal foi encaminhado à retífica e depois de consertado, instalado no veículo artesanal. Em seguida, o réu, o prefeito, ainda no mandato, adquiriu o veículo da, da, o veículo da sua irmã, a essa altura viúva, ah, de Francisco, ou seja, a sanção foi, é, severa, por conta do modus operandi. Quer dizer, é muita criatividade, pegar um, uma gaiola, é, tira o, o, o motor, põe, é, o motor, é, da, do, do veículo da prefeitura neste, é, neste outro, nesta gaiola e manda para consertar é, é, o, o, o mo, o motor da, da é, enfim uma troca que só em filme mesmo ou novela é, para se ver e depois o prefeito, tudo isso, é, é, é, é realizado por meio do cunhado da irmã, mas para beneficiar o próprio prefeito, porque ele, aspas, adquire esse, esse veículo é, é, é, é, da sua irmã. Então, ministra Regina, o caso, pelo valor, é realmente pequeno mas vamos ao que diz hoje o artigo 17-C\n\n**[02:18:56] Min. Herman Benjamin:** inciso quarto da lei da improbidade administrativa. Aspas, aspas, \"A sentença proferida nos processos a que se refere esta lei deverá, além de observar o disposto no, no artigo tal inciso quarto, considerar para aplicação das sanções de forma ou, é, isolada ou cumulativa alínea A os princípios da proporcionalidade e da razoabilidade\". Se fosse só este e, só esta linha evidentemente que não faria sentido em um, um, um ato ímprobo de 1.800, 1.900 reais se aplicar a perda, é, dos direitos políticos mas continua o, o artigo 17-C \"A natureza, a gravidade e o impacto da infração cometida C, a extensão do dano causado D, o proveito patrimonial obtido pelo agente.\n\n**[02:20:00] Min. Herman Benjamin:** As circunstâncias agravantes ou atenuantes. F, a atuação do agente em minorar os prejuízos e as consequências advindas de sua conduta omissiva ou comissiva e os antecedentes é do é do agente. O tribunal examinou o valor, mas pelo modus operandi aplicou também a perda é de direitos políticos e quer-me parecer que nós não podemos aqui reduzir esse artigo 17-C a simplesmente o valor do prejuízo sofrido. Porque há hipóteses, como por exemplo, de propina em rodovias e na época que eu estava na segunda é turma e possivelmente aqui na primeira turma também é vários esses casos de propina de 100 reais, 200 reais, 500 reais é um valor pequeno, mas a gravidade é muito grande.\n\n**[02:21:05] Min. Herman Benjamin:** É alguém que está no exercício de um munus público um policial rodoviário mas pode ser um policial civil ou policial militar em ou em outras circunstâncias ou como aqui um prefeito municipal que usa desse malabarismo todo para é se apropriar é de um é é de um é é de um motor é para ser em novo para ser completamente é restaurado, para ser é colocado na sua gaiola. Então são essas as peculiaridades do caso do caso concreto repito, o valor é baixo, mas o tribunal levou em consideração essas outras é circunstâncias e eu não me sinto em condições de negar essas circunstâncias que estão eh lá postas pelo pelo pelo pelo o próprio tribunal eh de origem.\n\n**[02:22:03] Min. Sérgio Kukina (Presidente):** Não. Então, Ministro Herman, no tocante ao aspecto da\n\n**[02:22:10] Min. Herman Benjamin:** Do mérito agora.\n\n**[02:22:11] Min. Sérgio Kukina (Presidente):** né, da dosimetria, nega provimento, né, ao recurso. Eh Assim, Vossa Excelência.\n\n**[02:22:21] Min. Regina Helena Costa (Relatora):** Obrigada, Ministro Kukina. Eu agradeço as ponderações do Ministro Benjamin e a gente realmente precisa discutir, porque é a primeira vez que nós estamos apreciando a interpretação deste dispositivo. Eu só queria relembrar o que ele diz e eu o a lembrança do artigo 17 de Vossa Excelência é oportuna, mas esse é um dispositivo novo que sobreveio à Lei de Improbidade. Ele diz o parágrafo quinto do artigo 12 diz exatamente o seguinte: \"No caso de atos de menor ofensa aos bens jurídicos tutelados por esta lei, a sanção limitar-se-á à aplicação da multa de multa, sem prejuízo do ressarcimento do dano e da perda dos valores obtidos, quando for o caso\".\n\n**[02:23:00] Min. Regina Helena Costa (Relatora):** Nos termos do caput desse artigo. Então, o fato aqui é que, sem dúvida, ele cometeu ato ímprobo, sem dúvida, houve dolo específico. Ele foi punido com várias sanções, né? E aqui, pelo meu voto, só se retira, porque, aliás, a única coisa que foi devolvida pelo recurso é justamente o afastamento da penalidade de sanção dos direitos políticos, mas ele permanece condenado eh a ressarcir o erário, à multa de três vezes o valor, a até a proibição de contratar com o poder público, que ele não impugnou. Então, eh ou a gente, va pelo que eu entendi de Vossa Excelência, da sua manifestação, Vossa Excelência está entendendo que o ato não é de menor ofensa ao bem jurídico tutelado. Eh Vossa Excelência dá grande expressão ao ato, independentemente do valor econômico, do da expressão econômica. É isso, Porque eu não considero, eu acho que a que a situação se encaixa exatamente\n\n**[02:23:52] Min. Regina Helena Costa (Relatora):** nesse parágrafo quinto. E aí, uma vez havendo subsunção, se entender pela subsunção ao parágrafo quinto, não há como não afastar a sanção dos direitos políticos. Então, esse é o ponto. Então, Vossa Excelência entende então que esse dispositivo não se aplica?\n\n**[02:24:05] Min. Herman Benjamin:** Não, não, não. Me permite um aparte? O que eu entendo e proponho é que nós temos que fazer uma leitura conjunta.\n\n**[02:24:14] Min. Regina Helena Costa (Relatora):** Sim, mas eles são, em certa maneira,\n\n**[02:24:16] Min. Herman Benjamin:** É, é uma leitura conjunta dos dois dispositivos. E a primeira pergunta que se deve fazer é qual é o bem jurídico tutelado? É apenas o patrimônio financeiro? E nós sabemos que e por isso eu dei o exemplo do policial rodoviário eh que pede lá uma um um uma cervejinha de 50, de 100 reais, o bem jurídico tutelado não é apenas o patrimônio. Há outros bens jurídicos tutelados na administração pública, na boa administração pública. Então, o que eu me preocupei foi fazer uma leitura isolada de um dispositivo sem apreciação do outro. Quer dizer, me parece eh não é nem tanto pelo resultado, ministra Regina, é pela linha de raciocínio.\n\n**[02:25:04] Min. Herman Benjamin:** Entende? Eu não teria problema nenhum em acompanhar o resultado aqui proposto proposto por Vossa Excelência. Desde que nós disséssemos que esses dois dispositivos precisam ser lidos conjuntamente e isso tendo sido feito aqui por nós, nós chegamos à conclusão de que realmente eh deve prevalecer a proposta que Vossa Excelência apresenta. Mas aqui, como tudo que nós fazemos, especialmente num num num exercício mental e de debate como esse, de matéria que chega pela primeira vez, vai ser vai ter repercussão e efeito dominó futuro. É, é, e eu sei que Vossa Excelência tem muita preocupação com, com, com, com, com esse aspecto da nossa jurisprudência que não estamos decidindo, na verdade estamos, não, esse caso do, do Odorico Paraguaçu aqui, é, é, é, é para ele, não é que nós é, é uma situação tão esdrúxula, mas o, o, o raciocínio hermenêutico não, se nós vamos casar os\n\n**[02:26:09] Min. Herman Benjamin:** dois dispositivos, uma leitura conjunta, quem sabe uma frase, Vossa Excelência dizer que a regra seria essa e, e fazendo, chegamos a esta conclusão. Então eu não discordo do resultado.\n\n**[02:26:21] Min. Regina Helena Costa (Relatora):** Não, eu entendi, eu compreendi Ministro Benjamin, é que eu, eu não, não estou, a, a, análise que faço aqui não é uma análise isolada do outro parágrafo aqui, então é uma análise de um dispositivo que foi inserido na lei para criar uma nova disciplina sancionatória,\n\n**[02:26:34] Min. Herman Benjamin:** Vossa estamos concordando nisso, mas por isso que eu trouxe o 17 também.\n\n**[02:26:39] Min. Regina Helena Costa (Relatora):** Sim, mas por isso que eu estou repetindo essa nova disciplina sancionatória, então o que aconteceu foi, e nós sabemos, goste ou não, a, a, a lei 14.230, ela suavizou todo o sistema sancionatório da LIA, e tanto que nós já temos várias\n\n**[02:26:54] Min. Herman Benjamin:** Mas nós, não, mas Vossa Excelência, é, como, como, é, vigilante da boa interpretação, se nós temos dois dispositivos que cuidam tem números diferentes, mas que dão, que dão o mapa, é, é, a seguir de como nós vamos aplicar e rever sanções, nós teremos que casar os dois.\n\n**[02:27:20] Min. Regina Helena Costa (Relatora):** Sim, Ministro Benjamin, mas veja só, isso aqui é uma regra específica para atos de menor ofensa aos bens jurídicos tutelados, então o artigo 17\n\n**[02:27:30] Min. Herman Benjamin:** mas o outro também, são critérios gerais de, de, de aplicação da sanção.\n\n**[02:27:35] Min. Regina Helena Costa (Relatora):** Então, exatamente, o artigo 17 são critérios gerais e aqui nós temos uma norma nova, específica para atos de menor ofensa aos bens jurídicos tutelados. Então, a meu ver, a subsunção é perfeita dessa situação a essa, a essa norma, porque entendo que é houve aqui, que é um ato que se qualifica como ato de menor ofensa ao bem jurídico tutelado. Então, eu, eu vou manter, com, com a devida vênia de Vossa Excelência, eu vou manter minha posição, eh, por entender que, evidentemente, tudo está mantido, a única coisa que tá sendo afastada é a suspensão dos direitos políticos, mas ele já tá sendo punido por várias outras sanções, a improbidade tá registrada, tá mantido, do horário específico, enfim, não há dúvida nada quanto a isso, mas me parece que aqui o enquadramento, aqui é de norma específica, a norma específica para esta situação aqui e a nesta situação houve uma mudança substancial no regime da\n\n**[02:28:24] Min. Regina Helena Costa (Relatora):** LIA. Quando vem a 14.230 e diz que limitar-se-á aqui a, a, a, a, a punição limitar-se-á a essas penalidades e não cita a, a, a, a suspensão dos direitos políticos, me parece claro que nós tenhamos que obrigatoriamente afastar, porque enquadra a situação nesta, nesta norma. Então, o problema é mais\n\n**[02:28:41] Min. Herman Benjamin:** pressuposto\n\n**[02:28:42] Min. Regina Helena Costa (Relatora):** é de genérico e específico.\n\n**[02:28:44] Min. Herman Benjamin:** não, o pressuposto que Vossa Excelência mesmo já expôs é o menor, é, qual é a expressão?\n\n**[02:28:49] Min. Regina Helena Costa (Relatora):** É isso aí, Vossa Excelência, a partir de outra premissa\n\n**[02:28:51] Min. Herman Benjamin:** indeterminado.\n\n**[02:28:52] Min. Regina Helena Costa (Relatora):** É nossa distinção.\n\n**[02:28:53] Min. Herman Benjamin:** É, mas se Vossa Excelência entende que não se trata de um ato de menor, de menor\n\n**[02:28:57] Min. Regina Helena Costa (Relatora):** mesmo raciocínio\n\n**[02:28:58] Min. Herman Benjamin:** ofensa, então\n\n**[02:28:59] Min. Regina Helena Costa (Relatora):** o, o, o, a cervejinha seria também de, de na perspectiva financeira de menor, ah, expressividade.\n\n**[02:29:07] Min. Herman Benjamin:** aqui, aqui não se fala expressão econômica estritamente, mas se fala em menor ofensa ao bem jurídico tutelado. Então, eu estou enquadrando nisso aqui. Se Vossa Excelência entende que não é menor ofensa, evidentemente que não se aplica o 12, parágrafo 5º, mas é, é, é, na minha compreensão, essa nova disciplina sancionatória veio para criar uma norma específica e justamente, como eu disse, goste se ou não, para preservar os direitos políticos do acusado, do réu, goste disso ou não. Mas então suavizou aquilo que era disciplina do texto original. Mas eu agradeço o debate e o interesse, porque acho que realmente nós temos que ter esse compromisso de debater questões inéditas e eu vou pedir licença para manter a minha o meu entendimento. Muito obrigado.\n\n**[02:29:50] Min. Sérgio Kukina (Presidente):** Pois não, então. Esclarecimentos já prestados, né? Eu passo agora a colher o voto do eminente Min. Gurgel de Faria. Quanto ao mérito.\n\n**[02:30:03] Min. Gurgel de Faria:** Com a devida vênia do Ministro Herman, eu endosso os fundamentos apresentados pela Ministra Regina, relatora.\n\n**[02:30:09] Min. Sérgio Kukina (Presidente):** Pois não, então Ministro Gurgel acompanha a Ministra Regina, né? Possibilitando o afastamento da penalidade de suspensão dos direitos políticos. Ah, Ministro Paulo Sérgio, como vota Vossa Excelência?\n\n**[02:30:23] Min. Paulo Sérgio Domingues:** Senhor Presidente, eh aqui nós temos uma uma disposição sobre a sentença na ação de improbidade do artigo 17-C que coloca os parâmetros que o juiz deverá eh utilizar para fazer a lavratura da sentença, né? E fala que todo aquilo que ele deverá levar em consideração. Dentre outras coisas, né? Todas essas para aplicação da sanção das sanções. Ah, quais as circunstâncias em que ele deverá realizar a aplicação da sanção das sanções. O que é mais ou menos óbvio, seria mais ou menos óbvio, né? Tem que utilizar Aqui está escrito mais ou menos que ele tem que utilizar-se do bom senso e da fundamentação para realizar a eh dosimetria da pena.\n\n**[02:31:19] Min. Paulo Sérgio Domingues:** Aplicando uma ou outra ou várias sanções e quanto? Mais ou menos normal. Era só utilizar o bom senso. A lei, é claro, da técnica de normatizar, de colocar no nosso ordenamento jurídico os princípios da proporcionalidade, da razoabilidade para arrepio da nossa melhor doutrina. O 12 faz diferente. O 12, ele se refere menos à sentença que deverá levar em consideração essas circunstâncias e mais no que diz respeito à análise da gravidade da conduta. Né? O 12, subindo aqui, ele vai para uma análise de se há ou não uma menor ofensa e quais as sanções que deverão deverão ser aplicadas quando se chegar à conclusão de que a ofensa aos bens jurídicos tutelados pela lei são menores.\n\n**[02:32:18] Min. Paulo Sérgio Domingues:** Então, eu acho que eles atuam em campos distintos. Né? Em campos distintos. Creio que aqui a questão da que foi trazida é aplicação ou não da pena de suspensão dos direitos políticos e, portanto, isso se desloca para o 12. Né? Para o 12 e não para o 17, com a devida vênia, por causa dessa circunstância. O juiz então deverá levar em consideração essas coisas para aplicar as sanções no artigo 17. E aqui a questão é de saber, olha, isso aqui é ou não grave o suficiente para aplicar a sanção dos direitos políticos e como.\n\n**[02:32:55] Min. Paulo Sérgio Domingues:** A gente não tem aqui na primeira turma, de fato, se detido sobre a dosimetria. Ah, ah, são 5 anos, são 7 anos, talvez exceto em hipóteses muito raras que dizem respeito exatamente a essas circunstâncias do direito intertemporal, da aplicação ou não da eh eh da lei nova a situações antigas, né? Então, eu acho viável que a gente analise as coisas da forma com que a ministra Regina traz eh com essa separação em relação ao artigo 17. E especificamente com relação a isso, eu queria chamar atenção para um fato que eu ali fui olhar aqui na inicial e na sentença é, há a narrativa de tudo aquilo que aconteceu. Isso está transcrito também no acórdão, aqui folhas 358.\n\n**[02:33:42] Min. Paulo Sérgio Domingues:** A sentença julgou a ação improcedente. Aí eu fui verificar qual era a razão. Não foi por insignificância nem por nada. Foi por uma razão distinta. Diz aqui, está transcrito como, ah na, na, no acórdão que por meados de 2003 a Combi oficial sofreu avaria mecânica na viadutra. O funcionário que a dirigia tentou socorro ligando para o Francisco Carlos, então responsável pela manutenção. Não encontrando falou com outro funcionário que inteirado do problema procurou outro mecânico, localizou Francisco Carlos e dele recebeu ordem de buscar um motor, o da gaiola de sua propriedade que estava numa retífica levasse até a Combi que sofrera avaria e procedesse a troca de um pelo outro levando o motor substituído para ser reparado na mesma empresa. Então o que aconteceu? Quebrou a Combi.\n\n**[02:34:29] Min. Paulo Sérgio Domingues:** Aí que eles pegaram o motor e levaram para simplesmente pegar, quebrou a Combi. Pega, para não ficar com a Combi parada, pegaram o motor da gaiola e levaram para, para botar na Combi oficial. Levaram, mandaram retificar aquele motor. O, o da Combi já estava na retífica também, né? Não era um motor bom, não. Tiraram da retífica, levaram, tiraram da Combi municipal e levaram lá. Depois da retífica colocaram no outro. Você não é que se apropriaram de um motor. Houve uma troca.\n\n**[02:34:56] Min. Paulo Sérgio Domingues:** Não sei qual é o melhor e qual é o pior. Mas segundo consta isso não era do conhecimento do ex-prefeito. É, não havia nenhuma menção, segundo a sentença. Do ex-prefeito, do ex-prefeito. Então assim, não é que pegaram isso e levaram, a ideia de um motor, tirar um motor raspado e colocar na prefeitura para ocultar isso, sei lá. Não me foi, não foi essa sequer a fundamentação do acórdão. Então, para mim, olhando aquilo que está colocado no acórdão, diminui para mim ainda mais a ideia desta, desse, desse temível ardil que teria sido engendrado para subtrair um motor retificado, ou melhor, um motor fundido depois retificado da Kombi municipal.\n\n**[02:35:35] Min. Paulo Sérgio Domingues:** Assim, eu até, eu, é, que não é o objeto do acórdão, do recurso, como disse o ministro Reynaldo Soares da Fonseca. Ministro, o objetivo do recurso não é o mérito, é só a questão da suspensão dos direitos políticos. Então, nesse aspecto, por essa situação, que eu acho, isso de para mim configura uma coisa muito menor, de muito menor potencial, né? Por essa, né, por essa narrativa que está no acórdão em que eu repeti aqui. Então, por isso que eu peço vênia, ministro, ministro Reynaldo Soares da Fonseca, eu vou aqui acompanhar o voto do ministro Reynaldo\n\n**[02:36:02] Min. Sérgio Kukina (Presidente):** Muito bem, então, Min. Paulo Sérgio Domingues acompanha, né? Voto da\n\n**[02:36:08] Min. Paulo Sérgio Domingues:** Voto da gaiola. Eu gostaria muito de ver o que é exatamente um, um\n\n**[02:36:17] Min. Gurgel de Faria:** Off-road em geral, que tem aqui, isso é uma, só a tubulação em volta, não tem a carroceria. Sem cobertura, sem sem cobertura. Parecido com uma gaiola mesmo, com quatro rodas off-road. Tá boa a pronúncia?\n\n**[02:36:31] Min. Sérgio Kukina (Presidente):** Muito bem. Eu aqui também vou, vou pedir vênia, né, ao ministro Benjamin, para acompanhar, né, essa conclusão a que chegou a eminente relatora. Bem ou mal, não é, nós sabemos que a lei 14.230, ela veio dar uma resposta, né? Veio dar uma resposta que a Reclamos, né, que sinalizavam a, por vezes, né, uma certa desproporção nas penalidades, enfim, e foi o objetivo do legislador conferir, né, um um um status diferenciado para essas hipóteses em que o desvalor né? Eh, e aqui foi eleito, né, o como foco o desvalor do aspecto econômico-financeiro fosse considerado de menor patamar, né?\n\n**[02:37:36] Min. Sérgio Kukina (Presidente):** E nessa medida, eu acho que não teríamos como nos distanciar dessa dessa regra, né? Sendo assim, eu proclamo a turma, por maioria de votos né, vencido o ministro Herman Benjamin eh conheceu e deu parcial provimento ao recurso especial para afastar, unicamente afastar, né? a penalidade da suspensão de direitos políticos né? ao recorrente. Eu vou propor ah, um intervalo sei que só está faltando aqui dois casos do ministro Paulo Sérgio para avançarmos aos destaques, né? Mas peço licença para suspendermos por 30 minutos.\n\n*(Sessão suspensa para intervalo regimental às 02:38:35 e reiniciada às 03:14:21)*\n\n**[03:14:21] Min. Sérgio Kukina (Presidente):** Vamos retomar aqui a apreciação, né, do dos feitos restantes. Ah, Ministro Paulo Sérgio, eu vou apregoar os dois itens seguintes em conjunto. Os itens 18 e 19 são aqueles casos em que houve um pedido de vista\n\n**[03:14:40] Min. Paulo Sérgio Domingues (Relator):** Isso.\n\n**[03:14:41] Min. Sérgio Kukina (Presidente):** pelo Ministro Benedito, depois, com a saída dele, esse feito retorna, então, na apreciação de Vossa Excelência. Eu chamo aqui os dois recursos. Agravo interno nos embargos de declaração no AREsp 1.872.598, 1.872.598 do Amazonas, né? Relator Min. Paulo Sérgio Domingues. É, é agravante Marilene Correia da Silva Freitas, agravado Ministério Público do Estado do Amazonas, interessado Vale Livraria Editora e Distribuidora Limitada. Ah, o feito seguinte, o processo é o mesmo, né? A numeração é a mesma, o relator também Min. Paulo Sérgio Domingues, a agravante Fundação Boas Novas, agravado o Ministério Público do Estado do Amazonas, interessada Marilene Correia da Silva Freitas e também a uma pessoa jurídica, né, Valer Livraria Editora e Distribuidora Distribuidora Limitada.\n\n**[03:15:54] Min. Sérgio Kukina (Presidente):** Eh, ministro Paulo Sérgio, então, tem a palavra para ambos os feitos.\n\n**[03:15:58] Min. Paulo Sérgio Domingues (Relator):** Obrigado, senhor presidente. Como Vossa Excelência destacou, eu trouxe esses feitos em sessão presencial em junho do ano passado. Eh, houve pedido de vista do ministro Benedito. Eh, e com a posse do eminente ministro na Corregedoria, os autos retornaram para mim agora no ah no final de agosto, então eu estou reapresentando o caso ao colegiado. Eh, como eu já apresentei o voto aqui, senhor presidente, em sessão presencial, eh, e não vejo destaque aqui, mas outros destaques no sistema, eu apenas vou se me permite apresentar rapidamente aqui, né, dizendo que eh houve aqui o se firmou um convênio da Fundação com o Estado para eh, simular uma doação de recursos públicos, valor de 900 mil reais para aquisição de livros que em sua expressiva maioria desapareceram, 15 mil exemplares.\n\n**[03:16:51] Min. Paulo Sérgio Domingues (Relator):** Estou mantendo a condenação à devolução daquele montante, porque é uma decorrência lógica do reconhecimento do ato ímprobo, e determinando o retorno dos autos ao tribunal local para uma nova dosimetria das penas aplicadas à Fundação, considerado improcedente do pedido condenatório no base do artigo 10º da LIA. Então, estou julgando improcedente o pedido condenatório com base no artigo 10º da LIA e determinando o retorno dos autos para nova dosimetria da pena. Isso no recurso da Fundação, que é o item 19. No outro recurso, eh, eu estou eh, enfim, aqui dando provimento parcial para julgar improcedente o pedido condenatório por improbidade com base no artigo 10 e afastando a multa civil a Marilene. É isso em síntese, senhor presidente, nos dois casos.\n\n**[03:17:38] Min. Sérgio Kukina (Presidente):** É, alguma observação? Não há.\n\n**[03:17:43] Min. Paulo Sérgio Domingues (Relator):** De sanção, não?\n\n**[03:17:45] Min. Sérgio Kukina (Presidente):** Então eu vou proclamar. É. No feito de item no feito de número 18, não é, da ordem do dia, agravo interno a que se dá parcial provimento para julgar improcedente o pedido condenatório por improbidade administrativa com base no artigo 10 da lei e afastar a multa civil correlata.\n\n**[03:18:11] Min. Paulo Sérgio Domingues (Relator):** Sim, já fica fica do artigo 11, não é, naturalmente.\n\n**[03:18:14] Min. Sérgio Kukina (Presidente):** Certo. E já o feito do item 19, a conclusão foi pelo agravo interno, a ele se deu parcial provimento para julgar improcedente o pedido condenatório por improbidade com base no artigo 10, determinando o retorno dos autos para nova dosimetria das penas. Tá? Muito bem. Vamos agora ao bloco dos destaques, tá? Chamo em primeiro lugar o item 20 da ordem do dia.\n\n**[03:18:52] Min. Sérgio Kukina (Presidente e Relator):** É, trata-se do agravo interno no RMS 78.564 da Bahia. Tá? É. Figura como agravante Carlos Alberto Santos de Jesus. Parte agravada é o estado da Bahia, tá? É é um recurso de minha relatoria, tá? E no qual eu estou negando provimento a esse agravo por entender que nos moldes da Súmula 115/STJ do STJ a irregularidade na representação processual do recorrente não foi sanada, né? Eh, ele acabou apresentando uma nova procuração hã? Mas com data posterior, né? Com data atualizada, né? O que não é admitido nos termos da nossa jurisprudência. Aqui nesse caso, né? Há um destaque do ministro Corgial de Faria que tem a palavra.\n\n**[03:20:01] Min. Gurgel de Faria:** a gente, em termos de colegiado, debater sobre a aplicação dessa Súmula 115/STJ porque a Súmula 115/STJ ou é, digamos assim, a jurisprudência que eh, eh, com que a jurisprudência consolidada que deu ensejo a essa súmula ela é especificamente para o âmbito da instância especial, a instância própria onde nós funcionamos aqui. E como a gente está em sede de recurso e mandado de segurança ou seja, no âmbito de uma jurisdição ordinária aí eu levantei essa questão, não é para divergir não, é só para que o colegiado a gente então, eh, no caso delibere, vamos também aplicar a Súmula 115/STJ, mesmo estamos, quando nós estivermos em sede de instância ordinária.\n\n**[03:20:49] Min. Gurgel de Faria:** Foi só essa observação. A gente, eh, eh, muitas vezes, por exemplo, Súmula 283/STF, é própria para instância especial, a gente tem jurisprudência tranquila dizendo que aplica. Súmula 283/STF, Súmula 284/STF, a gente tem jurisprudência dizendo que aplica para recurso ordinário. Mas da Súmula 115/STJ pode até ter, mas eu confesso que eu não me recordo. E aí eu achei interessante a gente então, por isso que eu destaquei.\n\n**[03:21:15] Min. Sérgio Kukina (Presidente e Relator):** Eu mesmo não cito nenhum julgado, não.\n\n**[03:21:19] Min. Gurgel de Faria:** Hum, de, de, de jurisdição. E, e Vossa Excelência, eh, consegue, né, eh, ter essa perspectiva, é interessante. Eu lembro aqui, por exemplo, casos também em RMS, em que por vezes acontece de se dizer: \"Ah, não, não é possível aqui julgar embargos de declaração aventando matéria constitucional, hum, sob pena de usurpação do Supremo, né?\" E na verdade é uma jurisprudência típica, né, do REsp, do recurso especial.\n\n**[03:21:50] Min. Gurgel de Faria:** a gente tá tão acostumado a julgar REsp que quando vem para o RMS a gente termina às vezes aplicando, eh, decisões próprias de, de REsp, quando aí, isso é possível, volto a dizer, em alguns casos, né, não todos. Por exemplo, a gente jamais poderia dizer isso de uma Súmula 7/STJ para um RMS, não é, que ali é jurisdição, eh, efetivamente ordinária. Mas aqui, vamos aplicar? É essa a questão. Claro, Ministro Agir.\n\n**[03:22:22] Min. Regina Helena Costa:** Eh, eu, exatamente, essa questão de, de, eu, eu, o, o RMS ele tem uma, uma configuração muito diferente do, do recurso especial. Então a gente aqui atua como tribunal de apelação no RMS. Então por isso que a jurisprudência afirmada para recurso especial, normalmente a gente não, não aplica ao RMS porque ele é, ele é como, ele funciona como uma apelação em mandado de segurança e nós aqui somos tribunal de apelação. Eh, o que eu pude ver, eh, foi o seguinte, a Corte Especial inicialmente tinha uma posição amplia, ampliada, vamos dizer, do cabimento da, da aplicação da Súmula 115/STJ para o RMS também. Mas depois, em 2017, isso mudou. Então nós temos um posicionamento, pelo que eu tô entendendo, vigente hoje da, da Corte Especial, eh, o Ministro Herman Benjamin, que é o único que tem assento lá, talvez possa esclarecer, mas eh, o que nós temos hoje é que eh, o a Súmula 115/STJ o STJ entendeu que essa\n\n**[03:23:22] Min. Regina Helena Costa:** Súmula 115/STJ ela teria que ser aplicada apenas ao recurso especial, mas não era posição original da corte, pelo que eu entendi, não é? Então eh, eh, eh, aqui, inclusive nesse nesse julgado, deixa eu ver aqui se eu se eu puxo o aqui, é o embargos de declaração no MS 20824, Distrito Federal, que a Corte Especial julgou em setembro de 2017. E a questão era justamente a aplicabilidade ou não do óbice da Súmula 115/STJ aos processos de competência originária ou recursal ordinária do STJ. Então fez todo um histórico esse julgado e aí eh, a partir daí a Corte Especial distinguiu as diferentes competências constitucionais, assentou que o tribunal funciona como instância especial ou tribunal de superposição.\n\n**[03:24:10] Min. Regina Helena Costa:** E aí no julgado restou pacificado que inexiste razão para aplicar o referido óbice aos efeitos para o onde o STJ exerce competência processual originária ou recursal ordinária. Então existe uma posição da corte no sentido de não aplicar.\n\n**[03:24:27] Min. Herman Benjamin:** Eh, a Corte Especial muda muito, ao contrário do que nós imaginamos. Quem sabe nós poderíamos deixar eh este processo para a próxima sessão. Iríamos fazer um levantamento eh, eh, e eu posso também a ajudar com isso daí, eh, da posição atual da Corte Especial, porque embora eu integre aquele colegiado, eh, não é como ocorria eh,\n\n**[03:25:01] Min. Regina Helena Costa:** 75 para 2017.\n\n**[03:25:05] Min. Herman Benjamin:** Há ah, um um alteração e às vezes a alteração sem que com, aparece um precedente que nós não, não, sinceramente, não foi debatido. Mudando\n\n**[03:25:17] Min. Regina Helena Costa:** É, mas eu acho que esse aqui foi, pelo que eu\n\n**[03:25:19] Min. Herman Benjamin:** Eu sei, eu não estou dizendo que Vossa Excelência, é, é, e, e na verdade eu estou concordando com a posição do Ministro Gurgel, de Vossa Excelência. Eu só queria que nós julgássemos aqui com, com, com bastante segurança sobre aquilo, sobre aquilo para o qual eu não tenho segurança que é a posição da Corte Especial.\n\n**[03:25:37] Min. Regina Helena Costa:** Eu só vou posso acrescentar uma coisa que também, é, do levantamento que eu fiz, a primeira sessão já, no, é, na, no RCD, no MS 23832 DF, relatoria da saudosa Ministra Assusete Magalhães, a primeira sessão julgou em março de 19 é, para dizer que é, para adotar a, o, o posicionamento da Corte Especial essa orientação mais recente que diz que não cabe aplicar o 115 em competência originária ou em recurso e mandado de segurança. Então, já tem um acórdão da primeira sessão de 2019 também.\n\n**[03:26:10] Min. Regina Helena Costa:** Aqui tá, é, é, no MS 23832 RCD, tá escrito. RCD no MS 23832 Distrito Federal, relatoria Ministra Assusete Magalhães, primeira sessão. Então, houve uma reafirmação ou houve uma aplicação pelo colegiado maior aqui do Direito Público, é, aplicando esse entendimento. Mas, evidentemente, há decisões díspares, há decisões que aplicam o óbice e outras não. Mas existe esse posicionamento, talvez porque seja antigo, talvez não tenha sido lembrado, mas o fato é esse. O fato é esse, a gente tem essa situação.\n\n**[03:26:44] Min. Sérgio Kukina (Presidente e Relator):** Mas Ministra Regina, eu, eu confesso que não havia atentado para essa questão mas agora mesmo a em comunicação com o gabinete, né? É uma pena que não foram esses os julgados citados. Né? Ah, mas me informa que já pelo menos dois julgados recentíssimos, né? Um de relatoria do ministro Benedito Gonçalves, agora de maio, ministro Paulo Sérgio em junho. Na nossa primeira turma.\n\n**[03:27:20] Min. Regina Helena Costa:** Em que sentido?\n\n**[03:27:21] Min. Sérgio Kukina (Presidente e Relator):** Aplicando a súmula aplicando a Súmula 115/STJ.\n\n**[03:27:24] Min. Regina Helena Costa:** mas esse é o ponto, mas se a corte tem um posicionamento da seção também, a turma não pode dissentir. pode, sabe? Esse é o problema, precisaria uniformizar.\n\n**[03:27:32] Min. Gurgel de Faria:** É importante a gente Eu acho que a ideia do ministro Herman, no sentido de a gente adiar, se o lógico se o relator concordar porque a gente teria uma semana Tem que resgatar esse É, para a gente dar uma resgatada nisso e o colegiado firmar sua posição com tranquilidade sobre a jurisprudência da corte, não só de eventuais decisões nossas aqui, mas da primeira seção, como a ministra Regina falou.\n\n**[03:27:56] Min. Regina Helena Costa:** que reafirmou essa de 2017.\n\n**[03:27:58] Min. Gurgel de Faria:** né? Eu acho que é importante. Hã?\n\n**[03:28:01] Min. Sérgio Kukina (Presidente e Relator):** Ou até de mandar para a corte, porque eu abri aqui esse processo que a ministra Regina se referiu e ele não se trata aqui de eh recurso e mandado de segurança, ou seja, não é que nós estamos aqui nesse caso em instância recursal. É no próprio mandado de segurança de competência originária.\n\n**[03:28:16] Min. Regina Helena Costa:** Aqui também pela minha anotação as duas coisas. Ele A conclusão foi para competência originária e para RMS.\n\n**[03:28:21] Min. Paulo Sérgio Domingues:** Mas o caso O caso concreto\n\n**[03:28:22] Min. Regina Helena Costa:** Mas parece que eles concluíram que\n\n**[03:28:24] Min. Paulo Sérgio Domingues:** concreto era para com que no recurso também não pode.\n\n**[03:28:28] Min. Regina Helena Costa:** É, me parece que sim, mas de qualquer maneira que a corte A corte especial passou a entender que por se tratar de efeito originário e não recursal, talvez o poderia ser sanado após abertura de prazo. É isso que a ministra Regina\n\n**[03:28:39] Min. Sérgio Kukina (Presidente e Relator):** É porque o quê?\n\n**[03:28:40] Min. Regina Helena Costa:** Mas o argumento valeria para as duas coisas.\n\n**[03:28:42] Min. Sérgio Kukina (Presidente e Relator):** Valeria para as duas coisas, claro.\n\n**[03:28:43] Min. Regina Helena Costa:** É claro, mas na verdade a jurisdição continuaria uniformizada.\n\n**[03:28:46] Min. Sérgio Kukina (Presidente e Relator):** como eles não se manifestaram sobre isso, eventualmente, quem sabe, poderia ser até o envio para lá. Não sei, eu só estou\n\n**[03:28:51] Min. Regina Helena Costa:** É, e precisava também rever reler esse essa posição da primeira seção, porque aí já seria específico\n\n**[03:28:57] Min. Sérgio Kukina (Presidente e Relator):** Sim.\n\n**[03:28:58] Min. Regina Helena Costa:** É, e aparentemente para não, para não aplicar. O problema é que não obstante essas decisões, alguns da das turmas continuaram a aplicar o 115, a 115, mesmo com as decisões. Então precisaria fazer um\n\n**[03:29:11] Min. Paulo Sérgio Domingues:** É é aquilo Ministro Regina, muitas vezes a gente cega, a gente\n\n**[03:29:14] Min. Sérgio Kukina (Presidente e Relator):** É é Tá julgando muito mais\n\n**[03:29:16] Min. Regina Helena Costa:** que aconteceu, até porque a corte especial mudou de posição. Ela mudou, ela tinha antes uma percepção ampla.\n\n**[03:29:23] Min. Sérgio Kukina (Presidente e Relator):** 75, eu acabei de fechar.\n\n**[03:29:25] Min. Regina Helena Costa:** Tá.\n\n**[03:29:25] Min. Sérgio Kukina (Presidente e Relator):** Ah. É o RMS Eu ia dizer\n\n**[03:29:28] Min. Regina Helena Costa:** Não, é o RMS da Ministra Suzete. O da de da primeira sessão, deixa eu ver aqui.\n\n**[03:29:32] Min. Sérgio Kukina (Presidente e Relator):** Da Ministra Suzete, não.\n\n**[03:29:33] Min. Regina Helena Costa:** É, deixa eu achar. Corte especial. Não, o da corte especial da Ministra Suzete.\n\n**[03:29:37] Min. Sérgio Kukina (Presidente e Relator):** especial que é da Ministra Suzete.\n\n**[03:29:38] Min. Regina Helena Costa:** Não, da corte especial da Ministra Suzete é do é do da primeira sessão.\n\n**[03:29:42] Min. Sérgio Kukina (Presidente e Relator):** 75.\n\n**[03:29:43] Min. Regina Helena Costa:** o da corte especial do Ministro Mauro Campbell.\n\n**[03:29:45] Min. Sérgio Kukina (Presidente e Relator):** Ah, então é isso.\n\n**[03:29:47] Min. Regina Helena Costa:** Pelo que eu tenho aqui, né? É do Mauro Campbell, de 2017.\n\n**[03:29:52] Min. Sérgio Kukina (Presidente e Relator):** É que é que tem o número aqui, Ministro.\n\n**[03:29:54] Min. Regina Helena Costa:** E depois\n\n**[03:29:55] Min. Herman Benjamin:** Eu me comprometo a pedir o apoio\n\n**[03:29:58] Min. Regina Helena Costa:** da primeira sessão. É RMS 23870 para fazer o levantamento.\n\n**[03:30:03] Min. Sérgio Kukina (Presidente e Relator):** Então eu fiz um um breve levantamento, mas me parece que a assim, a preocupação se justifica, a preocupação do destaque do Ministro Gurgel se justifica porque efetivamente aparentemente existiriam acórdãos vinculantes para nossa jurisdição ou pelo menos ou da corte especial ou da primeira sessão ao menos, então para não aplicar.\n\n**[03:30:22] Min. Paulo Sérgio Domingues:** Interessante.\n\n**[03:30:26] Min. Sérgio Kukina (Presidente e Relator):** Bem, eu posso então indicar aqui o a retirada.\n\n**[03:30:32] Min. Regina Helena Costa:** Basta adiar.\n\n**[03:30:33] Min. Sérgio Kukina (Presidente e Relator):** É, adiando, perigo de trazer na próxima semana.\n\n**[03:30:36] Min. Regina Helena Costa:** Isso, eu vou lá ver mais adiante. Mas veja, na próxima semana a gente se a gente já consegue.\n\n**[03:30:40] Min. Sérgio Kukina (Presidente e Relator):** Trago também julgados aqui que me referi, né?\n\n**[03:30:44] Min. Regina Helena Costa:** É. Tinha\n\n**[03:30:46] Min. Sérgio Kukina (Presidente e Relator):** Recentes da nossa turma.\n\n**[03:30:47] Min. Regina Helena Costa:** Isso, então o problema tá bem nessa falta de uniformidade, é.\n\n**[03:30:51] Min. Sérgio Kukina (Presidente e Relator):** É, da segunda turma também.\n\n**[03:30:52] Min. Regina Helena Costa:** Porque é então\n\n**[03:30:54] Min. Sérgio Kukina (Presidente e Relator):** circunstância\n\n**[03:30:55] Min. Regina Helena Costa:** só, só acabei indicando\n\n**[03:30:57] Min. Sérgio Kukina (Presidente e Relator):** Os que, os de turma, né? São em maior número, né?\n\n**[03:31:00] Min. Regina Helena Costa:** Não, e os que de turma e não dos colegiados maiores, né? Mas, mas, enfim.\n\n**[03:31:03] Min. Sérgio Kukina (Presidente e Relator):** O que o ministro Gurgel apontou muito bem ali, foi oportuna, né? Então, eu, eu indico a retirada desse caso, né? Retirada ou Ah, perdão, adiamento, é adiamento, né?\n\n**[03:31:15] Min. Regina Helena Costa:** Uhum.\n\n**[03:31:17] Min. Sérgio Kukina (Presidente e Relator):** Até lá nosso ministro, ministro Benjamin, também.\n\n**[03:31:21] Min. Herman Benjamin:** Sim, eu já, eu já vou pedir à secretaria, à coordenadoria da corte especial, para fazer um levantamento.\n\n**[03:31:27] Min. Sérgio Kukina (Presidente e Relator):** Perfeito. É, então, chamo agora a julgamento o item seguinte, 24 da ordem do dia. 21. Assim, 21 agora, né? Tá certo.\n\n**[03:31:53] Min. Sérgio Kukina (Presidente):** O 21, trata-se do agravo de, interno, no AREsp 3.153.809, de Sergipe. É relator sua excelência o ministro Gurgel de Faria. É parte agrava, a parte agravante, né, o estado de Sergipe. Agravados, Mauler Sociedade de Advogados, Rebouças, Campos e Gaudino Advocacia e Consultoria, né? Ah, consta aqui, né, o que haveria um destaque da ministra Regina Helena, acho que foi no plenário virtual. Foi isso? Veio do virtual. Foi, veio do virtual e também tem um destaque do ministro Herman. Agora do ministro Herman. Isso. Perfeito, então. Tem a palavra o ministro Gurgel de Faria.\n\n**[03:32:41] Min. Gurgel de Faria (Relator):** Senhor presidente, esse tema é um tema interessante e que acredito que o que motivou é, os colegas a fazer o destaque é porque ele remete, em princípio a uma situação de precedentes do Supremo Tribunal Federal ou de mudança de legislação, mas não é bem o caso. Vou vou vou vou eh eh eh, digamos assim para o início, efetivamente. É uma questão envolvendo se houve ou não preclusão do Estado que estava cumprindo aquela sentença estava como executado de alegar eh, no caso, descumprimento do índice correto de juros e correção monetária.\n\n**[03:33:21] Min. Gurgel de Faria (Relator):** Que aconteceu? Particular, ali o exequente, apresentou a memória de cálculos passou o prazo de impugnação, o Estado não requereu nada. O juiz, então, vai e homologa os cálculos. O Estado, então, recorre. Veja, precluiu, né? O Estado vai e recorre e diz: \"Opa! Na verdade, eh, você aplicou a Selic quando o o juros e a correção monetária não deveriam ser pela Selic\" e vai e apresenta um um outro índice. E aí então eh, na minha compreensão, houve a preclusão.\n\n**[03:33:58] Min. Gurgel de Faria (Relator):** Aí o Estado vai e diz: \"Não, mas veja, quando há um precedente vinculante ou quando há uma mudança de legislação, já há posição no Supremo Tribunal Federal dizendo que isso não faz coisa julgada e que isso pode ser alterado\". Correta essa posição. Mas aqui a gente não tá diante de uma mudança de eh eh eh de legislação, nem tão pouco a gente está diante de um novo precedente. Não houve modificação na interpretação a respeito da matéria. Já era dessa forma. Ali, naquele determinado, era uma questão de honorários advocatícios que ele aplicou a Selic quando, na verdade, eram outros índices que agora eu tô falando de memória, não tô não tô me recordando.\n\n**[03:34:39] Min. Gurgel de Faria (Relator):** A foi, poderia ter impugnado. Ela não impugnou. Aí quando o juiz vai e homologa os cálculos, ela vai e recorre. A gente tem jurisprudência tranquila dizendo que há preclusão. Eu boto no meu voto, podem prestar atenção. E chamo a atenção mais uma vez. Não é o caso de mudança de interpretação em face de um precedente vinculante, nem é tão pouco, é, caso de alteração de legislação, que nessas hipóteses assim jurisprudência dizendo que aí não haveria que se alegar coisa julgada, nem eu até estou com um repetitivo que eu estou pautando para novembro, que essa matéria vai, não essa aqui direta, porque aqui é preclusão, tá? Mas essa matéria vai ser objeto de debate lá na nossa primeira sessão.\n\n**[03:35:28] Min. Gurgel de Faria (Relator):** Se o processo, porque o que é que está acontecendo? Os senhores devem estar vendo, porque processo já arquivado, aí a parte vai e diz: \"Olha, mas o Supremo disse que aqui o índice era outro, eu quero que desarquive\". E é, é, aí eu não posso até se igualar, mas eu, eu já diria também, aí já, né, Ministro Regina? Mas assim, então é, eu estou construindo três teses sobre essa situação, exatamente dizendo: \"Ó, no aí já, é, e assim, nesse outro é, é de outra forma\". Então liberei esse voto para a gente poder julgar em novembro, mas aqui não é, mudança de interpretação em face de precedente vinculante, nem é mudança de legislação superveniente. No caso, a parte simplesmente teve a oportunidade de impugnar, não impugnou e depois vem e quer recorrer.\n\n**[03:36:20] Min. Gurgel de Faria (Relator):** Aí a gente tem jurisprudência, volto a dizer, tá elencada no voto essa jurisprudência, vários acórdãos, eu, é, coloquei um, dois, é, três, quatro acórdãos aí, é, meu, é, do Ministro Napoleão, do Ministro Teodoro, que é de outra turma, de turmas como esse tema também por óbvio vai para o direito privado, de turma do direito privado tanto da terceira como aqui no caso o outro também é da terceira turma, deixa eu ver se eu coloquei algum da quarta, não, botei da primeira, da segunda e da terceira turmas deste colegiado dizendo precluiu. Se ele não alegou no momento oportuno preclui, mas senhor presidente é esse o resumo, por óbvio é importante aí ouvir os destaques dos dois colegas que assim fizeram a ministra Regina e o ministro Herman.\n\n**[03:37:14] Min. Sérgio Kukina (Presidente):** Pois não. Então eu dou a palavra né aos colegas que fizeram o destaque. Ministro Herman Benjamin.\n\n**[03:37:27] Min. Regina Helena Costa:** Da primeira vez foi a minha.\n\n**[03:37:28] Min. Sérgio Kukina (Presidente):** O primeiro destaque foi da ministra Regina.\n\n**[03:37:31] Min. Regina Helena Costa:** Ah, é que eu noto ele aqui na configuração.\n\n**[03:37:34] Min. Sérgio Kukina (Presidente):** Hum.\n\n**[03:37:35] Min. Regina Helena Costa:** Do sistema Vossa Excelência está\n\n**[03:37:37] Min. Sérgio Kukina (Presidente):** É que a data é anterior, a sua abaixo que a minha meu foi primeiro. É é o seu é de setembro Vossa Excelência né, tem razão.\n\n**[03:37:44] Min. Regina Helena Costa:** A razão pela qual senhor presidente eu ministro Gurgel é porque isso não é efetivamente não é uniforme, há julgados da primeira turma da segunda afastando a preclusão em situações similares, eu mesma já julguei afastando a preclusão, eu destaquei porque realmente a questão não é tranquila não, no direito público muito dissonante eu diria. É aqui tem até os números dos recursos se quiserem, vários em que se afastou preclusão, é justamente em função desses temas do supremo, dos temas de repercussão geral, então eu destaquei para a gente no mínimo debater porque não é algo tranquilo. Né, foi essa a razão do meu destaque. É quase como no caso anterior né.\n\n**[03:38:26] Min. Regina Helena Costa:** É tem muitos casos diferentes, tem para todos os lados, muitos casos em que a conclusão foi diversa, inclusive aqui nós já julgamos na segunda turma já se julgou para afastar a preclusão. É.\n\n**[03:38:36] Min. Sérgio Kukina (Presidente):** Certo. A Vossa Excelência sinalizou pedido de vista?\n\n**[03:38:40] Min. Regina Helena Costa:** Por enquanto não. Se quiserem debater, eu tenho aqui uma\n\n**[03:38:46] Min. Sérgio Kukina (Presidente):** Ouvimos o Ministro Herman, então por hora também.\n\n**[03:38:49] Min. Herman Benjamin:** O meu é destaque é mais ou menos na mesma linha. É por conta da é da dispersão de entendimentos na própria turma. Então, por exemplo, eu levantei um precedente da relatoria do Ministro Paulo Sérgio que teve voto de Vossa Excelência e da Ministra a Regina Helena, é o onde é\n\n**[03:39:19] Min. Gurgel de Faria (Relator):** Mas tem que ver se não é diante dessa situação que eu mencionei.\n\n**[03:39:23] Min. Herman Benjamin:** Calma.\n\n**[03:39:24] Min. Gurgel de Faria (Relator):** Se a situação, mas eu volto a\n\n**[03:39:25] Min. Herman Benjamin:** Eu entendi. É de\n\n**[03:39:27] Min. Gurgel de Faria (Relator):** de alteração de legislação ou de precedente vinculante.\n\n**[03:39:31] Min. Herman Benjamin:** na jurisprudência, etc. Não. É, no agravo interno no REsp 2 milhão é 150 640 de Santa Catarina a turma à unanimidade é afirmou que é não há preclusão pela homologação é da conta e que os índices podem ser alterados aspas até o trânsito em julgado do processo executivo. Fechou aspas. É e depois, bem, aí já é um é um precedente, salvo engano eu de entendimento. Nesse primeiro caso é exatamente um dos ca assim, ó, ó. Entendimento superveniente. Já não é o caso que eu tô tratando. Abri aqui relatoria do Ministro Paulo Sérgio, por isso que eu fiz a distinção, viu, pessoal? A gente não pode colocar tudo no mesmo é barco não. Eu quero dizer que eu não estou discordando.\n\n**[03:40:31] Min. Gurgel de Faria (Relator):** É, o problema é que seria seria retratar situações.\n\n**[03:40:34] Min. Herman Benjamin:** Ou adotando outra. Tá muito, a minha, a minha impressão que não tá consistente a a distinção de situações, porque são muitas, evidentemente. É verdade.\n\n**[03:40:44] Min. Regina Helena Costa:** Mas e como e assim, quem olha de fora a jurisprudência acha que tá caótico.\n\n**[03:40:50] Min. Gurgel de Faria (Relator):** É, esse é o ponto.\n\n**[03:40:51] Min. Herman Benjamin:** A sugestão que eu queria fazer é que como a é, essas é, várias hipóteses e é, e aí num num numa primeira pro a aproximação ao Supremo derrubou, é é, a coisa julgada em é, a possibilidade e a preclusão tem que seguir o mesmo, é, o mesmo sentido. Mas há discrimens a serem feitos como o próprio Ministro Fux gel é, a aponta. Talvez se fosse melhor afetar esse caso para a primeira sessão, porque aí nós teríamos condições de lá estabelecer esses critérios todos é, de uma é, com um de um de um debate mais amplo. Porque não adianta nós aqui na primeira termos clareza sobre é Não, mas eu acho que nós não temos clareza, esse é o problema. Eu acho que isso talvez fosse o ca o caso da gente analisar com otimismo aqui todas as variáveis para criar um quadro claro, entendeu?\n\n**[03:41:54] Min. Herman Benjamin:** Se nós aqui a um a um entendimento com essas peculiaridades, etc, com clareza, não significa dizer que a segunda turma vai ter, é, é, o mesmo debate.\n\n**[03:42:07] Min. Gurgel de Faria (Relator):** Mas até para portar o tema na primeira sessão, Ministro Benjamin, é importante que a turma já tenha uma posição consistente, mais mais densificada e vislumbrando todas as variáveis. Aí nós aí a essa questão se aporta a controvérsia aporta na primeira sessão, mas já com uma posição mais consolidada. Eu não vejo que nós tenhamos uma posição constante, que eu tô em dúvida, você está em dúvida. Então, então eu acho que nós precisaríamos aprofundar o exame aqui antes.\n\n**[03:42:34] Min. Regina Helena Costa:** como foi a primeira destacar?\n\n**[03:42:36] Min. Gurgel de Faria (Relator):** Não, eu não sei, eu acho que a gente vai\n\n**[03:42:37] Min. Regina Helena Costa:** não é, ministro?\n\n**[03:42:38] Min. Gurgel de Faria (Relator):** Com certeza.\n\n**[03:42:38] Min. Regina Helena Costa:** Não sei, eu não sei se o ministro quer dar uma sugestão?\n\n**[03:42:41] Min. Paulo Sérgio Domingues:** Não, eu só ia comentar que realmente é a eu vejo dados sucessivos\n\n**[03:42:48] Min. Regina Helena Costa:** A o quê?\n\n**[03:42:49] Min. Paulo Sérgio Domingues:** As decisões algumas situações em que de fato às vezes até veja houve o pagamento ainda não transitou em julgado\n\n**[03:42:59] Min. Regina Helena Costa:** Isso, esse é o problema.\n\n**[03:43:00] Min. Paulo Sérgio Domingues:** houve o pagamento e mesmo depois do pagamento\n\n**[03:43:03] Min. Regina Helena Costa:** Se sim\n\n**[03:43:04] Min. Paulo Sérgio Domingues:** vem e fala, olha, mas tem uma tem uma tem um negócio diferente e tal\n\n**[03:43:07] Min. Gurgel de Faria (Relator):** Pessoal, mas a gente não colocou mas é\n\n**[03:43:10] Min. Paulo Sérgio Domingues:** ninguém foi olhar lá atrás se tinha havido impugnação ou não.\n\n**[03:43:12] Min. Regina Helena Costa:** É mudança de julgado.\n\n**[03:43:13] Min. Gurgel de Faria (Relator):** Não, pessoal, mas é nesses casos\n\n**[03:43:15] Min. Paulo Sérgio Domingues:** Então seria bom a gente definir realmente, mas eu também acho que pode ser feito aqui.\n\n**[03:43:18] Min. Gurgel de Faria (Relator):** Tema 1170/STF e Tema 1361/STF, eu coloco no voto. Nessas situações, quando há ou legislação superveniente ou precedente vinculante posterior, não tendo ocorrido o trânsito em julgado, não se reconhece a preclusão.\n\n**[03:43:33] Min. Paulo Sérgio Domingues:** Então se a gente entende isso Então se a ideia é, vamos dizer que há preclusão tudo que veio antes, não é que veio depois uma mudança de entendimento do Supremo, não é que veio uma outra lei, simplesmente é nesse intervalo entre a manifestação sobre a conta e a sua homologação, não aconteceu nada diferente, simplesmente precluiu e acabou. Se a ideia se a ideia é dizer isso, só dizer isso nesses casos, tudo bem. Talvez eu acho que o ministro Herman tenha colocado em 1061, no sentido de deixar claro de entender o que talvez não tivesse claro na ementa exatamente esta situação.\n\n**[03:44:05] Min. Regina Helena Costa:** Eu entendi que até está\n\n**[03:44:06] Min. Paulo Sérgio Domingues:** está claro, mas eu\n\n**[03:44:07] Min. Gurgel de Faria (Relator):** Se vossas excelências estiverem de acordo, eu me comprometo a gente que eu já coloco é é é falo dos temas 1170 e 1361 já na ementa de que a situação é distinta, mas a gente pode melhorar aqui a para deixar mais claro ainda, não é, que onde a gente vem entendendo, mas também se quiserem mais tempo para a gente analisar, mas assim, o que eu venho encontrando é essas situações de você admitir que não vai se chamar, não vai ocorrer a preclusão quando for esses casos, dois casos que eu já mencionei, que eu não vou mais nem repetir, que eu já estou ficando cansativo. No mais, é preclusão.\n\n**[03:44:48] Min. Paulo Sérgio Domingues:** Uhum.\n\n**[03:44:48] Min. Regina Helena Costa:** Aham.\n\n**[03:44:49] Min. Gurgel de Faria (Relator):** Até porque é lógico, pessoal, o processo civil funciona assim. Se a se a gente não reconhece a preclusão, a parte vai ficar deixando a oportunidade, ah, agora eu vou recorrer, aí você não, mas você poderia ter argumentado isso antes e não argumenta e não é?\n\n**[03:45:03] Min. Regina Helena Costa:** Eu estou de\n\n**[03:45:05] Min. Herman Benjamin:** Eu adianto que eu estou de acordo.\n\n**[03:45:06] Min. Regina Helena Costa:** Eu vou pedir vista então, senhor presidente, eu vou eu\n\n**[03:45:08] Min. Herman Benjamin:** Eu acho interessante o pedido de vista para a gente amadurecer.\n\n**[03:45:11] Min. Regina Helena Costa:** Porque a questão é essa, não tendo havido impugnação tempestiva à memória de cálculo, pode-se depois incluir consectários, à vista dos temas do Supremo?\n\n**[03:45:22] Min. Gurgel de Faria (Relator):** Não é a questão de incluir, só para deixar claro. Você pode mudar o critério.\n\n**[03:45:27] Min. Regina Helena Costa:** Adequar, adequar, adequar.\n\n**[03:45:28] Min. Gurgel de Faria (Relator):** É, adequar.\n\n**[03:45:29] Min. Regina Helena Costa:** Que seja, à vista dos temas, aí estão os temas 810, 1170, 1361 e diante do que efetivamente, assim, do levantamento, claro, não fiz o levantamento que Vossa Excelência fez, mas no levantamento superficial, há dissenção\n\n**[03:45:43] Min. Gurgel de Faria (Relator):** É.\n\n**[03:45:43] Min. Regina Helena Costa:** para todo lado. Então, eu confesso que eu vou eu vou querer mais tempo, então.\n\n**[03:45:49] Min. Gurgel de Faria (Relator):** Com certeza.\n\n**[03:45:49] Min. Regina Helena Costa:** Se Vossa Excelência não se\n\n**[03:45:50] Min. Gurgel de Faria (Relator):** E aí vai ser interessante, ministra Regina, porque no tempo que Vossa Excelência vai ter, eu vou levar esse caso, não diretamente desse, mas esse outro de aplicação do 1800 do dos temas 1170 e 1361, até quando se pode argumentar isso para a primeira sessão.\n\n**[03:46:09] Min. Regina Helena Costa:** É, porque eu acho que\n\n**[03:46:10] Min. Gurgel de Faria (Relator):** Aí a gente vai esse caso é distinto, volto a dizer, por isso se não, eu até pensei se eu não deveria sobrestar esse caso, mas eu vi que ele não se adequa lá\n\n**[03:46:19] Min. Regina Helena Costa:** O que eu acho, o que eu sinto falta é de uma sistematização, nós não temos nenhuma nisso, aqui tá para um lado, para o outro, para um lado, essa turma afasta, no outro, no outro, não afasta, mas não há um critério, não há critérios consistentes, eu sou muito sistemático, eu quero, então eu vou, se ninguém se Perfeito. Se chatear com isso, eu vou pedir mais tempo\n\n**[03:46:39] Min. Gurgel de Faria (Relator):** sempre é\n\n**[03:46:40] Min. Regina Helena Costa:** E vou pedir ao senhor presidente vista em caráter antecipado\n\n**[03:46:43] Min. Gurgel de Faria (Relator):** Obrigado\n\n**[03:46:43] Min. Sérgio Kukina (Presidente):** Perfeito, perfeito, então após o voto do relator negando provimento ao agravo interno, solicitou vista antecipada, ah, antecipadamente a Min. Regina Helena Costa, aguardam os demais, né? Muito bem, vamos agora que os cinco itens restantes, todos de relatoria do Min. Paulo Sérgio Domingues, né?\n\n**[03:47:11] Min. Paulo Sérgio Domingues:** Agora eu vou falar um pouco na sessão\n\n**[03:47:15] Min. Sérgio Kukina (Presidente):** Um, dois, três, quatro, cinco, né? Chamo o primeiro deles a julgamento Ah, trata-se do agravo interno no recurso especial 2.202.275 de Alagoas Né? Como disse, relator o Min. Paulo Sérgio Domingues, parte agravante Fazenda Nacional, parte agravada Global Marine Importação e Exportação Limitada, ah Informo que o ministro Paulo Sérgio na existência de dois destaques Um Ah Um de lavra do ministro Rogério Schietti de Faria, que foi o primeiro deles, né? E o seguinte, mais recente, de lavra do ministro Herman Benjamin Tem a palavra o ministro relator\n\n**[03:48:06] Min. Paulo Sérgio Domingues (Relator):** Obrigado, senhor presidente, aqui, ah, aqui é que\n\n**[03:48:10] Min. Paulo Sérgio Domingues (Relator):** de importação, né? Eu vou resumir resumidamente porque há dois destaques, depois podemos prosseguir, se for necessário, em debates, né? Eh, eu entendi aqui que a controvérsia ela é ela é jurídica, ela não demanda exame de fatos e provas e ela consiste em definir aqui a compatibilidade eh, em hipótese de interposição fraudulenta, efetiva ou presumida entre as penalidades do artigo 23, parágrafo terceiro do decreto-lei 1455 de 76 que é multa de 100% do valor aduaneiro, na impossibilidade de perdimento e a do artigo 33 da lei 11488 de 2007, a multa de 10% por cessão de nome e bem como que seria o destinatário jurídico de cada sanção. Eu estou aqui adotando, eh, um entendimento que a segunda turma já se já manifestou, segundo a qual se define aqui a primazia da pena de perdimento ao importador oculto e quando impossível, multa correlata do parágrafo terceiro do artigo 23\n\n**[03:49:06] Min. Paulo Sérgio Domingues (Relator):** reservando ao importador ostensivo a penalidade por cessão de nome de 10% do valor da operação, da lei o artigo 33 da 11488 que, ao meu entender, essa é uma construção que preserva a coerência do sistema sancionatório. O patrimônio a ser atingido na interposição fraudulenta é o do real importador enquanto o importador ostensivo sujeito a ser reprimido especificamente por disponibilizar o seu nome e a estrutura documental para acobertar operações de terceiros. Então, estou distinguindo essas duas condutas né? A do importador ostensivo e aquela do da no caso da caso da interposição da interposição fraudulenta.\n\n**[03:49:43] Min. Paulo Sérgio Domingues (Relator):** Tá? Hum. Então, é isso. Estou reconhecendo que a multa do artigo 23 do decreto é o direcionado ao importador oculto e não pode ser exigido do importador ostensivo. A daquela aplicada ao importador ostensivo é a multa de 10% do valor da operação. Eh e aqui digo que, ah vou vou pular, já vou lá para o final. Estou eu estou reformando o acórdão para afastar a exigência da multa de 100% em desfavor da recorrente, determinar que o tribunal de origem proceda ao reexame à luz da orientação do STJ quanto à incidência, se cabível, da multa de 10% do artigo 33 ao importador ostensivo, preservadas as demais conclusões do acórdão não alcançadas pela devolutividade deste recurso. Então, com isso estou mantendo a decisão agravada, estou negando provimento ao agravo interno, presidente. Aguardo aqui os destaques. Estou, ah, curioso.\n\n**[03:50:33] Min. Sérgio Kukina (Presidente):** Pois não, então ministro relator nega provimento ao agravo interno da fazenda. Eu ouço primeiramente o Min. Gurgel de Faria.\n\n**[03:50:42] Min. Gurgel de Faria:** Presidente, o motivo do destaque ele partiu, ele tá no sistema, quando eu fiz o destaque da virtual eu lancei, partiu exatamente porque o ministro Paulo Sérgio ele só lança decisão da segunda turma. E a gente aqui tem, é sempre é bom rememorar, quando tem decisão somente do outro colegiado, a gente tem procurado, é, isso não é só o ministro Paulo Sérgio não, acho que todos nós assim, às vezes escapa, às vezes escapa, é, eu mesmo já devo com certeza deixei escapar. Então, é interessante que a questão seja apresentada não como ele fez originariamente na monocrática e depois vem em sede de agravo interno. É interessante que seja apresentada aqui direto no colegiado como o resp ou como a resp para ser julgado, não é? Isso aqui é um resp, ou seja, a gente julgaria porque aí depois a gente teria a jurisprudência da primeira turma para replicar. Então, foi só\n\n**[03:51:39] Min. Gurgel de Faria:** nisso, eu não tenho, não tô discordando, sabe, ministro Paulo Sérgio? É só para a gente rememorar porque é interessante a gente procurar manter essa linha e, é, é, é, é, ter um debate sempre prévio aqui ao invés da gente tá endossando, é, é, é, eventualmente a jurisprudência do outro colegiado. É só, era só isso.\n\n**[03:51:59] Min. Paulo Sérgio Domingues (Relator):** Tem razão, sua excelência escapou.\n\n**[03:52:00] Min. Gurgel de Faria:** Escapou.\n\n**[03:52:01] Min. Paulo Sérgio Domingues (Relator):** Por isso que foi o primeiro para o virtual.\n\n**[03:52:02] Min. Gurgel de Faria:** Perfeito.\n\n**[03:52:03] Min. Sérgio Kukina (Presidente):** Ministro Herman?\n\n**[03:52:07] Min. Herman Benjamin:** Eu fiquei em dúvida sobre os critérios mesmo. Não é? Porque é a forma como o acórdão recorrido se refere a as operações eu não consigo extrair é e aí nós estamos falando de uma espécie de boa fé mitigada é eu realmente não consigo ver isso. Então, eu se os colegas eh concordarem e o próprio relator, eu gostaria de pedir vista para analisar esse aspecto.\n\n**[03:52:52] Min. Paulo Sérgio Domingues (Relator):** Claro.\n\n**[03:52:54] Min. Sérgio Kukina (Presidente):** Pois não. Eh então após eu proclamo o resultado parcial após o voto do relator, né, negando o provimento ao agravo interno, solicitou vista na sequência a Ministro Herman Benjamin e aguardam os demais, né? Chamo agora o item 25 da ordem do dia. Trata-se Trata-se do agravo interno no recurso especial 2.208.220 de São Paulo. Relator sua excelência Min. Paulo Sérgio Domingues. Figura como agravante Dirceu de Franca. Parte agravada Renovias Concessionária S.A. Eh aqui, Ministro Paulo Sérgio, há um destaque por mim apontado. Sim.\n\n**[03:53:53] Min. Paulo Sérgio Domingues (Relator):** Tá?\n\n**[03:53:54] Min. Sérgio Kukina (Presidente):** E esse acho que também era isso é sessão virtual, né?\n\n**[03:53:57] Min. Paulo Sérgio Domingues (Relator):** Também foi é também também sessão virtual, também por engano.\n\n**[03:54:01] Min. Sérgio Kukina (Presidente):** Esse caso é diferente, porque esse caso é diferente dos demais.\n\n**[03:54:05] Min. Paulo Sérgio Domingues (Relator):** Tá? Eu me lembrei disso que Vossa Excelência relatou há pouco tempo, né? Uma ação civil pública que envolvia\n\n**[03:54:13] Min. Sérgio Kukina (Presidente):** Envolvia envolvia animais, né?\n\n**[03:54:14] Min. Paulo Sérgio Domingues (Relator):** Isso cuidado com atropelamento de animais silvestres ou domésticos?\n\n**[03:54:18] Min. Sérgio Kukina (Presidente):** Exato, esse é um tema que me perseguiu aqui.\n\n**[03:54:21] Min. Paulo Sérgio Domingues (Relator):** Ah, aqui a questão é que ela diverge de difere daquelas questões de animais, de propriedade de pecuaristas, por exemplo, que eh escapam e invadem a pista que as concessionárias têm sido tidas como responsáveis pela pelo cuidado para que isso não aconteça. Aqui eh o que é um animal silvestre, foi uma uma raposa que atravessou a pista e eh isso causou o acidente, segundo anotado aqui. E aí a questão é saber se nós vamos aplicar a mesma ratio da responsabilidade objetiva das concessionárias por acidentes causados por animais domésticos ou animais que têm um proprietário nas pistas ou se eh se essa tese alcança também ou se a tese não alcança os eventos decorrentes do ingresso de animais silvestres que não têm um proprietário ou um possuidor identificável. Com isso fazendo uma distinção sobre a natureza do risco e o dever de contenção no âmbito da responsabilidade da atividade\n\n**[03:55:19] Min. Paulo Sérgio Domingues (Relator):** da concessionária. Eu aqui estou apresentando uma compreensão então que distingue a situação da do tema 1122 dizendo que esse ingresso abrupto do animal silvestre na pista configura caso fortuito externo rompendo o nexo causal e afastando a responsabilidade objetiva da concessionária, né? Eh dizendo que a revisão de premissas fáticas aqui eh aceitas pelo tribunal de origem já encontraria óbice na Súmula 7/STJ né? Aplicando também eh quanto a certos aspectos do recurso Súmula 284/STF, negando provimento ao agravo interno, presidente. Esse é o voto. Também aguardo os destaques dos colegas para Vossa Excelência para debatermos.\n\n**[03:56:02] Min. Sérgio Kukina (Presidente):** Perfeito. Eh, aqui me chamou a atenção, eh, especificamente, na questão desse julgamento recente, hã, e eu gostaria de fazer o examinar com mais vagar, fazer o cotejo também com o que discutimos, hã, pretéritamente, se Vossa Excelência me permite.\n\n**[03:56:22] Min. Paulo Sérgio Domingues (Relator):** Lógico. Naquele, ali nós tínhamos uma obrigação da concessionária, concessionária no intuito de realizar obras e intervenções para diminuir as causas de atropelamento. Mas nós não falávamos de que uma determinada travessia que causava um acidente levava à responsabilidade da concessionária em relação aos danos sofridos por alguém que trafegava na pista. Que este é o, este é este o caso aqui. Então aqui nós estamos falando da responsabilidade da concessionária, que seria objetiva, porque um automóvel se tivesse atropelado. Então aqui seria a responsabilidade da concessionária em relação àquele que trafegava pela pista.\n\n**[03:57:00] Min. Paulo Sérgio Domingues (Relator):** Que não é a mesma, da responsabilidade ali, que ela era geral, que era uma responsabilidade administrativa no sentido, ou civil também, mas no sentido de que ela deveria tomar medidas mitigatórias para diminuir o número de atropelamentos. Mas eu só estou trazendo isso como um comentário, Ministro, se Vossa Excelência à vontade, com certeza o, o, o, o, o, o pedido de vista é extremamente apropriado, é claro.\n\n**[03:57:21] Min. Herman Benjamin:** Pois não. Para que haverá eh, o pedido de vista em situações, eh, como, como essa, de, eh, eh, de acidentes, em que o bem é compartilhado por milhares de pessoas, um dos fundamentos para não reconhecer eh eh o eh o sinistro, não é? O sinistro como sendo uma causa externa, é porque a única pessoa é o único sujeito que tem realmente condições de contratar um seguro eh que cujo custo seja diluído e aí a fragmentação é é realmente pulverizada entre de todos os usuários é é nesse caso específico a concessionária.\n\n**[03:58:16] Min. Herman Benjamin:** Ou seja, eh em situações tradicionais eh nós poderíamos ver aí um um um fator externo que romperia o nexo de causalidade. Mas, como se trata de uma relação jurídica em massa, que envolve de um lado uma uma uma pessoa jurídica e do outro milhares de usuários daquele eh eh eh eh daquele serviço, daquela atividade, isso justificaria não reconhecer eh como uma uma causa externa.\n\n**[03:58:59] Min. Sérgio Kukina (Presidente):** Pois não. Bem, então eu proclamo o resultado parcial, não é? Após o voto do eminente relator negando provimento ao agravo, pediu vista, solicitou vista o ministro Kina. Aguardamos os demais, não é? Vamos agora ao item 26, não Aqui esse número é tão pequenininho que item 26 da ordem do dia. Eu apregoo recurso especial REsp 2.293.002 de Minas Gerais, relator sua excelência Ministro Paulo Sérgio Rodrigues. A recorrente é o Ministério Público do Estado de Minas Gerais. Recorridos Mauro Humberto Elias e outros. Ah. Ah, há aqui Ministro Paulo um destaque de Vossa Excelência mesmo, né? Por isso tem a palavra.\n\n**[04:00:07] Min. Paulo Sérgio Domingues (Relator):** Obrigado Presidente. Eu fiz o destaque aqui porque é um caso eh diferente, né? Onde nós estamos tratando aqui dos efeitos eh para a proteção de um imóvel eh do inventário e não do tombamento. Não é que era um instrumento previsto na eh legislação né? E já reconhecido eh pelo STF, conforme acórdão que trago aqui. E o inventário como instrumento de proteção do imóvel aconteceu aqui em 1988. Era um imóvel eh eh cujo reconhecimento como patrimônio cultural está sendo objetivado nesta ação, né? O objetivo é o reconhecimento do valor histórico-cultural de um hotel de nome Real, né? É o hotel Regina. Bem como a imposição de obrigações voltadas à sua conservação e restauração.\n\n**[04:01:04] Min. Regina Helena Costa:** Suspeição eh desse julgamento.\n\n**[04:01:07] Min. Paulo Sérgio Domingues (Relator):** Impedimento.\n\n**[04:01:09] Min. Regina Helena Costa:** Ou impedimento. Aliás, é é não é suspeição, é impedimento mesmo.\n\n**[04:01:16] Min. Herman Benjamin:** É homônimo Ministro Benjamin.\n\n**[04:01:20] Min. Paulo Sérgio Domingues (Relator):** É o hotel não tem o sobrenome, mas o nome é é incontestavelmente Real. Né? E enfim, então ah eu estou aqui entendendo de maneira bem sucinta, como vejo os destaques do sistema, que a tutela do patrimônio cultural por meio de ação civil pública independe do tombamento ou de uma regulamentação local para tanto, né? Então eu estou aqui reformando o acórdão, tendo em dizendo que o imóvel do Hotel Regina foi devidamente inventariado, tendo seu valor histórico-cultural reconhecido pelo poder público, então devem ser restabelecidas as medidas de proteção que foram bem impostas à sentença e que haviam sido rejeitadas pelo tribunal. No entanto, estou aqui observando o princípio constitucional do duplo grau de jurisdição e determinando o retorno dos autos ao Tribunal de Justiça de Minas Gerais para que sejam analisadas as questões que foram trazidas na apelação, porém não examinadas em razão do provimento\n\n**[04:02:10] Min. Paulo Sérgio Domingues (Relator):** daquele recurso, quais sejam redução de multas e aumento dos prazos para cumprimento das obrigações. E consta ainda pedido de apelação de anulação da sentença, laudo pericial, reconhecimento de incompetência judiciária, de litisconsórcio passivo necessário, etc. Eh, que ficaram prejudicados diante do reconhecimento da legitimidade do procedimento de inventário como instrumento de proteção do valor cultural do imóvel e da tutela do patrimônio cultural por meio de ação civil pública. Então estou dando provimento ao recurso especial e determinando o retorno dos autos ao Tribunal de origem para examinadas essas questões.\n\n**[04:02:39] Min. Herman Benjamin:** Muito bem. Pois não. Fugação deste precedente. Nós estamos tratando aqui de uma matéria muito importante. É que é esta evolução se observa eh no direito eh do patrimônio cultural que começou com a ideia de que tudo se resolvia em tombamento, mas o tombamento é o ato final. Há uma série de atos preparatórios que se não assegurarem o mínimo de proteção ao bem cultural, não vai se chegar ao eh ao tombamento nunca, porque o bem eh terá sido destruído. E há outras situações aqui como como é o caso do inventário, em que, eh, o próprio instrumento em si tem, tem relevância, eh, per se. Suficiente, é.\n\n**[04:03:38] Min. Herman Benjamin:** Eh, e acho este, este precedente da maior, eh, da maior relevância. E, portanto, a sugestão de que, eh, seja a nossa comunicação, eh, dê a cobertura necessária, eh, num tema que é tão, tão, eh, existencial para nós que nos consideramos ainda civilizados.\n\n**[04:04:05] Min. Sérgio Kukina (Presidente):** Pois não.\n\n**[04:04:06] Min. Paulo Sérgio Domingues (Relator):** Eu, eu inclusive pensei, imaginei que por isso que a ministra Regina fosse dizer aqui que como eu cito um acórdão de relatoria do ministro Herman Benjamin, talvez ele também devesse dar por suspeito, mas ela não falou nada, então falou.\n\n**[04:04:18] Min. Sérgio Kukina (Presidente):** Muito bem. Eu proclamo, então, a turma unanimidade nos termos do voto do relator, deu provimento ao recurso especial do Ministério Público de Minas Gerais, com, né, a indicação de divulgação nos meios de comunicação. As comunica, será feito contato nesse sentido. Vamos agora ao item 27 da ordem do dia. Eu apregoo agravo interno no Aresp 2.829.339, de Mato Grosso. Relator, sua excelência Min. Paulo Sérgio Domingues. Ah, é parte agravante o Ministério Público do Estado de Mato Grosso, parte agravada, Roberto Ângelo de Farias, né? Ah, tenho aqui, ministro relator, né, a anotação de destaque pela Min. Regina Helena Costa, Vossa Excelência tem a palavra relator.\n\n**[04:05:28] Min. Paulo Sérgio Domingues (Relator):** O senhor presidente aqui o caso foi a celebração de um termo de ajustamento de conduta com o município de Barra do Garças onde constava ali a responsabilidade pessoal pelo eventual descumprimento do TAC imputado ao prefeito que aqui assinou o termo né? E aqui e aí houve aqui a execução do termo de ajustamento de conduta né? E o prefeito então a pessoa física ela entrou com ingressou com embargos a essa execução visando o reconhecimento da sua ilegitimidade passiva. O juiz de primeiro grau julgou improcedente esses embargos, o Tribunal de Justiça do Mato Grosso deu provimento para reconhecer a ilegitimidade passiva para responder pessoalmente pelo descumprimento do TAC.\n\n**[04:06:15] Min. Paulo Sérgio Domingues (Relator):** E aqui a o recurso busca a discussão da questão da responsabilidade solidária do gestor prevista no TAC né? A luz do artigo 265 do Código Civil uma contradição entre reconhecer uma cláusula de multa pessoal e simultaneamente afastar a legitimidade passiva. Então eu aqui de maneira bastante resumida presidente eu estou aqui decidindo no sentido de que a conclusão sobre a revisão da conclusão a respeito da ilegitimidade passiva do ex-gestor demandaria uma formação de juízo sobre fatos e provas incidindo Súmula 5/STJ e 7 e negando provimento ao agravo interno.\n\n**[04:06:52] Min. Sérgio Kukina (Presidente):** Pois não então o ministro relator nega provimento ao agravo interno, tem a palavra ministra Regina Helena.\n\n**[04:07:04] Min. Regina Helena Costa:** Senhor presidente eu cumprimento o senhor relator pelo voto, a justificativa do meu destaque é porque uma vez mais encontrei decisões em sentido contrário. É aqui é, por exemplo um recurso especial da relatoria do ministro Benjamin. Quando na segunda turma, o recurso especial 1.957.741 de Minas Gerais, em situação semelhante, na qual se reconheceu a legitimidade do ex-prefeito para responder por multa prevista em TAC. Essa foi uma Também tem um outro um outro aqui da primeira turma, que me falha o relator desse outro aqui.\n\n**[04:07:44] Min. Regina Helena Costa:** É, relativo ao mesmo ex-prefeito deste caso. E ao mesmo município, um outro TAC, cuja cláusula previa multa pelo descumprimento do ente municipal e admitia a responsabilidade pessoal dos subscritores. É, o Tribunal de Justiça, nesse outro caso Ministro Paulo, vê se Veja se descobre o relator aqui, que eu não tenho essa anotação. É o ARE 1.544.905 do Mato Grosso. É, em relação, como eu disse, ao mesmo ex-prefeito, ao mesmo município. E outro TAC, cuja cláusula previa multa pelo descumprimento do da pessoa política do município e admitia a responsabilidade pessoal dos subscritores. Naquele caso, o Tribunal de Justiça do Mato Grosso reconheceu a legitimidade do gestor. E a primeira turma do Supremo manteve o acórdão por entender\n\n**[04:08:42] Min. Paulo Sérgio Domingues (Relator):** Ah, é um ARE no Supremo? Ah, eu tava procurando aqui o meu achar mesmo.\n\n**[04:08:45] Min. Regina Helena Costa:** Não, não. O ARE é daqui. E aí, a primeira turma, acho que esse número é daqui. E depois, o Supremo manteve lá essa decisão. Então, só por ser do mesmo prefeito e da mesma ARE 1.544.905, não é nosso esse?\n\n**[04:09:02] Min. Paulo Sérgio Domingues (Relator):** Não, é, mas não é aqui, não é esse. Vou olhar aqui.\n\n**[04:09:05] Min. Regina Helena Costa:** Então, eu tô com o número errado. O meu gabinete me avisa. Da repercussão. É, é extraordinário. Então, é extraordinário. Mas era relativa, então tá certo. Ele é verdade, não é Aresp, é Aresp, é Are. É, então é do Supremo. Relativo ao mesmo ex-prefeito, ao mesmo município, a outro e a outro TAC e o Supremo acabou, acabou, ele manteve, mas ele manteve na situação em que o prefeito poderia ser responsabilizado pessoalmente. Então, é, foi por isso que eu destaquei, fiquei com essa dúvida, com essas dúvidas. Mais uma vez nós temos situação aqui de enfim, e tem uma, é, a decisão do ministro Benjamin, não sei se o ministro Benjamin\n\n**[04:09:40] Min. Paulo Sérgio Domingues (Relator):** É.\n\n**[04:09:40] Min. Regina Helena Costa:** complementar, esclarecer alguma coisa. Porque a posição foi essa lá. Sim, pois não.\n\n**[04:09:52] Min. Herman Benjamin:** A interpretação que nós, na primeira sessão e aí as duas turmas, historicamente damos ao termo de ajustamento de con, de conduta é que suas cláusulas devem ser cumpridas. Exceto se, é, for alegado algum vício de consentimento, etc, como já ocorreu, por exemplo, é, salvo engano, simulação. É, então, se está no termo de ajustamento de conduta e consta do acórdão perante nós que, salvo engano, neste caso aqui, o próprio acórdão reconhece que o, o, o termo de ajustamento de conduta previa sim a responsabilidade pessoal do administrador.\n\n**[04:10:43] Min. Paulo Sérgio Domingues (Relator):** Certo.\n\n**[04:10:43] Min. Herman Benjamin:** É, eu não sei qual seria o fundamento jurídico para nós estar, é, desconstituirmos uma cláusula inserida em um termo de ajustamento de conduta.\n\n**[04:10:58] Min. Paulo Sérgio Domingues (Relator):** É, aqui é para o pagamento da multa, tá? Não é para o cumprimento da obrigação. Aqui o que tá acontecendo é a execução do pagamento da multa prevista no TAC. tá?\n\n**[04:11:06] Min. Herman Benjamin:** Então, em cima do prefeito.\n\n**[04:11:07] Min. Paulo Sérgio Domingues (Relator):** Sim, em cima do prefeito.\n\n**[04:11:08] Min. Herman Benjamin:** Sim.\n\n**[04:11:09] Min. Paulo Sérgio Domingues (Relator):** É.\n\n**[04:11:10] Min. Herman Benjamin:** Eu não estou dizendo que a cláusula está correta, incorreta, mas para nós aqui darmos chan san chancelarmos a invalidação feita pelo o a instância ordinária, nós teríamos que ter um fundamento jurídico.\n\n**[04:11:30] Min. Paulo Sérgio Domingues (Relator):** É, eu não estou exatamente eu não estou, ah, alterando o que fez a instância ordinária. Não, eu estou mantendo.\n\n**[04:11:36] Min. Herman Benjamin:** É, Vossa Excelência está aplicando a Súmula.\n\n**[04:11:38] Min. Paulo Sérgio Domingues (Relator):** A Súmula? É, assim, porque veja, exatamente aplicando a Súmula. E veja, há muita eu acho sempre complexo isso. Porque uma coisa é obrigação. Outra coisa seria multa pelo descumprimento. Eu sei acho bem complicado colocar o gestor público nisso, nesses TACs. Porque muitas vezes ele tá lá como responsabilidade pessoal, assume obrigação, tem um prazo, é outra gestão que não cumpre e aí ele que ele assinou lá atrás vai ser chamado para pagar a multa.\n\n**[04:12:03] Min. Herman Benjamin:** Hum.\n\n**[04:12:04] Min. Paulo Sérgio Domingues (Relator):** Mas Vossa Excelência Mas complicado a gente vai ter que fazer\n\n**[04:12:06] Min. Herman Benjamin:** de argumentação de Vossa Excelência não é um pouco hipotética? Porque Vossa Excelência não está extraindo essas observações, com as quais eu concordo, do acórdão recorrido.\n\n**[04:12:17] Min. Paulo Sérgio Domingues (Relator):** Por isso é que eu estou aplicando a Súmula 7/STJ.\n\n**[04:12:19] Min. Herman Benjamin:** É, não precisar deixar É, mas aqui o acórdão recorrido ele simplesmente de recon reconhece, é, que a cláusula existe, não traz nenhum dos vícios, é, típicos dos negócios jurídicos.\n\n**[04:12:37] Min. Paulo Sérgio Domingues (Relator):** De consentimento não traz, realmente não traz.\n\n**[04:12:39] Min. Herman Benjamin:** Não entendo.\n\n**[04:12:40] Min. Paulo Sérgio Domingues (Relator):** De vício de consentimento realmente não traz.\n\n**[04:12:42] Min. Herman Benjamin:** Não, pois é. Então, como é que nós iríamos aqui, é, chancelar este, é, este comportamento do tribunal, é, e também bloquear com base na Súmula 7/STJ, ou então com base na Súmula 5/STJ, porque se trata de cláusula, ora, a questão é jurídica.\n\n**[04:13:05] Min. Regina Helena Costa:** É, eu, eu, se me permite um aparte, Ministro Benjamin, eu acho que o ponto aqui seria, ah, não aplicar Súmula 7/STJ, porque a discussão é, o gestor, no caso aqui o ex-prefeito, pode ser responsabilizado pelo pagamento de multa? É uma questão jurídica, eu não preciso analisar fato para, para apreciar essa controvérsia. Eu entendo assim, eh, então, eh, eh, embora Vossa Excelência tenha entrado no mérito de alguma maneira aqui, mas eu acho que, eh, como não conheceu do, do recurso, acho que a questão aqui seria, a proposta seria para conhecer do recurso, por reconhecer que não, não é possível aplicar a Súmula 7/STJ e a cinco também.\n\n**[04:13:42] Min. Paulo Sérgio Domingues (Relator):** Eu entendi que a gente tem que ter, tem que analisar, olhar o TAC, olhar a obrigação, olhar quando vai cumprir. E o, e o, e o, e o, o acórdão entendeu, olha, não há elementos aqui para fazer, entender pela responsabilidade solidária do prefeito.\n\n**[04:13:57] Min. Regina Helena Costa:** Mas isso é mérito. Mas isso é mérito.\n\n**[04:13:59] Min. Paulo Sérgio Domingues (Relator):** Então, ele retira, eh, ele diz que ele não tinha, apesar de ser mérito, ele disse que ele não tinha legitimidade para responder. Foi isso que o tribunal entendeu, né? O tribunal entendeu dessa maneira.\n\n**[04:14:10] Min. Regina Helena Costa:** É, eu, eu,\n\n**[04:14:10] Min. Paulo Sérgio Domingues (Relator):** Ah, então, eu entendi que não deveríamos, não deveríamos entrar nisso, né? Eh, Olha, o acórdão, eh, deixa eu puxar aqui o acórdão, diz ele, \"Apesar do TAC ter sido assinado pelo prefeito à época, é certo que as obrigações nele constantes foram imputadas ao ente público, não havendo possibilidade de cobrança direta da pessoa física, como se vê\". Ele diz isso, que o TAC foi assinado pelo prefeito, mas as obrigações as obrigações foram imputadas ao ente público, portanto, não havendo não há possibilidade de cobrança direta da pessoa, deve ser cobrado do ente público. Foi isso que o acórdão disse. Vou ter que olhar lá o TAC, aí talvez está certo, podia ser a Súmula 5/STJ mesmo, né? A cinco também, não a sete.\n\n**[04:14:52] Min. Regina Helena Costa:** É, é, seria a cinco também.\n\n**[04:14:53] Min. Paulo Sérgio Domingues (Relator):** Seria a cinco também, mas não teria Tem olhar lá. Aí ele conclui, \"Logo, não se mostra plausível e compreensível que a pretensão da cobrança da sanção decorrente de seu descumprimento seja direcionada exclusivamente ao representante da pessoa jurídica de direito público na época. Com isso acolho a preliminar de ilegitimidade passiva do apelante\". Olha, eu teria que analisar a toda esse detalhamento do TAC para concluir diferente do que contribuiu do que concluiu o tribunal de origem para poder adentrar a essa questão da legitimidade ou não do prefeito para responder. Bom, era isso, por isso que eu submeto ao colegiado aqui, é claro, agora a decisão sobre o assunto.\n\n**[04:15:31] Min. Sérgio Kukina (Presidente):** Ministro Paulo Sérgio, só trago aqui, né, na página 108 a cláusula sétima do TAC, né? Que diz o seguinte: \"Da multa cominatória. Em caso de descumprimento pelo compromitente de quaisquer das obrigações assumidas neste compromisso, incidirá multa cominatória no montante de 20.000 reais, lei 7.347. 7 20.000 reais por cada cláusula, a ser ressarcido ao Fundo Municipal de Saúde ou outro fundo público análogo, vírgula, admitida a responsabilidade a responsabilização pessoal e solidária do chefe do Poder Executivo e da Secretaria Municipal de Saúde, a ser paga independentemente de ação executiva da obrigação de fazer, sem prejuízo de outras medidas legais. Então aqui é a previsão de responsabilização pessoal, admitida, né, a responsabilização pessoal.\n\n**[04:16:33] Min. Sérgio Kukina (Presidente):** Mas o tribunal local achou que não era para ser assim, né? Porque o TAC foi firmado com a pessoa jurídica. Ministro Gilmar.\n\n**[04:16:43] Min. Paulo Sérgio Domingues (Relator):** Ah, pois não, senhor presidente. Essa informação, né, lá Eu só queria complementar a informação que eu dei anteriormente, é aquele ARE, é ARE é o número do supremo, mas é foi em cima de um acórdão nosso aqui, deixa eu ver aqui, só um minutinho. Agora, é o é o área é o aresp dois 200 e 60, não, dois milhões 614 mil 637, aresp dois milhões 614 mil metros sete de Mato Grosso, relatora ministra Maria Teresa, não é? Então, então, que foi nesse caso que se reconheceu é e reconheceu que a o gestor podia responder pessoalmente e que o supremo acabou mantendo. É esse caso, então é o é um área a partir de um aresp daqui, não é? E o aresp da segunda turma. E eh eu, particularmente, a minha sugestão seria eh eh votar se é cabível aplicar Súmula 7/STJ nesse caso.\n\n**[04:17:44] Min. Regina Helena Costa:** Ministro Paulo Sérgio. Eh eu tenho para mim que nós temos um um um um um uma controvérsia jurídica aqui, que é saber se é possível alcançar o gestor eh na sua responsabilidade pessoal em razão de penalidade aplicada no TAC. Eh eu acho que isso, independentemente do caso concreto, seria possível. De exame de fato, reexame de prova. Então, eu vou afastar ambas as súmulas aqui, não sei, é uma sugestão de encaminhamento, caso vencido, a gente decide, a gente aprecia o mérito, mas eu tenho a impressão que seria possível conhecer do recurso eh afastando a, portanto, essas súmulas que foram aplicadas. Não acho que seja necessário examinar prova ou reexaminar prova.\n\n**[04:18:26] Min. Paulo Sérgio Domingues (Relator):** É, o ministro Coquena leu o TAC que tá anexado aos autos.\n\n**[04:18:32] Min. Regina Helena Costa:** Uhum.\n\n**[04:18:32] Min. Paulo Sérgio Domingues (Relator):** Tá.\n\n**[04:18:33] Min. Regina Helena Costa:** É, ele leu que é a prova.\n\n**[04:18:35] Min. Sérgio Kukina (Presidente):** Página 101, não é?\n\n**[04:18:36] Min. Regina Helena Costa:** É, dos 100 e está a 101, a página 108 que você\n\n**[04:18:40] Min. Sérgio Kukina (Presidente):** 108.\n\n**[04:18:41] Min. Regina Helena Costa:** É, só para deixar claro, ele não fez a leitura do TAC, ele fez a leitura\n\n**[04:18:44] Min. Sérgio Kukina (Presidente):** Da cláusula.\n\n**[04:18:45] Min. Regina Helena Costa:** Da cláusula.\n\n**[04:18:45] Min. Sérgio Kukina (Presidente):** Da sentença.\n\n**[04:18:46] Min. Regina Helena Costa:** Ah, da sentença. Da sentença, porque a gente não poderia estar fazendo a leitura do TAC. Está transcrevendo a sentença. Enfim, essa foi a Isso me chamou a atenção. Eu fui olhar aí na nossa sentença. Isso mesmo.\n\n**[04:18:58] Min. Sérgio Kukina (Presidente):** Isso mesmo. Está na sentença.\n\n**[04:18:59] Min. Regina Helena Costa:** Então, por isso que o que está nos julgados é possível, evidentemente, esse é o ponto. Então, por isso eu acho que reforça a tese de que não se aplicaria a súmula. Não se aplica a Obs. Se está transcrito sentença e acórdão, a gente é, na minha opinião. Então, eu a minha sugestão para esse caso, Ministro Presidente decide, enfim, se encaminha, já que a proposta, a conclusão do senhor relator é pela manutenção da aplicação dos Obs. Eu tenho dificuldade de aplicar os Obs aqui. só você não quer pedir vista, Ministro Presidente?\n\n**[04:19:30] Min. Sérgio Kukina (Presidente):** Não, eu estou Gostaria, não, porque se fosse para pedir vista, eventualmente, mas me parece, eu, eh, tendo a entender, como o Ministro Benjamin já expôs, pela responsabilidade do gestor, pessoal. Mas o fato é que\n\n**[04:19:43] Min. Regina Helena Costa:** Mas não pode entrar ainda nesse mérito.\n\n**[04:19:44] Min. Sérgio Kukina (Presidente):** Não posso entrar, exatamente. Embora estejamos discutindo isso avançadamente, mas não posso entrar. Como Vossa Excelência aplicou súmula, eu acho que é possível apreciar o mérito da controvérsia e não e não bloquear isto aplicando os Obs que Vossa Excelência indicou. A minha sugestão de encaminhamento, senhor Presidente, seria assim: sindi para examinar se é caso de aplicar.\n\n**[04:20:05] Min. Herman Benjamin:** A minha preocupação é sempre com a multiplicação de um entendimento que nós tenhamos ad hoc para fazer justiça no caso concreto em efeito amplo. E claro, não estamos ainda no mérito, mas o fundamento do acórdão é que eu acho que nem que o Ministro Paulo Sérgio certamente não vai concordar, é um está em um um precedente que é citado pelo próprio acórdão para dizer que jamais é possível, mesmo havendo cláusula expressa, a responsabilidade ou a corresponsabilidade do agente público individualmente. É um precedente eh, da foi relatora eh, a desembargadora Helena Maria Bezerra Ramos e que é curtinho, fiz afirma o seguinte:\n\n**[04:21:05] Min. Herman Benjamin:** \"Ainda que prevista em cláusula, não há como se acolher a responsabilização pessoal de ex-prefeito, mas aí pode ser ex-ministro, pode ser, enfim, ex-governador, etc. por descumprimento de medida imposta no TAC, pois sua atuação foi estritamente a de um gestor público\". Fecha aspas, ou seja, não é possível nunca. É uma blindagem eh, eh, absoluta, mesmo que o prefeito vá lá e diga: \"Eu, eu estou assegurando que vou cumprir\". E o caso aqui era de saúde pública.\n\n**[04:21:40] Min. Sérgio Kukina (Presidente):** Para instalar o prontuário eletrônico do paciente no dentro de um prazo de 120 dias.\n\n**[04:21:45] Min. Regina Helena Costa:** é, é isso. Enfim. Bem. É.\n\n**[04:22:03] Min. Sérgio Kukina (Presidente):** Sim, acolhe-se a proposta de encaminhar pela\n\n**[04:22:06] Min. Regina Helena Costa:** pelo afastamento. A minha sugestão seria para afastar os óbices. Se for, se por acaso for acolhido, então seria o caso de dar provimento ao agravo para conhecer do recurso especial, aí o senhor relator voltaria com esse recurso oportunamente para apreciar o mérito. Aí nós poderíamos debater se realmente o gestor pode ser eh, alcançado pessoalmente, responsabilidade pessoal pela eh, essa questão. Eu\n\n**[04:22:28] Min. Paulo Sérgio Domingues (Relator):** E essa questão de mérito é muito importante.\n\n**[04:22:31] Min. Regina Helena Costa:** E especialmente porque há há precedentes.\n\n**[04:22:33] Min. Paulo Sérgio Domingues (Relator):** Exato.\n\n**[04:22:34] Min. Regina Helena Costa:** É.\n\n**[04:22:37] Min. Sérgio Kukina (Presidente):** Vamos então.\n\n**[04:22:38] Min. Paulo Sérgio Domingues (Relator):** Há precedentes em mais de um sentido aqui, né?\n\n**[04:22:41] Min. Regina Helena Costa:** É. Então, mas existem que alcançam a a responsabilidade pessoal.\n\n**[04:22:46] Min. Paulo Sérgio Domingues (Relator):** Ministro, eu dei uma uma olhada aqui, Ministro Gurgel, em vi uma monocrática da do Ministro Gurgel, exatamente do mesmo sentido do que eu trago. Onde ele reaplica as Súmulas 5 e 7 para dizer dizendo que não com acórdão de reconhecer que não havia eh responsabilidade possível de responsabilizar o ex-prefeito.\n\n**[04:23:06] Min. Gurgel de Faria:** Por curiosidade, é Mato Grosso também é esse caso?\n\n**[04:23:09] Min. Paulo Sérgio Domingues (Relator):** É Mato Grosso, né? É, porque aqui é é exatamente um caso de Mato Grosso.\n\n**[04:23:13] Min. Regina Helena Costa:** também.\n\n**[04:23:14] Min. Paulo Sérgio Domingues (Relator):** Tem agravo interno que tá ainda e sendo processado, porque tá no prazo.\n\n**[04:23:19] Min. Regina Helena Costa:** Esse daqui é de Barra do Garças.\n\n**[04:23:22] Min. Paulo Sérgio Domingues (Relator):** Deixa eu ver aqui desse aqui. Não, não é de Sinop.\n\n**[04:23:24] Min. Regina Helena Costa:** É de Barra do Barra do Garças.\n\n**[04:23:26] Min. Paulo Sérgio Domingues (Relator):** É, foi feita a correção no próprio acórdão da apelação.\n\n**[04:23:30] Min. Regina Helena Costa:** Isso.\n\n**[04:23:31] Min. Paulo Sérgio Domingues (Relator):** Uhum. Esse do Ministro Gurgel eu não vi eh não vi qual não qual é aqui sobre Só vi na deci vi na decisão, mas não vejo a cidade qual é.\n\n**[04:23:39] Min. Gurgel de Faria:** É, eu vou eu vou ver aqui que eu tô com ele aberto.\n\n**[04:23:43] Min. Paulo Sérgio Domingues (Relator):** Ah, não, é a correção foi feita nos embargos de declaração. No acórdão dos embargos de declaração.\n\n**[04:23:51] Min. Regina Helena Costa:** Vossa Excelência julga\n\n**[04:23:52] Min. Paulo Sérgio Domingues (Relator):** também aqui uma ju Ministro Gurgel cita, no caso dele, uma um acórdão do Ministro Falcão nesse sentido também. Você vê como é ponto que a gente como a Ministra Regina comentou, precisa\n\n**[04:24:05] Min. Regina Helena Costa:** É.\n\n**[04:24:05] Min. Sérgio Kukina (Presidente):** Então, realmente é\n\n**[04:24:07] Min. Regina Helena Costa:** a questão fica\n\n**[04:24:08] Min. Paulo Sérgio Domingues (Relator):** a gente precisa efetivamente ver se avança ou supera tentar Aqui, mas aqui, Ministra Regina\n\n**[04:24:16] Min. Regina Helena Costa:** Aqui é Barra do Garças.\n\n**[04:24:17] Min. Paulo Sérgio Domingues (Relator):** Aqui aqui, Ministra Regina, é nessa área que Vossa Excelência mencionou no Supremo Tribunal Federal, a ementa diz o seguinte\n\n**[04:24:26] Min. Regina Helena Costa:** Eu sei, não entraram no mérito.\n\n**[04:24:27] Min. Paulo Sérgio Domingues (Relator):** A envolvimento responsabilidade esse pela multa cominatória de Barra do Garças, né? Previsão expressa na cláusula de envolvimento conjunto fático probatório dos autos. Impossibilidade.\n\n**[04:24:38] Min. Regina Helena Costa:** Sim, então, eles não examinaram isso, mas não disseram, mas ficou mantido o ARE, o AREsp.\n\n**[04:24:43] Min. Paulo Sérgio Domingues (Relator):** Mas entendendo que não poderiam ingressar no contexto fático probatório. Você não pode entrar no contexto fático probatório por um lado, também não pode entrar por outro.\n\n**[04:24:54] Min. Regina Helena Costa:** Não, a questão foi, me parece que é o Não é isso que se viu lá. Deixa eu ver aqui, não\n\n**[04:24:59] Min. Paulo Sérgio Domingues (Relator):** Essa é a ementa, só a ementa, mas a ementa fala isso.\n\n**[04:25:02] Min. Regina Helena Costa:** Não, a questão, a questão me parece que é outra, é outra coisa. O fato, o que o Supremo fez, deixa eu ver aqui. Deixa eu achar que eu tô com milhões de coisas,\n\n**[04:25:12] Min. Paulo Sérgio Domingues (Relator):** E é Barra do é o de Barra do Garças, é claro que é Barra do Garças, é o mesmo caso.\n\n**[04:25:17] Min. Regina Helena Costa:** Deixa eu ver. Aqui, ó. É, o lá no ARE, nesse ARE, o na no o Tribunal de Justiça local reconheceu a legitimidade do gestor e a primeira turma que E aí veio para cá o AREsp da Ministra Maria Teresa e depois ela manteve o acórdão por entender que sua revisão exigiria exames dos fatos e das cláusulas, né? Mas chama a atenção pelas soluções distintas, é. Enfim, a minha proposta seria essa, senhor Presidente. Então, seguindo a ordem, se Vossa Excelência entender de se incidir, é, eu preferia a preferia apreciar essa questão preliminar se seria o caso de aplicar, até porque aí de novo novamente uma monocrática que aplicou obse, tendo decisões de ambos os lados, também é esse o ponto, né? Tem decisões para ambos os lados.\n\n**[04:26:07] Min. Regina Helena Costa:** E o que aplicam súmulas e que não aplicam, ao que me parece. Então, eu, por exemplo, não tenho decisão, até onde sei, desse caso, dessa situação.\n\n**[04:26:16] Min. Sérgio Kukina (Presidente):** Ministro Relator não se opõe a que votemos essa\n\n**[04:26:21] Min. Paulo Sérgio Domingues (Relator):** Não, Presidente, eu acho que podemos caminhar nesse sentido, não tem problema. Não sei se estamos já maduros para fazer essa votação agora.\n\n**[04:26:28] Min. Sérgio Kukina (Presidente):** Não, a votação\n\n**[04:26:29] Min. Paulo Sérgio Domingues (Relator):** a votação sobre a aplicação da súmula ou não. Sobre a própria aplicação da súmula, que temos várias decisões aplicando súmula e não aplicando súmula.\n\n**[04:26:38] Min. Regina Helena Costa:** Não, mas\n\n**[04:26:38] Min. Paulo Sérgio Domingues (Relator):** Do próprio Supremo eles ainda aplicaram a súmula, mas o Min. Paulo Sérgio Domingues está dizendo que não aplicaram bem assim, que foi diferente.\n\n**[04:26:43] Min. Regina Helena Costa:** Não, não, a questão é que a\n\n**[04:26:44] Min. Paulo Sérgio Domingues (Relator):** Então, assim, temos que pensar no sentido de simples aqui, não sei se hoje estamos maduros para votar isso.\n\n**[04:26:47] Min. Regina Helena Costa:** nem é o Supremo, ministro Paulo Sérgio, a questão é nossa mesmo aqui.\n\n**[04:26:50] Min. Paulo Sérgio Domingues (Relator):** É porque Vossa Excelência que trouxe o Supremo para cá.\n\n**[04:26:52] Min. Regina Helena Costa:** É uma decisão do ministro Benjamin, mas é uma é uma decisão do segunda turma, um Resp\n\n**[04:26:57] Min. Herman Benjamin:** só minha.\n\n**[04:26:58] Min. Regina Helena Costa:** Sim, um Resp de que julgou o mérito. Não é não é nem preciso invocar Supremo.\n\n**[04:27:02] Min. Paulo Sérgio Domingues (Relator):** Não sei se estamos maduros para decidir isso.\n\n**[04:27:03] Min. Regina Helena Costa:** Não, a súmula eu acho que sim, eu acho que não estamos maduros para decidir o mérito. Mas a súmula a o mérito efetivamente não estaríamos com Vossa Excelência, teria que trazê-lo, mas a súmula eu penso que sim, a questão é saber se é uma a controvérsia é jurídica ou ou é fática. Eu acho que é jurídica, ou existe um dá para extrair uma tese jurídica daí.\n\n**[04:27:24] Min. Paulo Sérgio Domingues (Relator):** Presidente, temos que trazer esse eh temos que ler essa esse voto aqui, esse acórdão do Supremo, né?\n\n**[04:27:30] Min. Regina Helena Costa:** É então, mas abstraindo o que o Supremo diz, nós temos só pelo fato de termos um Resp da segunda turma em que se entendeu pela responsabilidade do gestor em situação semelhante, também não é igual. é pela pela rejeição da súmula.\n\n**[04:27:44] Min. Paulo Sérgio Domingues (Relator):** Então, já tá falando do mérito.\n\n**[04:27:46] Min. Regina Helena Costa:** Então, mas então então, mas se chegou mas ministro Paulo Sérgio, chegou no mérito porque o mérito é que a não se aplicou o Obs. Eu tô falando por isso. Então, esse é o ponto, então, lá já se entendeu que não que há uma tese para ser apreciada. Então, por isso, uma controvérsia. Eu encaminharia nesse sentido.\n\n**[04:28:04] Min. Paulo Sérgio Domingues (Relator):** Bem, deixa eu ver aqui, então, eu abri o acórdão do STF.\n\n**[04:28:07] Min. Sérgio Kukina (Presidente):** Aqui, Min. Paulo Sérgio Domingues, acho que é o caso de julgar o próprio agravo, não é?\n\n**[04:28:12] Min. Paulo Sérgio Domingues (Relator):** Sim, mas então, mas a questão\n\n**[04:28:13] Min. Sérgio Kukina (Presidente):** Se for na linha contrária ao do relator\n\n**[04:28:16] Min. Regina Helena Costa:** Tem que dar provimento e para isso, para conhecer do recurso especial.\n\n**[04:28:20] Min. Paulo Sérgio Domingues (Relator):** Aí ele conhece.\n\n**[04:28:21] Min. Regina Helena Costa:** Sim, é nesse sentido que eu tô tô propondo. Mas de qualquer maneira para chegar nisso tem que ter uma reflexão se cabe ou não a súmula.\n\n**[04:28:28] Min. Paulo Sérgio Domingues (Relator):** Diz aqui o acórdão do STF. aí já no mérito, do da possibilidade ou não é de previsão em cláusula de TAC da responsabilidade Eu sei, eu só estou dizendo depois, eu fiz questão de dizer. Porque esta não é uma questão simples e menor. Porque É talvez seja não sei se é o caso. essa possibilidade haverá necessidade de argumentos jurídicos poderosos.\n\n**[04:28:59] Min. Paulo Sérgio Domingues (Relator):** Aqui diz o acórdão do STF nos embargos de declaração lá no ARE. Com efeito, ao assentar que o voto condutor do acórdão extraordinariamente recorrido concluiu que a responsabilização do ex-prefeito de Barra do Garças decorreria de previsão expressa na cláusula quinta e que divergir do entendimento do tribunal a quo quanto à possibilidade de responsabilização pessoal dos subscritores do TAC pela multa cominatória demandaria o reexame do conjunto fático probatório dos autos, o acórdão embargado não incorre em qualquer vício.\n\n**[04:29:29] Min. Paulo Sérgio Domingues (Relator):** Tendo os órgãos julgador decidido fundamentadamente nos limites necessários ao deslinde. O tribunal disse: \"Olha, o acórdão lá decidiu com aplicando Súmula 5/STJ, Súmula 5/STJ e Súmula 7/STJ, ele não está errado\". O STF julgou como nós estamos julgando aqui. Como eu estou propondo.\n\n**[04:29:44] Min. Regina Helena Costa:** Então. Ministro Paulo Sérgio, vamos objetivar.\n\n**[04:29:46] Min. Paulo Sérgio Domingues (Relator):** Ué.\n\n**[04:29:47] Min. Regina Helena Costa:** Nós temos uma decisão colegiada da segunda turma num REsp que superou entendeu admissível o recurso, não aplicou a súmula, jogou o mérito. E nós temos aqui uma proposta de Vossa Excelência para não apreciar o mérito. Então a questão é: nós vamos entender que nós não temos que apreciar o mérito ou nós vamos à vista de um de um precedente da segunda turma refletir se é caso mesmo. Então esquece o Supremo Tribunal Federal aqui que não tem não tem influência direta nesse caso. A questão é saber se a gente supera os óbices. Eu já estou antecipando que entendo que não é caso de aplicar a Súmula 5/STJ e 7. Não vejo por que\n\n**[04:30:29] Min. Paulo Sérgio Domingues (Relator):** Ministra Regina, se desculpe, não quero\n\n**[04:30:31] Min. Regina Helena Costa:** Mas é só um encaminhamento, Min. Paulo Sérgio Domingues. Nós não decidimos ainda, vamos votar.\n\n**[04:30:34] Min. Paulo Sérgio Domingues (Relator):** É, pois é, eu só quero dizer assim, que Vossa Excelência está partindo do pressuposto de que aqui houve essa superação da questão.\n\n**[04:30:43] Min. Regina Helena Costa:** Não, na segunda turma, na segunda turma\n\n**[04:30:44] Min. Paulo Sérgio Domingues (Relator):** Tá aqui o acórdão. Mas a segunda turma não julgou pelo mérito ou entendi mal?\n\n**[04:30:48] Min. Regina Helena Costa:** É isso que eu tô tentando dizer.\n\n**[04:30:49] Min. Paulo Sérgio Domingues (Relator):** Ah, então tá errado.\n\n**[04:30:51] Min. Regina Helena Costa:** pessoal do prefeito está expressamente perguntar que afastando a alegação de ilegitimidade passiva. E não pode ser revista pelos óbices da Súmula 5/STJ e 7.\n\n**[04:30:58] Min. Paulo Sérgio Domingues (Relator):** Mas isso foi no caso da no início da manhã, do Ministro Benjamin? Da Ministra Maria Teresa.\n\n**[04:31:01] Min. Regina Helena Costa:** Não, mas esse, não é esse o caso. Eu tô falando do Ministro Benjamin.\n\n**[04:31:04] Min. Paulo Sérgio Domingues (Relator):** Vossa Excelência só quer usar o caso que Vossa Excelência acha que concorda.\n\n**[04:31:07] Min. Regina Helena Costa:** Não, Ministro.\n\n**[04:31:08] Min. Paulo Sérgio Domingues (Relator):** os dois outros também.\n\n**[04:31:09] Min. Regina Helena Costa:** Não, a questão não é essa. Que há dissenção, não há dúvida. Então. Sim, mas eu tô propondo\n\n**[04:31:15] Min. Paulo Sérgio Domingues (Relator):** Aqui a Ministra Maria Teresa disse que, disse que Vossa Excelência trouxe um caso do Supremo. A gente foi olhar e disse, olha, a segunda turma aqui, relatório, voto da Ministra Ministra Maria Teresa, disse que não pode analisar por conta da Súmula 5/STJ e 7. E o Supremo concordou. Agora Vossa Excelência tá dizendo, não. Tem outro caso que\n\n**[04:31:31] Min. Regina Helena Costa:** Não, não, agora tá dizendo não. O primeiro que eu citei aqui foi do Ministro Benjamin. Eu não tô inovando. Eu disse, a primeira coisa que eu falei\n\n**[04:31:37] Min. Paulo Sérgio Domingues (Relator):** Então a gente quer tirar aquele\n\n**[04:31:39] Min. Regina Helena Costa:** Nós temos as duas situações. Nós temos as duas situações. A primeira que eu mencionei foi do Ministro Benjamin que, pelo qual a segunda turma reconheceu a legitimidade do ex-prefeito para responder por multa prevista em TAC.\n\n**[04:31:50] Min. Herman Benjamin:** Em outras palavras, em outras palavras. É só isso. reconhecemos Súmula 7/STJ, como está no voto, e eu acrescentaria Acrescentaria a 5. Sim. Nós nunca vamos julgar aqui no Superior Tribunal de Justiça esta questão de alta relevância jurídica.\n\n**[04:32:09] Min. Regina Helena Costa:** Não, e é jurídica, na minha na minha percepção. É isso.\n\n**[04:32:13] Min. Herman Benjamin:** ter cláusula expressa com consentimento do próprio prefeito em um termo de ajustamento de conduta.\n\n**[04:32:20] Min. Paulo Sérgio Domingues (Relator):** Não, a pergunta é, é possível responsabilizar pessoalmente o gestor pela pela pela pelo pagamento de multa prevista em TAC? Essa é a pergunta. Não sei se nesse processo Não sei se nesse processo.\n\n**[04:32:30] Min. Regina Helena Costa:** Não, mas isso é jurídico.\n\n**[04:32:32] Min. Herman Benjamin:** Mas se nós não fizermos neste processo, não vamos fazer nenhum outro.\n\n**[04:32:36] Min. Gurgel de Faria:** Paulo Sérgio, esses eram casos muito interessantes, né? Para estudar. Para propor afetação. No âmbito da relevância da questão federal.\n\n**[04:32:44] Min. Paulo Sérgio Domingues (Relator):** Não, ainda não.\n\n**[04:32:45] Min. Gurgel de Faria:** Não, acho que ainda não. Precisa ter precisa ter jurisprudência.\n\n**[04:32:48] Min. Paulo Sérgio Domingues (Relator):** É, vamos primeiro.\n\n**[04:32:49] Min. Gurgel de Faria:** Primeiro tem que deliberar cada turma deliberar. Pode ser. Sobre se liberar ou não. É.\n\n**[04:32:55] Min. Paulo Sérgio Domingues (Relator):** Nós nem temos, veja, os casos são pouquíssimos. Vossa Excelência gostaria que eu retirasse para analisar se é possível afetação, não é? Relevância. Por que não?\n\n**[04:33:04] Min. Herman Benjamin:** Eu acho que não é o momento. Já tem duas Não, as posições firmadas. Dois casos só. Tem um caso um caso do da do ministro Benjamin e da ministra Maria Teresa. Foram os únicos tirados aqui. Então eu não vejo como fazer isso, assim. Nós precisamos amadurecer a discussão. Não estamos conseguindo nem sair do\n\n**[04:33:21] Min. Paulo Sérgio Domingues (Relator):** Superior Tribunal de Justiça.\n\n**[04:33:22] Min. Herman Benjamin:** Nem sair do\n\n**[04:33:23] Min. Regina Helena Costa:** que todos nós temos clareza de eh a esse respeito. Nós temos que ter cautela\n\n**[04:33:28] Min. Paulo Sérgio Domingues (Relator):** Não.\n\n**[04:33:29] Min. Regina Helena Costa:** para eh analisar se nós estamos usando no caso concreto a Súmula 7/STJ e a Súmula 5/STJ com efeitos estritos para aquele caso concreto ou se a utilização dessas duas súmulas ou uma delas vai bloquear em absoluto, de maneira peremptória, a possibilidade de nós examinarmos aqui uma questão jurídica.\n\n**[04:33:55] Min. Herman Benjamin:** Isso.\n\n**[04:33:56] Min. Regina Helena Costa:** Claro. Relevante.\n\n**[04:33:57] Min. Herman Benjamin:** É isso. Pela minha percepção, se nós fizermos isso neste caso, nós estamos dizendo que o reconhecimento da responsabilidade pessoal do gestor pela pelo pagamento de multa fixada em TAC depende de exame de prova. Eu não vejo isso, isso é uma tese. É possível, se tiver previsto o pagamento de multa em TAC para o prefeito, ele não Isso eu não posso discutir isso como tema jurídico, tese jurídica.\n\n**[04:34:21] Min. Paulo Sérgio Domingues (Relator):** Mas na origem o tribunal local disse que a despeito da cláusula oitava, ah, ele interpretou a cláusula.\n\n**[04:34:29] Min. Herman Benjamin:** Não, não, não interpretou a cláusula.\n\n**[04:34:32] Min. Paulo Sérgio Domingues (Relator):** Interpretou para aplicar ao caso concreto.\n\n**[04:34:34] Min. Herman Benjamin:** Deliberou.\n\n**[04:34:35] Min. Paulo Sérgio Domingues (Relator):** Não.\n\n**[04:34:36] Min. Herman Benjamin:** Sobre a impossibilidade, se quiser a ineficácia ou invalidade, não é inexistência, mas é ineficácia ou invalidade de uma cláusula desse tipo. Isso é questão Jurídica, jurídica, se é válido ou não é válido.\n\n**[04:34:50] Min. Paulo Sérgio Domingues (Relator):** Eu acho que era\n\n**[04:34:52] Min. Herman Benjamin:** Aliás, não deu fundamentação.\n\n**[04:34:54] Min. Sérgio Kukina (Presidente):** Súmula 5/STJ não existisse, para não causar esse tipo de tormento, né? Como a Súmula 7/STJ, eu acho que tinha que ser posterior. Encaminhado\n\n**[04:35:03] Min. Herman Benjamin:** Não, mas é que não, mas aí vamos lá.\n\n**[04:35:05] Min. Sérgio Kukina (Presidente):** Conhecimento.\n\n**[04:35:05] Min. Herman Benjamin:** Mas o que Não, então vamos lá, quais são os fatos que precisam ser examinados aqui em tese? Vamos Vamos hipotetizar. Quais são os fatos que precisam ser examinados aqui para saber se um prefeito pode responder pessoalmente pelo pagamento de multa fica Qual é o fato?\n\n**[04:35:19] Min. Paulo Sérgio Domingues (Relator):** Posso responder?\n\n**[04:35:20] Min. Herman Benjamin:** Vamos lá, qual é o fato? Primeiro, não é o fato de ter TAC ou não ter TAC, porque está reconhecido expressamente no acórdão. Segundo, não é o fato de ter cláusula específica ou não, porque está reconhecido no acórdão. E terceiro, não é o fato se houve ou não houve consentimento do prefeito, porque também está reconhecido explícita e implicitamente no acórdão recorrido. Então, então qual é o fato? Eu não sei qual é. Então se você se vai apontar qual é o fato ou fatos que precisam ser reexaminados para se discutir essa tese, eu não vejo nenhum, é a tese jurídica totalmente.\n\n**[04:35:57] Min. Paulo Sérgio Domingues (Relator):** responder com aquilo que a sentença disse.\n\n**[04:35:59] Min. Herman Benjamin:** Então, vamos lá.\n\n**[04:35:59] Min. Paulo Sérgio Domingues (Relator):** Para condenar, para manter a responsabilidade do prefeito. A sentença disse: \"Da documentação exibida pelo embargante, o ex-prefeito, né, não é possível afirmar de forma inequívoca que o prontuário eletrônico do paciente, seus equipamentos e cabeamento foram instalados de acordo com as cláusulas do TAC\". O memorando tal elaborado pela Secretaria Municipal da Saúde ressaltou que a unidade do Recanto das Acácias não foi abarcada pela regularização estipulada.\n\n**[04:36:27] Min. Herman Benjamin:** isso é mérito.\n\n**[04:36:28] Min. Paulo Sérgio Domingues (Relator):** Não, eu estou respondendo a sua pergunta.\n\n**[04:36:29] Min. Herman Benjamin:** Mas não é mérito, não é mérito, mas isso\n\n**[04:36:30] Min. Paulo Sérgio Domingues (Relator):** o fato, daí sim.\n\n**[04:36:31] Min. Regina Helena Costa:** Mas para discutir a tese jurídica, ministro\n\n**[04:36:33] Min. Paulo Sérgio Domingues (Relator):** Mas esses aspectos não estão sequer repetidos no acordo. Não terminei de ler aqui. Tá. Não, foi no mesmo documento foi apontado que várias unidades rurais não realizaram os registros pelo sistema devido. Bem como servidores e equipamentos de informática não haviam sido adquiridos, logo considero também descabida a alegação de cumprimento integral das obrigações, haja vista que totalmente dissociada da própria documentação apresentada. Quer dizer, há uma discussão sobre se houve ou não houve o cumprimento. Isso é fato.\n\n**[04:36:58] Min. Herman Benjamin:** Nós não estamos discutindo se o TAC foi ou não foi cumprido, eu estou dizendo se é possível\n\n**[04:37:03] Min. Paulo Sérgio Domingues (Relator):** Você me perguntou quais são os fatos que nós vamos ter que discutir. E eu trouxe os fatos.\n\n**[04:37:06] Min. Herman Benjamin:** Não, não, não, mas isso nós vamos discutir, isso, veja.\n\n**[04:37:09] Min. Paulo Sérgio Domingues (Relator):** Eu só respondi a sua pergunta.\n\n**[04:37:10] Min. Sérgio Kukina (Presidente):** Pois é, prezados amigos, eu acho que a gente pode voltar.\n\n**[04:37:12] Min. Herman Benjamin:** Não, não, o problema aqui é que não está sendo bem colocado, não está sendo bem compreendido o que eu coloquei.\n\n**[04:37:17] Min. Paulo Sérgio Domingues (Relator):** Você está falando que não tem fatos para isso.\n\n**[04:37:19] Min. Herman Benjamin:** Eu acho que o ministro não me entendeu, porque ele entendeu. A discussão não é essa, a discussão é saber se um TAC pode contemplar uma cláusula que diga que o prefeito responde pela multa. Não quer dizer se o aparelho foi bem executado, se o TAC foi cumprido. Cumprimento é depois, eu estou falando agora se é possível um TAC prever isso, isso é jurídico. Isso é para qualquer TAC.\n\n**[04:37:40] Min. Paulo Sérgio Domingues (Relator):** É, isso é o mérito.\n\n**[04:37:41] Min. Herman Benjamin:** Qualquer TAC para qualquer fato.\n\n**[04:37:42] Min. Paulo Sérgio Domingues (Relator):** é o mérito.\n\n**[04:37:43] Min. Herman Benjamin:** é o mérito.\n\n**[04:37:43] Min. Paulo Sérgio Domingues (Relator):** nós estamos discutindo\n\n**[04:37:45] Min. Herman Benjamin:** Aqui está dizendo o acordo\n\n**[04:37:47] Min. Regina Helena Costa:** conheço o recurso, ministro Coquena, nós não estamos conhecendo o recurso. A questão se isso vai ser possível, válido, inválido, isso é um outro país, isso é um problema do mérito. Mas não conhecer o recurso?\n\n**[04:37:57] Min. Sérgio Kukina (Presidente):** Votamos que agora a gente vota\n\n**[04:37:59] Min. Regina Helena Costa:** Ah, não, essa realmente se dois lá não sei mais nada.\n\n**[04:38:02] Min. Paulo Sérgio Domingues (Relator):** É que o tribunal não falou, nós não estamos discutindo realmente se é possível ou não, em qualquer caso. O tribunal falou que a respeito da previsão do TAC com responsabilidade do ex-prefeito, que aliás o TAC não falava nem do prefeito, se ele fala do chefe do poder executivo, poderia ser esse ou outro, né? Diz: \"Impõe-se destacar e considerar que as obrigações constantes foram constantes foram imputadas ao ente público, logo não se mostra plausível e compreensível que a pretensão foi As sanções de direcionadas exclusivamente, exclusivamente ao representante da pessoa jurídica. Então, enfim, é isso.\n\n**[04:38:32] Min. Herman Benjamin:** E o assessor jurídico desse prefeito era da oposição.\n\n**[04:38:35] Min. Paulo Sérgio Domingues (Relator):** Não, esse promotor causou, né?\n\n**[04:38:37] Min. Herman Benjamin:** Ele inibiu\n\n**[04:38:38] Min. Paulo Sérgio Domingues (Relator):** O promotor causou ali. É, o procurador geral do município, eu não sei quem é, mas certamente amigo do prefeito não era, não era. Não é mesmo. Esse promotor causou ali.\n\n**[04:38:50] Min. Sérgio Kukina (Presidente):** Ministro Paulo Sérgio, então, relator, encaminha voto no sentido do desprovimento do agravo interno, no Ministério Público. É. Desprovimento, não é? Eu colho, então, o voto do ministro Herman Benjamin. Acompanha o relator ou entende na mão contrária, tem que ser provido?\n\n**[04:39:11] Min. Herman Benjamin:** Presidente, eu já falei bastante. É. E me limito apenas a esse aspecto levantado pela ministra Regina. O que está em debate é uma questão jurídica. E, portanto, eu não vejo como aplicar a Súmula 7/STJ, porque não estamos discutindo fatos. E não vejo como aplicar a Súmula, eh, 5, porque nós não estamos discutindo o conteúdo da de uma cláusula, nós estamos discutindo, eh, a validade jurídica de uma cláusula. É isso. Então, eu peço vênias, eh, eu e sinceramente, ministro Paulo, eu acho que é importante esse debate nós fazermos aqui dessa questão jurídica que me parece eh, que nunca recebeu um um eh, uma discussão aprofundada.\n\n**[04:40:06] Min. Sérgio Kukina (Presidente):** Muito bem, então o ministro Benjamin ah, abre divergência, né? Dando provimento ao agravo interno, eu vou acompanhar o relator, pedindo vênia à divergência. Ministra Regina Helena.\n\n**[04:40:21] Min. Regina Helena Costa:** Eu também já falei muito, eu vou acompanhar a divergência, senhor presidente, e vou registrar que se prevalecer o posicionamento do senhor relator, eu não vou aplicar isso em outros casos. Porque entendo que isto não, que eu entendo que isto fecha a porta para analisar a questão se é possível responsabilizar pessoalmente o gestor pelo pagamento de multa em TAC. Aí nós não Porque se entendermos que isto que isto é regra, que isto vale para todos os casos, nós nunca vamos vão poder examinar Eu acho eh, excessivo de em todas as por todas as formas. Então, eu estou votando com a divergência e dizendo que efetivamente se me aparecer um caso assim, eu vou trazer o mérito. É essa a ideia.\n\n**[04:40:58] Min. Paulo Sérgio Domingues (Relator):** Eu preferia que Vossa Excelência afetasse.\n\n**[04:41:01] Min. Regina Helena Costa:** Eu acho que acho que nem me chegou esse ponto. Nós temos dois casos só julgados no tribunal inteiro, até onde vimos. É Não vale a pena A gente tem que dizer\n\n**[04:41:10] Min. Sérgio Kukina (Presidente):** Esse time também é muito subjetivo, né?\n\n**[04:41:12] Min. Regina Helena Costa:** Eu sou da posição, ministro Coquena, que repetitiva relevância tem que ser usado com ponderação. Tá? Especialmente relevância. Nós vamos ter que ter uma contenção para não achar que tudo é relevante e afetar tudo que é sem um amadurecimento da discussão. Então nós temos dois casos e veja, um um de cada lado, um para cada lado, quer dizer, eu acho que não dá para a gente avançar e por isso que entendo que também por isso que entendo que precisaria ser apreciado o mérito do recurso. Mas eu tô já dizendo que eh, a minha posição é para esse caso e para outros. Fico vencida neste, mas vou sustentar a mesma posição em outros casos. Obrigado.\n\n**[04:41:48] Min. Sérgio Kukina (Presidente):** Então, o ministro Gurgel tem a chave.\n\n**[04:41:52] Min. Gurgel de Faria:** A chave. Será dada em sessão posterior. Vou pedir vista. Eu vou explicar, ministro Kukina. Os argumentos que foram apresentados pela ministra Regina e pelo ministro Herman são muito fortes. Claro. Os argumentos de vossas excelências, nosso presidente e o ministro Paulo também. E eu já votei nesse sentido. Quer dizer, é, é, não sei se votei ou se está apenas em monocrático, o ministro Paulo até apresentou. Monocrática com certeza, não sei se já de maneira colegiada. Mas aí eu vou analisar com mais calma. Perfeito, então.\n\n**[04:42:30] Min. Paulo Sérgio Domingues (Relator):** É, ministro Kukina, aqui de fato é uma questão relevante, não tem que discutir a relevância dessa questão. Se o prefeito pode ou não, inclusive se, se inclusive, se, se, se é válido ou não a inclusão do, da pessoa física do, do gestor público no TAC. É, é, é necessário se discutir isso. Agora, a questão aqui é, não há uma discussão sobre a legalidade dessa inclusão. Ninguém tá apontando a violação a, a, a lei ou a constituição pela inclusão do agente público pessoa física no TAC. Isso aqui é uma discussão completamente lateral, quer dizer, também acho que é importante essa discussão. Acho que é importante que a gente faça, no, no processo, e no processo onde o recurso seja realmente apto a discutir essa questão jurídica, ministro Regina, sou o primeiro a, a, a concordar.\n\n**[04:43:11] Min. Gurgel de Faria:** Então, mas o, da maneira, então, mas da maneira que foi colocado\n\n**[04:43:14] Min. Paulo Sérgio Domingues (Relator):** a julgamento.\n\n**[04:43:14] Min. Gurgel de Faria:** Como vossa excelência fundamentou,\n\n**[04:43:16] Min. Paulo Sérgio Domingues (Relator):** Não.\n\n**[04:43:17] Min. Gurgel de Faria:** dá a impressão que todos os casos vai ser cinco e sete. Porque sim.\n\n**[04:43:20] Min. Paulo Sérgio Domingues (Relator):** Não.\n\n**[04:43:21] Min. Gurgel de Faria:** porque simplesmente tá colocado de uma forma que, que se espraia, que foi, a percepção do ministro Benjamin também, isso vai valer para os outros. Porque toda vez que vier essa discussão, se exige o, o envolvimento de prova.\n\n**[04:43:30] Min. Paulo Sérgio Domingues (Relator):** Quando tiver um outro caso, vai fazer isso, eu também vou.\n\n**[04:43:32] Min. Gurgel de Faria:** Não dá.\n\n**[04:43:32] Min. Paulo Sérgio Domingues (Relator):** Quando tiver um outro caso bom, eu vou fazer.\n\n**[04:43:34] Min. Gurgel de Faria:** Então, talvez, talvez fosse o caso de refinar a fundamentação. vista.\n\n**[04:43:37] Min. Paulo Sérgio Domingues (Relator):** Olha, olha.\n\n**[04:43:40] Min. Sérgio Kukina (Presidente):** Eu proclamo o resultado parcial após o voto do relator, ah, negando provimento ao agravo interno, no que foi acompanhado pelo ministro Coquena, e a divergência aberta pelo ministro Herman Benjamin, no que foi acompanhado pela Min. Regina Helena Costa, pediu vista o Min. Gurgel de Faria, né? Portanto, encerrado aqui. Proclamação do resultado parcial. Último feito, apregoou\n\n**[04:44:10] Min. Gurgel de Faria:** Presidente, só uma breve sugestão. Esse último feito, como não tem ninguém para, assim, acho que não tem ninguém que vai acompanhar, né? Eu digo, acompanhar que eu tô dizendo Deixa, não.\n\n**[04:44:19] Min. Sérgio Kukina (Presidente):** Deixa eu, é melhor deixar mais claro. Agora eu proclamei o quê?\n\n**[04:44:24] Min. Gurgel de Faria:** É, é, é, ninguém pediu para acompanhar no que diz respeito a sessão como advogado, ministro Paulo Sérgio. Eu acho que seria interessante, se pudéssemos deixar para a próxima sessão, porque aí o ministro Herman participaria, porque ele me disse que precisou sair. E acho que é uma questão que era importante o colegiado todo, mas lógico aí eu o ministro Paulo entendeu o que é que eu quis dizer com acompanhar, para deixar bem claro.\n\n**[04:44:50] Min. Paulo Sérgio Domingues (Relator):** Para voltar com o voto.\n\n**[04:44:51] Min. Gurgel de Faria:** É, não. Acho que tá meio inédito aqui, né, na\n\n**[04:44:54] Min. Paulo Sérgio Domingues (Relator):** É, é um caso inédito. É, é um caso inédito. Eu acho que seria interessante a presença de todo o colegiado, mas por óbvio, ministro Paulo, como relator aí, é que\n\n**[04:45:03] Min. Sérgio Kukina (Presidente):** Como\n\n**[04:45:03] Min. Gurgel de Faria:** tem a primazia.\n\n**[04:45:04] Min. Paulo Sérgio Domingues (Relator):** Como os colegas preferirem.\n\n**[04:45:06] Min. Sérgio Kukina (Presidente):** Eu adiro a essa sugestão, né? Do ministro Gurgel. A ministra Regina também.\n\n**[04:45:13] Min. Paulo Sérgio Domingues (Relator):** problema.\n\n**[04:45:14] Min. Sérgio Kukina (Presidente):** Adere?\n\n**[04:45:14] Min. Gurgel de Faria:** A relatora é que decide.\n\n**[04:45:15] Min. Paulo Sérgio Domingues (Relator):** Não, parece que por mim não tem problema. Podemos, ah, fazer hoje ou podemos fazer semana que vem, não tem problema.\n\n**[04:45:20] Min. Gurgel de Faria:** É, adiar só uma sessão, próxima semana a gente\n\n**[04:45:23] Min. Paulo Sérgio Domingues (Relator):** por uma sessão, não tem problema.\n\n**[04:45:24] Min. Sérgio Kukina (Presidente):** Mas já está\n\n**[04:45:25] Min. Gurgel de Faria:** que tenha alguém para acompanhar.\n\n**[04:45:26] Min. Sérgio Kukina (Presidente):** em pauta.\n\n**[04:45:28] Min. Gurgel de Faria:** Não, Vossas Excelências entenderam o acompanhamento aqui não era\n\n**[04:45:32] Min. Sérgio Kukina (Presidente):** Pelo menos a preliminar, né? Pelo menos na súmula.\n\n**[04:45:34] Min. Gurgel de Faria:** Eu olhei e vi que não tinha.\n\n**[04:45:35] Min. Sérgio Kukina (Presidente):** Pelo menos na súmula, vai.\n\n**[04:45:38] Min. Gurgel de Faria:** Nossas excelências entenderam.\n\n**[04:45:40] Min. Sérgio Kukina (Presidente):** Muito bem. Então, o ministro relator, né? Acolhendo pedidos. Adiado para a próxima sessão. Tenho, portanto, agradecendo aos eminentes pares, ao colega do Ministério Público, Dr. Arnaldo, aos servidores, né? Aos que nos acompanharam presencialmente e pelo canal do YouTube, declaro encerrada a sessão.\n\n**[04:46:05] Colegiado:** Obrigado. Boa noite a todos.\n",
     "stats": {
       "total": 18,
+      "pautaTotal": 34,
       "providos": 1,
       "desprovidos": 6,
       "parciais": 3,
@@ -851,6 +3983,1431 @@ const resumosData = [
       "hermanCount": 8,
       "relevantCount": 10,
       "thesesCount": 18
+    },
+    "pauta": {
+      "seq_sessao": 2050236442,
+      "orgao_slug": "primeira_turma",
+      "cod_orgao_stj": "T1",
+      "nome_orgao": "Primeira Turma",
+      "data_iso": "2026-10-13",
+      "data_br": "13/10/2026",
+      "tipo_sessao": "Ordinária",
+      "hora_inicio": "",
+      "url_pauta_pdf": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/400809816/pdf",
+      "url_ata_pdf": "",
+      "documentos": [
+        {
+          "seq_documento": 400809816,
+          "cod_tipo": 40,
+          "tipo": "PAUTA DE JULGAMENTOS",
+          "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/400809816/pdf"
+        },
+        {
+          "seq_documento": null,
+          "cod_tipo": 0,
+          "tipo": "SUST. ORAL",
+          "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/2050236442/sustentacoes-orais"
+        }
+      ],
+      "total_itens": 34,
+      "total_sustentacoes": 10,
+      "itens": [
+        {
+          "item": 1,
+          "num_registro": "202402420027",
+          "registro_formatado": "2024/0242002-7",
+          "sg_classe": "AREsp",
+          "classe_completa": "AREsp",
+          "num_proc_classe": "2683537",
+          "numero_formatado": "2683537",
+          "uf": "MS",
+          "processo": "AREsp 2.683.537/MS",
+          "cabecalho_pdf": "AGRAVO EM RECURSO ESPECIAL Nº 2683537 - MS (2024/0242002-7)",
+          "tema_repetitivo": "",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Sustentações Orais",
+          "ind_categoria": "SO",
+          "assunto": "PIS",
+          "resultado_oficial": "CONHECEU DO RECURSO MAS LHE NEGOU PROVIMENTO",
+          "segredo_justica": true,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "ATVOS BIOENERGIA ELDORADO S.A."
+            },
+            {
+              "papel": "Agravante",
+              "nome": "ATVOS BIOENERGIA SANTA LUZIA S.A."
+            },
+            {
+              "papel": "Agravado",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "BRENO FERREIRA MARTINS VASCONCELOS - SP224120",
+            "BRENO FERREIRA MARTINS VASCONCELOS - SP224120"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "BRENO FERREIRA MARTINS VASCONCELOS",
+              "partes": "ATVOS BIOENERGIA ELDORADO S.A."
+            },
+            {
+              "advogado": "THIAGO KERENSKY DE MORAIS COUTO",
+              "partes": "FAZENDA NACIONAL"
+            }
+          ],
+          "matchedProcessIndex": 1,
+          "timestamp": "00:35:56",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=2156s"
+        },
+        {
+          "item": 2,
+          "num_registro": "202600723280",
+          "registro_formatado": "2026/0072328-0",
+          "sg_classe": "AREsp",
+          "classe_completa": "AREsp",
+          "num_proc_classe": "3220567",
+          "numero_formatado": "3220567",
+          "uf": "SE",
+          "processo": "AREsp 3.220.567/SE",
+          "cabecalho_pdf": "AGRAVO EM RECURSO ESPECIAL Nº 3220567 - SE (2026/0072328-0)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Sustentações Orais",
+          "ind_categoria": "SO",
+          "assunto": "Afastamento do Cargo",
+          "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "VALMIR DOS SANTOS COSTA"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "EROTILDES JOSE DE JESUS"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "CAMPO DO GADO INDUSTRIA DE RECICLAGEM ANIMAL LTDA"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "GUSTAVO LUIZ PEREIRA MACHADO"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "MANOEL MESSIAS DE SOUZA"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "JAMERSON DA TRINDADE MOTA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE"
+            }
+          ],
+          "advogados": [
+            "EVANIO JOSE DE MOURA SANTOS - SE002884",
+            "MATHEUS DANTAS MEIRA - SE003910",
+            "LÍCIO BASTOS SILVA NETO - BA017392",
+            "RODOLFO SANTANA DE SIQUEIRA PINTO - SE005554"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FELIPE BOTELHO SILVA MAUAD",
+              "partes": "VALMIR DOS SANTOS COSTA"
+            }
+          ],
+          "matchedProcessIndex": 2,
+          "timestamp": "00:54:19",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=3259s"
+        },
+        {
+          "item": 3,
+          "num_registro": "202502358069",
+          "registro_formatado": "2025/0235806-9",
+          "sg_classe": "REsp",
+          "classe_completa": "AgInt no REsp",
+          "num_proc_classe": "2220538",
+          "numero_formatado": "2220538",
+          "uf": "PR",
+          "processo": "AgInt no REsp 2.220.538/PR",
+          "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2220538 - PR (2025/0235806-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Sustentações Orais",
+          "ind_categoria": "SO",
+          "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+          "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "FANCAR GERMANIA LTDA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "MARCELO AUGUSTO SELLA - PR038404"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "JEOVANA ALVES CORREIA",
+              "partes": "FANCAR GERMANIA LTDA"
+            }
+          ],
+          "matchedProcessIndex": 3,
+          "timestamp": "01:07:54",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=4074s"
+        },
+        {
+          "item": 4,
+          "num_registro": "202402803475",
+          "registro_formatado": "2024/0280347-5",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2160450",
+          "numero_formatado": "2160450",
+          "uf": "RJ",
+          "processo": "REsp 2.160.450/RJ",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2160450 - RJ (2024/0280347-5)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Sustentações Orais",
+          "ind_categoria": "SO",
+          "assunto": "Reserva de Vagas para Pessoas com Deficiência",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "ANDERSON LUIZ GABURRO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "UNIÃO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "CENTRO BRASILEIRO DE PESQUISA EM AVALIACAO E"
+            }
+          ],
+          "advogados": [
+            "GABRIEL CARLOS MACHADO NETO - AM009175",
+            "ROGERIO DA SILVA ANDRE - DF026433",
+            "TIAGO CARDOSO PENNA - MG083514",
+            "RUDI MEIRA CASSEL - DF022256"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "ALICE STREIT LUCENA",
+              "partes": "FEDERAÇÃO NACIONAL DOS POLICIAIS RODOVIÁRIOS FEDERAIS"
+            },
+            {
+              "advogado": "GABRIEL CARLOS MACHADO NETO",
+              "partes": "ANDERSON LUIZ GABURRO"
+            },
+            {
+              "advogado": "THAIS CRISTINNE RODRIGUES DE FREITAS",
+              "partes": "SINDICATO DOS POLICIAIS RODOVIARIOS FEDERAIS NO EST MG"
+            },
+            {
+              "advogado": "FERNANDO FILGUEIRAS DE ARAUJO",
+              "partes": "UNIÃO"
+            }
+          ],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 5,
+          "num_registro": "202601983256",
+          "registro_formatado": "2026/0198325-6",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2277513",
+          "numero_formatado": "2277513",
+          "uf": "PR",
+          "processo": "REsp 2.277.513/PR",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2277513 - PR (2026/0198325-6)",
+          "tema_repetitivo": "",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Sustentações Orais",
+          "ind_categoria": "SO",
+          "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+          "resultado_oficial": "RETIRADA DE PAUTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "LUIZ GUSTAVO ANTÔNIO SILVA BICHARA - RJ112310"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "GUILHERME CARDOSO LEITE",
+              "partes": "SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA"
+            }
+          ],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 6,
+          "num_registro": "202504097566",
+          "registro_formatado": "2025/0409756-6",
+          "sg_classe": "REsp",
+          "classe_completa": "AgInt no REsp",
+          "num_proc_classe": "2240061",
+          "numero_formatado": "2240061",
+          "uf": "RJ",
+          "processo": "AgInt no REsp 2.240.061/RJ",
+          "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2240061 - RJ (2025/0409756-6)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Sustentações Orais",
+          "ind_categoria": "SO",
+          "assunto": "Dívida Ativa (Execução Fiscal)",
+          "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "JOSE ROBERTO GAMA DE OLIVEIRA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "MARCOS ANDRÉ CECILIANO MENEZES - DF074922"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "MARCOS ANDRÉ CECILIANO MENEZES",
+              "partes": "COSTABELLA EMPREENDIMENTOS IMOBILIÁRIOS LTDA"
+            }
+          ],
+          "matchedProcessIndex": 4,
+          "timestamp": "01:18:41",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=4721s"
+        },
+        {
+          "item": 7,
+          "num_registro": "202303051743",
+          "registro_formatado": "2023/0305174-3",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2093860",
+          "numero_formatado": "2093860",
+          "uf": "RS",
+          "processo": "REsp 2.093.860/RS",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2093860 - RS (2023/0305174-3)",
+          "tema_repetitivo": "",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Herman Benjamin",
+          "categoria": "Prioritários",
+          "ind_categoria": "PR",
+          "assunto": "Compensação de Prejuízo",
+          "resultado_oficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "INDÚSTRIA DE CALÇADOS WIRTH LTDA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "MARCIANO BUFFON - RS034668"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 5,
+          "timestamp": "01:30:48",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=5448s"
+        },
+        {
+          "item": 8,
+          "num_registro": "201802410753",
+          "registro_formatado": "2018/0241075-3",
+          "sg_classe": "AREsp",
+          "classe_completa": "AREsp",
+          "num_proc_classe": "1365238",
+          "numero_formatado": "1.365.238",
+          "uf": "",
+          "processo": "AREsp 1.365.238",
+          "cabecalho_pdf": "",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Prioritários",
+          "ind_categoria": "PR",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 9,
+          "num_registro": "201802410753",
+          "registro_formatado": "2018/0241075-3",
+          "sg_classe": "AREsp",
+          "classe_completa": "AREsp",
+          "num_proc_classe": "1365238",
+          "numero_formatado": "1.365.238",
+          "uf": "",
+          "processo": "AREsp 1.365.238",
+          "cabecalho_pdf": "",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Prioritários",
+          "ind_categoria": "PR",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 10,
+          "num_registro": "202401238082",
+          "registro_formatado": "2024/0123808-2",
+          "sg_classe": "AREsp",
+          "classe_completa": "AREsp",
+          "num_proc_classe": "2624387",
+          "numero_formatado": "2.624.387",
+          "uf": "",
+          "processo": "AREsp 2.624.387",
+          "cabecalho_pdf": "",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Prioritários",
+          "ind_categoria": "PR",
+          "assunto": "Educação Infantil - Creche",
+          "resultado_oficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+          "segredo_justica": true,
+          "partes": [],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 11,
+          "num_registro": "202501992655",
+          "registro_formatado": "2025/0199265-5",
+          "sg_classe": "RMS",
+          "classe_completa": "RMS",
+          "num_proc_classe": "76452",
+          "numero_formatado": "76.452",
+          "uf": "",
+          "processo": "RMS 76.452",
+          "cabecalho_pdf": "",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Prioritários",
+          "ind_categoria": "PR",
+          "assunto": "Retido na fonte",
+          "resultado_oficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 12,
+          "num_registro": "201700537429",
+          "registro_formatado": "2017/0053742-9",
+          "sg_classe": "AgInt no AgInt no AgInt nos EDcl no AREsp",
+          "classe_completa": "AgInt no AgInt no AgInt nos EDcl no AREsp",
+          "num_proc_classe": "1067449",
+          "numero_formatado": "1067449",
+          "uf": "RN",
+          "processo": "AgInt no AgInt no AgInt nos EDcl no AREsp 1.067.449/RN",
+          "cabecalho_pdf": "AgInt no AgInt no AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1067449 - RN (2017/0053742-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Preferências de Julgamento",
+          "ind_categoria": "PJ",
+          "assunto": "Sistema Remuneratório e Benefícios",
+          "resultado_oficial": "RETIRADA DE PAUTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "SINDICATO DOS AUDITORES FISCAIS DO TESOURO ESTADUAL"
+            }
+          ],
+          "advogados": [
+            "EVANDRO LUIS CASTELLO BRANCO PERTENCE - DF011841"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 13,
+          "num_registro": "202403147632",
+          "registro_formatado": "2024/0314763-2",
+          "sg_classe": "AREsp",
+          "classe_completa": "AgInt no AREsp",
+          "num_proc_classe": "2726591",
+          "numero_formatado": "2726591",
+          "uf": "RS",
+          "processo": "AgInt no AREsp 2.726.591/RS",
+          "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2726591 - RS (2024/0314763-2)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Preferências de Julgamento",
+          "ind_categoria": "PJ",
+          "assunto": "Cofins",
+          "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "BE8 S.A."
+            },
+            {
+              "papel": "Agravado",
+              "nome": "FAZENDA NACIONAL"
+            }
+          ],
+          "advogados": [
+            "GUSTAVO NYGAARD - RS029023"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 6,
+          "timestamp": "01:41:19",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=6079s"
+        },
+        {
+          "item": 14,
+          "num_registro": "202504251685",
+          "registro_formatado": "2025/0425168-5",
+          "sg_classe": "AREsp",
+          "classe_completa": "AgInt no AREsp",
+          "num_proc_classe": "3091396",
+          "numero_formatado": "3091396",
+          "uf": "RJ",
+          "processo": "AgInt no AREsp 3.091.396/RJ",
+          "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 3091396 - RJ (2025/0425168-5)",
+          "tema_repetitivo": "",
+          "relator": "Min. Benedito Gonçalves",
+          "vistor": "Min. Gurgel de Faria",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Violação dos Princípios Administrativos",
+          "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "JOSEMAR LAGE DE SOUZA"
+            }
+          ],
+          "advogados": [
+            "SARA FRAUCH DE CARVALHO - RJ124689"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 7,
+          "timestamp": "01:44:10",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=6250s"
+        },
+        {
+          "item": 15,
+          "num_registro": "202403438429",
+          "registro_formatado": "2024/0343842-9",
+          "sg_classe": "AgInt no AgInt no AREsp",
+          "classe_completa": "AgInt no AgInt no AREsp",
+          "num_proc_classe": "2745473",
+          "numero_formatado": "2745473",
+          "uf": "GO",
+          "processo": "AgInt no AgInt no AREsp 2.745.473/GO",
+          "cabecalho_pdf": "AgInt no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2745473 - GO (2024/0343842-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Benedito Gonçalves",
+          "vistor": "Min. Gurgel de Faria",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Dívida Ativa (Execução Fiscal)",
+          "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "LUBERCOL OLEOS LTDA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "ESTADO DE GOIAS"
+            }
+          ],
+          "advogados": [
+            "PAULO VARANDAS JUNIOR - DF015518"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 8,
+          "timestamp": "01:48:13",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=6493s"
+        },
+        {
+          "item": 16,
+          "num_registro": "201703101353",
+          "registro_formatado": "2017/0310135-3",
+          "sg_classe": "AgInt no AgInt no AREsp",
+          "classe_completa": "AgInt no AgInt no AREsp",
+          "num_proc_classe": "1214884",
+          "numero_formatado": "1.214.884",
+          "uf": "",
+          "processo": "AgInt no AgInt no AREsp 1.214.884",
+          "cabecalho_pdf": "",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 17,
+          "num_registro": "202600332133",
+          "registro_formatado": "2026/0033213-3",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2256188",
+          "numero_formatado": "2.256.188",
+          "uf": "",
+          "processo": "REsp 2.256.188",
+          "cabecalho_pdf": "",
+          "tema_repetitivo": "",
+          "relator": "Min. Herman Benjamin",
+          "vistor": "",
+          "ministro_sessao": "Min. Herman Benjamin",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO E, NESSA PARTE DEU-LHE PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 9,
+          "timestamp": "01:50:41",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=6641s"
+        },
+        {
+          "item": 18,
+          "num_registro": "202101056997",
+          "registro_formatado": "2021/0105699-7",
+          "sg_classe": "AgInt nos EDcl no AREsp",
+          "classe_completa": "AgInt nos EDcl no AREsp",
+          "num_proc_classe": "1872598",
+          "numero_formatado": "1872598",
+          "uf": "AM",
+          "processo": "AgInt nos EDcl no AREsp 1.872.598/AM",
+          "cabecalho_pdf": "AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1872598 - AM (2021/0105699-7)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "FUNDAÇÃO BOAS NOVAS"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+            }
+          ],
+          "advogados": [
+            "VALSUI CLÁUDIO MARTINS - AM002905",
+            "ALEXANDRE MENDES AMOEDO FERREIRA E OUTRO(S) -",
+            "DANTE GLAUS ROCHA DE CASTRO - AM002686"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 10,
+          "timestamp": "03:14:21",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=11661s"
+        },
+        {
+          "item": 19,
+          "num_registro": "202101056997",
+          "registro_formatado": "2021/0105699-7",
+          "sg_classe": "AgInt nos EDcl no AREsp",
+          "classe_completa": "AgInt nos EDcl no AREsp",
+          "num_proc_classe": "1872598",
+          "numero_formatado": "1872598",
+          "uf": "AM",
+          "processo": "AgInt nos EDcl no AREsp 1.872.598/AM",
+          "cabecalho_pdf": "AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1872598 - AM (2021/0105699-7)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Votos-Vista",
+          "ind_categoria": "VV",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "FUNDAÇÃO BOAS NOVAS"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+            }
+          ],
+          "advogados": [
+            "VALSUI CLÁUDIO MARTINS - AM002905",
+            "ALEXANDRE MENDES AMOEDO FERREIRA E OUTRO(S) -",
+            "DANTE GLAUS ROCHA DE CASTRO - AM002686"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 10,
+          "timestamp": "03:14:21",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=11661s"
+        },
+        {
+          "item": 20,
+          "num_registro": "202600742427",
+          "registro_formatado": "2026/0074242-7",
+          "sg_classe": "RMS",
+          "classe_completa": "AgInt no RMS",
+          "num_proc_classe": "78564",
+          "numero_formatado": "78564",
+          "uf": "BA",
+          "processo": "AgInt no RMS 78.564/BA",
+          "cabecalho_pdf": "AgInt no RECURSO EM MANDADO DE SEGURANÇA Nº 78564 - BA (2026/0074242-7)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Gratificações e Adicionais",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "CARLOS ALBERTO SANTOS DE JESUS"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "ESTADO DA BAHIA"
+            }
+          ],
+          "advogados": [
+            "FABIANO SAMARTIN FERNANDES - BA021439"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 12,
+          "timestamp": "03:18:52",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=11932s"
+        },
+        {
+          "item": 21,
+          "num_registro": "202600065408",
+          "registro_formatado": "2026/0006540-8",
+          "sg_classe": "AREsp",
+          "classe_completa": "AgInt no AREsp",
+          "num_proc_classe": "3153809",
+          "numero_formatado": "3153809",
+          "uf": "SE",
+          "processo": "AgInt no AREsp 3.153.809/SE",
+          "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 3153809 - SE (2026/0006540-8)",
+          "tema_repetitivo": "",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Lançamento",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "ESTADO DE SERGIPE"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "MAULER SOCIEDADE DE ADVOGADOS"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "REBOUCAS CAMPOS E GALDINO ADVOCACIA E CONSULTORIA"
+            }
+          ],
+          "advogados": [
+            "CAROLINA SCHAFFER FERREIRA JORGE - SP306594"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 13,
+          "timestamp": "03:31:53",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=12713s"
+        },
+        {
+          "item": 22,
+          "num_registro": "201700537429",
+          "registro_formatado": "2017/0053742-9",
+          "sg_classe": "AgInt no AgInt no AgInt nos EDcl no AREsp",
+          "classe_completa": "AgInt no AgInt no AgInt nos EDcl no AREsp",
+          "num_proc_classe": "1067449",
+          "numero_formatado": "1067449",
+          "uf": "RN",
+          "processo": "AgInt no AgInt no AgInt nos EDcl no AREsp 1.067.449/RN",
+          "cabecalho_pdf": "AgInt no AgInt no AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1067449 - RN (2017/0053742-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Sistema Remuneratório e Benefícios",
+          "resultado_oficial": "RETIRADA DE PAUTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "SINDICATO DOS AUDITORES FISCAIS DO TESOURO ESTADUAL"
+            }
+          ],
+          "advogados": [
+            "EVANDRO LUIS CASTELLO BRANCO PERTENCE - DF011841"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 23,
+          "num_registro": "201700537429",
+          "registro_formatado": "2017/0053742-9",
+          "sg_classe": "AgInt no AgInt no AgInt nos EDcl no AREsp",
+          "classe_completa": "AgInt no AgInt no AgInt nos EDcl no AREsp",
+          "num_proc_classe": "1067449",
+          "numero_formatado": "1067449",
+          "uf": "RN",
+          "processo": "AgInt no AgInt no AgInt nos EDcl no AREsp 1.067.449/RN",
+          "cabecalho_pdf": "AgInt no AgInt no AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1067449 - RN (2017/0053742-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Sistema Remuneratório e Benefícios",
+          "resultado_oficial": "RETIRADA DE PAUTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "SINDICATO DOS AUDITORES FISCAIS DO TESOURO ESTADUAL"
+            }
+          ],
+          "advogados": [
+            "EVANDRO LUIS CASTELLO BRANCO PERTENCE - DF011841"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 24,
+          "num_registro": "202500836979",
+          "registro_formatado": "2025/0083697-9",
+          "sg_classe": "REsp",
+          "classe_completa": "AgInt no REsp",
+          "num_proc_classe": "2202275",
+          "numero_formatado": "2202275",
+          "uf": "AL",
+          "processo": "AgInt no REsp 2.202.275/AL",
+          "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2202275 - AL (2025/0083697-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Dívida Ativa (Execução Fiscal)",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "FAZENDA NACIONAL"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "GLOBAL MARINE IMPORTACAO E EXPORTACAO LTDA"
+            }
+          ],
+          "advogados": [
+            "RAPHAEL BARROSO DE AVELOIS - ES013545"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 14,
+          "timestamp": "03:47:15",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=13635s"
+        },
+        {
+          "item": 25,
+          "num_registro": "202501315022",
+          "registro_formatado": "2025/0131502-2",
+          "sg_classe": "REsp",
+          "classe_completa": "AgInt no REsp",
+          "num_proc_classe": "2208220",
+          "numero_formatado": "2208220",
+          "uf": "SP",
+          "processo": "AgInt no REsp 2.208.220/SP",
+          "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2208220 - SP (2025/0131502-2)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Acidente de Trânsito",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "DIRCEU DE FRANCA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "RENOVIAS CONCESSIONARIA SA"
+            }
+          ],
+          "advogados": [
+            "ANA LÚCIA CONCEIÇÃO - SP147166",
+            "LUCIANA TAKITO - SP127439"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 15,
+          "timestamp": "03:53:27",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=14007s"
+        },
+        {
+          "item": 26,
+          "num_registro": "202504238980",
+          "registro_formatado": "2025/0423898-0",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2293252",
+          "numero_formatado": "2293252",
+          "uf": "MG",
+          "processo": "REsp 2.293.252/MG",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2293252 - MG (2025/0423898-0)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Patrimônio Cultural",
+          "resultado_oficial": "DEU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MAURO HUMBERTO ELIAS"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "LAMIA ELIAS JUNQUEIRA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "EDMA ELIAS"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "LEDA ELIAS VILELA REZENDE"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "ELIAS JOAO NETO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MARCIO ELIAS"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MARCOS ELIAS"
+            }
+          ],
+          "advogados": [
+            "LUCIANO BORGES CAMARGOS - MG126056"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 16,
+          "timestamp": "03:59:31",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=14371s"
+        },
+        {
+          "item": 27,
+          "num_registro": "202404900049",
+          "registro_formatado": "2024/0490004-9",
+          "sg_classe": "AREsp",
+          "classe_completa": "AgInt no AREsp",
+          "num_proc_classe": "2829339",
+          "numero_formatado": "2829339",
+          "uf": "MT",
+          "processo": "AgInt no AREsp 2.829.339/MT",
+          "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2829339 - MT (2024/0490004-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Multas e demais Sanções",
+          "resultado_oficial": "PEDIDO DE VISTA",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "ROBERTO ANGELO DE FARIAS"
+            }
+          ],
+          "advogados": [
+            "EZEQUIEL BORGES DE CAMPOS",
+            "JOÃO JAKSON VIEIRA GOMES - MT020239O"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 17,
+          "timestamp": "04:04:45",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=14685s"
+        },
+        {
+          "item": 28,
+          "num_registro": "202504228198",
+          "registro_formatado": "2025/0422819-8",
+          "sg_classe": "AREsp",
+          "classe_completa": "AgInt no AREsp",
+          "num_proc_classe": "3095458",
+          "numero_formatado": "3095458",
+          "uf": "SP",
+          "processo": "AgInt no AREsp 3.095.458/SP",
+          "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 3095458 - SP (2025/0422819-8)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Destaques",
+          "ind_categoria": "DM",
+          "assunto": "Pagamento Atrasado / Correção Monetária",
+          "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "JOAO CARLOS DE NOVAES"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "MARIA ANILDA DE NOVAES"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "CARLOS EDUARDO DE NOVAES"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "CAIXA ECONÔMICA FEDERAL"
+            }
+          ],
+          "advogados": [
+            "LUIZ GUILHERME BITTENCOURT MARINONI - PR013073",
+            "KÁTIA APARECIDA MANGONE - SP241798"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": 18,
+          "timestamp": "04:44:05",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=17045s"
+        },
+        {
+          "item": 29,
+          "num_registro": "202300879999",
+          "registro_formatado": "2023/0087999-9",
+          "sg_classe": "AREsp",
+          "classe_completa": "AgInt no AREsp",
+          "num_proc_classe": "2323026",
+          "numero_formatado": "2323026",
+          "uf": "RN",
+          "processo": "AgInt no AREsp 2.323.026/RN",
+          "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2323026 - RN (2023/0087999-9)",
+          "tema_repetitivo": "",
+          "relator": "Min. Herman Benjamin",
+          "vistor": "",
+          "ministro_sessao": "Min. Herman Benjamin",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Revogação/Concessão de Licença Ambiental",
+          "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "ESTADO DO RIO GRANDE DO NORTE"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE"
+            }
+          ],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 30,
+          "num_registro": "202600723280",
+          "registro_formatado": "2026/0072328-0",
+          "sg_classe": "AREsp",
+          "classe_completa": "AREsp",
+          "num_proc_classe": "3220567",
+          "numero_formatado": "3220567",
+          "uf": "SE",
+          "processo": "AREsp 3.220.567/SE",
+          "cabecalho_pdf": "AGRAVO EM RECURSO ESPECIAL Nº 3220567 - SE (2026/0072328-0)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Afastamento do Cargo",
+          "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "VALMIR DOS SANTOS COSTA"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "EROTILDES JOSE DE JESUS"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "CAMPO DO GADO INDUSTRIA DE RECICLAGEM ANIMAL LTDA"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "GUSTAVO LUIZ PEREIRA MACHADO"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "MANOEL MESSIAS DE SOUZA"
+            },
+            {
+              "papel": "Agravante",
+              "nome": "JAMERSON DA TRINDADE MOTA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE"
+            }
+          ],
+          "advogados": [
+            "EVANIO JOSE DE MOURA SANTOS - SE002884",
+            "MATHEUS DANTAS MEIRA - SE003910",
+            "LÍCIO BASTOS SILVA NETO - BA017392",
+            "RODOLFO SANTANA DE SIQUEIRA PINTO - SE005554"
+          ],
+          "sustentacoes_orais": [
+            {
+              "advogado": "FELIPE BOTELHO SILVA MAUAD",
+              "partes": "VALMIR DOS SANTOS COSTA"
+            }
+          ],
+          "matchedProcessIndex": 2,
+          "timestamp": "00:54:19",
+          "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=3259s"
+        },
+        {
+          "item": 31,
+          "num_registro": "202600189688",
+          "registro_formatado": "2026/0018968-8",
+          "sg_classe": "AgInt na TutCautAnt",
+          "classe_completa": "AgInt na TutCautAnt",
+          "num_proc_classe": "1326",
+          "numero_formatado": "1326",
+          "uf": "SE",
+          "processo": "AgInt na TutCautAnt 1.326/SE",
+          "cabecalho_pdf": "AgInt na TUTELA CAUTELAR ANTECEDENTE Nº 1326 - SE (2026/0018968-8)",
+          "tema_repetitivo": "",
+          "relator": "Min. Sérgio Kukina",
+          "vistor": "",
+          "ministro_sessao": "Min. Sérgio Kukina",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Improbidade Administrativa",
+          "resultado_oficial": "DEU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "VALMIR DOS SANTOS COSTA"
+            }
+          ],
+          "advogados": [
+            "EVANIO JOSE DE MOURA SANTOS - SE002884"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 32,
+          "num_registro": "202403454937",
+          "registro_formatado": "2024/0345493-7",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2169995",
+          "numero_formatado": "2169995",
+          "uf": "RJ",
+          "processo": "REsp 2.169.995/RJ",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2169995 - RJ (2024/0345493-7)",
+          "tema_repetitivo": "",
+          "relator": "Min. Gurgel de Faria",
+          "vistor": "",
+          "ministro_sessao": "Min. Gurgel de Faria",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Dano Ambiental",
+          "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "MARIA PIA ESMERALDA MATARAZZO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+            }
+          ],
+          "advogados": [
+            "MARIA LUCIA LINS CONCEIÇÃO - PR015348"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 33,
+          "num_registro": "202400792095",
+          "registro_formatado": "2024/0079209-5",
+          "sg_classe": "AgInt no REsp",
+          "classe_completa": "AgInt no REsp",
+          "num_proc_classe": "2128888",
+          "numero_formatado": "2128888",
+          "uf": "CE",
+          "processo": "AgInt no REsp 2.128.888/CE",
+          "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2128888 - CE (2024/0079209-5)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Ambiental",
+          "resultado_oficial": "DEU PROVIMENTO AO AGRAVO INTERNO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Agravante",
+              "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "ANTÔNIO JOSÉ DA COSTA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "SUPERINTENDENCIA ESTADUAL DO MEIO AMBIENTE-SEMACE"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "ROBERTO BAPTISTA"
+            },
+            {
+              "papel": "Agravado",
+              "nome": "BIOPESCA COMERCIAL E INDUSTRIAL DE CAMAROES E"
+            }
+          ],
+          "advogados": [
+            "DEFENSORIA PÚBLICA DA UNIÃO",
+            "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M"
+          ],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        },
+        {
+          "item": 34,
+          "num_registro": "202504876831",
+          "registro_formatado": "2025/0487683-1",
+          "sg_classe": "REsp",
+          "classe_completa": "REsp",
+          "num_proc_classe": "2292138",
+          "numero_formatado": "2292138",
+          "uf": "RS",
+          "processo": "REsp 2.292.138/RS",
+          "cabecalho_pdf": "RECURSO ESPECIAL Nº 2292138 - RS (2025/0487683-1)",
+          "tema_repetitivo": "",
+          "relator": "Min. Paulo Sérgio Domingues",
+          "vistor": "",
+          "ministro_sessao": "Min. Paulo Sérgio Domingues",
+          "categoria": "Bloco",
+          "ind_categoria": "BL",
+          "assunto": "Área de Preservação Permanente",
+          "resultado_oficial": "CONHECEU DO RECURSO",
+          "segredo_justica": false,
+          "partes": [
+            {
+              "papel": "Recorrente",
+              "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO"
+            },
+            {
+              "papel": "Recorrido",
+              "nome": "UNIÃO"
+            }
+          ],
+          "advogados": [],
+          "sustentacoes_orais": [],
+          "matchedProcessIndex": null,
+          "timestamp": "",
+          "videoUrl": ""
+        }
+      ]
     },
     "hermanHighlights": [
       {
@@ -902,7 +5459,7 @@ const resumosData = [
         "processIndex": 15
       },
       {
-        "title": "REsp 2.293.002/MG — Tutela do Patrimônio Histórico-Cultural em Ação Civil Pública e Eficácia Autônoma do Inventário Cultural",
+        "title": "REsp 2.293.252/MG — Tutela do Patrimônio Histórico-Cultural em Ação Civil Pública e Eficácia Autônoma do Inventário Cultural",
         "text": "Ao acompanhar o voto do relator Min. Paulo Sérgio Domingues pelo provimento do recurso especial do Ministério Público de Minas Gerais para proteger o \"Hotel Regina\" (inventariado em 1988), o Min. Herman Benjamin destacou (04:02:39) a relevância histórica e doutrinária do precedente. Ressaltou que o Direito do Patrimônio Cultural evoluiu para superar a visão reducionista de que apenas o tombamento protege o bem cultural, pois o tombamento constitui o ato final do ciclo protetivo; sem a eficácia jurídica autônoma (per se) de instrumentos constitucionais como o inventário e de medidas preparatórias, o bem histórico seria destruído antes da conclusão do tombamento. Propôs que a Secretaria de Comunicação Social do STJ conferisse divulgação especial ao julgado.",
         "timestamp": "03:59:31",
         "seconds": 14371,
@@ -934,7 +5491,7 @@ const resumosData = [
         "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU"
       },
       {
-        "title": "REsp 2.293.002/MG — Tutela do Patrimônio Histórico-Cultural e Eficácia Autônoma do Inventário Independentemente de Tombamento",
+        "title": "REsp 2.293.252/MG — Tutela do Patrimônio Histórico-Cultural e Eficácia Autônoma do Inventário Independentemente de Tombamento",
         "text": "A Primeira Turma, à unanimidade, deu provimento ao recurso especial do Ministério Público do Estado de Minas Gerais para reconhecer que o inventário constitui instrumento constitucional autônomo de proteção do patrimônio cultural (art. 216, § 1º, da CF/1988), apto a embasar obrigações de conservação e restauração de imóvel histórico (\"Hotel Regina\", inventariado em 1988) em ação civil pública independentemente de prévio tombamento ou de regulamentação local específica. Por sugestão do Min. Herman Benjamin, determinou-se o encaminhamento do julgado à Secretaria de Comunicação do STJ para divulgação institucional.",
         "timestamp": "",
         "seconds": 0,
@@ -1004,7 +5561,48 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "A tese firmada no Tema 69/STF (exclusão do ICMS destacado na nota fiscal da base de cálculo do PIS e da COFINS) não se aplica ao regime especial e facultativo de apuração e recolhimento das contribuições mediante alíquotas específicas por volume de combustível (alíquota ad rem por metro cúbico prevista no art. 5º, § 4º, da Lei 9.718/1998), porquanto a opção voluntária do contribuinte por sistemática diferenciada de tributação afasta a decomposição da base de incidência e não contempla em sua estrutura o imposto estadual destacado, na linha da ratio dos Temas 1008/STJ e 1048/STF.",
         "teseType": "final",
-        "resumoDiscussao": "Em sustentação oral pela agravante Atvos Bioenergia Eldorado S.A. (00:37:56), o advogado Dr. Breno Ferreira Martins Vasconcelos argumentou que o art. 5º, § 4º, da Lei 9.718/1998 alterou apenas a unidade de medida de apuração do PIS e da COFINS (valores fixos por metro cúbico de álcool), mantendo a receita bruta como materialidade constitucional (art. 195, I, b, da CF/1988) e calibrando o valor fixo pela alíquota modal de 9,25% sobre o preço final que inclui o ICMS, conforme notas técnicas da Receita Federal. Sustentou que a sistemática ad rem foi instituída pela MP 413/2008 (Lei 11.727/2008) como medida de praticabilidade e controle fiscal, e não como benefício fiscal, invocando os Temas 1125 e 1372 do STJ e propondo distinção em relação ao Tema 1008/STJ. O relator, Min. Gurgel de Faria (00:51:03), afastou a preliminar de negativa de prestação jurisdicional e, no mérito, destacou que, embora a base constitucional das contribuições continue a ser a receita ou o faturamento, o STJ e o STF (Temas 1008/STJ e 1048/STF) possuem entendimento consolidado de que a tese do Tema 69/STF não se aplica quando há facultatividade na adesão ao regime tributário, acrescendo que o Tema 69 determinou a exclusão do ICMS destacado na nota fiscal, peculiaridade incompatível com a cobrança por alíquota ad rem por metro cúbico. O procurador da Fazenda Nacional, Dr. Thiago Querenski de Moraes Couto, dispensou o uso da palavra diante do voto do relator. O colegiado, por unanimidade, conheceu do agravo e negou provimento ao recurso especial."
+        "resumoDiscussao": "Em sustentação oral pela agravante Atvos Bioenergia Eldorado S.A. (00:37:56), o advogado Dr. Breno Ferreira Martins Vasconcelos argumentou que o art. 5º, § 4º, da Lei 9.718/1998 alterou apenas a unidade de medida de apuração do PIS e da COFINS (valores fixos por metro cúbico de álcool), mantendo a receita bruta como materialidade constitucional (art. 195, I, b, da CF/1988) e calibrando o valor fixo pela alíquota modal de 9,25% sobre o preço final que inclui o ICMS, conforme notas técnicas da Receita Federal. Sustentou que a sistemática ad rem foi instituída pela MP 413/2008 (Lei 11.727/2008) como medida de praticabilidade e controle fiscal, e não como benefício fiscal, invocando os Temas 1125 e 1372 do STJ e propondo distinção em relação ao Tema 1008/STJ. O relator, Min. Gurgel de Faria (00:51:03), afastou a preliminar de negativa de prestação jurisdicional e, no mérito, destacou que, embora a base constitucional das contribuições continue a ser a receita ou o faturamento, o STJ e o STF (Temas 1008/STJ e 1048/STF) possuem entendimento consolidado de que a tese do Tema 69/STF não se aplica quando há facultatividade na adesão ao regime tributário, acrescendo que o Tema 69 determinou a exclusão do ICMS destacado na nota fiscal, peculiaridade incompatível com a cobrança por alíquota ad rem por metro cúbico. O procurador da Fazenda Nacional, Dr. Thiago Querenski de Moraes Couto, dispensou o uso da palavra diante do voto do relator. O colegiado, por unanimidade, conheceu do agravo e negou provimento ao recurso especial.",
+        "pautaItems": [
+          {
+            "item": 1,
+            "processo": "AREsp 2.683.537/MS",
+            "categoria": "Sustentações Orais",
+            "assunto": "PIS",
+            "temaRepetitivo": "",
+            "resultadoOficial": "CONHECEU DO RECURSO MAS LHE NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "ATVOS BIOENERGIA ELDORADO S.A."
+              },
+              {
+                "papel": "Agravante",
+                "nome": "ATVOS BIOENERGIA SANTA LUZIA S.A."
+              },
+              {
+                "papel": "Agravado",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "PIS",
+        "temaRepetitivo": "",
+        "resultadoOficial": "CONHECEU DO RECURSO MAS LHE NEGOU PROVIMENTO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "ATVOS BIOENERGIA ELDORADO S.A."
+          },
+          {
+            "papel": "Agravante",
+            "nome": "ATVOS BIOENERGIA SANTA LUZIA S.A."
+          },
+          {
+            "papel": "Agravado",
+            "nome": "FAZENDA NACIONAL"
+          }
+        ]
       },
       {
         "index": 2,
@@ -1040,7 +5638,118 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "A homologação judicial do Acordo de Não Persecução Civil (ANPC) não constitui ato meramente formal, cabendo ao Poder Judiciário exercer controle corretivo de legalidade e recusar a chancela a ajuste que, mesmo celebrado antes de condenação definitiva, omita cláusulas obrigatórias de integral ressarcimento do dano e de reversão da vantagem indevida à pessoa jurídica lesada (art. 17-B, I e II, da Lei 8.429/1992, na redação da Lei 14.230/2021), não suprindo tal exigência legal cogente a mera previsão de multa civil revertida a fundo de reaparelhamento do Ministério Público.",
         "teseType": "final",
-        "resumoDiscussao": "Pela defesa do agravante Valmir dos Santos Costa (ex-Prefeito de Itabaiana/SE), sustentou oralmente o Dr. Filipe Botelho Silva Mauad (00:55:34), relatando que a ação de improbidade administrativa — referente à contratação de empresa para destinação de resíduos de animais abatidos no matadouro municipal — fora julgada improcedente em primeira instância e que, durante a apelação do Ministério Público, as partes requereram conjuntamente a suspensão do feito por 45 dias para ultimar Acordo de Não Persecução Civil (ANPC). Alegou nulidade pelo indeferimento da suspensão pelo TJSE e, no mérito, violação ao art. 17-B da LIA, argumentando que o acordo foi celebrado quando vigia sentença absolutória e inexistia dano liquidado, invocando o REsp 2.263.884/SE (Rel. Min. Regina Helena Costa) para defender a limitação proporcional à participação de cada um dos seis corréus. O relator, Min. Sérgio Kukina (01:03:38), votou pelo conhecimento do agravo e pelo conhecimento parcial do recurso especial, negando-lhe provimento sob quatro fundamentos: (i) a efetiva celebração e submissão do ANPC no curso da apelação esvaziou o interesse recursal quanto à alegada nulidade pelo indeferimento do pedido anterior de sobrestamento; (ii) nos termos do art. 17-B, I e II, da Lei 8.429/1992, o ANPC deve obrigatoriamente assegurar o integral ressarcimento do dano e a reversão da vantagem indevida à pessoa jurídica lesada; (iii) a inexistência de sentença condenatória no momento da assinatura não afasta a obrigatoriedade das cláusulas reparatórias, aplicável inclusive na fase extrajudicial, verificando-se na espécie que a inicial estimava prejuízos milionários ao Município e o acordo limitou-se a prever multa sem qualquer cláusula de ressarcimento; e (iv) a estipulação de multa civil integralmente destinada a fundo do Ministério Público não se confunde com a reparação do dano nem reverte em proveito do ente público lesado, sendo legítimo o controle judicial de legalidade exercido pela corte de origem (reportando-se também ao REsp 2.263.884/SE). Decisão unânime."
+        "resumoDiscussao": "Pela defesa do agravante Valmir dos Santos Costa (ex-Prefeito de Itabaiana/SE), sustentou oralmente o Dr. Filipe Botelho Silva Mauad (00:55:34), relatando que a ação de improbidade administrativa — referente à contratação de empresa para destinação de resíduos de animais abatidos no matadouro municipal — fora julgada improcedente em primeira instância e que, durante a apelação do Ministério Público, as partes requereram conjuntamente a suspensão do feito por 45 dias para ultimar Acordo de Não Persecução Civil (ANPC). Alegou nulidade pelo indeferimento da suspensão pelo TJSE e, no mérito, violação ao art. 17-B da LIA, argumentando que o acordo foi celebrado quando vigia sentença absolutória e inexistia dano liquidado, invocando o REsp 2.263.884/SE (Rel. Min. Regina Helena Costa) para defender a limitação proporcional à participação de cada um dos seis corréus. O relator, Min. Sérgio Kukina (01:03:38), votou pelo conhecimento do agravo e pelo conhecimento parcial do recurso especial, negando-lhe provimento sob quatro fundamentos: (i) a efetiva celebração e submissão do ANPC no curso da apelação esvaziou o interesse recursal quanto à alegada nulidade pelo indeferimento do pedido anterior de sobrestamento; (ii) nos termos do art. 17-B, I e II, da Lei 8.429/1992, o ANPC deve obrigatoriamente assegurar o integral ressarcimento do dano e a reversão da vantagem indevida à pessoa jurídica lesada; (iii) a inexistência de sentença condenatória no momento da assinatura não afasta a obrigatoriedade das cláusulas reparatórias, aplicável inclusive na fase extrajudicial, verificando-se na espécie que a inicial estimava prejuízos milionários ao Município e o acordo limitou-se a prever multa sem qualquer cláusula de ressarcimento; e (iv) a estipulação de multa civil integralmente destinada a fundo do Ministério Público não se confunde com a reparação do dano nem reverte em proveito do ente público lesado, sendo legítimo o controle judicial de legalidade exercido pela corte de origem (reportando-se também ao REsp 2.263.884/SE). Decisão unânime.",
+        "pautaItems": [
+          {
+            "item": 2,
+            "processo": "AREsp 3.220.567/SE",
+            "categoria": "Sustentações Orais",
+            "assunto": "Afastamento do Cargo",
+            "temaRepetitivo": "",
+            "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "VALMIR DOS SANTOS COSTA"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "EROTILDES JOSE DE JESUS"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "CAMPO DO GADO INDUSTRIA DE RECICLAGEM ANIMAL LTDA"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "GUSTAVO LUIZ PEREIRA MACHADO"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "MANOEL MESSIAS DE SOUZA"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "JAMERSON DA TRINDADE MOTA"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE"
+              }
+            ]
+          },
+          {
+            "item": 30,
+            "processo": "AREsp 3.220.567/SE",
+            "categoria": "Bloco",
+            "assunto": "Afastamento do Cargo",
+            "temaRepetitivo": "",
+            "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "VALMIR DOS SANTOS COSTA"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "EROTILDES JOSE DE JESUS"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "CAMPO DO GADO INDUSTRIA DE RECICLAGEM ANIMAL LTDA"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "GUSTAVO LUIZ PEREIRA MACHADO"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "MANOEL MESSIAS DE SOUZA"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "JAMERSON DA TRINDADE MOTA"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Afastamento do Cargo",
+        "temaRepetitivo": "",
+        "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "VALMIR DOS SANTOS COSTA"
+          },
+          {
+            "papel": "Agravante",
+            "nome": "EROTILDES JOSE DE JESUS"
+          },
+          {
+            "papel": "Agravante",
+            "nome": "CAMPO DO GADO INDUSTRIA DE RECICLAGEM ANIMAL LTDA"
+          },
+          {
+            "papel": "Agravante",
+            "nome": "GUSTAVO LUIZ PEREIRA MACHADO"
+          },
+          {
+            "papel": "Agravante",
+            "nome": "MANOEL MESSIAS DE SOUZA"
+          },
+          {
+            "papel": "Agravante",
+            "nome": "JAMERSON DA TRINDADE MOTA"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE"
+          }
+        ]
       },
       {
         "index": 3,
@@ -1076,7 +5785,40 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Não ofende os arts. 489, § 1º, e 1.022, II, do CPC o acórdão que aprecia fundamentadamente a natureza preventiva do mandado de segurança e extingue o feito sem resolução de mérito por ausência de comprovação de ato coator concreto ou de justo receio de autuação fiscal, esbarrando a revisão dessa premissa fático-probatória no óbice da Súmula 7/STJ, além das Súmulas 211, 283 e 518 do STJ.",
         "teseType": "final",
-        "resumoDiscussao": "Por videoconferência, a advogada Dra. Giovana Alves Correia (01:09:24) sustentou pela agravante Fancar Germânia Ltda. que o mandado de segurança preventivo fora impetrado para assegurar a exclusão de benefícios fiscais de ICMS da base de cálculo do IRPJ e da CSLL diante de reiteradas Soluções de Consulta da Receita Federal exigindo comprovação de implantação ou expansão de empreendimento, tendo a União inclusive contestado o pedido no mérito após sentença concessiva, o que demonstraria o justo receio e tornaria indevida a extinção sem julgamento do mérito pelo TRF da 4ª Região após o julgamento do Tema 1182/STJ. O relator, Min. Sérgio Kukina (01:13:48), registrou que o Min. Gurgel de Faria levantou o destaque anteriormente formulado e manteve a decisão monocrática que não conhecera do recurso especial: (i) afastou a violação aos arts. 489, § 1º, e 1.022, II, do CPC, pois o TRF4 enfrentou expressamente a alegada feição preventiva do writ; (ii) aplicou a Súmula 518/STJ quanto à invocação de afronta a enunciado sumular; (iii) aplicou a Súmula 211/STJ quanto aos arts. 4º, 5º e 6º do CPC por falta de prequestionamento; (iv) aplicou a Súmula 283/STJ em relação ao art. 10 do CPC por ausência de impugnação a fundamento autônomo do acórdão sobre o princípio da não surpresa; e (v) aplicou a Súmula 7/STJ quanto ao art. 1º da Lei 12.016/2009, porquanto rever a conclusão da origem sobre a indemonstração de ameaça concreta e justo receio demandaria reexame fático-probatório. A Turma negou provimento ao agravo interno por unanimidade."
+        "resumoDiscussao": "Por videoconferência, a advogada Dra. Giovana Alves Correia (01:09:24) sustentou pela agravante Fancar Germânia Ltda. que o mandado de segurança preventivo fora impetrado para assegurar a exclusão de benefícios fiscais de ICMS da base de cálculo do IRPJ e da CSLL diante de reiteradas Soluções de Consulta da Receita Federal exigindo comprovação de implantação ou expansão de empreendimento, tendo a União inclusive contestado o pedido no mérito após sentença concessiva, o que demonstraria o justo receio e tornaria indevida a extinção sem julgamento do mérito pelo TRF da 4ª Região após o julgamento do Tema 1182/STJ. O relator, Min. Sérgio Kukina (01:13:48), registrou que o Min. Gurgel de Faria levantou o destaque anteriormente formulado e manteve a decisão monocrática que não conhecera do recurso especial: (i) afastou a violação aos arts. 489, § 1º, e 1.022, II, do CPC, pois o TRF4 enfrentou expressamente a alegada feição preventiva do writ; (ii) aplicou a Súmula 518/STJ quanto à invocação de afronta a enunciado sumular; (iii) aplicou a Súmula 211/STJ quanto aos arts. 4º, 5º e 6º do CPC por falta de prequestionamento; (iv) aplicou a Súmula 283/STJ em relação ao art. 10 do CPC por ausência de impugnação a fundamento autônomo do acórdão sobre o princípio da não surpresa; e (v) aplicou a Súmula 7/STJ quanto ao art. 1º da Lei 12.016/2009, porquanto rever a conclusão da origem sobre a indemonstração de ameaça concreta e justo receio demandaria reexame fático-probatório. A Turma negou provimento ao agravo interno por unanimidade.",
+        "pautaItems": [
+          {
+            "item": 3,
+            "processo": "AgInt no REsp 2.220.538/PR",
+            "categoria": "Sustentações Orais",
+            "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+            "temaRepetitivo": "",
+            "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "FANCAR GERMANIA LTDA"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+        "temaRepetitivo": "",
+        "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "FANCAR GERMANIA LTDA"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "FAZENDA NACIONAL"
+          }
+        ]
       },
       {
         "index": 4,
@@ -1112,7 +5854,40 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Consignado pelo tribunal de origem que a decisão proferida em mandado de segurança determinou apenas a suspensão da exigibilidade do crédito tributário de IPI na importação de veículo por pessoa física, sem vedar o lançamento para prevenção da decadência, e que a CDA goza de certeza e liquidez, a inversão dessas premissas, tal como articulada nas razões do recurso especial, encontra óbice na Súmula 7/STJ.",
         "teseType": "final",
-        "resumoDiscussao": "Em sustentação oral pelo agravante José Roberto Gama de Oliveira — ex-atleta de futebol conhecido como Bebeto —, o Dr. Marcos André Siciliano Meneses (01:20:13) relatou que o contribuinte importou veículo automotor para uso próprio em abril de 2013 e obteve ordem em mandado de segurança para impedir a exigência do IPI, a qual veio a ser reformada em juízo de retratação pelo TRF da 2ª Região em 2016 após o julgamento do Tema 643/STF. Sustentou que o auto de infração que embasou a execução fiscal ajuizada em 2023 é nulo porque foi lavrado em outubro de 2013, apenas três meses após a concessão da segurança, quando não havia risco iminente de decadência e estava vigente ordem de abstenção contra o Fisco, invocando o REsp 1.140.956/SP, o AgInt no REsp 1.731.423/RJ e o AREsp 2.827.792, e defendendo tratar-se de matéria puramente de direito (art. 151, IV, do CTN). O relator, Min. Sérgio Kukina (01:27:33), manteve o não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, ressaltando que o TRF2 assentou expressamente que a decisão mandamental limitara-se a suspender a exigibilidade do crédito tributário, sem proibir sua constituição pelo lançamento, concluindo pela higidez da CDA, de modo que a alteração desse quadro nos moldes postos no apelo nobre exigiria reexame de elementos fático-probatórios. Agravo interno desprovido à unanimidade."
+        "resumoDiscussao": "Em sustentação oral pelo agravante José Roberto Gama de Oliveira — ex-atleta de futebol conhecido como Bebeto —, o Dr. Marcos André Siciliano Meneses (01:20:13) relatou que o contribuinte importou veículo automotor para uso próprio em abril de 2013 e obteve ordem em mandado de segurança para impedir a exigência do IPI, a qual veio a ser reformada em juízo de retratação pelo TRF da 2ª Região em 2016 após o julgamento do Tema 643/STF. Sustentou que o auto de infração que embasou a execução fiscal ajuizada em 2023 é nulo porque foi lavrado em outubro de 2013, apenas três meses após a concessão da segurança, quando não havia risco iminente de decadência e estava vigente ordem de abstenção contra o Fisco, invocando o REsp 1.140.956/SP, o AgInt no REsp 1.731.423/RJ e o AREsp 2.827.792, e defendendo tratar-se de matéria puramente de direito (art. 151, IV, do CTN). O relator, Min. Sérgio Kukina (01:27:33), manteve o não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, ressaltando que o TRF2 assentou expressamente que a decisão mandamental limitara-se a suspender a exigibilidade do crédito tributário, sem proibir sua constituição pelo lançamento, concluindo pela higidez da CDA, de modo que a alteração desse quadro nos moldes postos no apelo nobre exigiria reexame de elementos fático-probatórios. Agravo interno desprovido à unanimidade.",
+        "pautaItems": [
+          {
+            "item": 6,
+            "processo": "AgInt no REsp 2.240.061/RJ",
+            "categoria": "Sustentações Orais",
+            "assunto": "Dívida Ativa (Execução Fiscal)",
+            "temaRepetitivo": "",
+            "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "JOSE ROBERTO GAMA DE OLIVEIRA"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Dívida Ativa (Execução Fiscal)",
+        "temaRepetitivo": "",
+        "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "JOSE ROBERTO GAMA DE OLIVEIRA"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "FAZENDA NACIONAL"
+          }
+        ]
       },
       {
         "index": 5,
@@ -1148,7 +5923,40 @@ const resumosData = [
         "hermanManifestation": "Suscitou questão de ordem (01:31:52) em voto-vista sustentando que, superado o conhecimento do recurso especial pelo prequestionamento do mérito tributário relativo à dedutibilidade de perdas em contratos de hedge (NDF) da base de cálculo do IRPJ e da CSLL, caberia ao STJ aplicar o direito à espécie (art. 255, § 5º, do RISTJ) e observar que a petição inicial do mandado de segurança preventivo veio instruída unicamente com o contrato social e planilha unilateral elaborada por contadora, sem comprovação documental da celebração de contratos de derivativos, de sua vinculação a exportações ou das perdas incorridas; propôs, com base no art. 10 do CPC, a intimação da impetrante para se manifestar sobre a ausência de prova pré-constituída do direito líquido e certo. Vencido na questão de ordem, teve prorrogado o prazo de vista para exame do mérito.",
         "tese": "Na instância especial, mesmo as matérias de ordem pública — como a alegada ausência de prova pré-constituída para o cabimento de mandado de segurança preventivo — submetem-se ao requisito constitucional do prequestionamento, não podendo ser conhecidas de ofício pelo Superior Tribunal de Justiça quando não debatidas pelas instâncias ordinárias. [VOTO VENCIDO] Aberta a instância especial pelo prequestionamento do mérito da relação jurídico-material tributária, incumbe ao órgão julgador aplicar o direito à espécie (art. 255, § 5º, do RISTJ) e, constatando que a petição inicial do mandado de segurança preventivo está desacompanhada de documentos comprobatórios das operações de hedge e respectivas perdas, intimar a parte impetrante (art. 10 do CPC) para manifestar-se sobre a ausência de prova pré-constituída.",
         "teseType": "vencido",
-        "resumoDiscussao": "Trata-se de recurso especial interposto por Indústria de Calçados Wirth Ltda. (\"Wirg Limitada\" na transcrição) contra acórdão do TRF da 4ª Região em mandado de segurança preventivo relativo à não incidência de IRPJ e CSLL sobre resultados/perdas em operações de cobertura cambial (hedge na modalidade NDF) e respectiva dedução no lucro real. Em sessão anterior, após voto do relator Min. Gurgel de Faria negando provimento ao recurso especial e voto-vista da Min. Regina Helena Costa dando-lhe parcial provimento, pedira vista coletiva o Min. Herman Benjamin, que nesta sessão apresentou questão de ordem propondo a intimação da recorrente quanto à falta de prova pré-constituída na impetração. O relator Min. Gurgel de Faria (01:35:48) e a Min. Regina Helena Costa (01:37:23) votaram pela rejeição da questão de ordem, ressaltando que a jurisprudência consolidada do STJ exige o prequestionamento inclusive para questões de ordem pública em sede de recurso especial, o que não se verificou quanto à instrução probatória do writ. A Min. Regina Helena Costa acrescentou fundamento pragmático relevante: em 26 de junho, após o início do julgamento, a Fazenda Nacional apresentou manifestação alterando parcialmente sua postura processual e convergindo em parte com a diretriz do voto-vista da Ministra, por reconhecer que a Receita Federal havia orientado o contribuinte a proceder daquela forma, motivo pelo qual o próprio relator disponibilizou retificação parcial de voto no sistema. Os Ministros Sérgio Kukina (01:39:22) e Paulo Sérgio Domingues (01:39:45) acompanharam o relator e a Min. Regina Helena Costa, rejeitando a questão de ordem por maioria (vencido o Min. Herman Benjamin) e restituindo os autos ao gabinete do Min. Herman Benjamin com prorrogação de vista para apreciação do mérito."
+        "resumoDiscussao": "Trata-se de recurso especial interposto por Indústria de Calçados Wirth Ltda. (\"Wirg Limitada\" na transcrição) contra acórdão do TRF da 4ª Região em mandado de segurança preventivo relativo à não incidência de IRPJ e CSLL sobre resultados/perdas em operações de cobertura cambial (hedge na modalidade NDF) e respectiva dedução no lucro real. Em sessão anterior, após voto do relator Min. Gurgel de Faria negando provimento ao recurso especial e voto-vista da Min. Regina Helena Costa dando-lhe parcial provimento, pedira vista coletiva o Min. Herman Benjamin, que nesta sessão apresentou questão de ordem propondo a intimação da recorrente quanto à falta de prova pré-constituída na impetração. O relator Min. Gurgel de Faria (01:35:48) e a Min. Regina Helena Costa (01:37:23) votaram pela rejeição da questão de ordem, ressaltando que a jurisprudência consolidada do STJ exige o prequestionamento inclusive para questões de ordem pública em sede de recurso especial, o que não se verificou quanto à instrução probatória do writ. A Min. Regina Helena Costa acrescentou fundamento pragmático relevante: em 26 de junho, após o início do julgamento, a Fazenda Nacional apresentou manifestação alterando parcialmente sua postura processual e convergindo em parte com a diretriz do voto-vista da Ministra, por reconhecer que a Receita Federal havia orientado o contribuinte a proceder daquela forma, motivo pelo qual o próprio relator disponibilizou retificação parcial de voto no sistema. Os Ministros Sérgio Kukina (01:39:22) e Paulo Sérgio Domingues (01:39:45) acompanharam o relator e a Min. Regina Helena Costa, rejeitando a questão de ordem por maioria (vencido o Min. Herman Benjamin) e restituindo os autos ao gabinete do Min. Herman Benjamin com prorrogação de vista para apreciação do mérito.",
+        "pautaItems": [
+          {
+            "item": 7,
+            "processo": "REsp 2.093.860/RS",
+            "categoria": "Prioritários",
+            "assunto": "Compensação de Prejuízo",
+            "temaRepetitivo": "",
+            "resultadoOficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "INDÚSTRIA DE CALÇADOS WIRTH LTDA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Compensação de Prejuízo",
+        "temaRepetitivo": "",
+        "resultadoOficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "INDÚSTRIA DE CALÇADOS WIRTH LTDA"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "FAZENDA NACIONAL"
+          }
+        ]
       },
       {
         "index": 6,
@@ -1184,7 +5992,40 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Incidem os óbices das Súmulas 211 e 7 do STJ quando as teses normativas suscitadas no recurso especial não foram apreciadas pelo tribunal de origem a despeito da oposição de embargos de declaração — sem que a parte tenha apontado violação ao art. 1.022 do CPC — e a revisão do reconhecimento da decadência para a impetração do mandado de segurança demanda revolvimento do acervo fático-probatório.",
         "teseType": "final",
-        "resumoDiscussao": "Apregoado em regime de preferência com a presença por videoconferência do patrono da agravante B8 S.A., Dr. Eduardo Gonçalves Spitaliere (01:42:10), o relator Min. Sérgio Kukina votou pelo desprovimento do agravo interno, consignando que a corte regional não examinou a lide sob o enfoque dos dispositivos invocados no apelo nobre nem foi suscitada ofensa ao art. 1.022 do CPC no recurso especial (Súmula 211/STJ), além de a reforma da premissa fática quanto à consumação do prazo decadencial da impetração exigir reexame de provas (Súmula 7/STJ). O colegiado negou provimento ao agravo interno de forma unânime."
+        "resumoDiscussao": "Apregoado em regime de preferência com a presença por videoconferência do patrono da agravante B8 S.A., Dr. Eduardo Gonçalves Spitaliere (01:42:10), o relator Min. Sérgio Kukina votou pelo desprovimento do agravo interno, consignando que a corte regional não examinou a lide sob o enfoque dos dispositivos invocados no apelo nobre nem foi suscitada ofensa ao art. 1.022 do CPC no recurso especial (Súmula 211/STJ), além de a reforma da premissa fática quanto à consumação do prazo decadencial da impetração exigir reexame de provas (Súmula 7/STJ). O colegiado negou provimento ao agravo interno de forma unânime.",
+        "pautaItems": [
+          {
+            "item": 13,
+            "processo": "AgInt no AREsp 2.726.591/RS",
+            "categoria": "Preferências de Julgamento",
+            "assunto": "Cofins",
+            "temaRepetitivo": "",
+            "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "BE8 S.A."
+              },
+              {
+                "papel": "Agravado",
+                "nome": "FAZENDA NACIONAL"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Cofins",
+        "temaRepetitivo": "",
+        "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "BE8 S.A."
+          },
+          {
+            "papel": "Agravado",
+            "nome": "FAZENDA NACIONAL"
+          }
+        ]
       },
       {
         "index": 7,
@@ -1220,7 +6061,40 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "A ausência de prequestionamento dos dispositivos legais invocados pelo Ministério Público nas razões do recurso especial impede o conhecimento da insurgência voltada à condenação por improbidade administrativa decorrente de acumulação indevida de cargos públicos.",
         "teseType": "final",
-        "resumoDiscussao": "Em continuidade de julgamento após o voto do relator Min. Benedito Gonçalves negando provimento ao agravo interno do Ministério Público do Estado do Rio de Janeiro, o Min. Gurgel de Faria apresentou voto-vista (01:44:59) acompanhando o relator pela conclusão, mas sob fundamento distinto: observou que a demanda versava sobre acumulação indevida de cargos públicos originalmente capitulada no art. 11, I, da Lei 8.429/1992 (dispositivo revogado pela Lei 14.230/2021 sem continuidade típico-normativa nas hipóteses taxativas do novo art. 11), porém destacou que, preliminarmente, os dispositivos federais suscitados pelo Parquet no recurso especial sequer foram prequestionados na origem. Após diálogo técnico suscitado pela Min. Regina Helena Costa (01:46:48) sobre a incompatibilidade lógica de somar fundamentações de mérito e de não conhecimento, os Ministros Gurgel de Faria, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues acompanharam o relator exclusivamente pela conclusão (desprovimento do agravo interno), adotando o fundamento de ausência de prequestionamento."
+        "resumoDiscussao": "Em continuidade de julgamento após o voto do relator Min. Benedito Gonçalves negando provimento ao agravo interno do Ministério Público do Estado do Rio de Janeiro, o Min. Gurgel de Faria apresentou voto-vista (01:44:59) acompanhando o relator pela conclusão, mas sob fundamento distinto: observou que a demanda versava sobre acumulação indevida de cargos públicos originalmente capitulada no art. 11, I, da Lei 8.429/1992 (dispositivo revogado pela Lei 14.230/2021 sem continuidade típico-normativa nas hipóteses taxativas do novo art. 11), porém destacou que, preliminarmente, os dispositivos federais suscitados pelo Parquet no recurso especial sequer foram prequestionados na origem. Após diálogo técnico suscitado pela Min. Regina Helena Costa (01:46:48) sobre a incompatibilidade lógica de somar fundamentações de mérito e de não conhecimento, os Ministros Gurgel de Faria, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues acompanharam o relator exclusivamente pela conclusão (desprovimento do agravo interno), adotando o fundamento de ausência de prequestionamento.",
+        "pautaItems": [
+          {
+            "item": 14,
+            "processo": "AgInt no AREsp 3.091.396/RJ",
+            "categoria": "Votos-Vista",
+            "assunto": "Violação dos Princípios Administrativos",
+            "temaRepetitivo": "",
+            "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "JOSEMAR LAGE DE SOUZA"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Violação dos Princípios Administrativos",
+        "temaRepetitivo": "",
+        "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "JOSEMAR LAGE DE SOUZA"
+          }
+        ]
       },
       {
         "index": 8,
@@ -1256,7 +6130,40 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "A ausência de impugnação específica a fundamentos autônomos e suficientes do acórdão de origem que dirimiu a controvérsia sobre a cumulação de honorários advocatícios em ação anulatória e em execução fiscal extinta atrai a incidência da Súmula 283/STJ.",
         "teseType": "final",
-        "resumoDiscussao": "Em prosseguimento ao voto do relator Min. Benedito Gonçalves — que negava provimento ao agravo interno da contribuinte Lubercol Óleos Ltda. com base na Súmula 7/STJ —, o Min. Gurgel de Faria proferiu voto-vista (01:48:51) acompanhando o relator pela conclusão, mas substituindo o óbice da Súmula 7/STJ pelo da Súmula 283/STJ, por constatar que o recurso especial deixou de impugnar fundamentos autônomos do acórdão do TJGO. Os Ministros Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues aderiram à proposta do voto-vista, negando provimento ao agravo interno à unanimidade pela conclusão."
+        "resumoDiscussao": "Em prosseguimento ao voto do relator Min. Benedito Gonçalves — que negava provimento ao agravo interno da contribuinte Lubercol Óleos Ltda. com base na Súmula 7/STJ —, o Min. Gurgel de Faria proferiu voto-vista (01:48:51) acompanhando o relator pela conclusão, mas substituindo o óbice da Súmula 7/STJ pelo da Súmula 283/STJ, por constatar que o recurso especial deixou de impugnar fundamentos autônomos do acórdão do TJGO. Os Ministros Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues aderiram à proposta do voto-vista, negando provimento ao agravo interno à unanimidade pela conclusão.",
+        "pautaItems": [
+          {
+            "item": 15,
+            "processo": "AgInt no AgInt no AREsp 2.745.473/GO",
+            "categoria": "Votos-Vista",
+            "assunto": "Dívida Ativa (Execução Fiscal)",
+            "temaRepetitivo": "",
+            "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "LUBERCOL OLEOS LTDA"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "ESTADO DE GOIAS"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Dívida Ativa (Execução Fiscal)",
+        "temaRepetitivo": "",
+        "resultadoOficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "LUBERCOL OLEOS LTDA"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "ESTADO DE GOIAS"
+          }
+        ]
       },
       {
         "index": 9,
@@ -1292,7 +6199,22 @@ const resumosData = [
         "hermanManifestation": "Proferiu voto-vista divergente (01:52:04) pelo não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, argumentando que o TJSP considerou expressamente o pequeno valor patrimonial do dano e manteve a suspensão dos direitos políticos em razão da gravidade concreta da conduta, não podendo o STJ presumir ausência de reflexos amplos na administração municipal diante do silêncio do acórdão. Vencido na preliminar, votou no mérito (02:15:08, 02:24:08 e 02:26:34) pelo desprovimento do recurso especial, defendendo que o art. 12, § 5º, da LIA deve ser lido em conjunto com o art. 17-C, IV, alíneas a a g, da mesma lei, pois a tutela da probidade não se mede apenas pelo valor financeiro do bem (R$ 650,00 originais / R$ 2.183,00 atualizados), mas pela gravidade, natureza e impacto do ilícito praticado pelo próprio prefeito municipal, que, em conluio com o cunhado chefe de manutenção da frota, retirou o motor de uma Kombi oficial para retificá-lo e instalá-lo em um veículo artesanal (\"gaiola\") posteriormente adquirido pelo alcaide junto à irmã viúva.",
         "tese": "A qualificação jurídica de fatos incontroversos delineados no acórdão de origem para fins de subsunção ao conceito de \"atos de menor ofensa aos bens jurídicos tutelados\" (art. 12, § 5º, da Lei 8.429/1992, incluído pela Lei 14.230/2021) não esbarra na Súmula 7/STJ e impõe, como regra sancionatória específica aplicável aos processos em curso (Tema 1199/STF), o afastamento da penalidade de suspensão dos direitos políticos por 8 anos quando constatada a reduzida expressão econômica do dano material (apropriação/substituição de motor de veículo municipal avaliado originalmente em R$ 650,00), preservados o reconhecimento do ato doloso de improbidade, o ressarcimento integral do dano, a multa civil e as demais cominações não impugnadas. [VOTO VENCIDO] A revisão do juízo de reprovabilidade formulado pela corte de origem para afastar a suspensão dos direitos políticos demanda reexame fático-probatório vedado pela Súmula 7/STJ e, no mérito, a interpretação sistemática dos arts. 12, § 5º, e 17-C, IV, da Lei 8.429/1992 impede que a aferição da \"menor ofensa aos bens jurídicos tutelados\" se reduza à expressão monetária do bem apropriado quando o modus operandi — envolvimento do chefe de manutenção da frota e de familiares do próprio Prefeito Municipal para apropriar-se de motor de veículo público retificado — revela grave violação aos deveres de honestidade e probidade no exercício do mandato eletivo.",
         "teseType": "vencido",
-        "resumoDiscussao": "Trata-se de recurso especial interposto por José Luís da Cunha, ex-Prefeito de Lavrinhas/SP, condenado por ato de improbidade administrativa (art. 9º da LIA) em razão da apropriação/troca de motor de Kombi da frota municipal (dano originalmente fixado em R$ 650,00) às penas cumulativas de ressarcimento ao erário, multa civil de três vezes o valor do dano, proibição de contratar com o Poder Público por 10 anos e suspensão dos direitos políticos por 8 anos, restringindo-se o apelo nobre ao pedido de exclusão da suspensão dos direitos políticos com base no art. 12, § 5º, da LIA (incluído pela Lei 14.230/2021). Após o voto-vista do Min. Herman Benjamin suscitando o não conhecimento pela Súmula 7/STJ, a relatora Min. Regina Helena Costa (01:56:01) ratificou seu voto pelo conhecimento parcial do recurso, distinguindo reexame de provas de qualificação jurídica dos fatos incontroversos para concretização do conceito jurídico indeterminado de \"menor ofensa aos bens jurídicos tutelados\" e destacando que o próprio TJSP, em juízo de adequação (fls. 1.209/1.217), reconhecera ser pouco expressivo o dano material. Submetida a preliminar de conhecimento a votação destacada (02:05:41), os Ministros Gurgel de Faria, Paulo Sérgio Domingues e Sérgio Kukina acompanharam a relatora, superando a Súmula 7/STJ por maioria (vencido o Min. Herman Benjamin). No mérito (02:07:38 e 02:22:21), a Min. Regina Helena Costa salientou que o art. 12, § 5º, da LIA não descaracteriza a tipicidade nem o dolo específico, mas institui comando sancionatório específico para atos de menor potencial ofensivo em processos ainda não transitados em julgado (Tema 1199/STF), mostrando-se manifestamente desproporcional a cumulação da suspensão dos direitos políticos por 8 anos diante de dano original de R$ 650,00 já sancionado com ressarcimento, multa triplicada e proibição de contratar por 10 anos. O Min. Herman Benjamin (02:15:08) votou pelo desprovimento enfatizando o modus operandi descrito no acórdão e a leitura conjugada com o art. 17-C, IV, da LIA. O Min. Gurgel de Faria (02:30:03) acompanhou a relatora. O Min. Paulo Sérgio Domingues (02:30:23) também acompanhou a relatora, distinguindo o campo de incidência do art. 17-C (diretrizes gerais de fundamentação da sentença) do art. 12, § 5º (limitação objetiva de sanções nos atos de menor ofensa) e observando, a partir do relatório fático transcrito no acórdão (fl. 358), que o episódio se originara de avaria mecânica da Kombi oficial na rodovia Presidente Dutra e permuta de motores encaminhados à retífica. O Presidente Min. Sérgio Kukina (02:36:31) acompanhou a relatora, proclamando-se o provimento parcial do recurso especial na parte conhecida, por maioria, vencido o Min. Herman Benjamin."
+        "resumoDiscussao": "Trata-se de recurso especial interposto por José Luís da Cunha, ex-Prefeito de Lavrinhas/SP, condenado por ato de improbidade administrativa (art. 9º da LIA) em razão da apropriação/troca de motor de Kombi da frota municipal (dano originalmente fixado em R$ 650,00) às penas cumulativas de ressarcimento ao erário, multa civil de três vezes o valor do dano, proibição de contratar com o Poder Público por 10 anos e suspensão dos direitos políticos por 8 anos, restringindo-se o apelo nobre ao pedido de exclusão da suspensão dos direitos políticos com base no art. 12, § 5º, da LIA (incluído pela Lei 14.230/2021). Após o voto-vista do Min. Herman Benjamin suscitando o não conhecimento pela Súmula 7/STJ, a relatora Min. Regina Helena Costa (01:56:01) ratificou seu voto pelo conhecimento parcial do recurso, distinguindo reexame de provas de qualificação jurídica dos fatos incontroversos para concretização do conceito jurídico indeterminado de \"menor ofensa aos bens jurídicos tutelados\" e destacando que o próprio TJSP, em juízo de adequação (fls. 1.209/1.217), reconhecera ser pouco expressivo o dano material. Submetida a preliminar de conhecimento a votação destacada (02:05:41), os Ministros Gurgel de Faria, Paulo Sérgio Domingues e Sérgio Kukina acompanharam a relatora, superando a Súmula 7/STJ por maioria (vencido o Min. Herman Benjamin). No mérito (02:07:38 e 02:22:21), a Min. Regina Helena Costa salientou que o art. 12, § 5º, da LIA não descaracteriza a tipicidade nem o dolo específico, mas institui comando sancionatório específico para atos de menor potencial ofensivo em processos ainda não transitados em julgado (Tema 1199/STF), mostrando-se manifestamente desproporcional a cumulação da suspensão dos direitos políticos por 8 anos diante de dano original de R$ 650,00 já sancionado com ressarcimento, multa triplicada e proibição de contratar por 10 anos. O Min. Herman Benjamin (02:15:08) votou pelo desprovimento enfatizando o modus operandi descrito no acórdão e a leitura conjugada com o art. 17-C, IV, da LIA. O Min. Gurgel de Faria (02:30:03) acompanhou a relatora. O Min. Paulo Sérgio Domingues (02:30:23) também acompanhou a relatora, distinguindo o campo de incidência do art. 17-C (diretrizes gerais de fundamentação da sentença) do art. 12, § 5º (limitação objetiva de sanções nos atos de menor ofensa) e observando, a partir do relatório fático transcrito no acórdão (fl. 358), que o episódio se originara de avaria mecânica da Kombi oficial na rodovia Presidente Dutra e permuta de motores encaminhados à retífica. O Presidente Min. Sérgio Kukina (02:36:31) acompanhou a relatora, proclamando-se o provimento parcial do recurso especial na parte conhecida, por maioria, vencido o Min. Herman Benjamin.",
+        "pautaItems": [
+          {
+            "item": 17,
+            "processo": "REsp 2.256.188",
+            "categoria": "Votos-Vista",
+            "assunto": "Improbidade Administrativa",
+            "temaRepetitivo": "",
+            "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO E, NESSA PARTE DEU-LHE PROVIMENTO",
+            "partes": []
+          }
+        ],
+        "assuntoOficial": "Improbidade Administrativa",
+        "temaRepetitivo": "",
+        "resultadoOficial": "CONHECEU PARCIALMENTE DO RECURSO E, NESSA PARTE DEU-LHE PROVIMENTO",
+        "partes": []
       },
       {
         "index": 10,
@@ -1328,7 +6250,58 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Afastada a configuração de ato de improbidade administrativa capitulado no art. 10 da Lei 8.429/1992 em relação à agente pública, julga-se improcedente o pedido condenatório fundado no referido dispositivo e exclui-se a multa civil correlata, remanescendo a condenação pelo art. 11 da LIA.",
         "teseType": "final",
-        "resumoDiscussao": "Retornando os autos ao relator Min. Paulo Sérgio Domingues em virtude da posse do Min. Benedito Gonçalves (que havia pedido vista em junho do ano anterior) na Corregedoria, o relator reapresentou seu voto (03:15:58) em ação de improbidade administrativa relativa a convênio firmado com o Estado do Amazonas no valor de R$ 900.000,00 para aquisição de 15 mil exemplares de livros que, em sua expressiva maioria, desapareceram. No agravo interno de Marilene Corrêa da Silva Freitas (item 18 da pauta), o relator votou pelo parcial provimento do recurso para julgar improcedente o pedido condenatório fundado no art. 10 da Lei 8.429/1992 e afastar a multa civil correlata, mantendo a condenação remanescente pelo art. 11 da LIA. O colegiado acompanhou o relator à unanimidade."
+        "resumoDiscussao": "Retornando os autos ao relator Min. Paulo Sérgio Domingues em virtude da posse do Min. Benedito Gonçalves (que havia pedido vista em junho do ano anterior) na Corregedoria, o relator reapresentou seu voto (03:15:58) em ação de improbidade administrativa relativa a convênio firmado com o Estado do Amazonas no valor de R$ 900.000,00 para aquisição de 15 mil exemplares de livros que, em sua expressiva maioria, desapareceram. No agravo interno de Marilene Corrêa da Silva Freitas (item 18 da pauta), o relator votou pelo parcial provimento do recurso para julgar improcedente o pedido condenatório fundado no art. 10 da Lei 8.429/1992 e afastar a multa civil correlata, mantendo a condenação remanescente pelo art. 11 da LIA. O colegiado acompanhou o relator à unanimidade.",
+        "pautaItems": [
+          {
+            "item": 18,
+            "processo": "AgInt nos EDcl no AREsp 1.872.598/AM",
+            "categoria": "Votos-Vista",
+            "assunto": "Improbidade Administrativa",
+            "temaRepetitivo": "",
+            "resultadoOficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "FUNDAÇÃO BOAS NOVAS"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+              }
+            ]
+          },
+          {
+            "item": 19,
+            "processo": "AgInt nos EDcl no AREsp 1.872.598/AM",
+            "categoria": "Votos-Vista",
+            "assunto": "Improbidade Administrativa",
+            "temaRepetitivo": "",
+            "resultadoOficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "FUNDAÇÃO BOAS NOVAS"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Improbidade Administrativa",
+        "temaRepetitivo": "",
+        "resultadoOficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "FUNDAÇÃO BOAS NOVAS"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+          }
+        ]
       },
       {
         "index": 11,
@@ -1364,7 +6337,58 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Julgado improcedente o pedido condenatório fundado no art. 10 da Lei 8.429/1992 em relação à entidade conveniada, mantém-se a obrigação de ressarcimento integral do montante transferido (R$ 900.000,00) como decorrência lógica do ilícito reconhecido e determina-se o retorno dos autos ao tribunal de origem para nova dosimetria das demais sanções.",
         "teseType": "final",
-        "resumoDiscussao": "Julgado em conjunto com o item anterior pelo relator Min. Paulo Sérgio Domingues (03:15:58), o agravo interno interposto pela Fundação Boas Novas (item 19 da pauta) teve parcial provimento para julgar improcedente o pedido condenatório por improbidade administrativa com base no art. 10 da LIA, mantendo-se contudo a condenação à devolução integral dos R$ 900.000,00 relativos ao convênio para aquisição dos 15 mil livros desaparecidos e determinando-se o retorno dos autos ao Tribunal de Justiça do Amazonas para realização de nova dosimetria das sanções. Decisão unânime."
+        "resumoDiscussao": "Julgado em conjunto com o item anterior pelo relator Min. Paulo Sérgio Domingues (03:15:58), o agravo interno interposto pela Fundação Boas Novas (item 19 da pauta) teve parcial provimento para julgar improcedente o pedido condenatório por improbidade administrativa com base no art. 10 da LIA, mantendo-se contudo a condenação à devolução integral dos R$ 900.000,00 relativos ao convênio para aquisição dos 15 mil livros desaparecidos e determinando-se o retorno dos autos ao Tribunal de Justiça do Amazonas para realização de nova dosimetria das sanções. Decisão unânime.",
+        "pautaItems": [
+          {
+            "item": 18,
+            "processo": "AgInt nos EDcl no AREsp 1.872.598/AM",
+            "categoria": "Votos-Vista",
+            "assunto": "Improbidade Administrativa",
+            "temaRepetitivo": "",
+            "resultadoOficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "FUNDAÇÃO BOAS NOVAS"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+              }
+            ]
+          },
+          {
+            "item": 19,
+            "processo": "AgInt nos EDcl no AREsp 1.872.598/AM",
+            "categoria": "Votos-Vista",
+            "assunto": "Improbidade Administrativa",
+            "temaRepetitivo": "",
+            "resultadoOficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "FUNDAÇÃO BOAS NOVAS"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Improbidade Administrativa",
+        "temaRepetitivo": "",
+        "resultadoOficial": "DEU PARCIAL PROVIMENTO AO AGRAVO INTERNO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "FUNDAÇÃO BOAS NOVAS"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS"
+          }
+        ]
       },
       {
         "index": 12,
@@ -1400,7 +6424,40 @@ const resumosData = [
         "hermanManifestation": "Concordando com a ponderação levantada pelo Min. Gurgel de Faria e com os precedentes citados pela Min. Regina Helena Costa, propôs (03:24:27 e 03:31:21) o adiamento do julgamento por uma semana para que seja realizado levantamento atualizado junto à Coordenadoria da Corte Especial acerca da orientação daquele colegiado sobre a inaplicabilidade da Súmula 115/STJ nos processos de competência originária e recursal ordinária.",
         "tese": "Debate sobre a inaplicabilidade da Súmula 115/STJ aos processos de competência originária e recursal ordinária do STJ (como o Recurso Ordinário em Mandado de Segurança, em que o Tribunal atua como instância de apelação), à luz dos precedentes da Corte Especial (EDcl no MS 20.824/DF, Rel. Min. Mauro Campbell Marques, 2017) e da Primeira Seção (RCD no MS 23.832/DF, Rel. Min. Assusete Magalhães, 2019), em cotejo com julgados recentes de Turmas que aplicaram o verbete.",
         "teseType": "proposta",
-        "resumoDiscussao": "O relator, Min. Sérgio Kukina (03:18:52), apresentou inicialmente voto negando provimento ao agravo interno com base na Súmula 115/STJ, porque o recorrente, intimado para regularizar a representação processual, juntara nova procuração com data posterior à interposição. O Min. Gurgel de Faria (03:20:01), em destaque, ponderou que a Súmula 115/STJ foi concebida especificamente para a instância especial e questionou a conveniência de aplicá-la em Recurso Ordinário em Mandado de Segurança (RMS), sede de jurisdição recursal ordinária. A Min. Regina Helena Costa (03:22:22 e 03:25:37) destacou que no RMS o STJ funciona como tribunal de apelação e apontou que a Corte Especial, superando antiga orientação em setembro de 2017 (EDcl no MS 20.824/DF, Rel. Min. Mauro Campbell Marques), assentou a inaplicabilidade da Súmula 115/STJ aos feitos de competência originária e recursal ordinária, diretriz reafirmada pela Primeira Seção em março de 2019 (RCD no MS 23.832/DF, Rel. Min. Assusete Magalhães). O Min. Sérgio Kukina (03:26:44) informou que seu gabinete identificara julgados recentes da própria Primeira Turma (maio e junho) e da Segunda Turma aplicando a Súmula 115/STJ em RMS. Diante da necessidade de observar a orientação dos colegiados maiores e uniformizar a atuação da Turma, acolheu-se a sugestão do Min. Herman Benjamin de adiar o julgamento para a sessão da semana seguinte, comprometendo-se o Ministro a requisitar levantamento oficial junto à Coordenadoria da Corte Especial."
+        "resumoDiscussao": "O relator, Min. Sérgio Kukina (03:18:52), apresentou inicialmente voto negando provimento ao agravo interno com base na Súmula 115/STJ, porque o recorrente, intimado para regularizar a representação processual, juntara nova procuração com data posterior à interposição. O Min. Gurgel de Faria (03:20:01), em destaque, ponderou que a Súmula 115/STJ foi concebida especificamente para a instância especial e questionou a conveniência de aplicá-la em Recurso Ordinário em Mandado de Segurança (RMS), sede de jurisdição recursal ordinária. A Min. Regina Helena Costa (03:22:22 e 03:25:37) destacou que no RMS o STJ funciona como tribunal de apelação e apontou que a Corte Especial, superando antiga orientação em setembro de 2017 (EDcl no MS 20.824/DF, Rel. Min. Mauro Campbell Marques), assentou a inaplicabilidade da Súmula 115/STJ aos feitos de competência originária e recursal ordinária, diretriz reafirmada pela Primeira Seção em março de 2019 (RCD no MS 23.832/DF, Rel. Min. Assusete Magalhães). O Min. Sérgio Kukina (03:26:44) informou que seu gabinete identificara julgados recentes da própria Primeira Turma (maio e junho) e da Segunda Turma aplicando a Súmula 115/STJ em RMS. Diante da necessidade de observar a orientação dos colegiados maiores e uniformizar a atuação da Turma, acolheu-se a sugestão do Min. Herman Benjamin de adiar o julgamento para a sessão da semana seguinte, comprometendo-se o Ministro a requisitar levantamento oficial junto à Coordenadoria da Corte Especial.",
+        "pautaItems": [
+          {
+            "item": 20,
+            "processo": "AgInt no RMS 78.564/BA",
+            "categoria": "Destaques",
+            "assunto": "Gratificações e Adicionais",
+            "temaRepetitivo": "",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "CARLOS ALBERTO SANTOS DE JESUS"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "ESTADO DA BAHIA"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Gratificações e Adicionais",
+        "temaRepetitivo": "",
+        "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "CARLOS ALBERTO SANTOS DE JESUS"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "ESTADO DA BAHIA"
+          }
+        ]
       },
       {
         "index": 13,
@@ -1436,7 +6493,48 @@ const resumosData = [
         "hermanManifestation": "Manifestou-se (03:38:49, 03:40:51 e 03:45:05) justificando seu destaque pela dispersão de entendimentos na própria Primeira Turma — mencionando o AgInt no REsp 2.150.640/SC (Rel. Min. Paulo Sérgio Domingues), em que se assentou a possibilidade de alteração dos índices de correção monetária e juros até o trânsito em julgado da execução — e sugeriu avaliar a afetação da matéria à Primeira Seção. Após os esclarecimentos do relator sobre tratar-se de hipótese em que não houve lei nem precedente vinculante superveniente entre o prazo de impugnação e a homologação, manifestou concordância com a tese do relator, apoiando contudo o pedido de vista da Min. Regina Helena Costa para densificar e sistematizar os critérios da Turma.",
         "tese": "Opera-se a preclusão lógica e temporal quanto aos índices de correção monetária e juros de mora (taxa SELIC) aplicados em cumprimento de sentença relativo a honorários advocatícios quando o ente público executado, devidamente intimado da memória de cálculos apresentada pelo exequente, deixa transcorrer in albis o prazo de impugnação e somente se insurge após a decisão judicial de homologação da conta, sem que tenha havido superveniência de alteração legislativa ou de precedente vinculante do STF (distinção em relação aos Temas 810, 1170 e 1361 do STF).",
         "teseType": "proposta",
-        "resumoDiscussao": "O relator, Min. Gurgel de Faria (03:32:41), expôs que o Estado de Sergipe permaneceu inerte no prazo para impugnar a memória de cálculos de honorários advocatícios apresentada pelos exequentes e somente recorreu após a homologação judicial da conta, pretendendo substituir a taxa SELIC por outros índices. Votou pelo desprovimento do agravo interno por reconhecer a preclusão, enfatizando a distinção fundamental entre os casos em que sobrevém lei nova ou precedente vinculante do STF antes do trânsito em julgado da execução (Temas 1170 e 1361/STF — matéria que o relator informou estar pautando em recurso repetitivo para a Primeira Seção em novembro) e o caso concreto, no qual não houve qualquer modificação normativa ou jurisprudencial superveniente, mas simples perda de prazo processual pela Fazenda estadual. A Min. Regina Helena Costa (03:37:44) e o Min. Herman Benjamin (03:38:49) ressaltaram a existência de julgados dissonantes nas Turmas de Direito Público afastando a preclusão sobre consectários legais até o trânsito em julgado da execução (como o AgInt no REsp 2.150.640/SC). O Min. Paulo Sérgio Domingues (03:42:41) observou que na prática têm surgido pedidos de readequação até mesmo após o pagamento quando ainda não formalizado o trânsito em julgado. Para permitir a sistematização criteriosa das diferentes variáveis na Primeira Turma, a Min. Regina Helena Costa pediu vista antecipada dos autos (03:45:06 e 03:46:40), aguardando os demais Ministros."
+        "resumoDiscussao": "O relator, Min. Gurgel de Faria (03:32:41), expôs que o Estado de Sergipe permaneceu inerte no prazo para impugnar a memória de cálculos de honorários advocatícios apresentada pelos exequentes e somente recorreu após a homologação judicial da conta, pretendendo substituir a taxa SELIC por outros índices. Votou pelo desprovimento do agravo interno por reconhecer a preclusão, enfatizando a distinção fundamental entre os casos em que sobrevém lei nova ou precedente vinculante do STF antes do trânsito em julgado da execução (Temas 1170 e 1361/STF — matéria que o relator informou estar pautando em recurso repetitivo para a Primeira Seção em novembro) e o caso concreto, no qual não houve qualquer modificação normativa ou jurisprudencial superveniente, mas simples perda de prazo processual pela Fazenda estadual. A Min. Regina Helena Costa (03:37:44) e o Min. Herman Benjamin (03:38:49) ressaltaram a existência de julgados dissonantes nas Turmas de Direito Público afastando a preclusão sobre consectários legais até o trânsito em julgado da execução (como o AgInt no REsp 2.150.640/SC). O Min. Paulo Sérgio Domingues (03:42:41) observou que na prática têm surgido pedidos de readequação até mesmo após o pagamento quando ainda não formalizado o trânsito em julgado. Para permitir a sistematização criteriosa das diferentes variáveis na Primeira Turma, a Min. Regina Helena Costa pediu vista antecipada dos autos (03:45:06 e 03:46:40), aguardando os demais Ministros.",
+        "pautaItems": [
+          {
+            "item": 21,
+            "processo": "AgInt no AREsp 3.153.809/SE",
+            "categoria": "Destaques",
+            "assunto": "Lançamento",
+            "temaRepetitivo": "",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "ESTADO DE SERGIPE"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "MAULER SOCIEDADE DE ADVOGADOS"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "REBOUCAS CAMPOS E GALDINO ADVOCACIA E CONSULTORIA"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Lançamento",
+        "temaRepetitivo": "",
+        "resultadoOficial": "PEDIDO DE VISTA",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "ESTADO DE SERGIPE"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "MAULER SOCIEDADE DE ADVOGADOS"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "REBOUCAS CAMPOS E GALDINO ADVOCACIA E CONSULTORIA"
+          }
+        ]
       },
       {
         "index": 14,
@@ -1472,7 +6570,40 @@ const resumosData = [
         "hermanManifestation": "Tendo destacado o feito no plenário virtual, pediu vista dos autos (03:52:07) para examinar em profundidade a moldura do acórdão recorrido e os critérios de distinção subjetiva das sanções aduaneiras, ponderando que a descrição das operações de importação no acórdão local suscitava dúvidas quanto a admitir uma espécie de \"boa-fé mitigada\" do importador ostensivo para eximi-lo da multa de 100%.",
         "tese": "Na infração aduaneira de interposição fraudulenta de terceiros (efetiva ou presumida), a pena de perdimento da mercadoria e, na impossibilidade de sua aplicação, a multa substitutiva de 100% do valor aduaneiro prevista no art. 23, § 3º, do Decreto-Lei 1.455/1976 dirigem-se ao importador oculto (real adquirente das mercadorias), ao passo que o importador ostensivo que cede seu nome e estrutura documental para acobertar operações de terceiros sujeita-se especificamente à multa de 10% sobre o valor da operação prevista no art. 33 da Lei 11.488/2007.",
         "teseType": "proposta",
-        "resumoDiscussao": "O relator, Min. Paulo Sérgio Domingues (03:48:06), votou pelo desprovimento do agravo interno da Fazenda Nacional, mantendo decisão que conhecera do recurso especial da empresa Global Marine Importação e Exportação Ltda. (por entender tratar-se de questão estritamente jurídica) e, adotando jurisprudência da Segunda Turma sobre a coerência do sistema sancionatório aduaneiro, afastara a cobrança da multa de 100% do art. 23, § 3º, do Decreto-Lei 1.455/1976 contra a importadora ostensiva, determinando o retorno dos autos à origem para exame do cabimento da multa de 10% por cessão de nome (art. 33 da Lei 11.488/2007). O Min. Gurgel de Faria (03:50:42) esclareceu que destacara o processo do plenário virtual por uma razão metodológica institucional: quando a matéria conta apenas com precedentes da Segunda Turma e ainda não possui julgado colegiado da Primeira Turma, convém pautar diretamente o próprio recurso especial no colegiado presencial em vez de decidi-lo monocraticamente. Na sequência, o Min. Herman Benjamin (03:52:07) pediu vista dos autos para analisar os critérios de aplicação das normas sancionatórias à vista das circunstâncias descritas no acórdão de origem."
+        "resumoDiscussao": "O relator, Min. Paulo Sérgio Domingues (03:48:06), votou pelo desprovimento do agravo interno da Fazenda Nacional, mantendo decisão que conhecera do recurso especial da empresa Global Marine Importação e Exportação Ltda. (por entender tratar-se de questão estritamente jurídica) e, adotando jurisprudência da Segunda Turma sobre a coerência do sistema sancionatório aduaneiro, afastara a cobrança da multa de 100% do art. 23, § 3º, do Decreto-Lei 1.455/1976 contra a importadora ostensiva, determinando o retorno dos autos à origem para exame do cabimento da multa de 10% por cessão de nome (art. 33 da Lei 11.488/2007). O Min. Gurgel de Faria (03:50:42) esclareceu que destacara o processo do plenário virtual por uma razão metodológica institucional: quando a matéria conta apenas com precedentes da Segunda Turma e ainda não possui julgado colegiado da Primeira Turma, convém pautar diretamente o próprio recurso especial no colegiado presencial em vez de decidi-lo monocraticamente. Na sequência, o Min. Herman Benjamin (03:52:07) pediu vista dos autos para analisar os critérios de aplicação das normas sancionatórias à vista das circunstâncias descritas no acórdão de origem.",
+        "pautaItems": [
+          {
+            "item": 24,
+            "processo": "AgInt no REsp 2.202.275/AL",
+            "categoria": "Destaques",
+            "assunto": "Dívida Ativa (Execução Fiscal)",
+            "temaRepetitivo": "",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "FAZENDA NACIONAL"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "GLOBAL MARINE IMPORTACAO E EXPORTACAO LTDA"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Dívida Ativa (Execução Fiscal)",
+        "temaRepetitivo": "",
+        "resultadoOficial": "PEDIDO DE VISTA",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "FAZENDA NACIONAL"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "GLOBAL MARINE IMPORTACAO E EXPORTACAO LTDA"
+          }
+        ]
       },
       {
         "index": 15,
@@ -1508,12 +6639,45 @@ const resumosData = [
         "hermanManifestation": "Após o pedido de vista do Min. Sérgio Kukina, interveio (03:57:21) para destacar que, nas relações jurídicas de massa em que uma rodovia pedagiada é compartilhada por milhares de usuários, a razão jurídica e econômica para não caracterizar o sinistro como fortuito externo reside no fato de a concessionária ser o único agente com capacidade de contratar seguro e diluir o custo de maneira pulverizada entre todos os usuários do serviço.",
         "tese": "O ingresso abrupto de animal silvestre (raposa) sem proprietário ou possuidor identificável na pista de rolamento de rodovia concedida distingue-se das hipóteses de invasão por animais domésticos ou de criação (Tema 1122/STJ) e configura caso fortuito externo apto a romper o nexo de causalidade e afastar a responsabilidade civil objetiva da concessionária pelos danos sofridos pelo condutor, incidindo ainda na espécie os óbices das Súmulas 7 e 284 do STJ.",
         "teseType": "proposta",
-        "resumoDiscussao": "O relator, Min. Paulo Sérgio Domingues (03:54:21), negou provimento ao agravo interno interposto por Dirceu de Franca em face de Renovias Concessionária S.A., distinguindo os acidentes provocados por animais domésticos ou pertencentes a pecuaristas lindeiros (em que há dever de contenção e fiscalização pela concessionária) daqueles decorrentes da travessia repentina de animal da fauna silvestre (no caso, uma raposa), qualificando o evento como caso fortuito externo excludente do nexo causal, além de aplicar as Súmulas 7 e 284 do STJ. O Presidente Min. Sérgio Kukina (03:56:02), autor do destaque, pediu vista dos autos para cotejar a hipótese com precedente recente de sua relatoria em ação civil pública sobre medidas mitigatórias contra atropelamento de fauna silvestre em rodovias. O relator ponderou (03:56:22) que naquele precedente tratava-se de obrigação administrativa e ambiental de implantar estruturas redutoras de atropelamento de fauna, e não de responsabilidade civil objetiva individual perante o motorista. O Min. Herman Benjamin (03:57:21) acrescentou a reflexão sobre a internalização securitária e a pulverização de riscos nas concessões rodoviárias, aguardando os demais Ministros o voto-vista do Min. Sérgio Kukina."
+        "resumoDiscussao": "O relator, Min. Paulo Sérgio Domingues (03:54:21), negou provimento ao agravo interno interposto por Dirceu de Franca em face de Renovias Concessionária S.A., distinguindo os acidentes provocados por animais domésticos ou pertencentes a pecuaristas lindeiros (em que há dever de contenção e fiscalização pela concessionária) daqueles decorrentes da travessia repentina de animal da fauna silvestre (no caso, uma raposa), qualificando o evento como caso fortuito externo excludente do nexo causal, além de aplicar as Súmulas 7 e 284 do STJ. O Presidente Min. Sérgio Kukina (03:56:02), autor do destaque, pediu vista dos autos para cotejar a hipótese com precedente recente de sua relatoria em ação civil pública sobre medidas mitigatórias contra atropelamento de fauna silvestre em rodovias. O relator ponderou (03:56:22) que naquele precedente tratava-se de obrigação administrativa e ambiental de implantar estruturas redutoras de atropelamento de fauna, e não de responsabilidade civil objetiva individual perante o motorista. O Min. Herman Benjamin (03:57:21) acrescentou a reflexão sobre a internalização securitária e a pulverização de riscos nas concessões rodoviárias, aguardando os demais Ministros o voto-vista do Min. Sérgio Kukina.",
+        "pautaItems": [
+          {
+            "item": 25,
+            "processo": "AgInt no REsp 2.208.220/SP",
+            "categoria": "Destaques",
+            "assunto": "Acidente de Trânsito",
+            "temaRepetitivo": "",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "DIRCEU DE FRANCA"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "RENOVIAS CONCESSIONARIA SA"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Acidente de Trânsito",
+        "temaRepetitivo": "",
+        "resultadoOficial": "PEDIDO DE VISTA",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "DIRCEU DE FRANCA"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "RENOVIAS CONCESSIONARIA SA"
+          }
+        ]
       },
       {
         "index": 16,
-        "heading": "REsp 2.293.002/MG - Ação civil pública para proteção de imóvel histórico (\"Hotel Regina\"): eficácia protetiva autônoma do inventário cultural independentemente de tombamento",
-        "processNumber": "REsp 2.293.002/MG",
+        "heading": "REsp 2.293.252/MG - Ação civil pública para proteção de imóvel histórico (\"Hotel Regina\"): eficácia protetiva autônoma do inventário cultural independentemente de tombamento",
+        "processNumber": "REsp 2.293.252/MG",
         "theme": "Ação civil pública para proteção de imóvel histórico (\"Hotel Regina\"): eficácia protetiva autônoma do inventário cultural independentemente de tombamento",
         "timestamp": "03:59:31",
         "seconds": 14371,
@@ -1544,7 +6708,88 @@ const resumosData = [
         "hermanManifestation": "Ao acompanhar o relator, enalteceu a importância do julgado (04:02:39) para a evolução do Direito do Patrimônio Cultural, ressaltando que o tombamento representa apenas o ato final do procedimento protetivo e que, sem o reconhecimento da eficácia jurídica imediata e autônoma (per se) de outros instrumentos constitucionais como o inventário, os bens culturais correriam o risco de destruição antes do tombamento; sugeriu o envio do precedente à Secretaria de Comunicação do STJ para ampla divulgação institucional.",
         "tese": "A tutela do patrimônio histórico-cultural por meio de ação civil pública independe de prévio ato de tombamento ou de regulamentação municipal específica quando o imóvel teve seu valor histórico-cultural formalmente reconhecido pelo Poder Público mediante procedimento de inventário (art. 216, § 1º, da CF/1988), instrumento dotado de eficácia jurídica protetiva autônoma que legitima a imposição judicial de obrigações de conservação e restauração.",
         "teseType": "final",
-        "resumoDiscussao": "O relator, Min. Paulo Sérgio Domingues (04:00:07), destacou o feito para julgamento colegiado por versar sobre a proteção do \"Hotel Regina\", imóvel cujo valor histórico-cultural foi reconhecido pelo Poder Público em procedimento de inventário realizado em 1988. Na origem, a sentença julgara procedente a ação civil pública do Ministério Público do Estado de Minas Gerais para impor obrigações de conservação e restauração aos proprietários, mas o TJMG reformara a decisão por entender indispensável o tombamento ou regulamentação local específica. Amparado também em precedente do STF e da própria Corte, o relator deu provimento ao recurso especial para afirmar a plena legitimidade e eficácia do inventário como instrumento autônomo de proteção cultural, restabelecendo a tutela protetiva da sentença e determinando o retorno dos autos ao TJMG para que, em respeito ao duplo grau de jurisdição, examine as demais matérias suscitadas na apelação que haviam ficado prejudicadas (redução de multas, ampliação de prazos, alegação de nulidade do laudo pericial, incompetência e litisconsórcio passivo necessário). Após a intervenção do Min. Herman Benjamin (04:02:39) propondo a divulgação institucional do julgado, a Turma deu provimento ao recurso especial por unanimidade."
+        "resumoDiscussao": "O relator, Min. Paulo Sérgio Domingues (04:00:07), destacou o feito para julgamento colegiado por versar sobre a proteção do \"Hotel Regina\", imóvel cujo valor histórico-cultural foi reconhecido pelo Poder Público em procedimento de inventário realizado em 1988. Na origem, a sentença julgara procedente a ação civil pública do Ministério Público do Estado de Minas Gerais para impor obrigações de conservação e restauração aos proprietários, mas o TJMG reformara a decisão por entender indispensável o tombamento ou regulamentação local específica. Amparado também em precedente do STF e da própria Corte, o relator deu provimento ao recurso especial para afirmar a plena legitimidade e eficácia do inventário como instrumento autônomo de proteção cultural, restabelecendo a tutela protetiva da sentença e determinando o retorno dos autos ao TJMG para que, em respeito ao duplo grau de jurisdição, examine as demais matérias suscitadas na apelação que haviam ficado prejudicadas (redução de multas, ampliação de prazos, alegação de nulidade do laudo pericial, incompetência e litisconsórcio passivo necessário). Após a intervenção do Min. Herman Benjamin (04:02:39) propondo a divulgação institucional do julgado, a Turma deu provimento ao recurso especial por unanimidade.",
+        "pautaItems": [
+          {
+            "item": 26,
+            "processo": "REsp 2.293.252/MG",
+            "categoria": "Destaques",
+            "assunto": "Patrimônio Cultural",
+            "temaRepetitivo": "",
+            "resultadoOficial": "DEU PROVIMENTO",
+            "partes": [
+              {
+                "papel": "Recorrente",
+                "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "MAURO HUMBERTO ELIAS"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "LAMIA ELIAS JUNQUEIRA"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "EDMA ELIAS"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "LEDA ELIAS VILELA REZENDE"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "ELIAS JOAO NETO"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "MARCIO ELIAS"
+              },
+              {
+                "papel": "Recorrido",
+                "nome": "MARCOS ELIAS"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Patrimônio Cultural",
+        "temaRepetitivo": "",
+        "resultadoOficial": "DEU PROVIMENTO",
+        "partes": [
+          {
+            "papel": "Recorrente",
+            "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "MAURO HUMBERTO ELIAS"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "LAMIA ELIAS JUNQUEIRA"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "EDMA ELIAS"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "LEDA ELIAS VILELA REZENDE"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "ELIAS JOAO NETO"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "MARCIO ELIAS"
+          },
+          {
+            "papel": "Recorrido",
+            "nome": "MARCOS ELIAS"
+          }
+        ]
       },
       {
         "index": 17,
@@ -1580,13 +6825,46 @@ const resumosData = [
         "hermanManifestation": "Abriu divergência (04:09:52, 04:10:43, 04:12:06, 04:20:05, 04:31:54, 04:35:19 e 04:39:11) votando pelo provimento do agravo interno do Ministério Público de Mato Grosso para afastar os óbices das Súmulas 5 e 7 do STJ e determinar o conhecimento do recurso especial para futuro exame do mérito pelo colegiado. Argumentou que a orientação histórica da Primeira Seção é a de que as cláusulas de Termo de Ajustamento de Conduta (TAC) devem ser cumpridas salvo vício de consentimento (como simulação), e que no caso concreto todos os elementos fáticos estão expressamente consignados na sentença e no acórdão recorrido: (i) a existência do TAC firmado no Município de Barra do Garças/MT para instalação de prontuário eletrônico de pacientes em 120 dias; (ii) a cláusula 7ª prevendo multa cominatória de R$ 20.000,00 por cláusula descumprida com expressa responsabilização pessoal e solidária do Chefe do Poder Executivo e da Secretária Municipal de Saúde; e (iii) a subscrição voluntária pelo então prefeito. Ressaltou que o TJMT proclamou em tese a impossibilidade absoluta de responsabilização pessoal de ex-prefeito por multa de TAC sob o argumento de ter atuado como gestor público, de modo que a controvérsia sobre a validade e eficácia jurídica dessa cláusula é estritamente de direito, não podendo as Súmulas 5 e 7 do STJ servir de barreira peremptória para impedir que o Tribunal decida questão jurídica de tamanha relevância.",
         "tese": "Voto do Relator: A revisão da conclusão do tribunal de origem que, interpretando o Termo de Ajustamento de Conduta (TAC) celebrado com o Município, reputou as obrigações imputadas exclusivamente ao ente público e acolheu a preliminar de ilegitimidade passiva do ex-prefeito subscritor na execução da multa cominatória demanda interpretação de cláusulas e reexame fático-probatório, incidindo os óbices das Súmulas 5 e 7 do STJ. Voto Divergente (Min. Herman Benjamin): Estando expressamente consignados na sentença e no acórdão recorrido a existência do TAC, o teor literal da cláusula que prevê a responsabilidade pessoal e solidária do Chefe do Executivo pelo pagamento da multa cominatória e a subscrição pelo gestor público, constitui questão estritamente jurídica — imune aos óbices das Súmulas 5 e 7 do STJ — definir a validade e a eficácia da referida cláusula e a legitimidade passiva do agente público subscritor para responder à execução da multa.",
         "teseType": "proposta",
-        "resumoDiscussao": "Trata-se de agravo interno interposto pelo Ministério Público do Estado de Mato Grosso contra decisão que não conheceu do recurso especial (pelas Súmulas 5 e 7 do STJ) em embargos à execução opostos por Roberto Ângelo de Farias, ex-Prefeito de Barra do Garças/MT, nos quais o TJMT reformara a sentença para acolher a ilegitimidade passiva do ex-gestor para responder pessoalmente pela multa cominatória de R$ 20.000,00 prevista na cláusula 7ª de TAC destinado à implantação do prontuário eletrônico de pacientes da rede municipal de saúde. O relator, Min. Paulo Sérgio Domingues (04:05:28), manteve a aplicação das Súmulas 5 e 7 do STJ — invocando também decisão monocrática do Min. Gurgel de Faria, acórdão do Min. Francisco Falcão e decisão do STF no ARE 1.544.905/MT (originado do AREsp 2.614.637/MT, Rel. Min. Maria Thereza de Assis Moura) — por entender que o TJMT interpretou o TAC ao afirmar que as obrigações eram dirigidas ao ente municipal e que eventual discussão sobre o cumprimento das metas exigiria exame de fatos. A Min. Regina Helena Costa (04:07:04, 04:13:05, 04:17:45 e 04:40:21), autora do destaque, citou o REsp 1.957.741/MG (Segunda Turma, Rel. Min. Herman Benjamin), em que o STJ conheceu da matéria e reconheceu a legitimidade do ex-prefeito para responder por multa prevista em TAC, sustentando que o texto da cláusula 7ª estava integralmente transcrito na sentença (fl. 108, lida em sessão pelo Min. Sérgio Kukina às 04:15:31) e que a admissibilidade jurídica de cláusula de responsabilidade pessoal do gestor em TAC prescinde de reexame de provas ou de cláusulas, propondo cindir o julgamento para primeiro afastar as Súmulas 5 e 7 (dando provimento ao agravo interno para conhecer do REsp) e oportunamente apreciar o mérito. Após amplo debate, o Min. Herman Benjamin (04:39:11) votou dando provimento ao agravo interno para afastar os óbices sumulares, no que foi acompanhado pela Min. Regina Helena Costa (04:40:21), enquanto o Min. Sérgio Kukina (04:40:06) acompanhou o relator pelo desprovimento. Diante do empate de 2 a 2, o Min. Gurgel de Faria pediu vista dos autos (04:41:53)."
+        "resumoDiscussao": "Trata-se de agravo interno interposto pelo Ministério Público do Estado de Mato Grosso contra decisão que não conheceu do recurso especial (pelas Súmulas 5 e 7 do STJ) em embargos à execução opostos por Roberto Ângelo de Farias, ex-Prefeito de Barra do Garças/MT, nos quais o TJMT reformara a sentença para acolher a ilegitimidade passiva do ex-gestor para responder pessoalmente pela multa cominatória de R$ 20.000,00 prevista na cláusula 7ª de TAC destinado à implantação do prontuário eletrônico de pacientes da rede municipal de saúde. O relator, Min. Paulo Sérgio Domingues (04:05:28), manteve a aplicação das Súmulas 5 e 7 do STJ — invocando também decisão monocrática do Min. Gurgel de Faria, acórdão do Min. Francisco Falcão e decisão do STF no ARE 1.544.905/MT (originado do AREsp 2.614.637/MT, Rel. Min. Maria Thereza de Assis Moura) — por entender que o TJMT interpretou o TAC ao afirmar que as obrigações eram dirigidas ao ente municipal e que eventual discussão sobre o cumprimento das metas exigiria exame de fatos. A Min. Regina Helena Costa (04:07:04, 04:13:05, 04:17:45 e 04:40:21), autora do destaque, citou o REsp 1.957.741/MG (Segunda Turma, Rel. Min. Herman Benjamin), em que o STJ conheceu da matéria e reconheceu a legitimidade do ex-prefeito para responder por multa prevista em TAC, sustentando que o texto da cláusula 7ª estava integralmente transcrito na sentença (fl. 108, lida em sessão pelo Min. Sérgio Kukina às 04:15:31) e que a admissibilidade jurídica de cláusula de responsabilidade pessoal do gestor em TAC prescinde de reexame de provas ou de cláusulas, propondo cindir o julgamento para primeiro afastar as Súmulas 5 e 7 (dando provimento ao agravo interno para conhecer do REsp) e oportunamente apreciar o mérito. Após amplo debate, o Min. Herman Benjamin (04:39:11) votou dando provimento ao agravo interno para afastar os óbices sumulares, no que foi acompanhado pela Min. Regina Helena Costa (04:40:21), enquanto o Min. Sérgio Kukina (04:40:06) acompanhou o relator pelo desprovimento. Diante do empate de 2 a 2, o Min. Gurgel de Faria pediu vista dos autos (04:41:53).",
+        "pautaItems": [
+          {
+            "item": 27,
+            "processo": "AgInt no AREsp 2.829.339/MT",
+            "categoria": "Destaques",
+            "assunto": "Multas e demais Sanções",
+            "temaRepetitivo": "",
+            "resultadoOficial": "PEDIDO DE VISTA",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "ROBERTO ANGELO DE FARIAS"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Multas e demais Sanções",
+        "temaRepetitivo": "",
+        "resultadoOficial": "PEDIDO DE VISTA",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "ROBERTO ANGELO DE FARIAS"
+          }
+        ]
       },
       {
         "index": 18,
-        "heading": "[Processo não identificado nominalmente — Último item da pauta do Min. Paulo Sérgio Domingues] - Adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado",
-        "processNumber": "[Processo não identificado nominalmente",
-        "theme": "Último item da pauta do Min. Paulo Sérgio Domingues] - Adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado",
+        "heading": "AgInt no AREsp 3.095.458/SP (Item 28 da pauta) - Pagamento atrasado / correção monetária: adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado",
+        "processNumber": "AgInt no AREsp 3.095.458/SP (Item 28 da pauta)",
+        "theme": "Pagamento atrasado / correção monetária: adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado",
         "timestamp": "04:44:05",
         "seconds": 17045,
         "videoUrl": "https://www.youtube.com/watch?v=Ikn2-1h60JU&t=17045s",
@@ -1616,7 +6894,56 @@ const resumosData = [
         "hermanManifestation": "",
         "tese": "Tratando-se de processo com questão jurídica inédita na Primeira Turma e sem advogado aguardando acompanhamento em sessão, mostra-se recomendável o adiamento do julgamento por uma sessão para propiciar a deliberação com a presença integral dos cinco Ministros integrantes do colegiado.",
         "teseType": "proposta",
-        "resumoDiscussao": "Ao ser anunciado o último item remanescente da relação de destaques de relatoria do Min. Paulo Sérgio Domingues (04:44:05), o Min. Gurgel de Faria sugeriu o adiamento do feito para a sessão da semana seguinte, ressaltando que a matéria versada era inédita no colegiado, não havia inscrição de advogado para acompanhamento presencial ou por vídeo e o Min. Herman Benjamin precisara ausentar-se ao término da sessão, sendo relevante a participação de todos os integrantes da Primeira Turma pelo menos no exame da preliminar sumular. O relator Min. Paulo Sérgio Domingues, o Presidente Min. Sérgio Kukina e a Min. Regina Helena Costa aderiram à proposta, ficando o julgamento adiado para a próxima sessão."
+        "resumoDiscussao": "Ao ser anunciado o último item remanescente da relação de destaques de relatoria do Min. Paulo Sérgio Domingues (Item 28 da pauta — AgInt no AREsp 3.095.458/SP, em que figuram como agravantes João Carlos de Novaes e outros e como agravada a Caixa Econômica Federal, 04:44:05), o Min. Gurgel de Faria sugeriu o adiamento do feito para a sessão da semana seguinte, ressaltando que a matéria versada era inédita no colegiado, não havia inscrição de advogado para acompanhamento presencial ou por vídeo e o Min. Herman Benjamin precisara ausentar-se ao término da sessão, sendo relevante a participação de todos os integrantes da Primeira Turma pelo menos no exame da preliminar sumular. O relator Min. Paulo Sérgio Domingues, o Presidente Min. Sérgio Kukina e a Min. Regina Helena Costa aderiram à proposta, ficando o julgamento adiado para a próxima sessão.",
+        "pautaItems": [
+          {
+            "item": 28,
+            "processo": "AgInt no AREsp 3.095.458/SP",
+            "categoria": "Destaques",
+            "assunto": "Pagamento Atrasado / Correção Monetária",
+            "temaRepetitivo": "",
+            "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+            "partes": [
+              {
+                "papel": "Agravante",
+                "nome": "JOAO CARLOS DE NOVAES"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "MARIA ANILDA DE NOVAES"
+              },
+              {
+                "papel": "Agravante",
+                "nome": "CARLOS EDUARDO DE NOVAES"
+              },
+              {
+                "papel": "Agravado",
+                "nome": "CAIXA ECONÔMICA FEDERAL"
+              }
+            ]
+          }
+        ],
+        "assuntoOficial": "Pagamento Atrasado / Correção Monetária",
+        "temaRepetitivo": "",
+        "resultadoOficial": "ADIAMENTO DE JULGAMENTO",
+        "partes": [
+          {
+            "papel": "Agravante",
+            "nome": "JOAO CARLOS DE NOVAES"
+          },
+          {
+            "papel": "Agravante",
+            "nome": "MARIA ANILDA DE NOVAES"
+          },
+          {
+            "papel": "Agravante",
+            "nome": "CARLOS EDUARDO DE NOVAES"
+          },
+          {
+            "papel": "Agravado",
+            "nome": "CAIXA ECONÔMICA FEDERAL"
+          }
+        ]
       }
     ],
     "theses": [
@@ -1818,8 +7145,8 @@ const resumosData = [
       {
         "text": "A tutela do patrimônio histórico-cultural por meio de ação civil pública independe de prévio ato de tombamento ou de regulamentação municipal específica quando o imóvel teve seu valor histórico-cultural formalmente reconhecido pelo Poder Público mediante procedimento de inventário (art. 216, § 1º, da CF/1988), instrumento dotado de eficácia jurídica protetiva autônoma que legitima a imposição judicial de obrigações de conservação e restauração.",
         "type": "final",
-        "processTitle": "REsp 2.293.002/MG - Ação civil pública para proteção de imóvel histórico (\"Hotel Regina\"): eficácia protetiva autônoma do inventário cultural independentemente de tombamento",
-        "processNumber": "REsp 2.293.002/MG",
+        "processTitle": "REsp 2.293.252/MG - Ação civil pública para proteção de imóvel histórico (\"Hotel Regina\"): eficácia protetiva autônoma do inventário cultural independentemente de tombamento",
+        "processNumber": "REsp 2.293.252/MG",
         "processIndex": 16,
         "materiaId": 12,
         "materiaCode": "12. Direito Ambiental Urbanístico",
@@ -1844,8 +7171,8 @@ const resumosData = [
       {
         "text": "Tratando-se de processo com questão jurídica inédita na Primeira Turma e sem advogado aguardando acompanhamento em sessão, mostra-se recomendável o adiamento do julgamento por uma sessão para propiciar a deliberação com a presença integral dos cinco Ministros integrantes do colegiado.",
         "type": "proposta",
-        "processTitle": "[Processo não identificado nominalmente — Último item da pauta do Min. Paulo Sérgio Domingues] - Adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado",
-        "processNumber": "[Processo não identificado nominalmente",
+        "processTitle": "AgInt no AREsp 3.095.458/SP (Item 28 da pauta) - Pagamento atrasado / correção monetária: adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado",
+        "processNumber": "AgInt no AREsp 3.095.458/SP (Item 28 da pauta)",
         "processIndex": 18,
         "materiaId": 5,
         "materiaCode": "5. Atos Administrativos",
@@ -1925,7 +7252,7 @@ const resumosData = [
         "count": 1
       }
     ],
-    "content": "# Resumo — Primeira Turma — 13/10/2026\n\n**Vídeo:** [Primeira Turma - STJ -  13/10/2026](https://www.youtube.com/watch?v=Ikn2-1h60JU)\n**Data:** 13/10/2026\n**Duração:** 4h 46min\n**Órgão:** Primeira Turma\n\n---\n\n## Atuação e Manifestações do Min. Herman Benjamin\n\n- **REsp 2.093.860/RS — Questão de Ordem em Mandado de Segurança Preventivo sobre Operações de Hedge / NDF e Prova Pré-Constituída (Início: 01:30:48):** Após haver concordado no início da sessão (00:34:03) com a postergação da apreciação para depois das sustentações orais, o Min. Herman Benjamin, em sede de vista coletiva, suscitou questão de ordem (01:31:52) fundamentada nos arts. 10 do CPC e 255, § 5º, do RISTJ (aplicação do direito à espécie após superado o conhecimento pelo prequestionamento do mérito tributário). Destacou que a impetrante ajuizou mandado de segurança preventivo visando afastar a incidência de IRPJ e CSLL sobre perdas em operações de hedge na modalidade NDF e compensar valores recolhidos a maior, instruindo a inicial exclusivamente com o contrato social e uma planilha unilateral subscrita por contadora, sem qualquer contrato de derivativos, comprovação de vinculação a contratos de exportação ou demonstração documental de ganhos e perdas. Propôs a intimação da recorrente para se manifestar sobre o cabimento do mandado de segurança desacompanhado de prova pré-constituída do direito líquido e certo. Rejeitada a questão de ordem pela maioria do colegiado sob o fundamento de exigência de prequestionamento inclusive para matérias de ordem pública em recurso especial, teve seu pedido de vista prorrogado para exame do mérito e da retificação parcial de voto disponibilizada pelo relator.\n- **REsp 2.256.188/SP — Voto-Vista em Ação de Improbidade Administrativa: Dosimetria, Art. 12, § 5º, c/c Art. 17-C, IV, da LIA e Menor Ofensa aos Bens Jurídicos (Início: 01:50:41):** Em voto-vista divergente da relatora Min. Regina Helena Costa, o Min. Herman Benjamin (01:52:04) votou preliminarmente pelo não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, sustentando que o Tribunal de Justiça de São Paulo já havia sopesado a reduzida expressão econômica do bem apropriado (motor de Kombi da frota municipal avaliado originalmente em R$ 650,00, atualizado em cerca de R$ 2.183,00) e concluído que a elevada reprovabilidade concreta da conduta impunha a manutenção da suspensão dos direitos políticos por 8 anos, não sendo possível presumir ausência de reflexos amplos na administração municipal a partir do silêncio do acórdão local. Vencido no conhecimento, manifestou-se no mérito (02:15:08, 02:24:08 e 02:26:34) pelo desprovimento do recurso especial, defendendo a necessidade de interpretação sistemática e conjugada do art. 12, § 5º, com os critérios gerais do art. 17-C, IV, alíneas *a* a *g*, da Lei 8.429/1992 (na redação da Lei 14.230/2021). Ressaltou que os bens jurídicos tutelados pela Lei de Improbidade Administrativa não se resumem ao valor financeiro imediato — exemplificando com casos de cobrança de propina de pequeno valor por agentes policiais em rodovias — e enfatizou a gravidade do *modus operandi* descrito no acórdão recorrido, consistente na retirada do motor da Kombi oficial, remessa à retífica e instalação em veículo artesanal do tipo \"gaiola\" por intermédio do cunhado do então prefeito (chefe de manutenção da frota), com posterior aquisição formal do veículo pelo próprio chefe do Executivo municipal junto à irmã viúva.\n- **AgInt no RMS 78.564/BA — Aplicabilidade da Súmula 115/STJ em Recurso Ordinário em Mandado de Segurança (Início: 03:18:52):** Diante do debate suscitado pelo Min. Gurgel de Faria e pela Min. Regina Helena Costa acerca da incompatibilidade da aplicação da Súmula 115/STJ aos processos de competência originária e recursal ordinária (como o RMS, em que o STJ atua como instância de apelação), o Min. Herman Benjamin interveio (03:24:27 e 03:31:21) concordando com a distinção técnica apontada e propôs o adiamento do feito por uma semana, comprometendo-se a solicitar à Coordenadoria da Corte Especial levantamento atualizado da jurisprudência daquele colegiado sobre o tema para deliberação segura e uniforme da Primeira Turma.\n- **AgInt no AREsp 3.153.809/SE — Preclusão sobre Índices de Correção Monetária e Juros após Homologação de Cálculos em Cumprimento de Sentença contra a Fazenda Pública (Início: 03:31:53):** Tendo formulado destaque no plenário virtual, o Min. Herman Benjamin manifestou-se (03:38:49, 03:40:51 e 03:45:05) apontando a dispersão de julgados colegiados e monocráticos sobre a matéria — citando o AgInt no REsp 2.150.640/SC, em que a Primeira Turma admitiu a adequação de índices até o trânsito em julgado da execução — e sugeriu avaliar a conveniência de afetação do tema à Primeira Seção para fixação de balizas objetivas. Após os esclarecimentos do relator Min. Gurgel de Faria quanto à distinção entre as hipóteses de superveniência de lei ou precedente vinculante do STF (Temas 810, 1170 e 1361) e a mera inércia da Fazenda Pública em impugnar oportunamente a conta, declarou-se de acordo no mérito com o critério distintivo do relator, anuindo contudo ao pedido de vista formulado pela Min. Regina Helena Costa para sistematização das variáveis.\n- **AgInt no REsp 2.202.275/AL — Interposição Fraudulenta na Importação e Multas dos Arts. 23, § 3º, do DL 1.455/1976 e 33 da Lei 11.488/2007 (Início: 03:47:15):** Autor de destaque no sistema, o Min. Herman Benjamin pediu vista dos autos (03:52:07) após o voto do relator Min. Paulo Sérgio Domingues que restringia ao importador oculto a multa de 100% substitutiva do perdimento e reservava ao importador ostensivo apenas a multa de 10% por cessão de nome. Explicou que o quadro descrito no acórdão recorrido acerca das operações de importação não lhe permitia extrair de imediato a premissa de uma espécie de \"boa-fé mitigada\" do importador ostensivo, demandando exame detido dos autos em voto-vista.\n- **AgInt no REsp 2.208.220/SP — Responsabilidade Civil de Concessionária de Rodovia por Acidente com Animal Silvestre na Pista (Início: 03:53:27):** Em aparte após o pedido de vista do Min. Sérgio Kukina, o Min. Herman Benjamin ponderou (03:57:21) que, sob a perspectiva das relações jurídicas de massa e da prestação de serviço público rodoviário compartilhado por milhares de usuários, o fundamento teórico para não qualificar o ingresso de animal na pista como fortuito externo reside na capacidade exclusiva da concessionária de contratar seguro e internalizar o risco, diluindo e pulverizando o respectivo custo tarifário entre todos os usuários do sistema viário.\n- **REsp 2.293.002/MG — Tutela do Patrimônio Histórico-Cultural em Ação Civil Pública e Eficácia Autônoma do Inventário Cultural (Início: 03:59:31):** Ao acompanhar o voto do relator Min. Paulo Sérgio Domingues pelo provimento do recurso especial do Ministério Público de Minas Gerais para proteger o \"Hotel Regina\" (inventariado em 1988), o Min. Herman Benjamin destacou (04:02:39) a relevância histórica e doutrinária do precedente. Ressaltou que o Direito do Patrimônio Cultural evoluiu para superar a visão reducionista de que apenas o tombamento protege o bem cultural, pois o tombamento constitui o ato final do ciclo protetivo; sem a eficácia jurídica autônoma (*per se*) de instrumentos constitucionais como o inventário e de medidas preparatórias, o bem histórico seria destruído antes da conclusão do tombamento. Propôs que a Secretaria de Comunicação Social do STJ conferisse divulgação especial ao julgado.\n- **AgInt no AREsp 2.829.339/MT — Legitimidade Passiva e Responsabilidade Pessoal de Ex-Prefeito por Multa Cominatória Expressamente Prevista em TAC (Início: 04:04:45):** O Min. Herman Benjamin abriu divergência (04:09:52, 04:10:43, 04:12:06, 04:20:05, 04:31:54, 04:35:19 e 04:39:11) para dar provimento ao agravo interno do Ministério Público de Mato Grosso, afastar os óbices das Súmulas 5 e 7 do STJ e determinar o conhecimento do recurso especial para posterior julgamento do mérito pela Turma. Salientou que a jurisprudência histórica das duas Turmas de Direito Público afirma a força obrigatória das cláusulas de Termo de Ajustamento de Conduta (TAC), salvo vício de consentimento (como simulação), e que a sentença e o acórdão recorrido deixaram incontroversos os três fatos essenciais: a celebração do TAC (para instalação de prontuário eletrônico de pacientes da rede municipal de saúde em 120 dias), a existência da cláusula 7ª prevendo expressamente a responsabilidade pessoal e solidária do Chefe do Executivo pela multa cominatória de R$ 20.000,00 e a subscrição voluntária pelo então prefeito. Enfatizou que o tribunal de origem declarou a invalidade ou ineficácia em tese da cláusula para instituir uma blindagem absoluta do gestor público, o que constitui questão estritamente jurídica, advertindo que o emprego das Súmulas 5 e 7 impediria o STJ de exercer sua missão constitucional sobre tese jurídica de elevada repercussão para a tutela coletiva.\n\n## Destaques da Sessão\n\n- **REsp 2.256.188/SP — Interpretação Inédita do Art. 12, § 5º, da LIA (Atos de Menor Ofensa aos Bens Jurídicos Tutelados):** Primeiro enfrentamento colegiado na Primeira Turma acerca do alcance do art. 12, § 5º, da Lei 8.429/1992, introduzido pela Lei 14.230/2021. Por maioria (vencido o Min. Herman Benjamin), o colegiado afastou o óbice da Súmula 7/STJ para qualificar juridicamente os fatos incontroversos fixados na origem e deu provimento parcial ao recurso especial para excluir a sanção de suspensão dos direitos políticos por 8 anos imposta a ex-prefeito pela apropriação/troca de motor de Kombi municipal avaliado originalmente em R$ 650,00 (mantidos o ressarcimento, a multa civil de três vezes o dano e a proibição de contratar não impugnada). Travou-se denso debate entre a relatora Min. Regina Helena Costa (acompanhada pelos Ministros Gurgel de Faria, Paulo Sérgio Domingues e Sérgio Kukina), que afirmou tratar-se de comando sancionatório específico limitador das penas nos casos de reduzida expressão ofensiva, e o Min. Herman Benjamin, que sustentou a necessidade de leitura conjugada com o art. 17-C, IV, da LIA diante do *modus operandi* fraudulento envolvendo veículo artesanal (\"gaiola\") e familiares do gestor.\n- **AgInt no AREsp 2.829.339/MT — Responsabilização Pessoal de Prefeito Subscritor por Multa Cominatória em TAC e Limites das Súmulas 5 e 7/STJ:** Intenso debate metodológico sobre a distinção entre interpretação contratual/reexame probatório (Súmulas 5 e 7/STJ) e controle da validade jurídica em tese de cláusula de Termo de Ajustamento de Conduta (TAC) que prevê responsabilidade pessoal e solidária do prefeito pelo pagamento de multa cominatória em caso de descumprimento de obrigação assumida na área de saúde pública. Diante do empate entre os votos dos Ministros Paulo Sérgio Domingues (relator) e Sérgio Kukina, que mantinham o não conhecimento pelas Súmulas 5 e 7/STJ, e os votos divergentes dos Ministros Herman Benjamin e Regina Helena Costa, que davam provimento ao agravo interno para conhecer do recurso especial e permitir o julgamento de mérito da tese pelo colegiado, pediu vista o Min. Gurgel de Faria.\n- **REsp 2.293.002/MG — Tutela do Patrimônio Histórico-Cultural e Eficácia Autônoma do Inventário Independentemente de Tombamento:** A Primeira Turma, à unanimidade, deu provimento ao recurso especial do Ministério Público do Estado de Minas Gerais para reconhecer que o inventário constitui instrumento constitucional autônomo de proteção do patrimônio cultural (art. 216, § 1º, da CF/1988), apto a embasar obrigações de conservação e restauração de imóvel histórico (\"Hotel Regina\", inventariado em 1988) em ação civil pública independentemente de prévio tombamento ou de regulamentação local específica. Por sugestão do Min. Herman Benjamin, determinou-se o encaminhamento do julgado à Secretaria de Comunicação do STJ para divulgação institucional.\n- **REsp 2.093.860/RS — Questão de Ordem sobre Prova Pré-Constituída em Mandado de Segurança Preventivo Tributário (Operações de Hedge / NDF):** Debate relevante suscitado pelo Min. Herman Benjamin acerca da aplicação do direito à espécie (art. 255, § 5º, do RISTJ) e da impossibilidade de conhecimento de mandado de segurança preventivo impetrado sem prova documental pré-constituída das operações de derivativos. Por maioria (vencido o suscitante), a Turma reafirmou que mesmo matérias de ordem pública atinentes às condições da ação mandamental exigem prequestionamento nas instâncias ordinárias para serem conhecidas em sede de recurso especial, prorrogando-se a vista para exame do mérito tributário diante de manifestação superveniente da Fazenda Nacional.\n- **AREsp 2.683.537/MS — Inaplicabilidade do Tema 69/STF ao Regime Facultativo de Alíquota Ad Rem de PIS/COFINS sobre Álcool:** Julgamento com sustentação oral em que a Primeira Turma, por unanimidade, negou provimento ao recurso especial de usina sucroalcooleira, firmando que a tese de exclusão do ICMS da base de cálculo do PIS e da COFINS (Tema 69/STF e Temas 1125 e 1372/STJ) não se estende ao regime especial e facultativo de apuração por unidade de medida física (alíquota *ad rem* por metro cúbico prevista no art. 5º, § 4º, da Lei 9.718/1998), aplicando a diretriz do Tema 1008/STJ e do Tema 1048/STF.\n- **AREsp 3.220.567/SE — Controle Judicial de Legalidade sobre Acordo de Não Persecução Civil (ANPC) sem Cláusula de Ressarcimento ao Erário:** Com sustentação oral da defesa, a Turma reafirmou, à unanimidade, que a homologação judicial de ANPC não constitui ato meramente formal e que é legítima a recusa de homologação pelo tribunal de origem quando o ajuste, mesmo celebrado antes de condenação definitiva, deixa de prever o ressarcimento integral do dano estimado em valores milionários na inicial e limita-se a estipular multa revertida a fundo do Ministério Público, violando o art. 17-B, I e II, da Lei 8.429/1992.\n- **AgInt no RMS 78.564/BA e AgInt no AREsp 3.153.809/SE — Diálogos de Uniformização Jurisprudencial (Súmula 115/STJ em RMS e Preclusão em Cumprimento de Sentença):** Dois importantes debates de uniformização interna: no primeiro, adiou-se o feito para levantamento dos precedentes da Corte Especial e da Primeira Seção que afastam a incidência da Súmula 115/STJ em sede de competência originária e recursal ordinária (RMS); no segundo, a Min. Regina Helena Costa pediu vista para sistematizar as hipóteses em que se opera a preclusão sobre os critérios de correção monetária e juros quando a Fazenda Pública deixa de impugnar tempestivamente os cálculos antes da sentença homologatória.\n\n## Processos Julgados\n\n### 1. AREsp 2.683.537/MS - Exclusão do ICMS da base de cálculo do PIS e da COFINS apurados por alíquota específica por volume (ad rem) na venda de álcool (Início: 00:35:56)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Conhecido o agravo para negar provimento ao recurso especial\n- **Votação:** Unânime (impedido o Min. Paulo Sérgio Domingues)\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** A tese firmada no Tema 69/STF (exclusão do ICMS destacado na nota fiscal da base de cálculo do PIS e da COFINS) não se aplica ao regime especial e facultativo de apuração e recolhimento das contribuições mediante alíquotas específicas por volume de combustível (alíquota ad rem por metro cúbico prevista no art. 5º, § 4º, da Lei 9.718/1998), porquanto a opção voluntária do contribuinte por sistemática diferenciada de tributação afasta a decomposição da base de incidência e não contempla em sua estrutura o imposto estadual destacado, na linha da ratio dos Temas 1008/STJ e 1048/STF.\n- **Resumo da discussão:** Em sustentação oral pela agravante Atvos Bioenergia Eldorado S.A. (00:37:56), o advogado Dr. Breno Ferreira Martins Vasconcelos argumentou que o art. 5º, § 4º, da Lei 9.718/1998 alterou apenas a unidade de medida de apuração do PIS e da COFINS (valores fixos por metro cúbico de álcool), mantendo a receita bruta como materialidade constitucional (art. 195, I, *b*, da CF/1988) e calibrando o valor fixo pela alíquota modal de 9,25% sobre o preço final que inclui o ICMS, conforme notas técnicas da Receita Federal. Sustentou que a sistemática *ad rem* foi instituída pela MP 413/2008 (Lei 11.727/2008) como medida de praticabilidade e controle fiscal, e não como benefício fiscal, invocando os Temas 1125 e 1372 do STJ e propondo distinção em relação ao Tema 1008/STJ. O relator, Min. Gurgel de Faria (00:51:03), afastou a preliminar de negativa de prestação jurisdicional e, no mérito, destacou que, embora a base constitucional das contribuições continue a ser a receita ou o faturamento, o STJ e o STF (Temas 1008/STJ e 1048/STF) possuem entendimento consolidado de que a tese do Tema 69/STF não se aplica quando há facultatividade na adesão ao regime tributário, acrescendo que o Tema 69 determinou a exclusão do ICMS destacado na nota fiscal, peculiaridade incompatível com a cobrança por alíquota *ad rem* por metro cúbico. O procurador da Fazenda Nacional, Dr. Thiago Querenski de Moraes Couto, dispensou o uso da palavra diante do voto do relator. O colegiado, por unanimidade, conheceu do agravo e negou provimento ao recurso especial.\n\n### 2. AREsp 3.220.567/SE - Recusa de homologação judicial de Acordo de Não Persecução Civil (ANPC) desprovido de cláusula de ressarcimento ao erário (Início: 00:54:19)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Conhecido o agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** A homologação judicial do Acordo de Não Persecução Civil (ANPC) não constitui ato meramente formal, cabendo ao Poder Judiciário exercer controle corretivo de legalidade e recusar a chancela a ajuste que, mesmo celebrado antes de condenação definitiva, omita cláusulas obrigatórias de integral ressarcimento do dano e de reversão da vantagem indevida à pessoa jurídica lesada (art. 17-B, I e II, da Lei 8.429/1992, na redação da Lei 14.230/2021), não suprindo tal exigência legal cogente a mera previsão de multa civil revertida a fundo de reaparelhamento do Ministério Público.\n- **Resumo da discussão:** Pela defesa do agravante Valmir dos Santos Costa (ex-Prefeito de Itabaiana/SE), sustentou oralmente o Dr. Filipe Botelho Silva Mauad (00:55:34), relatando que a ação de improbidade administrativa — referente à contratação de empresa para destinação de resíduos de animais abatidos no matadouro municipal — fora julgada improcedente em primeira instância e que, durante a apelação do Ministério Público, as partes requereram conjuntamente a suspensão do feito por 45 dias para ultimar Acordo de Não Persecução Civil (ANPC). Alegou nulidade pelo indeferimento da suspensão pelo TJSE e, no mérito, violação ao art. 17-B da LIA, argumentando que o acordo foi celebrado quando vigia sentença absolutória e inexistia dano liquidado, invocando o REsp 2.263.884/SE (Rel. Min. Regina Helena Costa) para defender a limitação proporcional à participação de cada um dos seis corréus. O relator, Min. Sérgio Kukina (01:03:38), votou pelo conhecimento do agravo e pelo conhecimento parcial do recurso especial, negando-lhe provimento sob quatro fundamentos: (i) a efetiva celebração e submissão do ANPC no curso da apelação esvaziou o interesse recursal quanto à alegada nulidade pelo indeferimento do pedido anterior de sobrestamento; (ii) nos termos do art. 17-B, I e II, da Lei 8.429/1992, o ANPC deve obrigatoriamente assegurar o integral ressarcimento do dano e a reversão da vantagem indevida à pessoa jurídica lesada; (iii) a inexistência de sentença condenatória no momento da assinatura não afasta a obrigatoriedade das cláusulas reparatórias, aplicável inclusive na fase extrajudicial, verificando-se na espécie que a inicial estimava prejuízos milionários ao Município e o acordo limitou-se a prever multa sem qualquer cláusula de ressarcimento; e (iv) a estipulação de multa civil integralmente destinada a fundo do Ministério Público não se confunde com a reparação do dano nem reverte em proveito do ente público lesado, sendo legítimo o controle judicial de legalidade exercido pela corte de origem (reportando-se também ao REsp 2.263.884/SE). Decisão unânime.\n\n### 3. AgInt no REsp 2.220.538/PR - Mandado de segurança preventivo sobre subvenções de ICMS (Tema 1182/STJ) e ausência de demonstração de justo receio (Início: 01:07:54)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Não ofende os arts. 489, § 1º, e 1.022, II, do CPC o acórdão que aprecia fundamentadamente a natureza preventiva do mandado de segurança e extingue o feito sem resolução de mérito por ausência de comprovação de ato coator concreto ou de justo receio de autuação fiscal, esbarrando a revisão dessa premissa fático-probatória no óbice da Súmula 7/STJ, além das Súmulas 211, 283 e 518 do STJ.\n- **Resumo da discussão:** Por videoconferência, a advogada Dra. Giovana Alves Correia (01:09:24) sustentou pela agravante Fancar Germânia Ltda. que o mandado de segurança preventivo fora impetrado para assegurar a exclusão de benefícios fiscais de ICMS da base de cálculo do IRPJ e da CSLL diante de reiteradas Soluções de Consulta da Receita Federal exigindo comprovação de implantação ou expansão de empreendimento, tendo a União inclusive contestado o pedido no mérito após sentença concessiva, o que demonstraria o justo receio e tornaria indevida a extinção sem julgamento do mérito pelo TRF da 4ª Região após o julgamento do Tema 1182/STJ. O relator, Min. Sérgio Kukina (01:13:48), registrou que o Min. Gurgel de Faria levantou o destaque anteriormente formulado e manteve a decisão monocrática que não conhecera do recurso especial: (i) afastou a violação aos arts. 489, § 1º, e 1.022, II, do CPC, pois o TRF4 enfrentou expressamente a alegada feição preventiva do *writ*; (ii) aplicou a Súmula 518/STJ quanto à invocação de afronta a enunciado sumular; (iii) aplicou a Súmula 211/STJ quanto aos arts. 4º, 5º e 6º do CPC por falta de prequestionamento; (iv) aplicou a Súmula 283/STJ em relação ao art. 10 do CPC por ausência de impugnação a fundamento autônomo do acórdão sobre o princípio da não surpresa; e (v) aplicou a Súmula 7/STJ quanto ao art. 1º da Lei 12.016/2009, porquanto rever a conclusão da origem sobre a indemonstração de ameaça concreta e justo receio demandaria reexame fático-probatório. A Turma negou provimento ao agravo interno por unanimidade.\n\n### 4. AgInt no REsp 2.240.061/RJ - Lavratura de auto de infração para prevenir decadência durante suspensão de exigibilidade de IPI na importação de veículo por pessoa física (Início: 01:18:41)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Consignado pelo tribunal de origem que a decisão proferida em mandado de segurança determinou apenas a suspensão da exigibilidade do crédito tributário de IPI na importação de veículo por pessoa física, sem vedar o lançamento para prevenção da decadência, e que a CDA goza de certeza e liquidez, a inversão dessas premissas, tal como articulada nas razões do recurso especial, encontra óbice na Súmula 7/STJ.\n- **Resumo da discussão:** Em sustentação oral pelo agravante José Roberto Gama de Oliveira — ex-atleta de futebol conhecido como Bebeto —, o Dr. Marcos André Siciliano Meneses (01:20:13) relatou que o contribuinte importou veículo automotor para uso próprio em abril de 2013 e obteve ordem em mandado de segurança para impedir a exigência do IPI, a qual veio a ser reformada em juízo de retratação pelo TRF da 2ª Região em 2016 após o julgamento do Tema 643/STF. Sustentou que o auto de infração que embasou a execução fiscal ajuizada em 2023 é nulo porque foi lavrado em outubro de 2013, apenas três meses após a concessão da segurança, quando não havia risco iminente de decadência e estava vigente ordem de abstenção contra o Fisco, invocando o REsp 1.140.956/SP, o AgInt no REsp 1.731.423/RJ e o AREsp 2.827.792, e defendendo tratar-se de matéria puramente de direito (art. 151, IV, do CTN). O relator, Min. Sérgio Kukina (01:27:33), manteve o não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, ressaltando que o TRF2 assentou expressamente que a decisão mandamental limitara-se a suspender a exigibilidade do crédito tributário, sem proibir sua constituição pelo lançamento, concluindo pela higidez da CDA, de modo que a alteração desse quadro nos moldes postos no apelo nobre exigiria reexame de elementos fático-probatórios. Agravo interno desprovido à unanimidade.\n\n### 5. REsp 2.093.860/RS - Questão de Ordem em Mandado de Segurança Preventivo: Operações de hedge (NDF), prova pré-constituída e exigência de prequestionamento de matéria de ordem pública (Início: 01:30:48)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Questão de ordem rejeitada, com prorrogação do pedido de vista do Min. Herman Benjamin quanto ao mérito\n- **Votação:** Maioria na questão de ordem (vencido o Min. Herman Benjamin); aguardando conclusão no mérito (pedido de vista prorrogado)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Suscitou questão de ordem (01:31:52) em voto-vista sustentando que, superado o conhecimento do recurso especial pelo prequestionamento do mérito tributário relativo à dedutibilidade de perdas em contratos de hedge (NDF) da base de cálculo do IRPJ e da CSLL, caberia ao STJ aplicar o direito à espécie (art. 255, § 5º, do RISTJ) e observar que a petição inicial do mandado de segurança preventivo veio instruída unicamente com o contrato social e planilha unilateral elaborada por contadora, sem comprovação documental da celebração de contratos de derivativos, de sua vinculação a exportações ou das perdas incorridas; propôs, com base no art. 10 do CPC, a intimação da impetrante para se manifestar sobre a ausência de prova pré-constituída do direito líquido e certo. Vencido na questão de ordem, teve prorrogado o prazo de vista para exame do mérito.\n- **Tese fixada:** Na instância especial, mesmo as matérias de ordem pública — como a alegada ausência de prova pré-constituída para o cabimento de mandado de segurança preventivo — submetem-se ao requisito constitucional do prequestionamento, não podendo ser conhecidas de ofício pelo Superior Tribunal de Justiça quando não debatidas pelas instâncias ordinárias. [VOTO VENCIDO] Aberta a instância especial pelo prequestionamento do mérito da relação jurídico-material tributária, incumbe ao órgão julgador aplicar o direito à espécie (art. 255, § 5º, do RISTJ) e, constatando que a petição inicial do mandado de segurança preventivo está desacompanhada de documentos comprobatórios das operações de hedge e respectivas perdas, intimar a parte impetrante (art. 10 do CPC) para manifestar-se sobre a ausência de prova pré-constituída.\n- **Resumo da discussão:** Trata-se de recurso especial interposto por Indústria de Calçados Wirth Ltda. (\"Wirg Limitada\" na transcrição) contra acórdão do TRF da 4ª Região em mandado de segurança preventivo relativo à não incidência de IRPJ e CSLL sobre resultados/perdas em operações de cobertura cambial (*hedge* na modalidade NDF) e respectiva dedução no lucro real. Em sessão anterior, após voto do relator Min. Gurgel de Faria negando provimento ao recurso especial e voto-vista da Min. Regina Helena Costa dando-lhe parcial provimento, pedira vista coletiva o Min. Herman Benjamin, que nesta sessão apresentou questão de ordem propondo a intimação da recorrente quanto à falta de prova pré-constituída na impetração. O relator Min. Gurgel de Faria (01:35:48) e a Min. Regina Helena Costa (01:37:23) votaram pela rejeição da questão de ordem, ressaltando que a jurisprudência consolidada do STJ exige o prequestionamento inclusive para questões de ordem pública em sede de recurso especial, o que não se verificou quanto à instrução probatória do *writ*. A Min. Regina Helena Costa acrescentou fundamento pragmático relevante: em 26 de junho, após o início do julgamento, a Fazenda Nacional apresentou manifestação alterando parcialmente sua postura processual e convergindo em parte com a diretriz do voto-vista da Ministra, por reconhecer que a Receita Federal havia orientado o contribuinte a proceder daquela forma, motivo pelo qual o próprio relator disponibilizou retificação parcial de voto no sistema. Os Ministros Sérgio Kukina (01:39:22) e Paulo Sérgio Domingues (01:39:45) acompanharam o relator e a Min. Regina Helena Costa, rejeitando a questão de ordem por maioria (vencido o Min. Herman Benjamin) e restituindo os autos ao gabinete do Min. Herman Benjamin com prorrogação de vista para apreciação do mérito.\n\n### 6. AgInt no AREsp 2.726.591/RS - Decadência de mandado de segurança tributário e óbices das Súmulas 211 e 7 do STJ (Início: 01:41:19)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Incidem os óbices das Súmulas 211 e 7 do STJ quando as teses normativas suscitadas no recurso especial não foram apreciadas pelo tribunal de origem a despeito da oposição de embargos de declaração — sem que a parte tenha apontado violação ao art. 1.022 do CPC — e a revisão do reconhecimento da decadência para a impetração do mandado de segurança demanda revolvimento do acervo fático-probatório.\n- **Resumo da discussão:** Apregoado em regime de preferência com a presença por videoconferência do patrono da agravante B8 S.A., Dr. Eduardo Gonçalves Spitaliere (01:42:10), o relator Min. Sérgio Kukina votou pelo desprovimento do agravo interno, consignando que a corte regional não examinou a lide sob o enfoque dos dispositivos invocados no apelo nobre nem foi suscitada ofensa ao art. 1.022 do CPC no recurso especial (Súmula 211/STJ), além de a reforma da premissa fática quanto à consumação do prazo decadencial da impetração exigir reexame de provas (Súmula 7/STJ). O colegiado negou provimento ao agravo interno de forma unânime.\n\n### 7. AgInt no AREsp 3.091.396/RJ - Improbidade administrativa por acumulação indevida de cargos públicos e ausência de prequestionamento (Início: 01:44:10)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Benedito Gonçalves\n- **Resultado:** Desprovido\n- **Votação:** Unânime quanto à conclusão (acompanhamento pela conclusão com fundamento diverso nos termos do voto-vista do Min. Gurgel de Faria)\n- **Relevância:** Ordinária\n- **Tese fixada:** A ausência de prequestionamento dos dispositivos legais invocados pelo Ministério Público nas razões do recurso especial impede o conhecimento da insurgência voltada à condenação por improbidade administrativa decorrente de acumulação indevida de cargos públicos.\n- **Resumo da discussão:** Em continuidade de julgamento após o voto do relator Min. Benedito Gonçalves negando provimento ao agravo interno do Ministério Público do Estado do Rio de Janeiro, o Min. Gurgel de Faria apresentou voto-vista (01:44:59) acompanhando o relator pela conclusão, mas sob fundamento distinto: observou que a demanda versava sobre acumulação indevida de cargos públicos originalmente capitulada no art. 11, I, da Lei 8.429/1992 (dispositivo revogado pela Lei 14.230/2021 sem continuidade típico-normativa nas hipóteses taxativas do novo art. 11), porém destacou que, preliminarmente, os dispositivos federais suscitados pelo *Parquet* no recurso especial sequer foram prequestionados na origem. Após diálogo técnico suscitado pela Min. Regina Helena Costa (01:46:48) sobre a incompatibilidade lógica de somar fundamentações de mérito e de não conhecimento, os Ministros Gurgel de Faria, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues acompanharam o relator exclusivamente pela conclusão (desprovimento do agravo interno), adotando o fundamento de ausência de prequestionamento.\n\n### 8. AgInt no AgInt no AREsp 2.745.473/GO - Cumulação de honorários advocatícios em ação anulatória e execução fiscal extinta: incidência da Súmula 283/STJ (Início: 01:48:13)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Benedito Gonçalves\n- **Resultado:** Desprovido\n- **Votação:** Unânime quanto à conclusão (acompanhamento pela conclusão com aplicação da Súmula 283/STJ nos termos do voto-vista do Min. Gurgel de Faria)\n- **Relevância:** Ordinária\n- **Tese fixada:** A ausência de impugnação específica a fundamentos autônomos e suficientes do acórdão de origem que dirimiu a controvérsia sobre a cumulação de honorários advocatícios em ação anulatória e em execução fiscal extinta atrai a incidência da Súmula 283/STJ.\n- **Resumo da discussão:** Em prosseguimento ao voto do relator Min. Benedito Gonçalves — que negava provimento ao agravo interno da contribuinte Lubercol Óleos Ltda. com base na Súmula 7/STJ —, o Min. Gurgel de Faria proferiu voto-vista (01:48:51) acompanhando o relator pela conclusão, mas substituindo o óbice da Súmula 7/STJ pelo da Súmula 283/STJ, por constatar que o recurso especial deixou de impugnar fundamentos autônomos do acórdão do TJGO. Os Ministros Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues aderiram à proposta do voto-vista, negando provimento ao agravo interno à unanimidade pela conclusão.\n\n### 9. REsp 2.256.188/SP - Improbidade administrativa: interpretação do art. 12, § 5º, da LIA (atos de menor ofensa aos bens jurídicos) e exclusão da suspensão dos direitos políticos (Início: 01:50:41)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Regina Helena Costa\n- **Resultado:** Conhecido parcialmente o recurso especial e, nessa extensão, provido para afastar unicamente a penalidade de suspensão dos direitos políticos\n- **Votação:** Maioria (vencido o Min. Herman Benjamin na preliminar de conhecimento e no mérito)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Proferiu voto-vista divergente (01:52:04) pelo não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, argumentando que o TJSP considerou expressamente o pequeno valor patrimonial do dano e manteve a suspensão dos direitos políticos em razão da gravidade concreta da conduta, não podendo o STJ presumir ausência de reflexos amplos na administração municipal diante do silêncio do acórdão. Vencido na preliminar, votou no mérito (02:15:08, 02:24:08 e 02:26:34) pelo desprovimento do recurso especial, defendendo que o art. 12, § 5º, da LIA deve ser lido em conjunto com o art. 17-C, IV, alíneas *a* a *g*, da mesma lei, pois a tutela da probidade não se mede apenas pelo valor financeiro do bem (R$ 650,00 originais / R$ 2.183,00 atualizados), mas pela gravidade, natureza e impacto do ilícito praticado pelo próprio prefeito municipal, que, em conluio com o cunhado chefe de manutenção da frota, retirou o motor de uma Kombi oficial para retificá-lo e instalá-lo em um veículo artesanal (\"gaiola\") posteriormente adquirido pelo alcaide junto à irmã viúva.\n- **Tese fixada:** A qualificação jurídica de fatos incontroversos delineados no acórdão de origem para fins de subsunção ao conceito de \"atos de menor ofensa aos bens jurídicos tutelados\" (art. 12, § 5º, da Lei 8.429/1992, incluído pela Lei 14.230/2021) não esbarra na Súmula 7/STJ e impõe, como regra sancionatória específica aplicável aos processos em curso (Tema 1199/STF), o afastamento da penalidade de suspensão dos direitos políticos por 8 anos quando constatada a reduzida expressão econômica do dano material (apropriação/substituição de motor de veículo municipal avaliado originalmente em R$ 650,00), preservados o reconhecimento do ato doloso de improbidade, o ressarcimento integral do dano, a multa civil e as demais cominações não impugnadas. [VOTO VENCIDO] A revisão do juízo de reprovabilidade formulado pela corte de origem para afastar a suspensão dos direitos políticos demanda reexame fático-probatório vedado pela Súmula 7/STJ e, no mérito, a interpretação sistemática dos arts. 12, § 5º, e 17-C, IV, da Lei 8.429/1992 impede que a aferição da \"menor ofensa aos bens jurídicos tutelados\" se reduza à expressão monetária do bem apropriado quando o modus operandi — envolvimento do chefe de manutenção da frota e de familiares do próprio Prefeito Municipal para apropriar-se de motor de veículo público retificado — revela grave violação aos deveres de honestidade e probidade no exercício do mandato eletivo.\n- **Resumo da discussão:** Trata-se de recurso especial interposto por José Luís da Cunha, ex-Prefeito de Lavrinhas/SP, condenado por ato de improbidade administrativa (art. 9º da LIA) em razão da apropriação/troca de motor de Kombi da frota municipal (dano originalmente fixado em R$ 650,00) às penas cumulativas de ressarcimento ao erário, multa civil de três vezes o valor do dano, proibição de contratar com o Poder Público por 10 anos e suspensão dos direitos políticos por 8 anos, restringindo-se o apelo nobre ao pedido de exclusão da suspensão dos direitos políticos com base no art. 12, § 5º, da LIA (incluído pela Lei 14.230/2021). Após o voto-vista do Min. Herman Benjamin suscitando o não conhecimento pela Súmula 7/STJ, a relatora Min. Regina Helena Costa (01:56:01) ratificou seu voto pelo conhecimento parcial do recurso, distinguindo reexame de provas de qualificação jurídica dos fatos incontroversos para concretização do conceito jurídico indeterminado de \"menor ofensa aos bens jurídicos tutelados\" e destacando que o próprio TJSP, em juízo de adequação (fls. 1.209/1.217), reconhecera ser pouco expressivo o dano material. Submetida a preliminar de conhecimento a votação destacada (02:05:41), os Ministros Gurgel de Faria, Paulo Sérgio Domingues e Sérgio Kukina acompanharam a relatora, superando a Súmula 7/STJ por maioria (vencido o Min. Herman Benjamin). No mérito (02:07:38 e 02:22:21), a Min. Regina Helena Costa salientou que o art. 12, § 5º, da LIA não descaracteriza a tipicidade nem o dolo específico, mas institui comando sancionatório específico para atos de menor potencial ofensivo em processos ainda não transitados em julgado (Tema 1199/STF), mostrando-se manifestamente desproporcional a cumulação da suspensão dos direitos políticos por 8 anos diante de dano original de R$ 650,00 já sancionado com ressarcimento, multa triplicada e proibição de contratar por 10 anos. O Min. Herman Benjamin (02:15:08) votou pelo desprovimento enfatizando o *modus operandi* descrito no acórdão e a leitura conjugada com o art. 17-C, IV, da LIA. O Min. Gurgel de Faria (02:30:03) acompanhou a relatora. O Min. Paulo Sérgio Domingues (02:30:23) também acompanhou a relatora, distinguindo o campo de incidência do art. 17-C (diretrizes gerais de fundamentação da sentença) do art. 12, § 5º (limitação objetiva de sanções nos atos de menor ofensa) e observando, a partir do relatório fático transcrito no acórdão (fl. 358), que o episódio se originara de avaria mecânica da Kombi oficial na rodovia Presidente Dutra e permuta de motores encaminhados à retífica. O Presidente Min. Sérgio Kukina (02:36:31) acompanhou a relatora, proclamando-se o provimento parcial do recurso especial na parte conhecida, por maioria, vencido o Min. Herman Benjamin.\n\n### 10. AgInt nos EDcl no AREsp 1.872.598/AM (Item 18 - Agravante: Marilene Corrêa da Silva Freitas) - Improbidade administrativa em convênio para aquisição de livros: improcedência quanto ao art. 10 da LIA (Início: 03:14:21)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Parcialmente provido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Afastada a configuração de ato de improbidade administrativa capitulado no art. 10 da Lei 8.429/1992 em relação à agente pública, julga-se improcedente o pedido condenatório fundado no referido dispositivo e exclui-se a multa civil correlata, remanescendo a condenação pelo art. 11 da LIA.\n- **Resumo da discussão:** Retornando os autos ao relator Min. Paulo Sérgio Domingues em virtude da posse do Min. Benedito Gonçalves (que havia pedido vista em junho do ano anterior) na Corregedoria, o relator reapresentou seu voto (03:15:58) em ação de improbidade administrativa relativa a convênio firmado com o Estado do Amazonas no valor de R$ 900.000,00 para aquisição de 15 mil exemplares de livros que, em sua expressiva maioria, desapareceram. No agravo interno de Marilene Corrêa da Silva Freitas (item 18 da pauta), o relator votou pelo parcial provimento do recurso para julgar improcedente o pedido condenatório fundado no art. 10 da Lei 8.429/1992 e afastar a multa civil correlata, mantendo a condenação remanescente pelo art. 11 da LIA. O colegiado acompanhou o relator à unanimidade.\n\n### 11. AgInt nos EDcl no AREsp 1.872.598/AM (Item 19 - Agravante: Fundação Boas Novas) - Improbidade administrativa em convênio: manutenção do ressarcimento de R$ 900 mil e retorno para nova dosimetria (Início: 03:15:32)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Parcialmente provido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Julgado improcedente o pedido condenatório fundado no art. 10 da Lei 8.429/1992 em relação à entidade conveniada, mantém-se a obrigação de ressarcimento integral do montante transferido (R$ 900.000,00) como decorrência lógica do ilícito reconhecido e determina-se o retorno dos autos ao tribunal de origem para nova dosimetria das demais sanções.\n- **Resumo da discussão:** Julgado em conjunto com o item anterior pelo relator Min. Paulo Sérgio Domingues (03:15:58), o agravo interno interposto pela Fundação Boas Novas (item 19 da pauta) teve parcial provimento para julgar improcedente o pedido condenatório por improbidade administrativa com base no art. 10 da LIA, mantendo-se contudo a condenação à devolução integral dos R$ 900.000,00 relativos ao convênio para aquisição dos 15 mil livros desaparecidos e determinando-se o retorno dos autos ao Tribunal de Justiça do Amazonas para realização de nova dosimetria das sanções. Decisão unânime.\n\n### 12. AgInt no RMS 78.564/BA - Aplicabilidade da Súmula 115/STJ em sede de Recurso Ordinário em Mandado de Segurança (Início: 03:18:52)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Adiado\n- **Votação:** Aguardando conclusão (adiado por indicação do relator após proposta do Min. Herman Benjamin)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Concordando com a ponderação levantada pelo Min. Gurgel de Faria e com os precedentes citados pela Min. Regina Helena Costa, propôs (03:24:27 e 03:31:21) o adiamento do julgamento por uma semana para que seja realizado levantamento atualizado junto à Coordenadoria da Corte Especial acerca da orientação daquele colegiado sobre a inaplicabilidade da Súmula 115/STJ nos processos de competência originária e recursal ordinária.\n- **Tese fixada:** [PROPOSTA] Debate sobre a inaplicabilidade da Súmula 115/STJ aos processos de competência originária e recursal ordinária do STJ (como o Recurso Ordinário em Mandado de Segurança, em que o Tribunal atua como instância de apelação), à luz dos precedentes da Corte Especial (EDcl no MS 20.824/DF, Rel. Min. Mauro Campbell Marques, 2017) e da Primeira Seção (RCD no MS 23.832/DF, Rel. Min. Assusete Magalhães, 2019), em cotejo com julgados recentes de Turmas que aplicaram o verbete.\n- **Resumo da discussão:** O relator, Min. Sérgio Kukina (03:18:52), apresentou inicialmente voto negando provimento ao agravo interno com base na Súmula 115/STJ, porque o recorrente, intimado para regularizar a representação processual, juntara nova procuração com data posterior à interposição. O Min. Gurgel de Faria (03:20:01), em destaque, ponderou que a Súmula 115/STJ foi concebida especificamente para a instância especial e questionou a conveniência de aplicá-la em Recurso Ordinário em Mandado de Segurança (RMS), sede de jurisdição recursal ordinária. A Min. Regina Helena Costa (03:22:22 e 03:25:37) destacou que no RMS o STJ funciona como tribunal de apelação e apontou que a Corte Especial, superando antiga orientação em setembro de 2017 (EDcl no MS 20.824/DF, Rel. Min. Mauro Campbell Marques), assentou a inaplicabilidade da Súmula 115/STJ aos feitos de competência originária e recursal ordinária, diretriz reafirmada pela Primeira Seção em março de 2019 (RCD no MS 23.832/DF, Rel. Min. Assusete Magalhães). O Min. Sérgio Kukina (03:26:44) informou que seu gabinete identificara julgados recentes da própria Primeira Turma (maio e junho) e da Segunda Turma aplicando a Súmula 115/STJ em RMS. Diante da necessidade de observar a orientação dos colegiados maiores e uniformizar a atuação da Turma, acolheu-se a sugestão do Min. Herman Benjamin de adiar o julgamento para a sessão da semana seguinte, comprometendo-se o Ministro a requisitar levantamento oficial junto à Coordenadoria da Corte Especial.\n\n### 13. AgInt no AREsp 3.153.809/SE - Preclusão da impugnação aos índices de juros e correção monetária (SELIC) após homologação de cálculos não impugnados pela Fazenda Pública (Início: 03:31:53)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (pedido de vista antecipada da Min. Regina Helena Costa após o voto do relator negando provimento ao agravo interno)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Manifestou-se (03:38:49, 03:40:51 e 03:45:05) justificando seu destaque pela dispersão de entendimentos na própria Primeira Turma — mencionando o AgInt no REsp 2.150.640/SC (Rel. Min. Paulo Sérgio Domingues), em que se assentou a possibilidade de alteração dos índices de correção monetária e juros até o trânsito em julgado da execução — e sugeriu avaliar a afetação da matéria à Primeira Seção. Após os esclarecimentos do relator sobre tratar-se de hipótese em que não houve lei nem precedente vinculante superveniente entre o prazo de impugnação e a homologação, manifestou concordância com a tese do relator, apoiando contudo o pedido de vista da Min. Regina Helena Costa para densificar e sistematizar os critérios da Turma.\n- **Tese fixada:** [PROPOSTA] Opera-se a preclusão lógica e temporal quanto aos índices de correção monetária e juros de mora (taxa SELIC) aplicados em cumprimento de sentença relativo a honorários advocatícios quando o ente público executado, devidamente intimado da memória de cálculos apresentada pelo exequente, deixa transcorrer in albis o prazo de impugnação e somente se insurge após a decisão judicial de homologação da conta, sem que tenha havido superveniência de alteração legislativa ou de precedente vinculante do STF (distinção em relação aos Temas 810, 1170 e 1361 do STF).\n- **Resumo da discussão:** O relator, Min. Gurgel de Faria (03:32:41), expôs que o Estado de Sergipe permaneceu inerte no prazo para impugnar a memória de cálculos de honorários advocatícios apresentada pelos exequentes e somente recorreu após a homologação judicial da conta, pretendendo substituir a taxa SELIC por outros índices. Votou pelo desprovimento do agravo interno por reconhecer a preclusão, enfatizando a distinção fundamental entre os casos em que sobrevém lei nova ou precedente vinculante do STF antes do trânsito em julgado da execução (Temas 1170 e 1361/STF — matéria que o relator informou estar pautando em recurso repetitivo para a Primeira Seção em novembro) e o caso concreto, no qual não houve qualquer modificação normativa ou jurisprudencial superveniente, mas simples perda de prazo processual pela Fazenda estadual. A Min. Regina Helena Costa (03:37:44) e o Min. Herman Benjamin (03:38:49) ressaltaram a existência de julgados dissonantes nas Turmas de Direito Público afastando a preclusão sobre consectários legais até o trânsito em julgado da execução (como o AgInt no REsp 2.150.640/SC). O Min. Paulo Sérgio Domingues (03:42:41) observou que na prática têm surgido pedidos de readequação até mesmo após o pagamento quando ainda não formalizado o trânsito em julgado. Para permitir a sistematização criteriosa das diferentes variáveis na Primeira Turma, a Min. Regina Helena Costa pediu vista antecipada dos autos (03:45:06 e 03:46:40), aguardando os demais Ministros.\n\n### 14. AgInt no REsp 2.202.275/AL - Infração aduaneira de interposição fraudulenta: distinção entre a multa de 100% ao importador oculto e a multa de 10% por cessão de nome ao importador ostensivo (Início: 03:47:15)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (pedido de vista do Min. Herman Benjamin após o voto do relator negando provimento ao agravo interno)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Tendo destacado o feito no plenário virtual, pediu vista dos autos (03:52:07) para examinar em profundidade a moldura do acórdão recorrido e os critérios de distinção subjetiva das sanções aduaneiras, ponderando que a descrição das operações de importação no acórdão local suscitava dúvidas quanto a admitir uma espécie de \"boa-fé mitigada\" do importador ostensivo para eximi-lo da multa de 100%.\n- **Tese fixada:** [PROPOSTA] Na infração aduaneira de interposição fraudulenta de terceiros (efetiva ou presumida), a pena de perdimento da mercadoria e, na impossibilidade de sua aplicação, a multa substitutiva de 100% do valor aduaneiro prevista no art. 23, § 3º, do Decreto-Lei 1.455/1976 dirigem-se ao importador oculto (real adquirente das mercadorias), ao passo que o importador ostensivo que cede seu nome e estrutura documental para acobertar operações de terceiros sujeita-se especificamente à multa de 10% sobre o valor da operação prevista no art. 33 da Lei 11.488/2007.\n- **Resumo da discussão:** O relator, Min. Paulo Sérgio Domingues (03:48:06), votou pelo desprovimento do agravo interno da Fazenda Nacional, mantendo decisão que conhecera do recurso especial da empresa Global Marine Importação e Exportação Ltda. (por entender tratar-se de questão estritamente jurídica) e, adotando jurisprudência da Segunda Turma sobre a coerência do sistema sancionatório aduaneiro, afastara a cobrança da multa de 100% do art. 23, § 3º, do Decreto-Lei 1.455/1976 contra a importadora ostensiva, determinando o retorno dos autos à origem para exame do cabimento da multa de 10% por cessão de nome (art. 33 da Lei 11.488/2007). O Min. Gurgel de Faria (03:50:42) esclareceu que destacara o processo do plenário virtual por uma razão metodológica institucional: quando a matéria conta apenas com precedentes da Segunda Turma e ainda não possui julgado colegiado da Primeira Turma, convém pautar diretamente o próprio recurso especial no colegiado presencial em vez de decidi-lo monocraticamente. Na sequência, o Min. Herman Benjamin (03:52:07) pediu vista dos autos para analisar os critérios de aplicação das normas sancionatórias à vista das circunstâncias descritas no acórdão de origem.\n\n### 15. AgInt no REsp 2.208.220/SP - Responsabilidade civil de concessionária de rodovia por acidente causado por ingresso de animal silvestre na pista (Início: 03:53:27)\n- **Matéria:** 7. Responsabilidade Civil da Administração\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (pedido de vista do Min. Sérgio Kukina após o voto do relator negando provimento ao agravo interno)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Após o pedido de vista do Min. Sérgio Kukina, interveio (03:57:21) para destacar que, nas relações jurídicas de massa em que uma rodovia pedagiada é compartilhada por milhares de usuários, a razão jurídica e econômica para não caracterizar o sinistro como fortuito externo reside no fato de a concessionária ser o único agente com capacidade de contratar seguro e diluir o custo de maneira pulverizada entre todos os usuários do serviço.\n- **Tese fixada:** [PROPOSTA] O ingresso abrupto de animal silvestre (raposa) sem proprietário ou possuidor identificável na pista de rolamento de rodovia concedida distingue-se das hipóteses de invasão por animais domésticos ou de criação (Tema 1122/STJ) e configura caso fortuito externo apto a romper o nexo de causalidade e afastar a responsabilidade civil objetiva da concessionária pelos danos sofridos pelo condutor, incidindo ainda na espécie os óbices das Súmulas 7 e 284 do STJ.\n- **Resumo da discussão:** O relator, Min. Paulo Sérgio Domingues (03:54:21), negou provimento ao agravo interno interposto por Dirceu de Franca em face de Renovias Concessionária S.A., distinguindo os acidentes provocados por animais domésticos ou pertencentes a pecuaristas lindeiros (em que há dever de contenção e fiscalização pela concessionária) daqueles decorrentes da travessia repentina de animal da fauna silvestre (no caso, uma raposa), qualificando o evento como caso fortuito externo excludente do nexo causal, além de aplicar as Súmulas 7 e 284 do STJ. O Presidente Min. Sérgio Kukina (03:56:02), autor do destaque, pediu vista dos autos para cotejar a hipótese com precedente recente de sua relatoria em ação civil pública sobre medidas mitigatórias contra atropelamento de fauna silvestre em rodovias. O relator ponderou (03:56:22) que naquele precedente tratava-se de obrigação administrativa e ambiental de implantar estruturas redutoras de atropelamento de fauna, e não de responsabilidade civil objetiva individual perante o motorista. O Min. Herman Benjamin (03:57:21) acrescentou a reflexão sobre a internalização securitária e a pulverização de riscos nas concessões rodoviárias, aguardando os demais Ministros o voto-vista do Min. Sérgio Kukina.\n\n### 16. REsp 2.293.002/MG - Ação civil pública para proteção de imóvel histórico (\"Hotel Regina\"): eficácia protetiva autônoma do inventário cultural independentemente de tombamento (Início: 03:59:31)\n- **Matéria:** 12. Direito Ambiental Urbanístico\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Provido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Ao acompanhar o relator, enalteceu a importância do julgado (04:02:39) para a evolução do Direito do Patrimônio Cultural, ressaltando que o tombamento representa apenas o ato final do procedimento protetivo e que, sem o reconhecimento da eficácia jurídica imediata e autônoma (*per se*) de outros instrumentos constitucionais como o inventário, os bens culturais correriam o risco de destruição antes do tombamento; sugeriu o envio do precedente à Secretaria de Comunicação do STJ para ampla divulgação institucional.\n- **Tese fixada:** A tutela do patrimônio histórico-cultural por meio de ação civil pública independe de prévio ato de tombamento ou de regulamentação municipal específica quando o imóvel teve seu valor histórico-cultural formalmente reconhecido pelo Poder Público mediante procedimento de inventário (art. 216, § 1º, da CF/1988), instrumento dotado de eficácia jurídica protetiva autônoma que legitima a imposição judicial de obrigações de conservação e restauração.\n- **Resumo da discussão:** O relator, Min. Paulo Sérgio Domingues (04:00:07), destacou o feito para julgamento colegiado por versar sobre a proteção do \"Hotel Regina\", imóvel cujo valor histórico-cultural foi reconhecido pelo Poder Público em procedimento de inventário realizado em 1988. Na origem, a sentença julgara procedente a ação civil pública do Ministério Público do Estado de Minas Gerais para impor obrigações de conservação e restauração aos proprietários, mas o TJMG reformara a decisão por entender indispensável o tombamento ou regulamentação local específica. Amparado também em precedente do STF e da própria Corte, o relator deu provimento ao recurso especial para afirmar a plena legitimidade e eficácia do inventário como instrumento autônomo de proteção cultural, restabelecendo a tutela protetiva da sentença e determinando o retorno dos autos ao TJMG para que, em respeito ao duplo grau de jurisdição, examine as demais matérias suscitadas na apelação que haviam ficado prejudicadas (redução de multas, ampliação de prazos, alegação de nulidade do laudo pericial, incompetência e litisconsórcio passivo necessário). Após a intervenção do Min. Herman Benjamin (04:02:39) propondo a divulgação institucional do julgado, a Turma deu provimento ao recurso especial por unanimidade.\n\n### 17. AgInt no AREsp 2.829.339/MT - Execução de multa cominatória prevista em TAC contra ex-Prefeito subscritor: natureza jurídica da controvérsia vs. Súmulas 5 e 7 do STJ (Início: 04:04:45)\n- **Matéria:** 10. Ação Civil Pública\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (após os votos do relator Min. Paulo Sérgio Domingues e do Min. Sérgio Kukina negando provimento ao agravo interno, e os votos divergentes do Min. Herman Benjamin e da Min. Regina Helena Costa dando-lhe provimento para conhecer do recurso especial, pediu vista o Min. Gurgel de Faria)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Abriu divergência (04:09:52, 04:10:43, 04:12:06, 04:20:05, 04:31:54, 04:35:19 e 04:39:11) votando pelo provimento do agravo interno do Ministério Público de Mato Grosso para afastar os óbices das Súmulas 5 e 7 do STJ e determinar o conhecimento do recurso especial para futuro exame do mérito pelo colegiado. Argumentou que a orientação histórica da Primeira Seção é a de que as cláusulas de Termo de Ajustamento de Conduta (TAC) devem ser cumpridas salvo vício de consentimento (como simulação), e que no caso concreto todos os elementos fáticos estão expressamente consignados na sentença e no acórdão recorrido: (i) a existência do TAC firmado no Município de Barra do Garças/MT para instalação de prontuário eletrônico de pacientes em 120 dias; (ii) a cláusula 7ª prevendo multa cominatória de R$ 20.000,00 por cláusula descumprida com expressa responsabilização pessoal e solidária do Chefe do Poder Executivo e da Secretária Municipal de Saúde; e (iii) a subscrição voluntária pelo então prefeito. Ressaltou que o TJMT proclamou em tese a impossibilidade absoluta de responsabilização pessoal de ex-prefeito por multa de TAC sob o argumento de ter atuado como gestor público, de modo que a controvérsia sobre a validade e eficácia jurídica dessa cláusula é estritamente de direito, não podendo as Súmulas 5 e 7 do STJ servir de barreira peremptória para impedir que o Tribunal decida questão jurídica de tamanha relevância.\n- **Tese fixada:** [PROPOSTA] Voto do Relator: A revisão da conclusão do tribunal de origem que, interpretando o Termo de Ajustamento de Conduta (TAC) celebrado com o Município, reputou as obrigações imputadas exclusivamente ao ente público e acolheu a preliminar de ilegitimidade passiva do ex-prefeito subscritor na execução da multa cominatória demanda interpretação de cláusulas e reexame fático-probatório, incidindo os óbices das Súmulas 5 e 7 do STJ. Voto Divergente (Min. Herman Benjamin): Estando expressamente consignados na sentença e no acórdão recorrido a existência do TAC, o teor literal da cláusula que prevê a responsabilidade pessoal e solidária do Chefe do Executivo pelo pagamento da multa cominatória e a subscrição pelo gestor público, constitui questão estritamente jurídica — imune aos óbices das Súmulas 5 e 7 do STJ — definir a validade e a eficácia da referida cláusula e a legitimidade passiva do agente público subscritor para responder à execução da multa.\n- **Resumo da discussão:** Trata-se de agravo interno interposto pelo Ministério Público do Estado de Mato Grosso contra decisão que não conheceu do recurso especial (pelas Súmulas 5 e 7 do STJ) em embargos à execução opostos por Roberto Ângelo de Farias, ex-Prefeito de Barra do Garças/MT, nos quais o TJMT reformara a sentença para acolher a ilegitimidade passiva do ex-gestor para responder pessoalmente pela multa cominatória de R$ 20.000,00 prevista na cláusula 7ª de TAC destinado à implantação do prontuário eletrônico de pacientes da rede municipal de saúde. O relator, Min. Paulo Sérgio Domingues (04:05:28), manteve a aplicação das Súmulas 5 e 7 do STJ — invocando também decisão monocrática do Min. Gurgel de Faria, acórdão do Min. Francisco Falcão e decisão do STF no ARE 1.544.905/MT (originado do AREsp 2.614.637/MT, Rel. Min. Maria Thereza de Assis Moura) — por entender que o TJMT interpretou o TAC ao afirmar que as obrigações eram dirigidas ao ente municipal e que eventual discussão sobre o cumprimento das metas exigiria exame de fatos. A Min. Regina Helena Costa (04:07:04, 04:13:05, 04:17:45 e 04:40:21), autora do destaque, citou o REsp 1.957.741/MG (Segunda Turma, Rel. Min. Herman Benjamin), em que o STJ conheceu da matéria e reconheceu a legitimidade do ex-prefeito para responder por multa prevista em TAC, sustentando que o texto da cláusula 7ª estava integralmente transcrito na sentença (fl. 108, lida em sessão pelo Min. Sérgio Kukina às 04:15:31) e que a admissibilidade jurídica de cláusula de responsabilidade pessoal do gestor em TAC prescinde de reexame de provas ou de cláusulas, propondo cindir o julgamento para primeiro afastar as Súmulas 5 e 7 (dando provimento ao agravo interno para conhecer do REsp) e oportunamente apreciar o mérito. Após amplo debate, o Min. Herman Benjamin (04:39:11) votou dando provimento ao agravo interno para afastar os óbices sumulares, no que foi acompanhado pela Min. Regina Helena Costa (04:40:21), enquanto o Min. Sérgio Kukina (04:40:06) acompanhou o relator pelo desprovimento. Diante do empate de 2 a 2, o Min. Gurgel de Faria pediu vista dos autos (04:41:53).\n\n### 18. [Processo não identificado nominalmente — Último item da pauta do Min. Paulo Sérgio Domingues] - Adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado (Início: 04:44:05)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Adiado\n- **Votação:** Unânime quanto ao adiamento\n- **Relevância:** Ordinária\n- **Tese fixada:** [PROPOSTA] Tratando-se de processo com questão jurídica inédita na Primeira Turma e sem advogado aguardando acompanhamento em sessão, mostra-se recomendável o adiamento do julgamento por uma sessão para propiciar a deliberação com a presença integral dos cinco Ministros integrantes do colegiado.\n- **Resumo da discussão:** Ao ser anunciado o último item remanescente da relação de destaques de relatoria do Min. Paulo Sérgio Domingues (04:44:05), o Min. Gurgel de Faria sugeriu o adiamento do feito para a sessão da semana seguinte, ressaltando que a matéria versada era inédita no colegiado, não havia inscrição de advogado para acompanhamento presencial ou por vídeo e o Min. Herman Benjamin precisara ausentar-se ao término da sessão, sendo relevante a participação de todos os integrantes da Primeira Turma pelo menos no exame da preliminar sumular. O relator Min. Paulo Sérgio Domingues, o Presidente Min. Sérgio Kukina e a Min. Regina Helena Costa aderiram à proposta, ficando o julgamento adiado para a próxima sessão.\n\n## Estatísticas\n- Total de processos apreciados: 18\n- Providos: 1 | Desprovidos: 6 | Parcialmente providos: 3 | Pedidos de vista / Adiados / Outros: 8\n- Processos com atuação destacada do Min. Herman Benjamin: 8\n- Observação de expediente inicial (00:30:06 a 00:35:30): Foram ainda registrados na abertura da sessão 2 processos retirados de pauta (REsp 2.277.513, Rel. Min. Gurgel de Faria; AgInt no AgInt no AgInt nos EDcl no AREsp 1.067.449, Rel. Min. Paulo Sérgio Domingues), 2 processos adiados (REsp 2.160.450 e AREsp 1.214.884, Rel. Min. Sérgio Kukina), 3 prorrogações de prazo de vista (AgInt no AREsp 1.365.238, AgInt no AREsp 2.624.387 e AgInt no RMS 76.452, pelo Min. Paulo Sérgio Domingues) e a aprovação em bloco sem divergência dos itens 29 a 34 da pauta."
+    "content": "# Resumo — Primeira Turma — 13/10/2026\n\n**Vídeo:** [Primeira Turma - STJ -  13/10/2026](https://www.youtube.com/watch?v=Ikn2-1h60JU)\n**Data:** 13/10/2026\n**Duração:** 4h 46min\n**Órgão:** Primeira Turma\n\n---\n\n## Atuação e Manifestações do Min. Herman Benjamin\n\n- **REsp 2.093.860/RS — Questão de Ordem em Mandado de Segurança Preventivo sobre Operações de Hedge / NDF e Prova Pré-Constituída (Início: 01:30:48):** Após haver concordado no início da sessão (00:34:03) com a postergação da apreciação para depois das sustentações orais, o Min. Herman Benjamin, em sede de vista coletiva, suscitou questão de ordem (01:31:52) fundamentada nos arts. 10 do CPC e 255, § 5º, do RISTJ (aplicação do direito à espécie após superado o conhecimento pelo prequestionamento do mérito tributário). Destacou que a impetrante ajuizou mandado de segurança preventivo visando afastar a incidência de IRPJ e CSLL sobre perdas em operações de hedge na modalidade NDF e compensar valores recolhidos a maior, instruindo a inicial exclusivamente com o contrato social e uma planilha unilateral subscrita por contadora, sem qualquer contrato de derivativos, comprovação de vinculação a contratos de exportação ou demonstração documental de ganhos e perdas. Propôs a intimação da recorrente para se manifestar sobre o cabimento do mandado de segurança desacompanhado de prova pré-constituída do direito líquido e certo. Rejeitada a questão de ordem pela maioria do colegiado sob o fundamento de exigência de prequestionamento inclusive para matérias de ordem pública em recurso especial, teve seu pedido de vista prorrogado para exame do mérito e da retificação parcial de voto disponibilizada pelo relator.\n- **REsp 2.256.188/SP — Voto-Vista em Ação de Improbidade Administrativa: Dosimetria, Art. 12, § 5º, c/c Art. 17-C, IV, da LIA e Menor Ofensa aos Bens Jurídicos (Início: 01:50:41):** Em voto-vista divergente da relatora Min. Regina Helena Costa, o Min. Herman Benjamin (01:52:04) votou preliminarmente pelo não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, sustentando que o Tribunal de Justiça de São Paulo já havia sopesado a reduzida expressão econômica do bem apropriado (motor de Kombi da frota municipal avaliado originalmente em R$ 650,00, atualizado em cerca de R$ 2.183,00) e concluído que a elevada reprovabilidade concreta da conduta impunha a manutenção da suspensão dos direitos políticos por 8 anos, não sendo possível presumir ausência de reflexos amplos na administração municipal a partir do silêncio do acórdão local. Vencido no conhecimento, manifestou-se no mérito (02:15:08, 02:24:08 e 02:26:34) pelo desprovimento do recurso especial, defendendo a necessidade de interpretação sistemática e conjugada do art. 12, § 5º, com os critérios gerais do art. 17-C, IV, alíneas *a* a *g*, da Lei 8.429/1992 (na redação da Lei 14.230/2021). Ressaltou que os bens jurídicos tutelados pela Lei de Improbidade Administrativa não se resumem ao valor financeiro imediato — exemplificando com casos de cobrança de propina de pequeno valor por agentes policiais em rodovias — e enfatizou a gravidade do *modus operandi* descrito no acórdão recorrido, consistente na retirada do motor da Kombi oficial, remessa à retífica e instalação em veículo artesanal do tipo \"gaiola\" por intermédio do cunhado do então prefeito (chefe de manutenção da frota), com posterior aquisição formal do veículo pelo próprio chefe do Executivo municipal junto à irmã viúva.\n- **AgInt no RMS 78.564/BA — Aplicabilidade da Súmula 115/STJ em Recurso Ordinário em Mandado de Segurança (Início: 03:18:52):** Diante do debate suscitado pelo Min. Gurgel de Faria e pela Min. Regina Helena Costa acerca da incompatibilidade da aplicação da Súmula 115/STJ aos processos de competência originária e recursal ordinária (como o RMS, em que o STJ atua como instância de apelação), o Min. Herman Benjamin interveio (03:24:27 e 03:31:21) concordando com a distinção técnica apontada e propôs o adiamento do feito por uma semana, comprometendo-se a solicitar à Coordenadoria da Corte Especial levantamento atualizado da jurisprudência daquele colegiado sobre o tema para deliberação segura e uniforme da Primeira Turma.\n- **AgInt no AREsp 3.153.809/SE — Preclusão sobre Índices de Correção Monetária e Juros após Homologação de Cálculos em Cumprimento de Sentença contra a Fazenda Pública (Início: 03:31:53):** Tendo formulado destaque no plenário virtual, o Min. Herman Benjamin manifestou-se (03:38:49, 03:40:51 e 03:45:05) apontando a dispersão de julgados colegiados e monocráticos sobre a matéria — citando o AgInt no REsp 2.150.640/SC, em que a Primeira Turma admitiu a adequação de índices até o trânsito em julgado da execução — e sugeriu avaliar a conveniência de afetação do tema à Primeira Seção para fixação de balizas objetivas. Após os esclarecimentos do relator Min. Gurgel de Faria quanto à distinção entre as hipóteses de superveniência de lei ou precedente vinculante do STF (Temas 810, 1170 e 1361) e a mera inércia da Fazenda Pública em impugnar oportunamente a conta, declarou-se de acordo no mérito com o critério distintivo do relator, anuindo contudo ao pedido de vista formulado pela Min. Regina Helena Costa para sistematização das variáveis.\n- **AgInt no REsp 2.202.275/AL — Interposição Fraudulenta na Importação e Multas dos Arts. 23, § 3º, do DL 1.455/1976 e 33 da Lei 11.488/2007 (Início: 03:47:15):** Autor de destaque no sistema, o Min. Herman Benjamin pediu vista dos autos (03:52:07) após o voto do relator Min. Paulo Sérgio Domingues que restringia ao importador oculto a multa de 100% substitutiva do perdimento e reservava ao importador ostensivo apenas a multa de 10% por cessão de nome. Explicou que o quadro descrito no acórdão recorrido acerca das operações de importação não lhe permitia extrair de imediato a premissa de uma espécie de \"boa-fé mitigada\" do importador ostensivo, demandando exame detido dos autos em voto-vista.\n- **AgInt no REsp 2.208.220/SP — Responsabilidade Civil de Concessionária de Rodovia por Acidente com Animal Silvestre na Pista (Início: 03:53:27):** Em aparte após o pedido de vista do Min. Sérgio Kukina, o Min. Herman Benjamin ponderou (03:57:21) que, sob a perspectiva das relações jurídicas de massa e da prestação de serviço público rodoviário compartilhado por milhares de usuários, o fundamento teórico para não qualificar o ingresso de animal na pista como fortuito externo reside na capacidade exclusiva da concessionária de contratar seguro e internalizar o risco, diluindo e pulverizando o respectivo custo tarifário entre todos os usuários do sistema viário.\n- **REsp 2.293.252/MG — Tutela do Patrimônio Histórico-Cultural em Ação Civil Pública e Eficácia Autônoma do Inventário Cultural (Início: 03:59:31):** Ao acompanhar o voto do relator Min. Paulo Sérgio Domingues pelo provimento do recurso especial do Ministério Público de Minas Gerais para proteger o \"Hotel Regina\" (inventariado em 1988), o Min. Herman Benjamin destacou (04:02:39) a relevância histórica e doutrinária do precedente. Ressaltou que o Direito do Patrimônio Cultural evoluiu para superar a visão reducionista de que apenas o tombamento protege o bem cultural, pois o tombamento constitui o ato final do ciclo protetivo; sem a eficácia jurídica autônoma (*per se*) de instrumentos constitucionais como o inventário e de medidas preparatórias, o bem histórico seria destruído antes da conclusão do tombamento. Propôs que a Secretaria de Comunicação Social do STJ conferisse divulgação especial ao julgado.\n- **AgInt no AREsp 2.829.339/MT — Legitimidade Passiva e Responsabilidade Pessoal de Ex-Prefeito por Multa Cominatória Expressamente Prevista em TAC (Início: 04:04:45):** O Min. Herman Benjamin abriu divergência (04:09:52, 04:10:43, 04:12:06, 04:20:05, 04:31:54, 04:35:19 e 04:39:11) para dar provimento ao agravo interno do Ministério Público de Mato Grosso, afastar os óbices das Súmulas 5 e 7 do STJ e determinar o conhecimento do recurso especial para posterior julgamento do mérito pela Turma. Salientou que a jurisprudência histórica das duas Turmas de Direito Público afirma a força obrigatória das cláusulas de Termo de Ajustamento de Conduta (TAC), salvo vício de consentimento (como simulação), e que a sentença e o acórdão recorrido deixaram incontroversos os três fatos essenciais: a celebração do TAC (para instalação de prontuário eletrônico de pacientes da rede municipal de saúde em 120 dias), a existência da cláusula 7ª prevendo expressamente a responsabilidade pessoal e solidária do Chefe do Executivo pela multa cominatória de R$ 20.000,00 e a subscrição voluntária pelo então prefeito. Enfatizou que o tribunal de origem declarou a invalidade ou ineficácia em tese da cláusula para instituir uma blindagem absoluta do gestor público, o que constitui questão estritamente jurídica, advertindo que o emprego das Súmulas 5 e 7 impediria o STJ de exercer sua missão constitucional sobre tese jurídica de elevada repercussão para a tutela coletiva.\n\n## Destaques da Sessão\n\n- **REsp 2.256.188/SP — Interpretação Inédita do Art. 12, § 5º, da LIA (Atos de Menor Ofensa aos Bens Jurídicos Tutelados):** Primeiro enfrentamento colegiado na Primeira Turma acerca do alcance do art. 12, § 5º, da Lei 8.429/1992, introduzido pela Lei 14.230/2021. Por maioria (vencido o Min. Herman Benjamin), o colegiado afastou o óbice da Súmula 7/STJ para qualificar juridicamente os fatos incontroversos fixados na origem e deu provimento parcial ao recurso especial para excluir a sanção de suspensão dos direitos políticos por 8 anos imposta a ex-prefeito pela apropriação/troca de motor de Kombi municipal avaliado originalmente em R$ 650,00 (mantidos o ressarcimento, a multa civil de três vezes o dano e a proibição de contratar não impugnada). Travou-se denso debate entre a relatora Min. Regina Helena Costa (acompanhada pelos Ministros Gurgel de Faria, Paulo Sérgio Domingues e Sérgio Kukina), que afirmou tratar-se de comando sancionatório específico limitador das penas nos casos de reduzida expressão ofensiva, e o Min. Herman Benjamin, que sustentou a necessidade de leitura conjugada com o art. 17-C, IV, da LIA diante do *modus operandi* fraudulento envolvendo veículo artesanal (\"gaiola\") e familiares do gestor.\n- **AgInt no AREsp 2.829.339/MT — Responsabilização Pessoal de Prefeito Subscritor por Multa Cominatória em TAC e Limites das Súmulas 5 e 7/STJ:** Intenso debate metodológico sobre a distinção entre interpretação contratual/reexame probatório (Súmulas 5 e 7/STJ) e controle da validade jurídica em tese de cláusula de Termo de Ajustamento de Conduta (TAC) que prevê responsabilidade pessoal e solidária do prefeito pelo pagamento de multa cominatória em caso de descumprimento de obrigação assumida na área de saúde pública. Diante do empate entre os votos dos Ministros Paulo Sérgio Domingues (relator) e Sérgio Kukina, que mantinham o não conhecimento pelas Súmulas 5 e 7/STJ, e os votos divergentes dos Ministros Herman Benjamin e Regina Helena Costa, que davam provimento ao agravo interno para conhecer do recurso especial e permitir o julgamento de mérito da tese pelo colegiado, pediu vista o Min. Gurgel de Faria.\n- **REsp 2.293.252/MG — Tutela do Patrimônio Histórico-Cultural e Eficácia Autônoma do Inventário Independentemente de Tombamento:** A Primeira Turma, à unanimidade, deu provimento ao recurso especial do Ministério Público do Estado de Minas Gerais para reconhecer que o inventário constitui instrumento constitucional autônomo de proteção do patrimônio cultural (art. 216, § 1º, da CF/1988), apto a embasar obrigações de conservação e restauração de imóvel histórico (\"Hotel Regina\", inventariado em 1988) em ação civil pública independentemente de prévio tombamento ou de regulamentação local específica. Por sugestão do Min. Herman Benjamin, determinou-se o encaminhamento do julgado à Secretaria de Comunicação do STJ para divulgação institucional.\n- **REsp 2.093.860/RS — Questão de Ordem sobre Prova Pré-Constituída em Mandado de Segurança Preventivo Tributário (Operações de Hedge / NDF):** Debate relevante suscitado pelo Min. Herman Benjamin acerca da aplicação do direito à espécie (art. 255, § 5º, do RISTJ) e da impossibilidade de conhecimento de mandado de segurança preventivo impetrado sem prova documental pré-constituída das operações de derivativos. Por maioria (vencido o suscitante), a Turma reafirmou que mesmo matérias de ordem pública atinentes às condições da ação mandamental exigem prequestionamento nas instâncias ordinárias para serem conhecidas em sede de recurso especial, prorrogando-se a vista para exame do mérito tributário diante de manifestação superveniente da Fazenda Nacional.\n- **AREsp 2.683.537/MS — Inaplicabilidade do Tema 69/STF ao Regime Facultativo de Alíquota Ad Rem de PIS/COFINS sobre Álcool:** Julgamento com sustentação oral em que a Primeira Turma, por unanimidade, negou provimento ao recurso especial de usina sucroalcooleira, firmando que a tese de exclusão do ICMS da base de cálculo do PIS e da COFINS (Tema 69/STF e Temas 1125 e 1372/STJ) não se estende ao regime especial e facultativo de apuração por unidade de medida física (alíquota *ad rem* por metro cúbico prevista no art. 5º, § 4º, da Lei 9.718/1998), aplicando a diretriz do Tema 1008/STJ e do Tema 1048/STF.\n- **AREsp 3.220.567/SE — Controle Judicial de Legalidade sobre Acordo de Não Persecução Civil (ANPC) sem Cláusula de Ressarcimento ao Erário:** Com sustentação oral da defesa, a Turma reafirmou, à unanimidade, que a homologação judicial de ANPC não constitui ato meramente formal e que é legítima a recusa de homologação pelo tribunal de origem quando o ajuste, mesmo celebrado antes de condenação definitiva, deixa de prever o ressarcimento integral do dano estimado em valores milionários na inicial e limita-se a estipular multa revertida a fundo do Ministério Público, violando o art. 17-B, I e II, da Lei 8.429/1992.\n- **AgInt no RMS 78.564/BA e AgInt no AREsp 3.153.809/SE — Diálogos de Uniformização Jurisprudencial (Súmula 115/STJ em RMS e Preclusão em Cumprimento de Sentença):** Dois importantes debates de uniformização interna: no primeiro, adiou-se o feito para levantamento dos precedentes da Corte Especial e da Primeira Seção que afastam a incidência da Súmula 115/STJ em sede de competência originária e recursal ordinária (RMS); no segundo, a Min. Regina Helena Costa pediu vista para sistematizar as hipóteses em que se opera a preclusão sobre os critérios de correção monetária e juros quando a Fazenda Pública deixa de impugnar tempestivamente os cálculos antes da sentença homologatória.\n\n## Processos Julgados\n\n### 1. AREsp 2.683.537/MS - Exclusão do ICMS da base de cálculo do PIS e da COFINS apurados por alíquota específica por volume (ad rem) na venda de álcool (Início: 00:35:56)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Conhecido o agravo para negar provimento ao recurso especial\n- **Votação:** Unânime (impedido o Min. Paulo Sérgio Domingues)\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** A tese firmada no Tema 69/STF (exclusão do ICMS destacado na nota fiscal da base de cálculo do PIS e da COFINS) não se aplica ao regime especial e facultativo de apuração e recolhimento das contribuições mediante alíquotas específicas por volume de combustível (alíquota ad rem por metro cúbico prevista no art. 5º, § 4º, da Lei 9.718/1998), porquanto a opção voluntária do contribuinte por sistemática diferenciada de tributação afasta a decomposição da base de incidência e não contempla em sua estrutura o imposto estadual destacado, na linha da ratio dos Temas 1008/STJ e 1048/STF.\n- **Resumo da discussão:** Em sustentação oral pela agravante Atvos Bioenergia Eldorado S.A. (00:37:56), o advogado Dr. Breno Ferreira Martins Vasconcelos argumentou que o art. 5º, § 4º, da Lei 9.718/1998 alterou apenas a unidade de medida de apuração do PIS e da COFINS (valores fixos por metro cúbico de álcool), mantendo a receita bruta como materialidade constitucional (art. 195, I, *b*, da CF/1988) e calibrando o valor fixo pela alíquota modal de 9,25% sobre o preço final que inclui o ICMS, conforme notas técnicas da Receita Federal. Sustentou que a sistemática *ad rem* foi instituída pela MP 413/2008 (Lei 11.727/2008) como medida de praticabilidade e controle fiscal, e não como benefício fiscal, invocando os Temas 1125 e 1372 do STJ e propondo distinção em relação ao Tema 1008/STJ. O relator, Min. Gurgel de Faria (00:51:03), afastou a preliminar de negativa de prestação jurisdicional e, no mérito, destacou que, embora a base constitucional das contribuições continue a ser a receita ou o faturamento, o STJ e o STF (Temas 1008/STJ e 1048/STF) possuem entendimento consolidado de que a tese do Tema 69/STF não se aplica quando há facultatividade na adesão ao regime tributário, acrescendo que o Tema 69 determinou a exclusão do ICMS destacado na nota fiscal, peculiaridade incompatível com a cobrança por alíquota *ad rem* por metro cúbico. O procurador da Fazenda Nacional, Dr. Thiago Querenski de Moraes Couto, dispensou o uso da palavra diante do voto do relator. O colegiado, por unanimidade, conheceu do agravo e negou provimento ao recurso especial.\n\n### 2. AREsp 3.220.567/SE - Recusa de homologação judicial de Acordo de Não Persecução Civil (ANPC) desprovido de cláusula de ressarcimento ao erário (Início: 00:54:19)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Conhecido o agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Tese fixada:** A homologação judicial do Acordo de Não Persecução Civil (ANPC) não constitui ato meramente formal, cabendo ao Poder Judiciário exercer controle corretivo de legalidade e recusar a chancela a ajuste que, mesmo celebrado antes de condenação definitiva, omita cláusulas obrigatórias de integral ressarcimento do dano e de reversão da vantagem indevida à pessoa jurídica lesada (art. 17-B, I e II, da Lei 8.429/1992, na redação da Lei 14.230/2021), não suprindo tal exigência legal cogente a mera previsão de multa civil revertida a fundo de reaparelhamento do Ministério Público.\n- **Resumo da discussão:** Pela defesa do agravante Valmir dos Santos Costa (ex-Prefeito de Itabaiana/SE), sustentou oralmente o Dr. Filipe Botelho Silva Mauad (00:55:34), relatando que a ação de improbidade administrativa — referente à contratação de empresa para destinação de resíduos de animais abatidos no matadouro municipal — fora julgada improcedente em primeira instância e que, durante a apelação do Ministério Público, as partes requereram conjuntamente a suspensão do feito por 45 dias para ultimar Acordo de Não Persecução Civil (ANPC). Alegou nulidade pelo indeferimento da suspensão pelo TJSE e, no mérito, violação ao art. 17-B da LIA, argumentando que o acordo foi celebrado quando vigia sentença absolutória e inexistia dano liquidado, invocando o REsp 2.263.884/SE (Rel. Min. Regina Helena Costa) para defender a limitação proporcional à participação de cada um dos seis corréus. O relator, Min. Sérgio Kukina (01:03:38), votou pelo conhecimento do agravo e pelo conhecimento parcial do recurso especial, negando-lhe provimento sob quatro fundamentos: (i) a efetiva celebração e submissão do ANPC no curso da apelação esvaziou o interesse recursal quanto à alegada nulidade pelo indeferimento do pedido anterior de sobrestamento; (ii) nos termos do art. 17-B, I e II, da Lei 8.429/1992, o ANPC deve obrigatoriamente assegurar o integral ressarcimento do dano e a reversão da vantagem indevida à pessoa jurídica lesada; (iii) a inexistência de sentença condenatória no momento da assinatura não afasta a obrigatoriedade das cláusulas reparatórias, aplicável inclusive na fase extrajudicial, verificando-se na espécie que a inicial estimava prejuízos milionários ao Município e o acordo limitou-se a prever multa sem qualquer cláusula de ressarcimento; e (iv) a estipulação de multa civil integralmente destinada a fundo do Ministério Público não se confunde com a reparação do dano nem reverte em proveito do ente público lesado, sendo legítimo o controle judicial de legalidade exercido pela corte de origem (reportando-se também ao REsp 2.263.884/SE). Decisão unânime.\n\n### 3. AgInt no REsp 2.220.538/PR - Mandado de segurança preventivo sobre subvenções de ICMS (Tema 1182/STJ) e ausência de demonstração de justo receio (Início: 01:07:54)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Não ofende os arts. 489, § 1º, e 1.022, II, do CPC o acórdão que aprecia fundamentadamente a natureza preventiva do mandado de segurança e extingue o feito sem resolução de mérito por ausência de comprovação de ato coator concreto ou de justo receio de autuação fiscal, esbarrando a revisão dessa premissa fático-probatória no óbice da Súmula 7/STJ, além das Súmulas 211, 283 e 518 do STJ.\n- **Resumo da discussão:** Por videoconferência, a advogada Dra. Giovana Alves Correia (01:09:24) sustentou pela agravante Fancar Germânia Ltda. que o mandado de segurança preventivo fora impetrado para assegurar a exclusão de benefícios fiscais de ICMS da base de cálculo do IRPJ e da CSLL diante de reiteradas Soluções de Consulta da Receita Federal exigindo comprovação de implantação ou expansão de empreendimento, tendo a União inclusive contestado o pedido no mérito após sentença concessiva, o que demonstraria o justo receio e tornaria indevida a extinção sem julgamento do mérito pelo TRF da 4ª Região após o julgamento do Tema 1182/STJ. O relator, Min. Sérgio Kukina (01:13:48), registrou que o Min. Gurgel de Faria levantou o destaque anteriormente formulado e manteve a decisão monocrática que não conhecera do recurso especial: (i) afastou a violação aos arts. 489, § 1º, e 1.022, II, do CPC, pois o TRF4 enfrentou expressamente a alegada feição preventiva do *writ*; (ii) aplicou a Súmula 518/STJ quanto à invocação de afronta a enunciado sumular; (iii) aplicou a Súmula 211/STJ quanto aos arts. 4º, 5º e 6º do CPC por falta de prequestionamento; (iv) aplicou a Súmula 283/STJ em relação ao art. 10 do CPC por ausência de impugnação a fundamento autônomo do acórdão sobre o princípio da não surpresa; e (v) aplicou a Súmula 7/STJ quanto ao art. 1º da Lei 12.016/2009, porquanto rever a conclusão da origem sobre a indemonstração de ameaça concreta e justo receio demandaria reexame fático-probatório. A Turma negou provimento ao agravo interno por unanimidade.\n\n### 4. AgInt no REsp 2.240.061/RJ - Lavratura de auto de infração para prevenir decadência durante suspensão de exigibilidade de IPI na importação de veículo por pessoa física (Início: 01:18:41)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Consignado pelo tribunal de origem que a decisão proferida em mandado de segurança determinou apenas a suspensão da exigibilidade do crédito tributário de IPI na importação de veículo por pessoa física, sem vedar o lançamento para prevenção da decadência, e que a CDA goza de certeza e liquidez, a inversão dessas premissas, tal como articulada nas razões do recurso especial, encontra óbice na Súmula 7/STJ.\n- **Resumo da discussão:** Em sustentação oral pelo agravante José Roberto Gama de Oliveira — ex-atleta de futebol conhecido como Bebeto —, o Dr. Marcos André Siciliano Meneses (01:20:13) relatou que o contribuinte importou veículo automotor para uso próprio em abril de 2013 e obteve ordem em mandado de segurança para impedir a exigência do IPI, a qual veio a ser reformada em juízo de retratação pelo TRF da 2ª Região em 2016 após o julgamento do Tema 643/STF. Sustentou que o auto de infração que embasou a execução fiscal ajuizada em 2023 é nulo porque foi lavrado em outubro de 2013, apenas três meses após a concessão da segurança, quando não havia risco iminente de decadência e estava vigente ordem de abstenção contra o Fisco, invocando o REsp 1.140.956/SP, o AgInt no REsp 1.731.423/RJ e o AREsp 2.827.792, e defendendo tratar-se de matéria puramente de direito (art. 151, IV, do CTN). O relator, Min. Sérgio Kukina (01:27:33), manteve o não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, ressaltando que o TRF2 assentou expressamente que a decisão mandamental limitara-se a suspender a exigibilidade do crédito tributário, sem proibir sua constituição pelo lançamento, concluindo pela higidez da CDA, de modo que a alteração desse quadro nos moldes postos no apelo nobre exigiria reexame de elementos fático-probatórios. Agravo interno desprovido à unanimidade.\n\n### 5. REsp 2.093.860/RS - Questão de Ordem em Mandado de Segurança Preventivo: Operações de hedge (NDF), prova pré-constituída e exigência de prequestionamento de matéria de ordem pública (Início: 01:30:48)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Questão de ordem rejeitada, com prorrogação do pedido de vista do Min. Herman Benjamin quanto ao mérito\n- **Votação:** Maioria na questão de ordem (vencido o Min. Herman Benjamin); aguardando conclusão no mérito (pedido de vista prorrogado)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Suscitou questão de ordem (01:31:52) em voto-vista sustentando que, superado o conhecimento do recurso especial pelo prequestionamento do mérito tributário relativo à dedutibilidade de perdas em contratos de hedge (NDF) da base de cálculo do IRPJ e da CSLL, caberia ao STJ aplicar o direito à espécie (art. 255, § 5º, do RISTJ) e observar que a petição inicial do mandado de segurança preventivo veio instruída unicamente com o contrato social e planilha unilateral elaborada por contadora, sem comprovação documental da celebração de contratos de derivativos, de sua vinculação a exportações ou das perdas incorridas; propôs, com base no art. 10 do CPC, a intimação da impetrante para se manifestar sobre a ausência de prova pré-constituída do direito líquido e certo. Vencido na questão de ordem, teve prorrogado o prazo de vista para exame do mérito.\n- **Tese fixada:** Na instância especial, mesmo as matérias de ordem pública — como a alegada ausência de prova pré-constituída para o cabimento de mandado de segurança preventivo — submetem-se ao requisito constitucional do prequestionamento, não podendo ser conhecidas de ofício pelo Superior Tribunal de Justiça quando não debatidas pelas instâncias ordinárias. [VOTO VENCIDO] Aberta a instância especial pelo prequestionamento do mérito da relação jurídico-material tributária, incumbe ao órgão julgador aplicar o direito à espécie (art. 255, § 5º, do RISTJ) e, constatando que a petição inicial do mandado de segurança preventivo está desacompanhada de documentos comprobatórios das operações de hedge e respectivas perdas, intimar a parte impetrante (art. 10 do CPC) para manifestar-se sobre a ausência de prova pré-constituída.\n- **Resumo da discussão:** Trata-se de recurso especial interposto por Indústria de Calçados Wirth Ltda. (\"Wirg Limitada\" na transcrição) contra acórdão do TRF da 4ª Região em mandado de segurança preventivo relativo à não incidência de IRPJ e CSLL sobre resultados/perdas em operações de cobertura cambial (*hedge* na modalidade NDF) e respectiva dedução no lucro real. Em sessão anterior, após voto do relator Min. Gurgel de Faria negando provimento ao recurso especial e voto-vista da Min. Regina Helena Costa dando-lhe parcial provimento, pedira vista coletiva o Min. Herman Benjamin, que nesta sessão apresentou questão de ordem propondo a intimação da recorrente quanto à falta de prova pré-constituída na impetração. O relator Min. Gurgel de Faria (01:35:48) e a Min. Regina Helena Costa (01:37:23) votaram pela rejeição da questão de ordem, ressaltando que a jurisprudência consolidada do STJ exige o prequestionamento inclusive para questões de ordem pública em sede de recurso especial, o que não se verificou quanto à instrução probatória do *writ*. A Min. Regina Helena Costa acrescentou fundamento pragmático relevante: em 26 de junho, após o início do julgamento, a Fazenda Nacional apresentou manifestação alterando parcialmente sua postura processual e convergindo em parte com a diretriz do voto-vista da Ministra, por reconhecer que a Receita Federal havia orientado o contribuinte a proceder daquela forma, motivo pelo qual o próprio relator disponibilizou retificação parcial de voto no sistema. Os Ministros Sérgio Kukina (01:39:22) e Paulo Sérgio Domingues (01:39:45) acompanharam o relator e a Min. Regina Helena Costa, rejeitando a questão de ordem por maioria (vencido o Min. Herman Benjamin) e restituindo os autos ao gabinete do Min. Herman Benjamin com prorrogação de vista para apreciação do mérito.\n\n### 6. AgInt no AREsp 2.726.591/RS - Decadência de mandado de segurança tributário e óbices das Súmulas 211 e 7 do STJ (Início: 01:41:19)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Desprovido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Incidem os óbices das Súmulas 211 e 7 do STJ quando as teses normativas suscitadas no recurso especial não foram apreciadas pelo tribunal de origem a despeito da oposição de embargos de declaração — sem que a parte tenha apontado violação ao art. 1.022 do CPC — e a revisão do reconhecimento da decadência para a impetração do mandado de segurança demanda revolvimento do acervo fático-probatório.\n- **Resumo da discussão:** Apregoado em regime de preferência com a presença por videoconferência do patrono da agravante B8 S.A., Dr. Eduardo Gonçalves Spitaliere (01:42:10), o relator Min. Sérgio Kukina votou pelo desprovimento do agravo interno, consignando que a corte regional não examinou a lide sob o enfoque dos dispositivos invocados no apelo nobre nem foi suscitada ofensa ao art. 1.022 do CPC no recurso especial (Súmula 211/STJ), além de a reforma da premissa fática quanto à consumação do prazo decadencial da impetração exigir reexame de provas (Súmula 7/STJ). O colegiado negou provimento ao agravo interno de forma unânime.\n\n### 7. AgInt no AREsp 3.091.396/RJ - Improbidade administrativa por acumulação indevida de cargos públicos e ausência de prequestionamento (Início: 01:44:10)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Benedito Gonçalves\n- **Resultado:** Desprovido\n- **Votação:** Unânime quanto à conclusão (acompanhamento pela conclusão com fundamento diverso nos termos do voto-vista do Min. Gurgel de Faria)\n- **Relevância:** Ordinária\n- **Tese fixada:** A ausência de prequestionamento dos dispositivos legais invocados pelo Ministério Público nas razões do recurso especial impede o conhecimento da insurgência voltada à condenação por improbidade administrativa decorrente de acumulação indevida de cargos públicos.\n- **Resumo da discussão:** Em continuidade de julgamento após o voto do relator Min. Benedito Gonçalves negando provimento ao agravo interno do Ministério Público do Estado do Rio de Janeiro, o Min. Gurgel de Faria apresentou voto-vista (01:44:59) acompanhando o relator pela conclusão, mas sob fundamento distinto: observou que a demanda versava sobre acumulação indevida de cargos públicos originalmente capitulada no art. 11, I, da Lei 8.429/1992 (dispositivo revogado pela Lei 14.230/2021 sem continuidade típico-normativa nas hipóteses taxativas do novo art. 11), porém destacou que, preliminarmente, os dispositivos federais suscitados pelo *Parquet* no recurso especial sequer foram prequestionados na origem. Após diálogo técnico suscitado pela Min. Regina Helena Costa (01:46:48) sobre a incompatibilidade lógica de somar fundamentações de mérito e de não conhecimento, os Ministros Gurgel de Faria, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues acompanharam o relator exclusivamente pela conclusão (desprovimento do agravo interno), adotando o fundamento de ausência de prequestionamento.\n\n### 8. AgInt no AgInt no AREsp 2.745.473/GO - Cumulação de honorários advocatícios em ação anulatória e execução fiscal extinta: incidência da Súmula 283/STJ (Início: 01:48:13)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Benedito Gonçalves\n- **Resultado:** Desprovido\n- **Votação:** Unânime quanto à conclusão (acompanhamento pela conclusão com aplicação da Súmula 283/STJ nos termos do voto-vista do Min. Gurgel de Faria)\n- **Relevância:** Ordinária\n- **Tese fixada:** A ausência de impugnação específica a fundamentos autônomos e suficientes do acórdão de origem que dirimiu a controvérsia sobre a cumulação de honorários advocatícios em ação anulatória e em execução fiscal extinta atrai a incidência da Súmula 283/STJ.\n- **Resumo da discussão:** Em prosseguimento ao voto do relator Min. Benedito Gonçalves — que negava provimento ao agravo interno da contribuinte Lubercol Óleos Ltda. com base na Súmula 7/STJ —, o Min. Gurgel de Faria proferiu voto-vista (01:48:51) acompanhando o relator pela conclusão, mas substituindo o óbice da Súmula 7/STJ pelo da Súmula 283/STJ, por constatar que o recurso especial deixou de impugnar fundamentos autônomos do acórdão do TJGO. Os Ministros Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues aderiram à proposta do voto-vista, negando provimento ao agravo interno à unanimidade pela conclusão.\n\n### 9. REsp 2.256.188/SP - Improbidade administrativa: interpretação do art. 12, § 5º, da LIA (atos de menor ofensa aos bens jurídicos) e exclusão da suspensão dos direitos políticos (Início: 01:50:41)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Regina Helena Costa\n- **Resultado:** Conhecido parcialmente o recurso especial e, nessa extensão, provido para afastar unicamente a penalidade de suspensão dos direitos políticos\n- **Votação:** Maioria (vencido o Min. Herman Benjamin na preliminar de conhecimento e no mérito)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Proferiu voto-vista divergente (01:52:04) pelo não conhecimento do recurso especial ante o óbice da Súmula 7/STJ, argumentando que o TJSP considerou expressamente o pequeno valor patrimonial do dano e manteve a suspensão dos direitos políticos em razão da gravidade concreta da conduta, não podendo o STJ presumir ausência de reflexos amplos na administração municipal diante do silêncio do acórdão. Vencido na preliminar, votou no mérito (02:15:08, 02:24:08 e 02:26:34) pelo desprovimento do recurso especial, defendendo que o art. 12, § 5º, da LIA deve ser lido em conjunto com o art. 17-C, IV, alíneas *a* a *g*, da mesma lei, pois a tutela da probidade não se mede apenas pelo valor financeiro do bem (R$ 650,00 originais / R$ 2.183,00 atualizados), mas pela gravidade, natureza e impacto do ilícito praticado pelo próprio prefeito municipal, que, em conluio com o cunhado chefe de manutenção da frota, retirou o motor de uma Kombi oficial para retificá-lo e instalá-lo em um veículo artesanal (\"gaiola\") posteriormente adquirido pelo alcaide junto à irmã viúva.\n- **Tese fixada:** A qualificação jurídica de fatos incontroversos delineados no acórdão de origem para fins de subsunção ao conceito de \"atos de menor ofensa aos bens jurídicos tutelados\" (art. 12, § 5º, da Lei 8.429/1992, incluído pela Lei 14.230/2021) não esbarra na Súmula 7/STJ e impõe, como regra sancionatória específica aplicável aos processos em curso (Tema 1199/STF), o afastamento da penalidade de suspensão dos direitos políticos por 8 anos quando constatada a reduzida expressão econômica do dano material (apropriação/substituição de motor de veículo municipal avaliado originalmente em R$ 650,00), preservados o reconhecimento do ato doloso de improbidade, o ressarcimento integral do dano, a multa civil e as demais cominações não impugnadas. [VOTO VENCIDO] A revisão do juízo de reprovabilidade formulado pela corte de origem para afastar a suspensão dos direitos políticos demanda reexame fático-probatório vedado pela Súmula 7/STJ e, no mérito, a interpretação sistemática dos arts. 12, § 5º, e 17-C, IV, da Lei 8.429/1992 impede que a aferição da \"menor ofensa aos bens jurídicos tutelados\" se reduza à expressão monetária do bem apropriado quando o modus operandi — envolvimento do chefe de manutenção da frota e de familiares do próprio Prefeito Municipal para apropriar-se de motor de veículo público retificado — revela grave violação aos deveres de honestidade e probidade no exercício do mandato eletivo.\n- **Resumo da discussão:** Trata-se de recurso especial interposto por José Luís da Cunha, ex-Prefeito de Lavrinhas/SP, condenado por ato de improbidade administrativa (art. 9º da LIA) em razão da apropriação/troca de motor de Kombi da frota municipal (dano originalmente fixado em R$ 650,00) às penas cumulativas de ressarcimento ao erário, multa civil de três vezes o valor do dano, proibição de contratar com o Poder Público por 10 anos e suspensão dos direitos políticos por 8 anos, restringindo-se o apelo nobre ao pedido de exclusão da suspensão dos direitos políticos com base no art. 12, § 5º, da LIA (incluído pela Lei 14.230/2021). Após o voto-vista do Min. Herman Benjamin suscitando o não conhecimento pela Súmula 7/STJ, a relatora Min. Regina Helena Costa (01:56:01) ratificou seu voto pelo conhecimento parcial do recurso, distinguindo reexame de provas de qualificação jurídica dos fatos incontroversos para concretização do conceito jurídico indeterminado de \"menor ofensa aos bens jurídicos tutelados\" e destacando que o próprio TJSP, em juízo de adequação (fls. 1.209/1.217), reconhecera ser pouco expressivo o dano material. Submetida a preliminar de conhecimento a votação destacada (02:05:41), os Ministros Gurgel de Faria, Paulo Sérgio Domingues e Sérgio Kukina acompanharam a relatora, superando a Súmula 7/STJ por maioria (vencido o Min. Herman Benjamin). No mérito (02:07:38 e 02:22:21), a Min. Regina Helena Costa salientou que o art. 12, § 5º, da LIA não descaracteriza a tipicidade nem o dolo específico, mas institui comando sancionatório específico para atos de menor potencial ofensivo em processos ainda não transitados em julgado (Tema 1199/STF), mostrando-se manifestamente desproporcional a cumulação da suspensão dos direitos políticos por 8 anos diante de dano original de R$ 650,00 já sancionado com ressarcimento, multa triplicada e proibição de contratar por 10 anos. O Min. Herman Benjamin (02:15:08) votou pelo desprovimento enfatizando o *modus operandi* descrito no acórdão e a leitura conjugada com o art. 17-C, IV, da LIA. O Min. Gurgel de Faria (02:30:03) acompanhou a relatora. O Min. Paulo Sérgio Domingues (02:30:23) também acompanhou a relatora, distinguindo o campo de incidência do art. 17-C (diretrizes gerais de fundamentação da sentença) do art. 12, § 5º (limitação objetiva de sanções nos atos de menor ofensa) e observando, a partir do relatório fático transcrito no acórdão (fl. 358), que o episódio se originara de avaria mecânica da Kombi oficial na rodovia Presidente Dutra e permuta de motores encaminhados à retífica. O Presidente Min. Sérgio Kukina (02:36:31) acompanhou a relatora, proclamando-se o provimento parcial do recurso especial na parte conhecida, por maioria, vencido o Min. Herman Benjamin.\n\n### 10. AgInt nos EDcl no AREsp 1.872.598/AM (Item 18 - Agravante: Marilene Corrêa da Silva Freitas) - Improbidade administrativa em convênio para aquisição de livros: improcedência quanto ao art. 10 da LIA (Início: 03:14:21)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Parcialmente provido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Afastada a configuração de ato de improbidade administrativa capitulado no art. 10 da Lei 8.429/1992 em relação à agente pública, julga-se improcedente o pedido condenatório fundado no referido dispositivo e exclui-se a multa civil correlata, remanescendo a condenação pelo art. 11 da LIA.\n- **Resumo da discussão:** Retornando os autos ao relator Min. Paulo Sérgio Domingues em virtude da posse do Min. Benedito Gonçalves (que havia pedido vista em junho do ano anterior) na Corregedoria, o relator reapresentou seu voto (03:15:58) em ação de improbidade administrativa relativa a convênio firmado com o Estado do Amazonas no valor de R$ 900.000,00 para aquisição de 15 mil exemplares de livros que, em sua expressiva maioria, desapareceram. No agravo interno de Marilene Corrêa da Silva Freitas (item 18 da pauta), o relator votou pelo parcial provimento do recurso para julgar improcedente o pedido condenatório fundado no art. 10 da Lei 8.429/1992 e afastar a multa civil correlata, mantendo a condenação remanescente pelo art. 11 da LIA. O colegiado acompanhou o relator à unanimidade.\n\n### 11. AgInt nos EDcl no AREsp 1.872.598/AM (Item 19 - Agravante: Fundação Boas Novas) - Improbidade administrativa em convênio: manutenção do ressarcimento de R$ 900 mil e retorno para nova dosimetria (Início: 03:15:32)\n- **Matéria:** 1. Improbidade Administrativa\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Parcialmente provido\n- **Votação:** Unânime\n- **Relevância:** Ordinária\n- **Tese fixada:** Julgado improcedente o pedido condenatório fundado no art. 10 da Lei 8.429/1992 em relação à entidade conveniada, mantém-se a obrigação de ressarcimento integral do montante transferido (R$ 900.000,00) como decorrência lógica do ilícito reconhecido e determina-se o retorno dos autos ao tribunal de origem para nova dosimetria das demais sanções.\n- **Resumo da discussão:** Julgado em conjunto com o item anterior pelo relator Min. Paulo Sérgio Domingues (03:15:58), o agravo interno interposto pela Fundação Boas Novas (item 19 da pauta) teve parcial provimento para julgar improcedente o pedido condenatório por improbidade administrativa com base no art. 10 da LIA, mantendo-se contudo a condenação à devolução integral dos R$ 900.000,00 relativos ao convênio para aquisição dos 15 mil livros desaparecidos e determinando-se o retorno dos autos ao Tribunal de Justiça do Amazonas para realização de nova dosimetria das sanções. Decisão unânime.\n\n### 12. AgInt no RMS 78.564/BA - Aplicabilidade da Súmula 115/STJ em sede de Recurso Ordinário em Mandado de Segurança (Início: 03:18:52)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Sérgio Kukina\n- **Resultado:** Adiado\n- **Votação:** Aguardando conclusão (adiado por indicação do relator após proposta do Min. Herman Benjamin)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Concordando com a ponderação levantada pelo Min. Gurgel de Faria e com os precedentes citados pela Min. Regina Helena Costa, propôs (03:24:27 e 03:31:21) o adiamento do julgamento por uma semana para que seja realizado levantamento atualizado junto à Coordenadoria da Corte Especial acerca da orientação daquele colegiado sobre a inaplicabilidade da Súmula 115/STJ nos processos de competência originária e recursal ordinária.\n- **Tese fixada:** [PROPOSTA] Debate sobre a inaplicabilidade da Súmula 115/STJ aos processos de competência originária e recursal ordinária do STJ (como o Recurso Ordinário em Mandado de Segurança, em que o Tribunal atua como instância de apelação), à luz dos precedentes da Corte Especial (EDcl no MS 20.824/DF, Rel. Min. Mauro Campbell Marques, 2017) e da Primeira Seção (RCD no MS 23.832/DF, Rel. Min. Assusete Magalhães, 2019), em cotejo com julgados recentes de Turmas que aplicaram o verbete.\n- **Resumo da discussão:** O relator, Min. Sérgio Kukina (03:18:52), apresentou inicialmente voto negando provimento ao agravo interno com base na Súmula 115/STJ, porque o recorrente, intimado para regularizar a representação processual, juntara nova procuração com data posterior à interposição. O Min. Gurgel de Faria (03:20:01), em destaque, ponderou que a Súmula 115/STJ foi concebida especificamente para a instância especial e questionou a conveniência de aplicá-la em Recurso Ordinário em Mandado de Segurança (RMS), sede de jurisdição recursal ordinária. A Min. Regina Helena Costa (03:22:22 e 03:25:37) destacou que no RMS o STJ funciona como tribunal de apelação e apontou que a Corte Especial, superando antiga orientação em setembro de 2017 (EDcl no MS 20.824/DF, Rel. Min. Mauro Campbell Marques), assentou a inaplicabilidade da Súmula 115/STJ aos feitos de competência originária e recursal ordinária, diretriz reafirmada pela Primeira Seção em março de 2019 (RCD no MS 23.832/DF, Rel. Min. Assusete Magalhães). O Min. Sérgio Kukina (03:26:44) informou que seu gabinete identificara julgados recentes da própria Primeira Turma (maio e junho) e da Segunda Turma aplicando a Súmula 115/STJ em RMS. Diante da necessidade de observar a orientação dos colegiados maiores e uniformizar a atuação da Turma, acolheu-se a sugestão do Min. Herman Benjamin de adiar o julgamento para a sessão da semana seguinte, comprometendo-se o Ministro a requisitar levantamento oficial junto à Coordenadoria da Corte Especial.\n\n### 13. AgInt no AREsp 3.153.809/SE - Preclusão da impugnação aos índices de juros e correção monetária (SELIC) após homologação de cálculos não impugnados pela Fazenda Pública (Início: 03:31:53)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Gurgel de Faria\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (pedido de vista antecipada da Min. Regina Helena Costa após o voto do relator negando provimento ao agravo interno)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Manifestou-se (03:38:49, 03:40:51 e 03:45:05) justificando seu destaque pela dispersão de entendimentos na própria Primeira Turma — mencionando o AgInt no REsp 2.150.640/SC (Rel. Min. Paulo Sérgio Domingues), em que se assentou a possibilidade de alteração dos índices de correção monetária e juros até o trânsito em julgado da execução — e sugeriu avaliar a afetação da matéria à Primeira Seção. Após os esclarecimentos do relator sobre tratar-se de hipótese em que não houve lei nem precedente vinculante superveniente entre o prazo de impugnação e a homologação, manifestou concordância com a tese do relator, apoiando contudo o pedido de vista da Min. Regina Helena Costa para densificar e sistematizar os critérios da Turma.\n- **Tese fixada:** [PROPOSTA] Opera-se a preclusão lógica e temporal quanto aos índices de correção monetária e juros de mora (taxa SELIC) aplicados em cumprimento de sentença relativo a honorários advocatícios quando o ente público executado, devidamente intimado da memória de cálculos apresentada pelo exequente, deixa transcorrer in albis o prazo de impugnação e somente se insurge após a decisão judicial de homologação da conta, sem que tenha havido superveniência de alteração legislativa ou de precedente vinculante do STF (distinção em relação aos Temas 810, 1170 e 1361 do STF).\n- **Resumo da discussão:** O relator, Min. Gurgel de Faria (03:32:41), expôs que o Estado de Sergipe permaneceu inerte no prazo para impugnar a memória de cálculos de honorários advocatícios apresentada pelos exequentes e somente recorreu após a homologação judicial da conta, pretendendo substituir a taxa SELIC por outros índices. Votou pelo desprovimento do agravo interno por reconhecer a preclusão, enfatizando a distinção fundamental entre os casos em que sobrevém lei nova ou precedente vinculante do STF antes do trânsito em julgado da execução (Temas 1170 e 1361/STF — matéria que o relator informou estar pautando em recurso repetitivo para a Primeira Seção em novembro) e o caso concreto, no qual não houve qualquer modificação normativa ou jurisprudencial superveniente, mas simples perda de prazo processual pela Fazenda estadual. A Min. Regina Helena Costa (03:37:44) e o Min. Herman Benjamin (03:38:49) ressaltaram a existência de julgados dissonantes nas Turmas de Direito Público afastando a preclusão sobre consectários legais até o trânsito em julgado da execução (como o AgInt no REsp 2.150.640/SC). O Min. Paulo Sérgio Domingues (03:42:41) observou que na prática têm surgido pedidos de readequação até mesmo após o pagamento quando ainda não formalizado o trânsito em julgado. Para permitir a sistematização criteriosa das diferentes variáveis na Primeira Turma, a Min. Regina Helena Costa pediu vista antecipada dos autos (03:45:06 e 03:46:40), aguardando os demais Ministros.\n\n### 14. AgInt no REsp 2.202.275/AL - Infração aduaneira de interposição fraudulenta: distinção entre a multa de 100% ao importador oculto e a multa de 10% por cessão de nome ao importador ostensivo (Início: 03:47:15)\n- **Matéria:** 8. Direito Tributário\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (pedido de vista do Min. Herman Benjamin após o voto do relator negando provimento ao agravo interno)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Tendo destacado o feito no plenário virtual, pediu vista dos autos (03:52:07) para examinar em profundidade a moldura do acórdão recorrido e os critérios de distinção subjetiva das sanções aduaneiras, ponderando que a descrição das operações de importação no acórdão local suscitava dúvidas quanto a admitir uma espécie de \"boa-fé mitigada\" do importador ostensivo para eximi-lo da multa de 100%.\n- **Tese fixada:** [PROPOSTA] Na infração aduaneira de interposição fraudulenta de terceiros (efetiva ou presumida), a pena de perdimento da mercadoria e, na impossibilidade de sua aplicação, a multa substitutiva de 100% do valor aduaneiro prevista no art. 23, § 3º, do Decreto-Lei 1.455/1976 dirigem-se ao importador oculto (real adquirente das mercadorias), ao passo que o importador ostensivo que cede seu nome e estrutura documental para acobertar operações de terceiros sujeita-se especificamente à multa de 10% sobre o valor da operação prevista no art. 33 da Lei 11.488/2007.\n- **Resumo da discussão:** O relator, Min. Paulo Sérgio Domingues (03:48:06), votou pelo desprovimento do agravo interno da Fazenda Nacional, mantendo decisão que conhecera do recurso especial da empresa Global Marine Importação e Exportação Ltda. (por entender tratar-se de questão estritamente jurídica) e, adotando jurisprudência da Segunda Turma sobre a coerência do sistema sancionatório aduaneiro, afastara a cobrança da multa de 100% do art. 23, § 3º, do Decreto-Lei 1.455/1976 contra a importadora ostensiva, determinando o retorno dos autos à origem para exame do cabimento da multa de 10% por cessão de nome (art. 33 da Lei 11.488/2007). O Min. Gurgel de Faria (03:50:42) esclareceu que destacara o processo do plenário virtual por uma razão metodológica institucional: quando a matéria conta apenas com precedentes da Segunda Turma e ainda não possui julgado colegiado da Primeira Turma, convém pautar diretamente o próprio recurso especial no colegiado presencial em vez de decidi-lo monocraticamente. Na sequência, o Min. Herman Benjamin (03:52:07) pediu vista dos autos para analisar os critérios de aplicação das normas sancionatórias à vista das circunstâncias descritas no acórdão de origem.\n\n### 15. AgInt no REsp 2.208.220/SP - Responsabilidade civil de concessionária de rodovia por acidente causado por ingresso de animal silvestre na pista (Início: 03:53:27)\n- **Matéria:** 7. Responsabilidade Civil da Administração\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (pedido de vista do Min. Sérgio Kukina após o voto do relator negando provimento ao agravo interno)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Após o pedido de vista do Min. Sérgio Kukina, interveio (03:57:21) para destacar que, nas relações jurídicas de massa em que uma rodovia pedagiada é compartilhada por milhares de usuários, a razão jurídica e econômica para não caracterizar o sinistro como fortuito externo reside no fato de a concessionária ser o único agente com capacidade de contratar seguro e diluir o custo de maneira pulverizada entre todos os usuários do serviço.\n- **Tese fixada:** [PROPOSTA] O ingresso abrupto de animal silvestre (raposa) sem proprietário ou possuidor identificável na pista de rolamento de rodovia concedida distingue-se das hipóteses de invasão por animais domésticos ou de criação (Tema 1122/STJ) e configura caso fortuito externo apto a romper o nexo de causalidade e afastar a responsabilidade civil objetiva da concessionária pelos danos sofridos pelo condutor, incidindo ainda na espécie os óbices das Súmulas 7 e 284 do STJ.\n- **Resumo da discussão:** O relator, Min. Paulo Sérgio Domingues (03:54:21), negou provimento ao agravo interno interposto por Dirceu de Franca em face de Renovias Concessionária S.A., distinguindo os acidentes provocados por animais domésticos ou pertencentes a pecuaristas lindeiros (em que há dever de contenção e fiscalização pela concessionária) daqueles decorrentes da travessia repentina de animal da fauna silvestre (no caso, uma raposa), qualificando o evento como caso fortuito externo excludente do nexo causal, além de aplicar as Súmulas 7 e 284 do STJ. O Presidente Min. Sérgio Kukina (03:56:02), autor do destaque, pediu vista dos autos para cotejar a hipótese com precedente recente de sua relatoria em ação civil pública sobre medidas mitigatórias contra atropelamento de fauna silvestre em rodovias. O relator ponderou (03:56:22) que naquele precedente tratava-se de obrigação administrativa e ambiental de implantar estruturas redutoras de atropelamento de fauna, e não de responsabilidade civil objetiva individual perante o motorista. O Min. Herman Benjamin (03:57:21) acrescentou a reflexão sobre a internalização securitária e a pulverização de riscos nas concessões rodoviárias, aguardando os demais Ministros o voto-vista do Min. Sérgio Kukina.\n\n### 16. REsp 2.293.252/MG - Ação civil pública para proteção de imóvel histórico (\"Hotel Regina\"): eficácia protetiva autônoma do inventário cultural independentemente de tombamento (Início: 03:59:31)\n- **Matéria:** 12. Direito Ambiental Urbanístico\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Provido\n- **Votação:** Unânime\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Ao acompanhar o relator, enalteceu a importância do julgado (04:02:39) para a evolução do Direito do Patrimônio Cultural, ressaltando que o tombamento representa apenas o ato final do procedimento protetivo e que, sem o reconhecimento da eficácia jurídica imediata e autônoma (*per se*) de outros instrumentos constitucionais como o inventário, os bens culturais correriam o risco de destruição antes do tombamento; sugeriu o envio do precedente à Secretaria de Comunicação do STJ para ampla divulgação institucional.\n- **Tese fixada:** A tutela do patrimônio histórico-cultural por meio de ação civil pública independe de prévio ato de tombamento ou de regulamentação municipal específica quando o imóvel teve seu valor histórico-cultural formalmente reconhecido pelo Poder Público mediante procedimento de inventário (art. 216, § 1º, da CF/1988), instrumento dotado de eficácia jurídica protetiva autônoma que legitima a imposição judicial de obrigações de conservação e restauração.\n- **Resumo da discussão:** O relator, Min. Paulo Sérgio Domingues (04:00:07), destacou o feito para julgamento colegiado por versar sobre a proteção do \"Hotel Regina\", imóvel cujo valor histórico-cultural foi reconhecido pelo Poder Público em procedimento de inventário realizado em 1988. Na origem, a sentença julgara procedente a ação civil pública do Ministério Público do Estado de Minas Gerais para impor obrigações de conservação e restauração aos proprietários, mas o TJMG reformara a decisão por entender indispensável o tombamento ou regulamentação local específica. Amparado também em precedente do STF e da própria Corte, o relator deu provimento ao recurso especial para afirmar a plena legitimidade e eficácia do inventário como instrumento autônomo de proteção cultural, restabelecendo a tutela protetiva da sentença e determinando o retorno dos autos ao TJMG para que, em respeito ao duplo grau de jurisdição, examine as demais matérias suscitadas na apelação que haviam ficado prejudicadas (redução de multas, ampliação de prazos, alegação de nulidade do laudo pericial, incompetência e litisconsórcio passivo necessário). Após a intervenção do Min. Herman Benjamin (04:02:39) propondo a divulgação institucional do julgado, a Turma deu provimento ao recurso especial por unanimidade.\n\n### 17. AgInt no AREsp 2.829.339/MT - Execução de multa cominatória prevista em TAC contra ex-Prefeito subscritor: natureza jurídica da controvérsia vs. Súmulas 5 e 7 do STJ (Início: 04:04:45)\n- **Matéria:** 10. Ação Civil Pública\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Pedido de vista\n- **Votação:** Aguardando conclusão (após os votos do relator Min. Paulo Sérgio Domingues e do Min. Sérgio Kukina negando provimento ao agravo interno, e os votos divergentes do Min. Herman Benjamin e da Min. Regina Helena Costa dando-lhe provimento para conhecer do recurso especial, pediu vista o Min. Gurgel de Faria)\n- **Relevância:** Alta — Caso de Destaque\n- **Manifestação do Min. Herman Benjamin:** Abriu divergência (04:09:52, 04:10:43, 04:12:06, 04:20:05, 04:31:54, 04:35:19 e 04:39:11) votando pelo provimento do agravo interno do Ministério Público de Mato Grosso para afastar os óbices das Súmulas 5 e 7 do STJ e determinar o conhecimento do recurso especial para futuro exame do mérito pelo colegiado. Argumentou que a orientação histórica da Primeira Seção é a de que as cláusulas de Termo de Ajustamento de Conduta (TAC) devem ser cumpridas salvo vício de consentimento (como simulação), e que no caso concreto todos os elementos fáticos estão expressamente consignados na sentença e no acórdão recorrido: (i) a existência do TAC firmado no Município de Barra do Garças/MT para instalação de prontuário eletrônico de pacientes em 120 dias; (ii) a cláusula 7ª prevendo multa cominatória de R$ 20.000,00 por cláusula descumprida com expressa responsabilização pessoal e solidária do Chefe do Poder Executivo e da Secretária Municipal de Saúde; e (iii) a subscrição voluntária pelo então prefeito. Ressaltou que o TJMT proclamou em tese a impossibilidade absoluta de responsabilização pessoal de ex-prefeito por multa de TAC sob o argumento de ter atuado como gestor público, de modo que a controvérsia sobre a validade e eficácia jurídica dessa cláusula é estritamente de direito, não podendo as Súmulas 5 e 7 do STJ servir de barreira peremptória para impedir que o Tribunal decida questão jurídica de tamanha relevância.\n- **Tese fixada:** [PROPOSTA] Voto do Relator: A revisão da conclusão do tribunal de origem que, interpretando o Termo de Ajustamento de Conduta (TAC) celebrado com o Município, reputou as obrigações imputadas exclusivamente ao ente público e acolheu a preliminar de ilegitimidade passiva do ex-prefeito subscritor na execução da multa cominatória demanda interpretação de cláusulas e reexame fático-probatório, incidindo os óbices das Súmulas 5 e 7 do STJ. Voto Divergente (Min. Herman Benjamin): Estando expressamente consignados na sentença e no acórdão recorrido a existência do TAC, o teor literal da cláusula que prevê a responsabilidade pessoal e solidária do Chefe do Executivo pelo pagamento da multa cominatória e a subscrição pelo gestor público, constitui questão estritamente jurídica — imune aos óbices das Súmulas 5 e 7 do STJ — definir a validade e a eficácia da referida cláusula e a legitimidade passiva do agente público subscritor para responder à execução da multa.\n- **Resumo da discussão:** Trata-se de agravo interno interposto pelo Ministério Público do Estado de Mato Grosso contra decisão que não conheceu do recurso especial (pelas Súmulas 5 e 7 do STJ) em embargos à execução opostos por Roberto Ângelo de Farias, ex-Prefeito de Barra do Garças/MT, nos quais o TJMT reformara a sentença para acolher a ilegitimidade passiva do ex-gestor para responder pessoalmente pela multa cominatória de R$ 20.000,00 prevista na cláusula 7ª de TAC destinado à implantação do prontuário eletrônico de pacientes da rede municipal de saúde. O relator, Min. Paulo Sérgio Domingues (04:05:28), manteve a aplicação das Súmulas 5 e 7 do STJ — invocando também decisão monocrática do Min. Gurgel de Faria, acórdão do Min. Francisco Falcão e decisão do STF no ARE 1.544.905/MT (originado do AREsp 2.614.637/MT, Rel. Min. Maria Thereza de Assis Moura) — por entender que o TJMT interpretou o TAC ao afirmar que as obrigações eram dirigidas ao ente municipal e que eventual discussão sobre o cumprimento das metas exigiria exame de fatos. A Min. Regina Helena Costa (04:07:04, 04:13:05, 04:17:45 e 04:40:21), autora do destaque, citou o REsp 1.957.741/MG (Segunda Turma, Rel. Min. Herman Benjamin), em que o STJ conheceu da matéria e reconheceu a legitimidade do ex-prefeito para responder por multa prevista em TAC, sustentando que o texto da cláusula 7ª estava integralmente transcrito na sentença (fl. 108, lida em sessão pelo Min. Sérgio Kukina às 04:15:31) e que a admissibilidade jurídica de cláusula de responsabilidade pessoal do gestor em TAC prescinde de reexame de provas ou de cláusulas, propondo cindir o julgamento para primeiro afastar as Súmulas 5 e 7 (dando provimento ao agravo interno para conhecer do REsp) e oportunamente apreciar o mérito. Após amplo debate, o Min. Herman Benjamin (04:39:11) votou dando provimento ao agravo interno para afastar os óbices sumulares, no que foi acompanhado pela Min. Regina Helena Costa (04:40:21), enquanto o Min. Sérgio Kukina (04:40:06) acompanhou o relator pelo desprovimento. Diante do empate de 2 a 2, o Min. Gurgel de Faria pediu vista dos autos (04:41:53).\n\n### 18. AgInt no AREsp 3.095.458/SP (Item 28 da pauta) - Pagamento atrasado / correção monetária: adiamento de controvérsia inédita para deliberação com o quórum completo do colegiado (Início: 04:44:05)\n- **Matéria:** 5. Atos Administrativos\n- **Relator:** Min. Paulo Sérgio Domingues\n- **Resultado:** Adiado\n- **Votação:** Unânime quanto ao adiamento\n- **Relevância:** Ordinária\n- **Tese fixada:** [PROPOSTA] Tratando-se de processo com questão jurídica inédita na Primeira Turma e sem advogado aguardando acompanhamento em sessão, mostra-se recomendável o adiamento do julgamento por uma sessão para propiciar a deliberação com a presença integral dos cinco Ministros integrantes do colegiado.\n- **Resumo da discussão:** Ao ser anunciado o último item remanescente da relação de destaques de relatoria do Min. Paulo Sérgio Domingues (Item 28 da pauta — AgInt no AREsp 3.095.458/SP, em que figuram como agravantes João Carlos de Novaes e outros e como agravada a Caixa Econômica Federal, 04:44:05), o Min. Gurgel de Faria sugeriu o adiamento do feito para a sessão da semana seguinte, ressaltando que a matéria versada era inédita no colegiado, não havia inscrição de advogado para acompanhamento presencial ou por vídeo e o Min. Herman Benjamin precisara ausentar-se ao término da sessão, sendo relevante a participação de todos os integrantes da Primeira Turma pelo menos no exame da preliminar sumular. O relator Min. Paulo Sérgio Domingues, o Presidente Min. Sérgio Kukina e a Min. Regina Helena Costa aderiram à proposta, ficando o julgamento adiado para a próxima sessão.\n\n## Estatísticas\n- Total de processos apreciados: 18\n- Providos: 1 | Desprovidos: 6 | Parcialmente providos: 3 | Pedidos de vista / Adiados / Outros: 8\n- Processos com atuação destacada do Min. Herman Benjamin: 8\n- Observação de expediente inicial (00:30:06 a 00:35:30): Foram ainda registrados na abertura da sessão 2 processos retirados de pauta (REsp 2.277.513, Rel. Min. Gurgel de Faria; AgInt no AgInt no AgInt nos EDcl no AREsp 1.067.449, Rel. Min. Paulo Sérgio Domingues), 2 processos adiados (REsp 2.160.450 e AREsp 1.214.884, Rel. Min. Sérgio Kukina), 3 prorrogações de prazo de vista (AgInt no AREsp 1.365.238, AgInt no AREsp 2.624.387 e AgInt no RMS 76.452, pelo Min. Paulo Sérgio Domingues) e a aprovação em bloco sem divergência dos itens 29 a 34 da pauta."
   }
 ];
 

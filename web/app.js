@@ -74,12 +74,14 @@ document.addEventListener('DOMContentLoaded', () => {
         onlyHerman: false,
         onlyRelevant: false,
         onlyWithThesis: false,
-        detailsCollapsed: false,
+        detailsCollapsed: true,
         hermanSpotlightCollapsed: false,
+        viewMode: 'session', // 'session' (sessão completa) | 'pauta' (pauta / ordem do dia) | 'theses' (só teses)
+        pautaCategoryFilter: 'todas',
         highlightsSpotlightCollapsed: false,
         transcriptViewMode: 'dialogue', // 'dialogue' | 'continuous'
         transcriptSpeakerFilter: 'todos', // 'todos' | 'herman' | 'presidente' | 'relator'
-        transcriptFontSize: 15,
+        transcriptFontSize: 17,
         transcriptIsFullscreen: false
     };
 
@@ -149,6 +151,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (state.searchQuery.trim()) {
             const q = normalizeText(state.searchQuery);
+            const partesStr = Array.isArray(proc.partes)
+                ? proc.partes.map((p) => `${p.papel || ''} ${p.nome || ''}`).join(' ')
+                : '';
+            const pautaItemsStr = Array.isArray(proc.pautaItems)
+                ? proc.pautaItems.map((it) => `item ${it.item} item 0${it.item} ${it.processo || ''} ${it.assunto || ''} ${it.temaRepetitivo || ''}`).join(' ')
+                : '';
             const haystack = normalizeText([
                 proc.heading,
                 proc.processNumber,
@@ -158,13 +166,57 @@ document.addEventListener('DOMContentLoaded', () => {
                 proc.resultado,
                 proc.hermanManifestation,
                 proc.tese,
-                proc.resumoDiscussao
+                proc.resumoDiscussao,
+                proc.assuntoOficial,
+                proc.temaRepetitivo,
+                proc.resultadoOficial,
+                partesStr,
+                pautaItemsStr
             ].join(' '));
             if (!haystack.includes(q)) {
                 return false;
             }
         }
 
+        return true;
+    };
+
+    // Verifica se um item da pauta oficial atende à busca / filtro de relator
+    const pautaItemMatchesFilters = (it) => {
+        if (state.relatorFilter && state.relatorFilter !== '__CONVOCADOS__') {
+            const relNorm = normalizeText(state.relatorFilter);
+            const itRelNorm = normalizeText(`${it.relator || ''} ${it.vistor || ''} ${it.ministro_sessao || ''}`);
+            if (!itRelNorm.includes(relNorm)) return false;
+        }
+        if (state.onlyHerman) {
+            const itRelNorm = normalizeText(`${it.relator || ''} ${it.vistor || ''} ${it.ministro_sessao || ''}`);
+            if (!itRelNorm.includes('herman benjamin')) return false;
+        }
+        if (state.searchQuery.trim()) {
+            const q = normalizeText(state.searchQuery);
+            const partesStr = Array.isArray(it.partes)
+                ? it.partes.map((p) => `${p.papel || ''} ${p.nome || ''}`).join(' ')
+                : '';
+            const soStr = Array.isArray(it.sustentacoes_orais)
+                ? it.sustentacoes_orais.map((s) => `${s.advogado || ''} ${s.partes || ''}`).join(' ')
+                : '';
+            const haystack = normalizeText([
+                `item ${it.item}`,
+                `item ${String(it.item).padStart(2, '0')}`,
+                it.processo,
+                it.cabecalho_pdf,
+                it.registro_formatado,
+                it.tema_repetitivo,
+                it.relator,
+                it.vistor,
+                it.categoria,
+                it.assunto,
+                it.resultado_oficial,
+                partesStr,
+                soStr
+            ].join(' '));
+            if (!haystack.includes(q)) return false;
+        }
         return true;
     };
 
@@ -191,12 +243,16 @@ document.addEventListener('DOMContentLoaded', () => {
             return { matches: true, matchingProcesses: procs };
         }
 
-        // Também aceita se o termo de busca bater no título/data/órgão da sessão
+        // Também aceita se o termo de busca bater no título/data/órgão da sessão ou em algum item da Pauta
         if (state.searchQuery.trim() && matchingProcesses.length === 0) {
             const q = normalizeText(state.searchQuery);
             const sessionHeaderHaystack = normalizeText(`${session.title} ${session.date} ${session.orgao}`);
             if (sessionHeaderHaystack.includes(q)) {
                 return { matches: true, matchingProcesses: procs };
+            }
+            const pautaItens = Array.isArray(session.pauta?.itens) ? session.pauta.itens : [];
+            if (pautaItens.some(pautaItemMatchesFilters)) {
+                return { matches: true, matchingProcesses };
             }
         }
 
@@ -302,7 +358,7 @@ document.addEventListener('DOMContentLoaded', () => {
             sidebarBackdrop.classList.add('is-open');
         }
         sidebar.classList.add('open');
-        mobileMenuBtn?.setAttribute('aria-expanded', 'true');
+        syncSidebarToggleLabel();
     };
 
     const closeMobileMenu = () => {
@@ -316,7 +372,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }, 220);
         }
-        mobileMenuBtn?.setAttribute('aria-expanded', 'false');
+        // Também é chamada ao escolher uma sessão no desktop: o rótulo reflete o layout atual
+        syncSidebarToggleLabel();
     };
 
     const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
@@ -425,33 +482,293 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     };
 
-    // "Ler mais" nos destaques: só aparece quando o texto foi de fato truncado
-    const setupReadMore = (root) => {
-        root.querySelectorAll('.read-more-btn').forEach((btn) => {
+    const PLAY_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><polygon points="6 4 20 12 6 20 6 4"></polygon></svg>';
+
+    const timestampLink = (item, title) => (item.timestamp && item.videoUrl
+        ? `<a href="${escapeHtml(item.videoUrl)}" target="_blank" rel="noopener noreferrer" class="timestamp-pill" title="${title}">
+            ${PLAY_ICON}<span>${escapeHtml(item.timestamp)}${item.partLabel ? ` · ${escapeHtml(item.partLabel)}` : ''}</span>
+           </a>`
+        : '');
+
+    const queryMatches = (text) => {
+        const q = normalizeText(state.searchQuery.trim());
+        return Boolean(q) && normalizeText(text || '').includes(q);
+    };
+
+    // Linha de destaque: título sempre visível, texto aberto sob demanda
+    // (ou automaticamente quando a busca encontra algo nele)
+    const disclosureRow = ({ title, text, actionsHtml }) => {
+        const open = queryMatches(text);
+        return `
+            <li class="disclosure-row ${open ? 'is-open' : ''}">
+                <button type="button" class="disclosure-toggle" aria-expanded="${open}">
+                    <span class="disclosure-chevron" aria-hidden="true"></span>
+                    <span class="disclosure-title">${highlightMatches(title, state.searchQuery)}</span>
+                </button>
+                ${actionsHtml ? `<div class="disclosure-actions">${actionsHtml}</div>` : ''}
+                <p class="disclosure-text">${highlightMatches(text, state.searchQuery)}</p>
+            </li>
+        `;
+    };
+
+    const setupDisclosureRows = (root) => {
+        root.querySelectorAll('.disclosure-toggle').forEach((btn) => {
             btn.addEventListener('click', () => {
-                const expanded = btn.closest('li').classList.toggle('is-expanded');
-                btn.textContent = expanded ? 'Ler menos' : 'Ler mais';
+                const open = btn.closest('.disclosure-row').classList.toggle('is-open');
+                btn.setAttribute('aria-expanded', String(open));
             });
         });
     };
-
-    const syncReadMoreVisibility = (root) => {
-        root.querySelectorAll('.read-more-btn').forEach((btn) => {
-            const text = btn.previousElementSibling;
-            const expanded = btn.closest('li').classList.contains('is-expanded');
-            btn.hidden = !expanded && text.scrollHeight <= text.clientHeight + 1;
-        });
-    };
-
-    window.addEventListener('resize', () => syncReadMoreVisibility(documentViewer));
 
     // Rolar até um card de processo específico
     const scrollToProcessCard = (processIndex) => {
         const card = document.getElementById(`process-card-${processIndex}`);
         if (!card) return;
-        card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        card.scrollIntoView({ behavior: reduceMotion ? 'instant' : 'smooth', block: 'start' });
         card.classList.add('process-card--highlight-flash');
         setTimeout(() => card.classList.remove('process-card--highlight-flash'), 1800);
+    };
+
+    // Rolar até um item específico da Pauta da Sessão
+    const scrollToPautaItem = (itemNum) => {
+        const el = document.getElementById(`pauta-item-${itemNum}`);
+        if (!el) return;
+        const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        el.scrollIntoView({ behavior: reduceMotion ? 'instant' : 'smooth', block: 'center' });
+        el.classList.add('process-card--highlight-flash');
+        setTimeout(() => el.classList.remove('process-card--highlight-flash'), 1800);
+    };
+
+    // Modo "Só teses": leitura contínua das teses, agrupadas pelo que significam juridicamente
+    const THESIS_GROUPS = [
+        { type: 'final', title: 'Teses fixadas', desc: 'Entendimentos firmados pelo colegiado nesta sessão.' },
+        { type: 'proposta', title: 'Teses propostas', desc: 'Julgamentos ainda em curso: pedido de vista, adiamento ou proposta do relator.' },
+        { type: 'vencido', title: 'Teses de voto vencido', desc: 'Posições que não prevaleceram no julgamento.' }
+    ];
+    const thesisGroupOf = (t) => (t.type === 'proposta' || t.type === 'vencido' ? t.type : 'final');
+
+    const setViewMode = (mode, { focusProcess, focusPautaItem } = {}) => {
+        state.viewMode = mode;
+        if (focusPautaItem) {
+            state.pautaCategoryFilter = 'todas';
+        }
+        renderActiveSession();
+        if (focusProcess) {
+            requestAnimationFrame(() => scrollToProcessCard(focusProcess));
+        } else if (focusPautaItem) {
+            requestAnimationFrame(() => scrollToPautaItem(focusPautaItem));
+        } else {
+            documentViewer.scrollTo({ top: 0, behavior: 'auto' });
+        }
+    };
+
+    const buildViewSwitch = (thesesCount, pautaCount = 0) => {
+        const group = document.createElement('div');
+        group.className = 'view-switch';
+        group.setAttribute('role', 'group');
+        group.setAttribute('aria-label', 'Modo de leitura');
+        group.innerHTML = `
+            <button type="button" data-view="session" aria-pressed="${state.viewMode === 'session'}">Sessão completa</button>
+            <button type="button" data-view="pauta" aria-pressed="${state.viewMode === 'pauta'}" ${pautaCount ? '' : 'disabled'}>
+                Pauta da sessão <span class="view-switch-count">${pautaCount}</span>
+            </button>
+            <button type="button" data-view="theses" aria-pressed="${state.viewMode === 'theses'}" ${thesesCount ? '' : 'disabled'}>
+                Só teses <span class="view-switch-count">${thesesCount}</span>
+            </button>
+        `;
+        group.querySelectorAll('[data-view]').forEach((btn) => {
+            btn.addEventListener('click', () => {
+                if (btn.dataset.view !== state.viewMode) setViewMode(btn.dataset.view);
+            });
+        });
+        return group;
+    };
+
+    const renderPautaReading = (session, pauta) => {
+        const allItems = Array.isArray(pauta?.itens) ? pauta.itens : [];
+        const matchedBySearchAndRelator = allItems.filter(pautaItemMatchesFilters);
+
+        // Categorias presentes na pauta
+        const catCounts = {};
+        matchedBySearchAndRelator.forEach((it) => {
+            const cat = it.categoria || 'Pauta';
+            catCounts[cat] = (catCounts[cat] || 0) + 1;
+        });
+        const categories = Object.keys(catCounts);
+
+        const shown = state.pautaCategoryFilter === 'todas'
+            ? matchedBySearchAndRelator
+            : matchedBySearchAndRelator.filter((it) => (it.categoria || 'Pauta') === state.pautaCategoryFilter);
+
+        const section = document.createElement('section');
+        section.className = 'pauta-reading';
+        section.setAttribute('aria-label', 'Pauta de julgamentos e Ordem do Dia');
+
+        const docLinksHtml = [
+            pauta?.url_pauta_pdf
+                ? `<a href="${escapeHtml(pauta.url_pauta_pdf)}" target="_blank" rel="noopener noreferrer" class="btn-action" title="Abrir PDF oficial da Pauta de Julgamentos no portal do STJ">
+                    <span>Pauta oficial (PDF)</span>
+                   </a>`
+                : '',
+            pauta?.url_ata_pdf
+                ? `<a href="${escapeHtml(pauta.url_ata_pdf)}" target="_blank" rel="noopener noreferrer" class="btn-action" title="Abrir PDF oficial da Ata de Julgamento no portal do STJ">
+                    <span>Ata de julgamento (PDF)</span>
+                   </a>`
+                : ''
+        ].filter(Boolean).join('');
+
+        const categoryChipsHtml = categories.length > 1
+            ? `
+                <div class="materia-chips-bar pauta-category-bar" role="group" aria-label="Filtrar categoria da Ordem do Dia">
+                    <button type="button" class="materia-chip ${state.pautaCategoryFilter === 'todas' ? 'active' : ''}" data-pauta-cat="todas">
+                        <span>Todas da Ordem do Dia</span>
+                        <span class="materia-chip-count">${matchedBySearchAndRelator.length}</span>
+                    </button>
+                    ${categories.map((cat) => `
+                        <button type="button" class="materia-chip ${state.pautaCategoryFilter === cat ? 'active' : ''}" data-pauta-cat="${escapeHtml(cat)}">
+                            <span>${escapeHtml(cat)}</span>
+                            <span class="materia-chip-count">${catCounts[cat]}</span>
+                        </button>
+                    `).join('')}
+                </div>
+            `
+            : '';
+
+        const entriesHtml = shown.map((it) => {
+            const itemNumPad = String(it.item || '').padStart(2, '0');
+            const kickerParts = [
+                `Item ${itemNumPad}`,
+                it.categoria || 'Ordem do Dia',
+                it.registro_formatado ? `Reg. ${it.registro_formatado}` : ''
+            ].filter(Boolean).map(escapeHtml).join(' · ');
+
+            const partesStr = Array.isArray(it.partes) && it.partes.length
+                ? it.partes.map((p) => `${p.papel}: ${p.nome}`).join(' · ')
+                : '';
+
+            const soStr = Array.isArray(it.sustentacoes_orais) && it.sustentacoes_orais.length
+                ? it.sustentacoes_orais.map((s) => (s.partes ? `${s.advogado} (${s.partes})` : s.advogado)).join(' · ')
+                : '';
+
+            const relStr = it.vistor
+                ? `${it.relator} (Voto-Vista: ${it.vistor})`
+                : (it.relator || it.ministro_sessao || 'Não informado');
+
+            const titleText = it.assunto
+                ? `${it.processo} — ${it.assunto}`
+                : it.processo;
+
+            const actionsHtml = [
+                it.timestamp && it.videoUrl ? timestampLink(it, 'Abrir vídeo no momento do apregoamento') : '',
+                it.matchedProcessIndex
+                    ? `<button type="button" class="jump-process-btn" data-jump-index="${it.matchedProcessIndex}">Ver resumo do julgado (nº ${it.matchedProcessIndex})</button>`
+                    : '<span class="pauta-unmatched-note">Apreciado em bloco / lista ou sem debate individualizado</span>'
+            ].filter(Boolean).join('');
+
+            return `
+                <li id="pauta-item-${it.item}" class="thesis-entry pauta-entry">
+                    <div class="pauta-entry-top">
+                        <p class="thesis-entry-kicker">${kickerParts}</p>
+                        ${it.resultado_oficial ? `<span class="pauta-result-tag">${highlightMatches(it.resultado_oficial, state.searchQuery)}</span>` : ''}
+                    </div>
+                    <h5 class="thesis-entry-title">
+                        ${highlightMatches(titleText, state.searchQuery)}
+                        ${it.tema_repetitivo ? `<span class="tema-repetitivo-badge">${highlightMatches(it.tema_repetitivo, state.searchQuery)}</span>` : ''}
+                    </h5>
+                    <div class="process-meta-grid pauta-meta-grid">
+                        <span class="meta-pair"><strong>Relator</strong> ${highlightMatches(relStr, state.searchQuery)}</span>
+                        ${partesStr ? `<span class="meta-pair"><strong>Partes</strong> ${highlightMatches(partesStr, state.searchQuery)}</span>` : ''}
+                        ${soStr ? `<span class="meta-pair"><strong>Sustentação</strong> ${highlightMatches(soStr, state.searchQuery)}</span>` : ''}
+                    </div>
+                    <div class="thesis-entry-actions">
+                        ${actionsHtml}
+                    </div>
+                </li>
+            `;
+        }).join('');
+
+        section.innerHTML = `
+            <div class="column-section-header pauta-reading-header">
+                <div class="spotlight-title-group">
+                    <h3 class="column-section-title">Pauta de Julgamentos e Ordem do Dia</h3>
+                    <span class="spotlight-kicker">Relação oficial de processos pautados no STJ (${escapeHtml(pauta?.tipo_sessao || 'Sessão Ordinária')} · ${allItems.length} itens · ${pauta?.total_sustentacoes || 0} sustentações orais)</span>
+                </div>
+                <div class="spotlight-header-actions">
+                    <span class="column-section-count">${shown.length === allItems.length ? `${allItems.length} itens` : `${shown.length} de ${allItems.length}`}</span>
+                    ${docLinksHtml}
+                </div>
+            </div>
+            ${categoryChipsHtml}
+            ${entriesHtml ? `<ol class="thesis-entries pauta-entries">${entriesHtml}</ol>` : '<div class="empty-state-box">Nenhum item da pauta corresponde aos filtros ativos.</div>'}
+        `;
+
+        section.querySelectorAll('[data-pauta-cat]').forEach((btn) => {
+            btn.addEventListener('click', () => {
+                state.pautaCategoryFilter = btn.getAttribute('data-pauta-cat') || 'todas';
+                renderActiveSession();
+            });
+        });
+
+        section.querySelectorAll('[data-jump-index]').forEach((btn) => {
+            btn.addEventListener('click', () => setViewMode('session', { focusProcess: btn.getAttribute('data-jump-index') }));
+        });
+
+        return section;
+    };
+
+    const renderThesesReading = (session, theses, matchingProcesses) => {
+        // Os filtros da barra (matéria, relator, recortes, busca) valem também aqui
+        const visible = new Set(matchingProcesses.map((p) => String(p.index)));
+        const shown = theses.filter((t) => visible.has(String(t.processIndex)));
+
+        const section = document.createElement('section');
+        section.className = 'theses-reading';
+        section.setAttribute('aria-label', 'Teses da sessão');
+
+        const groupsHtml = THESIS_GROUPS.map((g) => {
+            const items = shown.filter((t) => thesisGroupOf(t) === g.type);
+            if (!items.length) return '';
+            const entries = items.map((t) => {
+                const proc = session.processes?.find((pr) => String(pr.index) === String(t.processIndex));
+                const title = proc?.theme || t.processTitle || t.processNumber;
+                const kicker = [`Nº ${t.processIndex}`, t.materiaShort, t.relator].filter(Boolean).map(escapeHtml).join(' · ');
+                return `
+                    <li class="thesis-entry">
+                        <p class="thesis-entry-kicker">${kicker}</p>
+                        <h5 class="thesis-entry-title">${highlightMatches(title, state.searchQuery)}</h5>
+                        ${t.processNumber && t.processNumber !== title ? `<p class="thesis-entry-process">${highlightMatches(t.processNumber, state.searchQuery)}</p>` : ''}
+                        <p class="thesis-entry-text">${highlightMatches(t.text, state.searchQuery)}</p>
+                        <div class="thesis-entry-actions">
+                            ${timestampLink(t, 'Abrir vídeo no momento do julgamento')}
+                            <button type="button" class="jump-process-btn" data-jump-index="${t.processIndex}">Ver julgado nº ${t.processIndex}</button>
+                        </div>
+                    </li>
+                `;
+            }).join('');
+            return `
+                <section class="thesis-group">
+                    <header class="thesis-group-header">
+                        <h4 class="thesis-group-title">${g.title} <span class="column-section-count">${items.length}</span></h4>
+                        <p class="thesis-group-desc">${g.desc}</p>
+                    </header>
+                    <ol class="thesis-entries">${entries}</ol>
+                </section>
+            `;
+        }).join('');
+
+        section.innerHTML = `
+            <div class="column-section-header">
+                <h3 class="column-section-title">Teses da sessão</h3>
+                <span class="column-section-count">${shown.length === theses.length ? `${theses.length} teses` : `${shown.length} de ${theses.length}`}</span>
+            </div>
+            ${groupsHtml || '<div class="empty-state-box">Nenhuma tese corresponde aos filtros ativos.</div>'}
+        `;
+
+        section.querySelectorAll('[data-jump-index]').forEach((btn) => {
+            btn.addEventListener('click', () => setViewMode('session', { focusProcess: btn.getAttribute('data-jump-index') }));
+        });
+        return section;
     };
 
     // Renderizar Sessão Ativa
@@ -484,8 +801,9 @@ document.addEventListener('DOMContentLoaded', () => {
             a.href = v.url;
             a.target = '_blank';
             a.rel = 'noopener noreferrer';
-            a.className = 'btn-action';
-            const label = videos.length > 1 ? `YouTube (${v.label})` : 'Assistir no YouTube';
+            a.className = 'btn-action btn-action--collapsible';
+            const label = videos.length > 1 ? `YouTube (${v.label})` : 'YouTube';
+            a.title = `Assistir ${videos.length > 1 ? `à ${v.label} ` : ''}no YouTube`;
             a.innerHTML = `
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
                     <polygon points="5 3 19 12 5 21 5 3"></polygon>
@@ -510,6 +828,27 @@ document.addEventListener('DOMContentLoaded', () => {
         const container = document.createElement('div');
         container.className = 'session-container';
 
+        const sessionTheses = Array.isArray(session.theses) ? session.theses : [];
+        const sessionPauta = session.pauta || null;
+        const pautaCount = Array.isArray(sessionPauta?.itens) ? sessionPauta.itens.length : 0;
+
+        if (state.viewMode === 'pauta' && pautaCount) {
+            container.classList.add('session-container--reading');
+            container.append(buildViewSwitch(sessionTheses.length, pautaCount), renderPautaReading(session, sessionPauta));
+            documentViewer.innerHTML = '';
+            documentViewer.appendChild(container);
+            return;
+        }
+
+        if (state.viewMode === 'theses' && sessionTheses.length) {
+            container.classList.add('session-container--reading');
+            container.append(buildViewSwitch(sessionTheses.length, pautaCount), renderThesesReading(session, sessionTheses, matchingProcesses));
+            documentViewer.innerHTML = '';
+            documentViewer.appendChild(container);
+            return;
+        }
+        container.appendChild(buildViewSwitch(sessionTheses.length, pautaCount));
+
         // 1. Faixa de Indicadores Objetivos da Sessão
         const statsStrip = document.createElement('dl');
         statsStrip.className = 'session-summary';
@@ -517,7 +856,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const summaryItems = [
             ['Processos apreciados', stats.total ?? session.processes.length],
             ['Com atuação do Min. Herman', stats.hermanCount ?? 0, 'summary-item--herman'],
-            ['Teses', stats.thesesCount ?? (session.theses?.length || 0)],
+            ['Itens na pauta oficial', pautaCount || (stats.total ?? session.processes.length)],
             ['Providos ou parciais', (stats.providos || 0) + (stats.parciais || 0)],
             ['Desprovidos', stats.desprovidos ?? 0],
             ['Vistas ou adiados', stats.vistasAdiados ?? 0]
@@ -583,29 +922,13 @@ document.addEventListener('DOMContentLoaded', () => {
             spotlight.className = 'herman-spotlight doc-section';
             spotlight.setAttribute('aria-label', 'Atuação e Manifestações do Ministro Herman Benjamin');
 
-            const itemsHtml = filteredHermanList.map((item) => {
-                const tsLink = item.timestamp && item.videoUrl
-                    ? `<a href="${escapeHtml(item.videoUrl)}" target="_blank" rel="noopener noreferrer" class="timestamp-pill" title="Abrir vídeo no momento da manifestação">
-                        <svg viewBox="0 0 24 24" aria-hidden="true"><polygon points="6 4 20 12 6 20 6 4"></polygon></svg>
-                        <span>${escapeHtml(item.timestamp)}${item.partLabel ? ` · ${escapeHtml(item.partLabel)}` : ''}</span>
-                       </a>`
-                    : '';
-
-                const jumpBtn = item.processIndex
-                    ? `<button type="button" class="jump-process-btn" data-jump-index="${item.processIndex}">Ver julgado nº ${item.processIndex}</button>`
-                    : '';
-
-                return `
-                    <li class="herman-item-card">
-                        <div class="herman-item-top">
-                            <span class="herman-item-title">${highlightMatches(item.title || 'Intervenção em sessão', state.searchQuery)}</span>
-                        </div>
-                        <p class="herman-item-text">${highlightMatches(item.text, state.searchQuery)}</p>
-                        <button type="button" class="read-more-btn">Ler mais</button>
-                        ${tsLink || jumpBtn ? `<div class="herman-item-actions">${tsLink}${jumpBtn}</div>` : ''}
-                    </li>
-                `;
-            }).join('');
+            const itemsHtml = filteredHermanList.map((item) => disclosureRow({
+                title: item.title || 'Intervenção em sessão',
+                text: item.text,
+                actionsHtml: `${timestampLink(item, 'Abrir vídeo no momento da manifestação')}${item.processIndex
+                    ? `<button type="button" class="jump-process-btn" data-jump-index="${item.processIndex}">Julgado nº ${item.processIndex}</button>`
+                    : ''}`
+            })).join('');
 
             const emptyNotice = filteredHermanList.length === 0
                 ? '<div class="herman-spotlight-empty">Nenhuma manifestação do Min. Herman Benjamin nesta sessão corresponde aos filtros ativos.</div>'
@@ -627,7 +950,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ${emptyNotice}
                 <ul class="spotlight-grid ${state.hermanSpotlightCollapsed ? 'collapsed' : ''}">${itemsHtml}</ul>
             `;
-            setupReadMore(spotlight);
+            setupDisclosureRows(spotlight);
 
             const toggleSpotlightBtn = spotlight.querySelector('#toggleHermanSpotlightBtn');
             if (toggleSpotlightBtn) {
@@ -637,7 +960,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (grid) {
                         grid.classList.toggle('collapsed', state.hermanSpotlightCollapsed);
                     }
-                    syncReadMoreVisibility(spotlight);
                     toggleSpotlightBtn.textContent = state.hermanSpotlightCollapsed ? 'Expandir' : 'Recolher';
                 });
             }
@@ -668,17 +990,11 @@ document.addEventListener('DOMContentLoaded', () => {
             highlightsSpotlight.className = 'highlights-spotlight doc-section';
             highlightsSpotlight.setAttribute('aria-label', 'Casos Relevantes e Destaques da Sessão');
 
-            const hCardsHtml = filteredHighlights.map((h) => {
-                return `
-                    <li class="highlight-spotlight-card">
-                        <div class="highlight-item-top">
-                            <span class="highlight-item-title">${highlightMatches(h.title || 'Destaque do colegiado', state.searchQuery)}</span>
-                        </div>
-                        <p class="highlight-item-text">${highlightMatches(h.text, state.searchQuery)}</p>
-                        <button type="button" class="read-more-btn">Ler mais</button>
-                    </li>
-                `;
-            }).join('');
+            const hCardsHtml = filteredHighlights.map((h) => disclosureRow({
+                title: h.title || 'Destaque do colegiado',
+                text: h.text,
+                actionsHtml: timestampLink(h, 'Abrir vídeo no momento do julgamento')
+            })).join('');
 
             const hEmpty = filteredHighlights.length === 0
                 ? '<div class="highlights-spotlight-empty">Nenhum destaque corresponde à busca ativa.</div>'
@@ -700,7 +1016,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ${hEmpty}
                 <ul class="highlights-grid ${state.highlightsSpotlightCollapsed ? 'collapsed' : ''}">${hCardsHtml}</ul>
             `;
-            setupReadMore(highlightsSpotlight);
+            setupDisclosureRows(highlightsSpotlight);
 
             const toggleHBtn = highlightsSpotlight.querySelector('#toggleHighlightsSpotlightBtn');
             if (toggleHBtn) {
@@ -710,7 +1026,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (grid) {
                         grid.classList.toggle('collapsed', state.highlightsSpotlightCollapsed);
                     }
-                    syncReadMoreVisibility(highlightsSpotlight);
                     toggleHBtn.textContent = state.highlightsSpotlightCollapsed ? 'Expandir' : 'Recolher';
                 });
             }
@@ -765,6 +1080,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const hasConvocado = Array.isArray(proc.relatores)
                     && proc.relatores.some((r) => r.role === 'convocado_substituto');
 
+                const discussionCollapsed = state.detailsCollapsed && !queryMatches(proc.resumoDiscussao);
+
                 const teseLabelMap = {
                     final: 'Tese fixada',
                     proposta: 'Tese proposta (julgamento em curso)',
@@ -772,10 +1089,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 };
                 const teseHeader = teseLabelMap[proc.teseType] || 'Tese ou entendimento';
 
+                const pautaItems = Array.isArray(proc.pautaItems) ? proc.pautaItems : [];
+                let pautaBadge = '';
+                if (pautaItems.length > 0) {
+                    const nums = pautaItems.map((it) => String(it.item).padStart(2, '0')).join(', ');
+                    const labelPauta = pautaItems.length > 1 ? `Itens ${nums} da pauta` : `Item ${nums} da pauta`;
+                    pautaBadge = `<button type="button" class="pauta-item-badge" data-pauta-item="${pautaItems[0].item}" title="Ver na Pauta / Ordem do Dia oficial da sessão">${escapeHtml(labelPauta)}</button>`;
+                }
+
+                const partesStr = Array.isArray(proc.partes) && proc.partes.length
+                    ? proc.partes.slice(0, 4).map((p) => `${p.papel}: ${p.nome}`).join(' · ')
+                    : '';
+
                 card.innerHTML = `
                     <div class="process-card-top">
                         <div class="process-badges-left">
                             <span class="process-index-badge">Nº ${proc.index}</span>
+                            ${pautaBadge}
                             <button type="button" class="materia-tag" data-materia-id="${escapeHtml(proc.materia?.id)}">
                                 ${highlightMatches(proc.materia?.code || 'Matéria não classificada', state.searchQuery)}
                             </button>
@@ -792,7 +1122,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     <div class="process-heading-row">
                         <h4 class="process-title">${highlightMatches(proc.theme || proc.processNumber, state.searchQuery)}</h4>
-                        ${proc.theme ? `<p class="process-number-code">${highlightMatches(proc.processNumber, state.searchQuery)}</p>` : ''}
+                        ${proc.theme ? `<p class="process-number-code">${highlightMatches(proc.processNumber, state.searchQuery)}${proc.temaRepetitivo && !proc.processNumber.includes(proc.temaRepetitivo) && !proc.theme.includes(proc.temaRepetitivo) ? ` · <span class="tema-repetitivo-inline">${highlightMatches(proc.temaRepetitivo, state.searchQuery)}</span>` : ''}</p>` : ''}
                     </div>
 
                     <div class="process-meta-grid">
@@ -804,6 +1134,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             <strong>Resultado</strong> ${highlightMatches(proc.resultado, state.searchQuery)}
                         </span>
                         ${proc.votacao ? `<span class="meta-pair"><strong>Votação</strong> ${highlightMatches(proc.votacao, state.searchQuery)}</span>` : ''}
+                        ${proc.assuntoOficial ? `<span class="meta-pair"><strong>Assunto</strong> ${highlightMatches(proc.assuntoOficial, state.searchQuery)}</span>` : ''}
+                        ${partesStr ? `<span class="meta-pair"><strong>Partes</strong> ${highlightMatches(partesStr, state.searchQuery)}</span>` : ''}
                     </div>
 
                     ${proc.hermanManifestation ? `
@@ -821,14 +1153,21 @@ document.addEventListener('DOMContentLoaded', () => {
                     ` : ''}
 
                     ${proc.resumoDiscussao ? `
-                        <div class="process-discussion-wrapper ${state.detailsCollapsed ? 'collapsed' : ''}">
+                        <div class="process-discussion-wrapper ${discussionCollapsed ? 'collapsed' : ''}">
                             <button type="button" class="process-discussion-toggle">
-                                <span>${state.detailsCollapsed ? 'Mostrar resumo da discussão' : 'Ocultar resumo da discussão'}</span>
+                                <span>${discussionCollapsed ? 'Mostrar resumo da discussão' : 'Ocultar resumo da discussão'}</span>
                             </button>
                             <p class="process-discussion-text">${highlightMatches(proc.resumoDiscussao, state.searchQuery)}</p>
                         </div>
                     ` : ''}
                 `;
+
+                const pautaBtn = card.querySelector('.pauta-item-badge');
+                if (pautaBtn) {
+                    pautaBtn.addEventListener('click', () => {
+                        setViewMode('pauta', { focusPautaItem: pautaBtn.getAttribute('data-pauta-item') });
+                    });
+                }
 
                 const materiaBtn = card.querySelector('.materia-tag');
                 if (materiaBtn) {
@@ -886,10 +1225,15 @@ document.addEventListener('DOMContentLoaded', () => {
         thesesPanel.innerHTML = `
             <div class="aside-panel-header">
                 <h3 class="aside-panel-title">Teses da sessão</h3>
-                <span class="column-section-count">${theses.length}</span>
+                <div class="spotlight-header-actions">
+                    <span class="column-section-count">${theses.length}</span>
+                    <button type="button" class="btn-subtle read-all-theses-btn" title="Ler todas as teses em coluna larga, agrupadas por tipo">Ler todas</button>
+                </div>
             </div>
             <ul class="theses-list">${thesesItemsMarkup}</ul>
         `;
+
+        thesesPanel.querySelector('.read-all-theses-btn')?.addEventListener('click', () => setViewMode('theses'));
 
         thesesPanel.querySelectorAll('[data-jump-index]').forEach((btn) => {
             btn.addEventListener('click', () => {
@@ -898,12 +1242,16 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         asideCol.appendChild(thesesPanel);
-        columns.append(procsCol, asideCol);
+        // Coluna de leitura única: resumo, destaques e processos com a mesma largura;
+        // as teses ficam na lateral desde o topo
+        const mainCol = document.createElement('div');
+        mainCol.className = 'main-column';
+        mainCol.append(...container.children, procsCol);
+        columns.append(mainCol, asideCol);
         container.appendChild(columns);
 
         documentViewer.innerHTML = '';
         documentViewer.appendChild(container);
-        syncReadMoreVisibility(container);
     };
 
     // Leitor de Transcrição Revisada e Saneada (Gaveta Lateral Imersiva)
@@ -931,7 +1279,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const paragraphs = md.replace(/\r\n/g, '\n').split(/\n{2,}/);
         const q = normalizeText(filterQuery);
 
-        transcriptDrawerBody.setAttribute('data-font-size', String(state.transcriptFontSize));
+        applyTranscriptFontSize();
         transcriptDrawerBody.classList.toggle('continuous-mode', state.transcriptViewMode === 'continuous');
 
         const blocksHtml = [];
@@ -1197,17 +1545,23 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // Tamanho do texto da transcrição: 14px a 22px, em rem para somar à preferência do navegador
+    const applyTranscriptFontSize = () => {
+        transcriptDrawerBody.setAttribute('data-font-size', String(state.transcriptFontSize));
+        transcriptDrawerBody.style.fontSize = `${state.transcriptFontSize / 16}rem`;
+    };
+
     transcriptFontDec?.addEventListener('click', () => {
-        if (state.transcriptFontSize > 13) {
+        if (state.transcriptFontSize > 14) {
             state.transcriptFontSize -= 1;
-            transcriptDrawerBody.setAttribute('data-font-size', String(state.transcriptFontSize));
+            applyTranscriptFontSize();
         }
     });
 
     transcriptFontInc?.addEventListener('click', () => {
-        if (state.transcriptFontSize < 18) {
+        if (state.transcriptFontSize < 22) {
             state.transcriptFontSize += 1;
-            transcriptDrawerBody.setAttribute('data-font-size', String(state.transcriptFontSize));
+            applyTranscriptFontSize();
         }
     });
 
@@ -1269,13 +1623,61 @@ document.addEventListener('DOMContentLoaded', () => {
         applyTheme(current === 'dark' ? 'light' : 'dark');
     });
 
-    mobileMenuBtn?.addEventListener('click', () => {
-        if (sidebar.classList.contains('open')) {
+    // Barra lateral: gaveta sobreposta no celular; coluna recolhível no desktop
+    const appShell = document.querySelector('.app-shell');
+    const isMobileLayout = () => window.matchMedia('(max-width: 860px)').matches;
+
+    const sidebarCollapseBtn = document.getElementById('sidebarCollapseBtn');
+
+    const isSidebarVisible = () => (isMobileLayout()
+        ? sidebar.classList.contains('open')
+        : !appShell.classList.contains('sidebar-collapsed'));
+
+    const syncSidebarToggleLabel = () => {
+        const visible = String(isSidebarVisible());
+        mobileMenuBtn.setAttribute('aria-expanded', visible);
+        sidebarCollapseBtn.setAttribute('aria-expanded', visible);
+    };
+
+    const setDesktopSidebarCollapsed = (collapsed) => {
+        appShell.classList.toggle('sidebar-collapsed', collapsed);
+        try {
+            localStorage.setItem('stj_gmhb_sidebar', collapsed ? 'collapsed' : 'expanded');
+        } catch (err) { /* preferência só não é lembrada */ }
+        syncSidebarToggleLabel();
+    };
+
+    // O foco acompanha o controle: quem recolhe passa o foco ao botão de reabrir e vice-versa
+    const hideSidebar = ({ moveFocus = false } = {}) => {
+        if (isMobileLayout()) {
             closeMobileMenu();
         } else {
-            openMobileMenu();
+            setDesktopSidebarCollapsed(true);
         }
-    });
+        if (moveFocus) mobileMenuBtn.focus();
+    };
+
+    const showSidebar = ({ moveFocus = false } = {}) => {
+        if (isMobileLayout()) {
+            openMobileMenu();
+        } else {
+            setDesktopSidebarCollapsed(false);
+        }
+        if (moveFocus) sidebarCollapseBtn.focus();
+    };
+
+    const toggleSidebar = () => (isSidebarVisible() ? hideSidebar() : showSidebar());
+
+    sidebarCollapseBtn?.addEventListener('click', () => hideSidebar({ moveFocus: true }));
+    mobileMenuBtn?.addEventListener('click', () => (isSidebarVisible()
+        ? hideSidebar()
+        : showSidebar({ moveFocus: true })));
+    window.matchMedia('(max-width: 860px)').addEventListener('change', syncSidebarToggleLabel);
+
+    try {
+        appShell.classList.toggle('sidebar-collapsed', localStorage.getItem('stj_gmhb_sidebar') === 'collapsed');
+    } catch (err) { /* sem armazenamento: começa expandida */ }
+    syncSidebarToggleLabel();
 
     sidebarBackdrop?.addEventListener('click', closeMobileMenu);
 
@@ -1304,8 +1706,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     document.addEventListener('keydown', (e) => {
-        if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+        if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'b') {
             e.preventDefault();
+            toggleSidebar();
+        } else if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+            e.preventDefault();
+            // A busca fica na barra lateral: garante que ela esteja visível
+            if (isMobileLayout()) {
+                if (!sidebar.classList.contains('open')) openMobileMenu();
+            } else if (appShell.classList.contains('sidebar-collapsed')) {
+                setDesktopSidebarCollapsed(false);
+            }
+            syncSidebarToggleLabel();
             searchInput.focus();
             searchInput.select();
         } else if (e.key === 'Escape') {

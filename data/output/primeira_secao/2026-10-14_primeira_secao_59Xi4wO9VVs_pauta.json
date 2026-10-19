@@ -1,0 +1,2002 @@
+{
+  "seq_sessao": 2050236007,
+  "orgao_slug": "primeira_secao",
+  "cod_orgao_stj": "S1",
+  "nome_orgao": "Primeira Seção",
+  "data_iso": "2026-10-14",
+  "data_br": "14/10/2026",
+  "tipo_sessao": "Ordinária",
+  "hora_inicio": "",
+  "url_pauta_pdf": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/401075455/pdf",
+  "url_ata_pdf": "",
+  "documentos": [
+    {
+      "seq_documento": 401075455,
+      "cod_tipo": 40,
+      "tipo": "PAUTA DE JULGAMENTOS",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/401075455/pdf"
+    },
+    {
+      "seq_documento": null,
+      "cod_tipo": 0,
+      "tipo": "SUST. ORAL",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/2050236007/sustentacoes-orais"
+    }
+  ],
+  "total_itens": 41,
+  "total_sustentacoes": 51,
+  "itens": [
+    {
+      "item": 1,
+      "num_registro": "201902065800",
+      "registro_formatado": "2019/0206580-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1826796",
+      "numero_formatado": "1826796",
+      "uf": "SC",
+      "processo": "REsp 1.826.796/SC",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 1826796 - SC (2019/0206580-0) - Tema Repetitivo n. 1220",
+      "tema_repetitivo": "Tema Repetitivo n. 1220",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Destaque da Presidência",
+      "ind_categoria": "DP",
+      "assunto": "Auxílio-Doença Acidentário",
+      "resultado_oficial": "DESAFETADO AO RITO DOS RECURSOS REPETITIVOS",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JOSE HANK"
+        }
+      ],
+      "advogados": [
+        "ANDERSON MACOHIN E OUTRO(S) - SC023056",
+        "JANE LÚCIA WILHELM BERWANGER - RS046917"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FERNANDO MACIEL",
+          "partes": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        },
+        {
+          "advogado": "ALINE LAUX DANELON",
+          "partes": "INSTITUTO BRASILEIRO DE DIREITO PREVIDENCIÁRIO IBDP"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "num_registro": "202300507664",
+      "registro_formatado": "2023/0050766-4",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2053569",
+      "numero_formatado": "2053569",
+      "uf": "AM",
+      "processo": "REsp 2.053.569/AM",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2053569 - AM (2023/0050766-4) - Tema Repetitivo n. 1244",
+      "tema_repetitivo": "Tema Repetitivo n. 1244",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "",
+      "ministro_sessao": "Min. Marco Aurélio Bellizze",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "COFINS - Importação",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "ALMI SANTOS DE MEDEIROS - EMPRESA DE PEQUENO PORTE"
+        }
+      ],
+      "advogados": [
+        "JOSUÉ NASCIMENTO PIMENTEL - AM009118",
+        "GERMANO COSTA ANDRADE - AM002835"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 3,
+      "num_registro": "202300520256",
+      "registro_formatado": "2023/0052025-6",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2053647",
+      "numero_formatado": "2053647",
+      "uf": "AM",
+      "processo": "REsp 2.053.647/AM",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2053647 - AM (2023/0052025-6) - Tema Repetitivo n. 1244",
+      "tema_repetitivo": "Tema Repetitivo n. 1244",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "",
+      "ministro_sessao": "Min. Marco Aurélio Bellizze",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Cofins",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "TOCHAMIX INSTALACAO ELETRICA LTDA"
+        }
+      ],
+      "advogados": [
+        "GERMANO COSTA ANDRADE - AM002835",
+        "GERMANO COSTA ANDRADE - AM002835"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "VICTOR BASTOS DA COSTA",
+          "partes": "TOCHAMIX INSTALACAO ELETRICA LTDA"
+        },
+        {
+          "advogado": "MARCELO KOSMINSKY",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "num_registro": "202300066895",
+      "registro_formatado": "2023/0006689-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2046893",
+      "numero_formatado": "2046893",
+      "uf": "AM",
+      "processo": "REsp 2.046.893/AM",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2046893 - AM (2023/0006689-5) - Tema Repetitivo n. 1244",
+      "tema_repetitivo": "Tema Repetitivo n. 1244",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "",
+      "ministro_sessao": "Min. Marco Aurélio Bellizze",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Cofins",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JUST TIME INDUSTRIA DOS METAIS LTDA"
+        }
+      ],
+      "advogados": [
+        "VERA CARLA NELSON CRUZ SILVEIRA - DF019640",
+        "GERMANO COSTA ANDRADE - AM002835",
+        "AUDREY DA FONSECA CAMINHA - AM004053",
+        "PEDRO CÂMARA JUNIOR - AM002834"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "VERA CARLA NELSON CRUZ SILVEIRA",
+          "partes": "JUST TIME INDUSTRIA DOS METAIS LTDA"
+        },
+        {
+          "advogado": "VERA CARLA NELSON CRUZ SILVEIRA",
+          "partes": "JUST TIME INDUSTRIA DOS METAIS LTDA"
+        },
+        {
+          "advogado": "MARCELO KOSMINSKY",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "num_registro": "202301374234",
+      "registro_formatado": "2023/0137423-4",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2070059",
+      "numero_formatado": "2070059",
+      "uf": "SP",
+      "processo": "REsp 2.070.059/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2070059 - SP (2023/0137423-4) - Tema Repetitivo n. 1379",
+      "tema_repetitivo": "Tema Repetitivo n. 1379",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "IRPF/Imposto de Renda de Pessoa Física",
+      "resultado_oficial": "NEGOU PROVIMENTO",
+      "segredo_justica": true,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "NOTRE DAME INTERMEDICA SAUDE S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "J P N"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "F E R"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "M E M"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "M G O J"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "A P F G"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "D DE M J"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "R N O"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "G DA S R"
+        }
+      ],
+      "advogados": [
+        "GABRIELA SILVA DE LEMOS - SP208452",
+        "BRENO FERREIRA MARTINS VASCONCELOS - SP224120"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "JOSE EDUARDO MARTINS CARDOZO",
+          "partes": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A.; NOTRE DAME INTERMEDICA SAUDE S.A."
+        },
+        {
+          "advogado": "CARLOS HENRIQUE DE OLIVEIRA",
+          "partes": "ASSOCIACAO BRASILEIRA DAS COMPANHIAS ABERTAS ABRASCA"
+        },
+        {
+          "advogado": "RAQUEL GODOY DE MIRANDA ARAUJO",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 6,
+      "num_registro": "202500645090",
+      "registro_formatado": "2025/0064509-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2199631",
+      "numero_formatado": "2199631",
+      "uf": "SP",
+      "processo": "REsp 2.199.631/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2199631 - SP (2025/0064509-0) - Tema Repetitivo n. 1379",
+      "tema_repetitivo": "Tema Repetitivo n. 1379",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Contribuições Previdenciárias",
+      "resultado_oficial": "NEGOU PROVIMENTO",
+      "segredo_justica": true,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "D C C S"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "D P DE A P J"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "E S C"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "G P F"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "G B R"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "J L DE O E"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "M C S M V"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "M H F O"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "NOTRE DAME INTERMEDICA PARTICIPAÇÕES S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "NOTRE DAME INTERMEDICA SAUDE S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "S R DE P F"
+        }
+      ],
+      "advogados": [
+        "GABRIELA SILVA DE LEMOS - SP208452",
+        "HALLEY HENARES NETO - SP125645",
+        "BRENO FERREIRA MARTINS VASCONCELOS - SP224120"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "CARLOS HENRIQUE DE OLIVEIRA",
+          "partes": "ASSOCIACAO BRASILEIRA DAS COMPANHIAS ABERTAS ABRASCA"
+        },
+        {
+          "advogado": "MARCELLO PEDROSO PEREIRA",
+          "partes": "ASSOCIACAO BRASILEIRA DE ADVOCACIA TRIBUTARIA - ABAT"
+        },
+        {
+          "advogado": "RAQUEL GODOY DE MIRANDA ARAUJO",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 7,
+      "num_registro": "202402248505",
+      "registro_formatado": "2024/0224850-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2152197",
+      "numero_formatado": "2152197",
+      "uf": "SP",
+      "processo": "REsp 2.152.197/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2152197 - SP (2024/0224850-5) - Tema Repetitivo n. 1324",
+      "tema_repetitivo": "Tema Repetitivo n. 1324",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Multas e demais Sanções",
+      "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO E, NESSA PARTE DEU-LHE PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "HERMES & RUAS FRETAMENTO E LOCADORA LTDA"
+        }
+      ],
+      "advogados": [
+        "FELIPE MOREIRA DA CONCEIÇÃO - SP396235",
+        "DEFENSORIA PÚBLICA DO DISTRITO FEDERAL"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "PAULO MARTINS DOS SANTOS",
+          "partes": "ESTADO DO CEARA"
+        },
+        {
+          "advogado": "CAMILLA GAMBARRA MOREIRA",
+          "partes": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+        }
+      ]
+    },
+    {
+      "item": 8,
+      "num_registro": "202402248315",
+      "registro_formatado": "2024/0224831-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2152255",
+      "numero_formatado": "2152255",
+      "uf": "SP",
+      "processo": "REsp 2.152.255/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2152255 - SP (2024/0224831-5) - Tema Repetitivo n. 1324",
+      "tema_repetitivo": "Tema Repetitivo n. 1324",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Multas e demais Sanções",
+      "resultado_oficial": "CONHECEU DO RECURSO E LHE DEU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JOSE TEIXEIRA DA SILVA"
+        }
+      ],
+      "advogados": [
+        "THALIS HENRIQUE DOMINGOS BARRELIN - SP380588",
+        "DEFENSORIA PÚBLICA DO DISTRITO FEDERAL"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "CARLOS EDUARDO VIEIRA DA SILVA",
+          "partes": "GRUPO DE ATUAÇÃO ESTRATÉGICA DAS DEFENSORIAS PÚBLICAS ESTADUAIS E DISTRITAL NOS TRIBUNAIS SUPERIORES"
+        },
+        {
+          "advogado": "CAMILLA GAMBARRA MOREIRA",
+          "partes": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+        }
+      ]
+    },
+    {
+      "item": 9,
+      "num_registro": "202402346680",
+      "registro_formatado": "2024/0234668-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2174050",
+      "numero_formatado": "2174050",
+      "uf": "SP",
+      "processo": "REsp 2.174.050/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2174050 - SP (2024/0234668-0) - Tema Repetitivo n. 1324",
+      "tema_repetitivo": "Tema Repetitivo n. 1324",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Multas e demais Sanções",
+      "resultado_oficial": "CONHECEU DO RECURSO E LHE DEU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "WALDOMIRO JOAO DE JESUS LALLA"
+        }
+      ],
+      "advogados": [
+        "MARIA LALLA SANTOS - SP410900",
+        "DEFENSORIA PÚBLICA DO DISTRITO FEDERAL"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "CAMILLA GAMBARRA MOREIRA",
+          "partes": "AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT"
+        }
+      ]
+    },
+    {
+      "item": 10,
+      "num_registro": "202504869698",
+      "registro_formatado": "2025/0486969-8",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2249171",
+      "numero_formatado": "2249171",
+      "uf": "CE",
+      "processo": "REsp 2.249.171/CE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2249171 - CE (2025/0486969-8) - Tema Repetitivo n. 1433",
+      "tema_repetitivo": "Tema Repetitivo n. 1433",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FUNDAÇÃO NACIONAL DE SAÚDE"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "HUGO LOPES GALVAO"
+        }
+      ],
+      "advogados": [
+        "JOSE ULISSES DE LIMA JUNIOR - PE029475",
+        "SERGIO LUDMER - AL008910A",
+        "GISELE LAVALHOS SAVOLDI - DF020187",
+        "GLENIO LUIS OHLWEILER FERREIRA - RS023021"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "CLAUDIO SANTOS DA SILVA",
+          "partes": "FED NAC SIND TRAB SAUDE TRAB E PREVIDENCIA SOCIAL"
+        },
+        {
+          "advogado": "SERGIO LUDMER",
+          "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+        },
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "FUNDAÇÃO NACIONAL DE SAÚDE"
+        },
+        {
+          "advogado": "CLAUDIO SANTOS DA SILVA",
+          "partes": "FED NAC SIND TRAB SAUDE TRAB E PREVIDENCIA SOCIAL"
+        }
+      ]
+    },
+    {
+      "item": 11,
+      "num_registro": "202505058167",
+      "registro_formatado": "2025/0505816-7",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2251538",
+      "numero_formatado": "2251538",
+      "uf": "PE",
+      "processo": "REsp 2.251.538/PE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2251538 - PE (2025/0505816-7) - Tema Repetitivo n. 1433",
+      "tema_repetitivo": "Tema Repetitivo n. 1433",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "SIND DOS TRAB EM EMPRESAS FERROVIARIAS DO NORDESTE"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "ROBEVANIA NUNES CORDEIRO"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "ALDENIRA MARIANA DE LIMA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "CELIA MARIA GOMES DE MELO"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "EDIVA MARIA DE AGUIAR"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "EUNICE LOPES GONZAGA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "JULIA EMILIA DE ALMEIDA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "MARIA JOSE FAUSTINO DA SILVA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "MARIA JOSE MAGERO DOS SANTOS"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "MARIA TEREZA CLAUDINO DA SILVA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "MARIA CRISTINA PIMENTA DA FRANCA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "UNIÃO"
+        }
+      ],
+      "advogados": [
+        "JOAQUIM PEDRO CARNEIRO CAMPELLO FILHO - PE036681",
+        "GISELE LAVALHOS SAVOLDI - DF020187",
+        "SERGIO LUDMER - AL008910A"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "THAIS FERREIRA DE ALMEIDA",
+          "partes": "UNIÃO"
+        },
+        {
+          "advogado": "JEAN PAULO RUZZARIN",
+          "partes": "SIND DOS TRAB EM EMPRESAS FERROVIARIAS DO NORDESTE"
+        },
+        {
+          "advogado": "SERGIO LUDMER",
+          "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+        }
+      ]
+    },
+    {
+      "item": 12,
+      "num_registro": "202504994660",
+      "registro_formatado": "2025/0499466-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2250737",
+      "numero_formatado": "2250737",
+      "uf": "PE",
+      "processo": "REsp 2.250.737/PE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2250737 - PE (2025/0499466-0) - Tema Repetitivo n. 1433",
+      "tema_repetitivo": "Tema Repetitivo n. 1433",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "MARIA JUCINEIDE VIEIRA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        }
+      ],
+      "advogados": [
+        "RAFAEL NEVES REGO - PE032053",
+        "SERGIO LUDMER - AL008910A",
+        "GISELE LAVALHOS SAVOLDI - DF020187"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FERNANDO PEREIRA ABREU",
+          "partes": "SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL"
+        },
+        {
+          "advogado": "SERGIO LUDMER",
+          "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+        },
+        {
+          "advogado": "RAFAEL NEVES REGO",
+          "partes": "MARIA JUCINEIDE VIEIRA"
+        },
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        }
+      ]
+    },
+    {
+      "item": 13,
+      "num_registro": "202502362585",
+      "registro_formatado": "2025/0236258-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2234888",
+      "numero_formatado": "2234888",
+      "uf": "MS",
+      "processo": "REsp 2.234.888/MS",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2234888 - MS (2025/0236258-5) - Tema Repetitivo n. 1433",
+      "tema_repetitivo": "Tema Repetitivo n. 1433",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "BERNADETE DE SOUZA FILHA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "MARIA DE SOUZA FILHA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JUAREZ DE SOUZA FILHO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "CICERA DE SOUZA FILHA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JOSE DE SOUZA FILHO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JOSE FERNANDO FILHO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "EDSON JOHNY SILVA DE SOUZA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "EULINA DANYELY SILVA DE SOUZA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JOAO BOSCO DE SOUZA FILHO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "VITALINA DE SOUZA BEZERRA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "CICERO DE SOUZA FILHO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "MARIA DAYANE DE SOUZA NEPOMUCENO - ESPÓLIO"
+        }
+      ],
+      "advogados": [
+        "DIEGO MORAES BRAGA - ES025493",
+        "GISELE LAVALHOS SAVOLDI - DF020187",
+        "SERGIO LUDMER - DF066509"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FERNANDO PEREIRA ABREU",
+          "partes": "SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL"
+        },
+        {
+          "advogado": "SERGIO LUDMER",
+          "partes": "UNAFISCO NACIONAL - ASSOCIAÇÃO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA FEDERAL DO BRASIL"
+        },
+        {
+          "advogado": "EDUARDO COSTA NASSUR",
+          "partes": "CICERA DE SOUZA FILHA; BERNADETE DE SOUZA FILHA; JOSE FERNANDO FILHO; MARIA DAYANE DE SOUZA NEPOMUCENO; JOAO BOSCO DE SOUZA FILHO; EDSON JOHNY SILVA DE SOUZA; MARIA DE SOUZA FILHA; JOSE DE SOUZA FILHO; EULINA DANYELY SILVA DE SOUZA; JUAREZ DE SOUZA FILHO; VITALINA DE SOUZA BEZERRA; CICERO DE SOUZA FILHO"
+        },
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT"
+        }
+      ]
+    },
+    {
+      "item": 14,
+      "num_registro": "202302282525",
+      "registro_formatado": "2023/0228252-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2213084",
+      "numero_formatado": "2213084",
+      "uf": "RJ",
+      "processo": "REsp 2.213.084/RJ",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2213084 - RJ (2023/0228252-5) - Tema Repetitivo n. 1386",
+      "tema_repetitivo": "Tema Repetitivo n. 1386",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Concessão",
+      "resultado_oficial": "DEU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "ANA LUCIA VELLOSO BRASIL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "LUCIA MARIA VELLOSO BRASIL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "ESTADO DO RIO DE JANEIRO"
+        }
+      ],
+      "advogados": [
+        "MARCO TAYAH - RJ011951",
+        "DUVAL VIANNA - RJ020526",
+        "JORGE CELSO FLEMING DE ALMEIDA FILHO - RJ164736",
+        "JANE LÚCIA WILHELM BERWANGER - RS046917",
+        "DEFENSORIA PÚBLICA DA UNIÃO"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "AUGUSTO CÉSAR ALMEIDA DA SILVA",
+          "partes": "INSTITUTO BRASILEIRO DE DIREITO PREVIDENCIÁRIO IBDP"
+        },
+        {
+          "advogado": "JULIANA FLORENTINO DE MOURA",
+          "partes": "ESTADO DO RIO DE JANEIRO"
+        }
+      ]
+    },
+    {
+      "item": 15,
+      "num_registro": "202301275172",
+      "registro_formatado": "2023/0127517-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2227232",
+      "numero_formatado": "2227232",
+      "uf": "RS",
+      "processo": "REsp 2.227.232/RS",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2227232 - RS (2023/0127517-2) - Tema Repetitivo n. 1386",
+      "tema_repetitivo": "Tema Repetitivo n. 1386",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Concessão",
+      "resultado_oficial": "DEU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "CRISLAINE RODRIGUES SILVEIRA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "DEPARTAMENTO MUNICIPAL DE PREVIDÊNCIA DOS"
+        }
+      ],
+      "advogados": [
+        "MARIANA DUTRA E SILVA - RS079593",
+        "LUIG ALMEIDA MOTA - RS120965B",
+        "JANE LÚCIA WILHELM BERWANGER - RS046917",
+        "DEFENSORIA PÚBLICA DA UNIÃO"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "AUGUSTO CÉSAR ALMEIDA DA SILVA",
+          "partes": "INSTITUTO BRASILEIRO DE DIREITO PREVIDENCIÁRIO IBDP"
+        },
+        {
+          "advogado": "MARIANA DUTRA E SILVA",
+          "partes": "CRISLAINE RODRIGUES SILVEIRA"
+        }
+      ]
+    },
+    {
+      "item": 16,
+      "num_registro": "202402119085",
+      "registro_formatado": "2024/0211908-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2150097",
+      "numero_formatado": "2150097",
+      "uf": "CE",
+      "processo": "REsp 2.150.097/CE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2150097 - CE (2024/0211908-5) - Tema Repetitivo n. 1364",
+      "tema_repetitivo": "Tema Repetitivo n. 1364",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Não Cumulatividade",
+      "resultado_oficial": "CONHECEU DO RECURSO MAS LHE NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "CIL - COMERCIO DE INFORMATICA LTDA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "HUGO MACHADO GUEDES ALCOFORADO - PE033402"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "RAFAELA MATEUS DUARTE",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 17,
+      "num_registro": "202402164930",
+      "registro_formatado": "2024/0216493-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2150848",
+      "numero_formatado": "2150848",
+      "uf": "RS",
+      "processo": "REsp 2.150.848/RS",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2150848 - RS (2024/0216493-0) - Tema Repetitivo n. 1364",
+      "tema_repetitivo": "Tema Repetitivo n. 1364",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "PIS",
+      "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "DL TRANSPORTES E LOGISTICA NACIONAL E INTERNACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "CARLOS ALBERTO BRUSTOLIN - SC019433"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "MARCEL VIESA PEREIRA DA COSTA",
+          "partes": "DL TRANSPORTES E LOGISTICA NACIONAL E INTERNACIONAL LTDA"
+        },
+        {
+          "advogado": "RAFAELA MATEUS DUARTE",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 18,
+      "num_registro": "202402168426",
+      "registro_formatado": "2024/0216842-6",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2150894",
+      "numero_formatado": "2150894",
+      "uf": "SC",
+      "processo": "REsp 2.150.894/SC",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2150894 - SC (2024/0216842-6) - Tema Repetitivo n. 1364",
+      "tema_repetitivo": "Tema Repetitivo n. 1364",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Cofins",
+      "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "AROMITALIA DO BRASIL LTDA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "FERNANDO EDUARDO SEREC - SP086352"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "BRUNO RODRIGUES TEIXEIRA DE LIMA",
+          "partes": "AROMITALIA DO BRASIL LTDA"
+        },
+        {
+          "advogado": "ARIANE COSTA GUIMARAES",
+          "partes": "FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DO PARANÁ"
+        },
+        {
+          "advogado": "RAFAELA MATEUS DUARTE",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 19,
+      "num_registro": "202402186562",
+      "registro_formatado": "2024/0218656-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2151146",
+      "numero_formatado": "2151146",
+      "uf": "RS",
+      "processo": "REsp 2.151.146/RS",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2151146 - RS (2024/0218656-2) - Tema Repetitivo n. 1364",
+      "tema_repetitivo": "Tema Repetitivo n. 1364",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Cofins",
+      "resultado_oficial": "NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "ANDERLE-TRANSPORTES LTDA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "MARCELO AUGUSTO SELLA - PR038404"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "RAFAELA MATEUS DUARTE",
+          "partes": "FAZENDA NACIONAL"
+        },
+        {
+          "advogado": "MARCELO TONETTE JUNIOR",
+          "partes": "ANDERLE-TRANSPORTES LTDA"
+        }
+      ]
+    },
+    {
+      "item": 20,
+      "num_registro": "202504030197",
+      "registro_formatado": "2025/0403019-7",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2239244",
+      "numero_formatado": "2239244",
+      "uf": "CE",
+      "processo": "REsp 2.239.244/CE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2239244 - CE (2025/0403019-7) - Tema Repetitivo n. 1454",
+      "tema_repetitivo": "Tema Repetitivo n. 1454",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Profissional",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR"
+        }
+      ],
+      "advogados": [
+        "FLAVIA MARIA DE PAULA MENESCAL - CE006143"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "GABRIEL DE MELLO GALVAO",
+          "partes": "AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR"
+        }
+      ]
+    },
+    {
+      "item": 21,
+      "num_registro": "202504030250",
+      "registro_formatado": "2025/0403025-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2239250",
+      "numero_formatado": "2239250",
+      "uf": "SE",
+      "processo": "REsp 2.239.250/SE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2239250 - SE (2025/0403025-0) - Tema Repetitivo n. 1454",
+      "tema_repetitivo": "Tema Repetitivo n. 1454",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Repetição de indébito",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "SOCIEDADE DE EDUCACAO TIRADENTES S.A"
+        }
+      ],
+      "advogados": [
+        "PAMELA ALINE LIMA SANTANA - SE008633"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "SARA MENDES CARCARA",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 22,
+      "num_registro": "201901043400",
+      "registro_formatado": "2019/0104340-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1809093",
+      "numero_formatado": "1809093",
+      "uf": "CE",
+      "processo": "REsp 1.809.093/CE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 1809093 - CE (2019/0104340-0) - Tema Repetitivo n. 1432",
+      "tema_repetitivo": "Tema Repetitivo n. 1432",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+      "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "DIOCESE DE TIANGUA"
+        }
+      ],
+      "advogados": [
+        "OLINTHO FRANKLIN GADELHA - CE008956",
+        "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+        }
+      ]
+    },
+    {
+      "item": 23,
+      "num_registro": "201901369387",
+      "registro_formatado": "2019/0136938-7",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1814350",
+      "numero_formatado": "1814350",
+      "uf": "SE",
+      "processo": "REsp 1.814.350/SE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 1814350 - SE (2019/0136938-7) - Tema Repetitivo n. 1432",
+      "tema_repetitivo": "Tema Repetitivo n. 1432",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+      "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "JORGE GOMES DA SILVA"
+        }
+      ],
+      "advogados": [
+        "ANGELO MELO DE SOUZA - SE006265",
+        "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+        }
+      ]
+    },
+    {
+      "item": 24,
+      "num_registro": "202102335482",
+      "registro_formatado": "2021/0233548-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1950981",
+      "numero_formatado": "1950981",
+      "uf": "PE",
+      "processo": "REsp 1.950.981/PE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 1950981 - PE (2021/0233548-2) - Tema Repetitivo n. 1432",
+      "tema_repetitivo": "Tema Repetitivo n. 1432",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+      "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "GREGORIO FERREIRA GUARDIAO - ESPÓLIO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "BANCO DO NORDESTE DO BRASIL SA"
+        }
+      ],
+      "advogados": [
+        "MARCUS ANDRE ALMEIDA LINS - PE016844",
+        "AILMA DIAS DE HOLANDA - PE014585",
+        "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+        }
+      ]
+    },
+    {
+      "item": 25,
+      "num_registro": "202201500950",
+      "registro_formatado": "2022/0150095-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2004109",
+      "numero_formatado": "2004109",
+      "uf": "SE",
+      "processo": "REsp 2.004.109/SE",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2004109 - SE (2022/0150095-0) - Tema Repetitivo n. 1432",
+      "tema_repetitivo": "Tema Repetitivo n. 1432",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Repetitivos",
+      "ind_categoria": "RP",
+      "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+      "resultado_oficial": "SUSPENSÃO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "DEJANIRA VIEIRA DE SOUZA"
+        }
+      ],
+      "advogados": [
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M",
+        "ADRIELE PINHEIRO REIS AYRES DE BRITTO - DF023490"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA"
+        }
+      ]
+    },
+    {
+      "item": 26,
+      "num_registro": "202203221614",
+      "registro_formatado": "2022/0322161-4",
+      "sg_classe": "EDcl no REsp",
+      "classe_completa": "EDcl no REsp",
+      "num_proc_classe": "2032021",
+      "numero_formatado": "2032021",
+      "uf": "RS",
+      "processo": "EDcl no REsp 2.032.021/RS",
+      "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2032021 - RS (2022/0322161-4) - Tema Repetitivo n. 1251",
+      "tema_repetitivo": "Tema Repetitivo n. 1251",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Preferências de Julgamento",
+      "ind_categoria": "PJ",
+      "assunto": "Anistia Política",
+      "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "WILSON DE MENEZES DIAS - SUCESSÃO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "ELIANA DO CANTO DIAS - HERDEIRO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "MARCELO PACIFICO DO CANTO DIAS - HERDEIRO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "MARCOS CARMAIA DO CANTO DIAS - HERDEIRO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "WILSON BELCHIOR DO CANTO DIAS - HERDEIRO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "ELAINE DO CANTO DIAS - HERDEIRO"
+        }
+      ],
+      "advogados": [
+        "JOSE VECCHIO FILHO - RS031437",
+        "RAMIRO NODARI GOULART - RS083812"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 27,
+      "num_registro": "202203142873",
+      "registro_formatado": "2022/0314287-3",
+      "sg_classe": "EDcl no REsp",
+      "classe_completa": "EDcl no REsp",
+      "num_proc_classe": "2031813",
+      "numero_formatado": "2031813",
+      "uf": "SC",
+      "processo": "EDcl no REsp 2.031.813/SC",
+      "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2031813 - SC (2022/0314287-3) - Tema Repetitivo n. 1251",
+      "tema_repetitivo": "Tema Repetitivo n. 1251",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Preferências de Julgamento",
+      "ind_categoria": "PJ",
+      "assunto": "Anistia Política",
+      "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "ROQUE FELIPPE"
+        }
+      ],
+      "advogados": [
+        "MARCELO PEREIRA PIAZZA - SC007260"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 28,
+      "num_registro": "202401827845",
+      "registro_formatado": "2024/0182784-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2170092",
+      "numero_formatado": "2170092",
+      "uf": "SP",
+      "processo": "REsp 2.170.092/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2170092 - SP (2024/0182784-5) - Tema Repetitivo n. 1275",
+      "tema_repetitivo": "Tema Repetitivo n. 1275",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Indenização Trabalhista",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "SERVIÇO SOCIAL DA INDÚSTRIA - SESI"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "BIMEDA BRASIL S.A."
+        }
+      ],
+      "advogados": [
+        "CÁSSIO ROBERTO SIQUEIRA DOS SANTOS - SP225408",
+        "MARCELINO ALVES DE ALCÂNTARA - SP237360",
+        "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+        "LARISSA MOREIRA COSTA - DF016745"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 29,
+      "num_registro": "202402068289",
+      "registro_formatado": "2024/0206828-9",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2170082",
+      "numero_formatado": "2170082",
+      "uf": "SP",
+      "processo": "REsp 2.170.082/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2170082 - SP (2024/0206828-9) - Tema Repetitivo n. 1275",
+      "tema_repetitivo": "Tema Repetitivo n. 1275",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "SERVICO SOCIAL DA INDUSTRIA - SESI"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "GRANERO LIMPADORES DE PARABRISAS LTDA"
+        }
+      ],
+      "advogados": [
+        "CÁSSIO ROBERTO SIQUEIRA DOS SANTOS - SP225408",
+        "LUIZ APARECIDO FERREIRA - SP095654",
+        "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+        "LARISSA MOREIRA COSTA - DF016745"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 30,
+      "num_registro": "202203360522",
+      "registro_formatado": "2022/0336052-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2034824",
+      "numero_formatado": "2034824",
+      "uf": "RJ",
+      "processo": "REsp 2.034.824/RJ",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2034824 - RJ (2022/0336052-2) - Tema Repetitivo n. 1275",
+      "tema_repetitivo": "Tema Repetitivo n. 1275",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "W ENGENHARIA LTDA."
+        }
+      ],
+      "advogados": [
+        "FERNANDO SUCUPIRA MORENO - DF022425",
+        "LUIZ HENRIQUE CASTRO DA FONSECA ZAIDAN - RJ137224",
+        "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+        "LARISSA MOREIRA COSTA - DF016745"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 31,
+      "num_registro": "202401989182",
+      "registro_formatado": "2024/0198918-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2148056",
+      "numero_formatado": "2148056",
+      "uf": "SP",
+      "processo": "REsp 2.148.056/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2148056 - SP (2024/0198918-2) - Tema Repetitivo n. 1397",
+      "tema_repetitivo": "Tema Repetitivo n. 1397",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "Min. Sérgio Kukina",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Violação dos Princípios Administrativos",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "JOAO PAULO DE LIMA ROLIM"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "CARINA VEIGA SILVA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "EDIVALDO NERES DE MEIRA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "MARCOS NICOLAU IZZO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO"
+        }
+      ],
+      "advogados": [
+        "FERNANDA BARRETTO MIRANDA DAOLIO - SP198176",
+        "MARIA DAS GRAÇAS SILVA SIQUEIRA - SP098830",
+        "CARINA VEIGA SILVA (EM CAUSA PRÓPRIA) - SP195967"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 32,
+      "num_registro": "201900207413",
+      "registro_formatado": "2019/0020741-3",
+      "sg_classe": "EREsp",
+      "classe_completa": "EREsp",
+      "num_proc_classe": "1793915",
+      "numero_formatado": "1793915",
+      "uf": "RJ",
+      "processo": "EREsp 1.793.915/RJ",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1793915 - RJ (2019/0020741-3) - Tema Repetitivo n. 1275",
+      "tema_repetitivo": "Tema Repetitivo n. 1275",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "KRISTYLUX INDUSTRIA E COMERCIO DE ROUPAS LTDA"
+        }
+      ],
+      "advogados": [
+        "MÁRCIO BRUNO SOUSA ELIAS - DF012533",
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M",
+        "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640",
+        "LARISSA MOREIRA COSTA - DF016745"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 33,
+      "num_registro": "202102789285",
+      "registro_formatado": "2021/0278928-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1957818",
+      "numero_formatado": "1957818",
+      "uf": "SP",
+      "processo": "REsp 1.957.818/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 1957818 - SP (2021/0278928-5) - Tema IAC n. 21",
+      "tema_repetitivo": "Tema IAC n. 21",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Fornecimento de Gás",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "AGENCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "PETRÓLEO BRASILEIRO S A PETROBRAS"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "PETRA ENERGIA S/A"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "BAYAR EMPREENDIMENTOS E PARTICIPACOES LTDA."
+        }
+      ],
+      "advogados": [
+        "RAFAEL DE MATOS GOMES DA SILVA - DF021428",
+        "PEDRO PAULO BARROS DE MAGALHAES - RJ087384",
+        "CESAR AUGUSTO DE ARRUDA MENDES JUNIOR - SP149876",
+        "GALILEU MARINHO DAS CHAGAS - SP098941",
+        "EURICO ROSAN FELICIO - SP269516",
+        "MARCOS ANTONIO DO AMARAL - SP145984",
+        "FLAVIO JOSE DI STEFANO FILHO - SP159304",
+        "MÁRCIO TERUO MATSUMOTO - SP133431",
+        "CLAUDIO JUSTINIANO DE ANDRADE - SP121387",
+        "ANTÔNIO ROMUALDO DOS SANTOS FILHO - SP024373",
+        "RAFAEL ECHEVERRIA LOPES - SP321174",
+        "DEFENSORIA PÚBLICA DA UNIÃO",
+        "JANAINA SANTOS CASTRO - DF046175",
+        "BIANCA DE FIGUEIREDO MELO VILLAS BÔAS - SP525488",
+        "JOSENI MELO DE ALMEIDA - PE011916",
+        "DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO",
+        "CARLOS MARIO DA SILVA VELLOSO FILHO - DF006534",
+        "LUIZ ALBERTO BETTIOL - DF006157"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 34,
+      "num_registro": "202401918397",
+      "registro_formatado": "2024/0191839-7",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2146834",
+      "numero_formatado": "2146834",
+      "uf": "AP",
+      "processo": "REsp 2.146.834/AP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2146834 - AP (2024/0191839-7) - Tema Repetitivo n. 1302",
+      "tema_repetitivo": "Tema Repetitivo n. 1302",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Organização Sindical",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FRANCISCO DE ASSIS OLIVEIRA DE SOUSA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "ESTADO DO AMAPÁ"
+        }
+      ],
+      "advogados": [
+        "CÉSAR FARIAS DA ROSA - AP001462A",
+        "FABRICIO CORREIA DE AQUINO - DF018486",
+        "GLENIO LUIS OHLWEILER FERREIRA - RS023021",
+        "RAIMUNDO CEZAR BRITTO ARAGAO - DF032147",
+        "JOSÉ LUIS WAGNER - DF017183",
+        "FERNANDO HUGO RABELLO MIRANDA - DF019246",
+        "DANIEL BRAGA ALBUQUERQUE - CE028282",
+        "GISELE LAVALHOS SAVOLDI - DF020187",
+        "CASSIO SCARPINELLA BUENO - SP128328"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 35,
+      "num_registro": "202401918462",
+      "registro_formatado": "2024/0191846-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2146839",
+      "numero_formatado": "2146839",
+      "uf": "AP",
+      "processo": "REsp 2.146.839/AP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2146839 - AP (2024/0191846-2) - Tema Repetitivo n. 1302",
+      "tema_repetitivo": "Tema Repetitivo n. 1302",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Organização Sindical",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "RENATO TAVARES RANGEL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "ESTADO DO AMAPÁ"
+        }
+      ],
+      "advogados": [
+        "CÉSAR FARIAS DA ROSA - AP001462A",
+        "JOSÉ LUIS WAGNER - DF017183",
+        "RAIMUNDO CEZAR BRITTO ARAGAO - DF032147",
+        "FABRICIO CORREIA DE AQUINO - DF018486",
+        "CASSIO SCARPINELLA BUENO - SP128328",
+        "FERNANDO HUGO RABELLO MIRANDA - DF019246",
+        "GISELE LAVALHOS SAVOLDI - DF020187"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 36,
+      "num_registro": "202503616574",
+      "registro_formatado": "2025/0361657-4",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2238885",
+      "numero_formatado": "2238885",
+      "uf": "SP",
+      "processo": "REsp 2.238.885/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2238885 - SP (2025/0361657-4) - Tema Repetitivo n. 1415",
+      "tema_repetitivo": "Tema Repetitivo n. 1415",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "CGI - TRANSMISSORA CAMPINA GRANDE IGARACU S.A."
+        }
+      ],
+      "advogados": [
+        "RICARDO FERREIRA BOLAN - SP164881"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 37,
+      "num_registro": "202201113616",
+      "registro_formatado": "2022/0111361-6",
+      "sg_classe": "EREsp",
+      "classe_completa": "EREsp",
+      "num_proc_classe": "1997816",
+      "numero_formatado": "1997816",
+      "uf": "RJ",
+      "processo": "EREsp 1.997.816/RJ",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1997816 - RJ (2022/0111361-6) - Tema Repetitivo n. 1275",
+      "tema_repetitivo": "Tema Repetitivo n. 1275",
+      "relator": "Min. Marco Aurélio Bellizze",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Dívida Ativa (Execução Fiscal)",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "EMISSAO S/A"
+        }
+      ],
+      "advogados": [
+        "FERNANDO SUCUPIRA MORENO - DF022425",
+        "ELTON LUIZ ALVES DA SILVA - RJ109441",
+        "LARISSA MOREIRA COSTA - DF016745",
+        "ALEXANDRE ANTONIO ALKMIM TEIXEIRA - MG076640"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 38,
+      "num_registro": "202404654276",
+      "registro_formatado": "2024/0465427-6",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2186838",
+      "numero_formatado": "2186838",
+      "uf": "MG",
+      "processo": "REsp 2.186.838/MG",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2186838 - MG (2024/0465427-6) - Tema Repetitivo n. 1397",
+      "tema_repetitivo": "Tema Repetitivo n. 1397",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "Min. Sérgio Kukina",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Improbidade Administrativa",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "HELVECIO LUIZ REIS"
+        }
+      ],
+      "advogados": [
+        "VIVIANE MACEDO GARCIA - MG080902"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 39,
+      "num_registro": "202503567244",
+      "registro_formatado": "2025/0356724-4",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2238889",
+      "numero_formatado": "2238889",
+      "uf": "DF",
+      "processo": "REsp 2.238.889/DF",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2238889 - DF (2025/0356724-4) - Tema Repetitivo n. 1415",
+      "tema_repetitivo": "Tema Repetitivo n. 1415",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "MARIANA TRANSMISSORA DE ENERGIA ELETRICA S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "MIRACEMA TRANSMISSORA DE ENERGIA ELETRICA S/A"
+        }
+      ],
+      "advogados": [
+        "MARCELO BAETA IPPOLITO - SP111361"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 40,
+      "num_registro": "202403124532",
+      "registro_formatado": "2024/0312453-2",
+      "sg_classe": "REsp",
+      "classe_completa": "EDcl no REsp",
+      "num_proc_classe": "2166208",
+      "numero_formatado": "2166208",
+      "uf": "RS",
+      "processo": "EDcl no REsp 2.166.208/RS",
+      "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2166208 - RS (2024/0312453-2) - Tema Repetitivo n. 1307",
+      "tema_repetitivo": "Tema Repetitivo n. 1307",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Aposentadoria Especial (Art. 57/8)",
+      "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "NILTON BATISTA"
+        }
+      ],
+      "advogados": [
+        "MARCELO ADAIME DUARTE - RS062293",
+        "JANE LÚCIA WILHELM BERWANGER - RS046917",
+        "JOSE ENEAS KOVALCZUK FILHO - SC019657"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 41,
+      "num_registro": "202403104690",
+      "registro_formatado": "2024/0310469-0",
+      "sg_classe": "REsp",
+      "classe_completa": "EDcl no REsp",
+      "num_proc_classe": "2164724",
+      "numero_formatado": "2164724",
+      "uf": "RS",
+      "processo": "EDcl no REsp 2.164.724/RS",
+      "cabecalho_pdf": "EDcl no RECURSO ESPECIAL Nº 2164724 - RS (2024/0310469-0) - Tema Repetitivo n. 1307",
+      "tema_repetitivo": "Tema Repetitivo n. 1307",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Aposentadoria Especial (Art. 57/8)",
+      "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "JULIO DOS SANTOS MAYER"
+        }
+      ],
+      "advogados": [
+        "ADRIANE BRAMANTE DE CASTRO LADENTHIN - SP125436",
+        "JANE LÚCIA WILHELM BERWANGER - RS046917"
+      ],
+      "sustentacoes_orais": []
+    }
+  ]
+}

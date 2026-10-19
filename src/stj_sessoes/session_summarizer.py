@@ -68,8 +68,9 @@ REGRAS ESTRITAS DE REDAÇÃO:
 - Empregue terminologia processual rigorosa (não confunda "não conhecer", "negar provimento", "rejeitar" e "julgar improcedente").
 - Preserve rigorosamente a minutagem `(Início: [HH:MM:SS])` no fim de cada título `### N. ...` com base nos timestamps da transcrição.
 - Quando um julgador atuar como Desembargador Convocado ou Ministro Substituto/convocado de outro órgão, identifique-o claramente no campo `- **Relator:**` com o prefixo `Des. Conv.` ou o sufixo `(Substituto/Convocado)`.
-- Mantenha absoluta fidelidade ao que foi dito na sessão; se o número do processo não for audível com segurança, utilize `[Processo não identificado]`.
-
+- Quando a PAUTA E ORDEM DO DIA OFICIAL estiver fornecida abaixo, utilize-a obrigatoriamente como gabarito oficial para grafar a classe, o número exato do processo, a UF (ex.: `REsp 2.293.252/MG`), o Tema Repetitivo e identificar processos que tenham sido mencionados na sessão apenas pelo número de item da pauta (ex.: "Item 28 da pauta") ou pelo nome do relator/partes.
+- Mantenha absoluta fidelidade ao que foi dito na sessão; somente utilize `[Processo não identificado]` se não for possível identificá-lo nem pela transcrição nem pela pauta oficial da sessão.
+{bloco_pauta}
 ÓRGÃO E DATA DA SESSÃO: {orgao} — {data}
 
 TRANSCRIÇÃO DA SESSÃO:
@@ -86,7 +87,7 @@ Consolide todos os segmentos em um ÚNICO resumo final coeso e completo, observa
    - `## Processos Julgados`
    - `## Estatísticas`
 2. Na seção `## Atuação e Manifestações do Min. Herman Benjamin`, reúna todas as intervenções do Ministro ocorridas ao longo de toda a sessão, sem duplicidades, mantendo a minutagem `(Início: [HH:MM:SS])`.
-3. Na seção `## Processos Julgados`, unifique processos que tenham começado em um segmento e terminado no seguinte, renumere sequencialmente (`### 1. ...`, `### 2. ...`) e preserve TODOS os campos:
+3. Na seção `## Processos Julgados`, unifique processos que tenham começado em um segmento e terminado no seguinte, renumere sequencialmente (`### 1. ...`, `### 2. ...`), confira a grafia exata de classe/número/UF na Pauta Oficial (quando fornecida) e preserve TODOS os campos:
    - `- **Matéria:**` (usando exclusivamente uma das 15 matérias numeradas do Gabinete)
    - `- **Relator:**`
    - `- **Resultado:**`
@@ -101,7 +102,7 @@ Consolide todos os segmentos em um ÚNICO resumo final coeso e completo, observa
 
 LISTA OFICIAL DAS 15 MATÉRIAS DO GABINETE:
 {lista_materias}
-
+{bloco_pauta}
 RESUMOS PARCIAIS DOS SEGMENTOS:
 
 {resumos_parciais}
@@ -220,6 +221,7 @@ def gerar_resumo_sessao(
     transcricao: str,
     gemini_client: GeminiClient,
     max_threads: int = DEFAULT_MAX_CHUNK_THREADS,
+    pauta_contexto: str = "",
 ) -> tuple[bool, ResumoArtefatos | None, str | None]:
     """
     Gera o resumo estruturado da sessão via Gemini Pro, com destaque às manifestações
@@ -231,12 +233,14 @@ def gerar_resumo_sessao(
     orgao_nome = nome_orgao_canonico(video.orgao)
     data_br = formatar_data_br(video.upload_date)
     lista_materias = listar_materias_para_prompt()
+    bloco_pauta = f"\n{pauta_contexto.strip()}\n\n" if pauta_contexto and pauta_contexto.strip() else "\n"
 
     if len(transcricao) <= LIMITE_CARACTERES_RESUMO_CHUNK:
         prompt = PROMPT_RESUMO_SESSAO.format(
             orgao=orgao_nome,
             data=data_br,
             lista_materias=lista_materias,
+            bloco_pauta=bloco_pauta,
             transcricao=transcricao,
         )
         ok, bruto, erro = gemini_client.gerar_conteudo(prompt, tier="pro")
@@ -259,6 +263,7 @@ def gerar_resumo_sessao(
             orgao=f"{orgao_nome} (Segmento {idx}/{len(chunks)})",
             data=data_br,
             lista_materias=lista_materias,
+            bloco_pauta=bloco_pauta,
             transcricao=chunk,
         )
         ok, resultado, erro = gemini_client.gerar_conteudo(prompt_seg, tier="pro")
@@ -288,6 +293,7 @@ def gerar_resumo_sessao(
             orgao=orgao_nome,
             data=data_br,
             lista_materias=lista_materias,
+            bloco_pauta=bloco_pauta,
             resumos_parciais="\n\n---\n\n".join(parciais),
         )
         ok, consolidado, erro = gemini_client.gerar_conteudo(prompt_cons, tier="pro")

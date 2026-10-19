@@ -10,10 +10,17 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = PROJECT_ROOT / "data"
 CACHE_DIR = DATA_DIR / "cache"
 YOUTUBE_CACHE_DIR = CACHE_DIR / "youtube"
+PAUTA_CACHE_DIR = CACHE_DIR / "pautas"
 OUTPUT_DIR = DATA_DIR / "output"
 WEB_DIR = PROJECT_ROOT / "web"
 WEB_TRANSCRICOES_DIR = WEB_DIR / "transcricoes"
 PAGES_SYNC_DIR = PROJECT_ROOT / ".pages_repo"
+
+# API pública do Calendário de Sessões e Pautas do STJ
+STJ_CALENDARIO_API_BASE = os.environ.get(
+    "STJ_CALENDARIO_API_BASE",
+    "https://calendario-sessoes.web.stj.jus.br/api",
+)
 
 # Configurações do canal do STJ no YouTube
 YOUTUBE_CANAL_STJ = os.environ.get(
@@ -49,6 +56,7 @@ def ensure_directories() -> None:
         DATA_DIR,
         CACHE_DIR,
         YOUTUBE_CACHE_DIR,
+        PAUTA_CACHE_DIR,
         OUTPUT_DIR,
         WEB_DIR,
         WEB_TRANSCRICOES_DIR,

@@ -114,12 +114,15 @@ class YouTubeClient:
         data_fim: str | None = None,
         max_resultados: int = 15,
         min_duracao_segundos: int = MIN_DURACAO_SESSAO_SEGUNDOS,
+        ignorar_video_ids: set[str] | None = None,
     ) -> list[VideoInfo]:
         """
         Lista vídeos do canal @STJnoticias filtrando estritamente Primeira Turma e Primeira Seção.
+        Se `ignorar_video_ids` for informado, pula as sessões já incluídas no acervo.
         """
         import yt_dlp
 
+        ids_ignorados = ignorar_video_ids or set()
         url_canal = canal or self.canal_padrao
         if url_canal.startswith("@"):
             url_canal = f"https://www.youtube.com/{url_canal}/streams"
@@ -130,7 +133,7 @@ class YouTubeClient:
             "quiet": True,
             "no_warnings": True,
             "extract_flat": True,
-            "playlist_items": f"1:{max(max_resultados * 8, 60)}",
+            "playlist_items": f"1:{max(max_resultados * 10, 80)}",
         }
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -150,6 +153,10 @@ class YouTubeClient:
                 continue
 
             video_id = entry.get("id") or ""
+            if video_id and video_id in ids_ignorados:
+                logger.info("Sessão já incluída no sistema (ignorando): %s (%s)", entry.get("title"), video_id)
+                continue
+
             title = entry.get("title") or ""
             duration = int(entry.get("duration") or 0)
 

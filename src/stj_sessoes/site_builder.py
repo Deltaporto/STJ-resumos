@@ -8,7 +8,8 @@ import re
 from pathlib import Path
 from typing import Any
 
-from stj_sessoes.config import OUTPUT_DIR, WEB_DIR, WEB_TRANSCRICOES_DIR
+from stj_sessoes.config import OUTPUT_DIR, PAUTA_CACHE_DIR, WEB_DIR, WEB_TRANSCRICOES_DIR
+from stj_sessoes.pauta_client import vincular_processos_julgados_com_pauta
 from stj_sessoes.taxonomy import (
     MATERIAS_GABINETE,
     ORGAOS_PUBLICAVEIS,
@@ -552,6 +553,31 @@ def montar_sessoes_publicaveis(
             if m.id in contagem_materias
         ]
 
+        # Carregar Pauta / Ordem do Dia oficial da sessão (quando disponível)
+        pauta_sessao: dict[str, Any] | None = None
+        for video in grupo:
+            arqs = video.get("arquivos") or {}
+            pauta_rel = arqs.get("pauta_json")
+            candidatos_pauta: list[Path] = []
+            if pauta_rel:
+                candidatos_pauta.append((input_dir / pauta_rel).resolve())
+            res_p: Path = video["_resumo_path"]
+            stem_base = res_p.name.replace("_resumo.md", "")
+            candidatos_pauta.append(res_p.with_name(f"{stem_base}_pauta.json"))
+            candidatos_pauta.append(PAUTA_CACHE_DIR / f"{upload_date}_{orgao_slug}_pauta.json")
+
+            for cand in candidatos_pauta:
+                if cand.exists():
+                    try:
+                        pauta_sessao = json.loads(cand.read_text(encoding="utf-8"))
+                        break
+                    except Exception as exc:
+                        logger.warning("Erro ao ler pauta JSON (%s): %s", cand, exc)
+            if pauta_sessao:
+                break
+
+        pauta_sessao = vincular_processos_julgados_com_pauta(todos_processos, pauta_sessao)
+
         # Salvar arquivo público de transcrição revisada para download (.docx e .md)
         transcript_rel_url = ""
         transcript_docx_rel_url = ""
@@ -576,6 +602,7 @@ def montar_sessoes_publicaveis(
                     orgao=orgao_nome,
                     data_sessao=data_br,
                     titulo_sessao=title,
+                    pauta=pauta_sessao,
                 )
                 transcript_docx_rel_url = f"transcricoes/{nome_arquivo_docx}"
             except Exception as exc:
@@ -591,6 +618,7 @@ def montar_sessoes_publicaveis(
         )
         total_herman = sum(1 for p in todos_processos if p["hasHerman"])
         total_relevantes = sum(1 for p in todos_processos if p["isRelevant"])
+        total_pauta = int(pauta_sessao.get("total_itens") or len(pauta_sessao.get("itens") or [])) if pauta_sessao else 0
 
         sessoes.append(
             {
@@ -608,6 +636,7 @@ def montar_sessoes_publicaveis(
                 "transcriptMarkdown": transcript_markdown,
                 "stats": {
                     "total": total_procs,
+                    "pautaTotal": total_pauta,
                     "providos": total_providos,
                     "desprovidos": total_desprovidos,
                     "parciais": total_parciais,
@@ -616,6 +645,7 @@ def montar_sessoes_publicaveis(
                     "relevantCount": total_relevantes,
                     "thesesCount": len(teses_sessao),
                 },
+                "pauta": pauta_sessao,
                 "hermanHighlights": herman_highlights,
                 "highlights": destaques_sessao,
                 "processes": todos_processos,

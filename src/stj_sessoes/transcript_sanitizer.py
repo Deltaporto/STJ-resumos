@@ -122,12 +122,13 @@ Sua tarefa é revisar e sanear o trecho de transcrição abaixo, transformando a
    - Corrija erros fonéticos de ASR na grafia de nomes de Ministros, partes, advogados e processos:
      Min. Herman Benjamin, Min. Sérgio Kukina, Min. Gurgel de Faria, Min. Regina Helena Costa, Min. Paulo Sérgio Domingues, Min. Benedito Gonçalves, Min. Francisco Falcão, Min. Mauro Campbell Marques, Min. Teodoro Silva Santos, Min. Afrânio Vilela, Min. Maria Thereza de Assis Moura, Desembargadores Convocados.
    - Ajuste grafias de súmulas, leis e siglas (REsp, AREsp, AgInt, EDcl, IAC, CPC, CTN, Súmula 7/STJ, Tema 1220/STJ, Tema 1244/STJ, etc.).
+   - Quando a Pauta Oficial da Sessão estiver fornecida abaixo, utilize-a como gabarito oficial para corrigir a numeração de processos, UFs, nomes de partes e nomes de advogados que fizeram sustentação oral.
 
 5. PARÁGRAFOS ORATÓRIOS FLUIDOS:
    - Agrupe a fala em parágrafos coesos e oratórios, evitando a fragmentação linha a linha da legenda automática.
 
 6. Devolva APENAS o texto revisado em Markdown, sem explicações preliminares ou finais e sem emojis.
-
+{bloco_pauta}
 TRECHO DA TRANSCRIÇÃO ({orgao} - {data} - Parte {parte}/{total_partes}):
 
 {trecho}
@@ -338,6 +339,7 @@ def sanear_e_revisar_transcricao(
     gemini_client: GeminiClient | None = None,
     usar_llm: bool = True,
     max_threads: int = DEFAULT_MAX_CHUNK_THREADS,
+    pauta_contexto: str = "",
 ) -> str:
     """
     Executa o pipeline completo de saneamento da transcrição:
@@ -356,6 +358,7 @@ def sanear_e_revisar_transcricao(
     chunks = _dividir_em_chunks(base_saneada, LIMITE_CARACTERES_SANEAMENTO_CHUNK)
     orgao_nome = nome_orgao_canonico(video.orgao)
     data_br = formatar_data_br(video.upload_date)
+    bloco_pauta = f"\n{pauta_contexto.strip()}\n\n" if pauta_contexto and pauta_contexto.strip() else "\n"
 
     logger.info(
         "Revisando transcrição de %s em %d segmento(s)...",
@@ -370,6 +373,7 @@ def sanear_e_revisar_transcricao(
             data=data_br,
             parte=idx,
             total_partes=len(chunks),
+            bloco_pauta=bloco_pauta,
             trecho=trecho,
         )
         ok, revisado, erro = gemini_client.gerar_conteudo(prompt, tier="flash")

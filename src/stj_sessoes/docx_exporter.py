@@ -146,6 +146,7 @@ def _adicionar_cabecalho_institucional(
     data_sessao: str,
     video_url: str,
     duracao: str = "",
+    pauta: dict[str, Any] | None = None,
 ) -> None:
     """Insere o cabeçalho oficial com metadados da sessão."""
     p_top = doc.add_paragraph()
@@ -171,18 +172,25 @@ def _adicionar_cabecalho_institucional(
     r3.font.size = Pt(12)
     r3.font.color.rgb = RGBColor(55, 65, 81)
 
+    dados: list[tuple[str, str]] = [
+        ("Órgão Colegiado:", orgao or "Primeira Turma / Primeira Seção"),
+        ("Data da Sessão:", data_sessao or "Data não informada"),
+        ("Transmissão Original:", video_url or "Vídeo do STJ no YouTube"),
+    ]
+    if pauta and pauta.get("url_pauta_pdf"):
+        dados.append(("Pauta Oficial (STJ):", str(pauta["url_pauta_pdf"])))
+    if pauta and pauta.get("url_ata_pdf"):
+        dados.append(("Ata de Julgamento:", str(pauta["url_ata_pdf"])))
+    dados.append(
+        ("Padrão Editorial:", "Taquigrafia revisada sem ruídos de áudio, com falas individualizadas e minutagem.")
+    )
+
     # Tabela com Metadados
-    table = doc.add_table(rows=4, cols=2)
+    table = doc.add_table(rows=len(dados), cols=2)
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
     table.autofit = False
 
     larguras = [Inches(1.8), Inches(4.5)]
-    dados = [
-        ("Órgão Colegiado:", orgao or "Primeira Turma / Primeira Seção"),
-        ("Data da Sessão:", data_sessao or "Data não informada"),
-        ("Transmissão Original:", video_url or "Vídeo do STJ no YouTube"),
-        ("Padrão Editorial:", "Taquigrafia revisada sem ruídos de áudio, com falas individualizadas e minutagem."),
-    ]
 
     for row_idx, (rotulo, valor) in enumerate(dados):
         row = table.rows[row_idx]
@@ -202,8 +210,18 @@ def _adicionar_cabecalho_institucional(
         p_val = cell_val.paragraphs[0]
         p_val.paragraph_format.space_after = Pt(2)
         p_val.paragraph_format.space_before = Pt(2)
-        if rotulo == "Transmissão Original:" and video_url.startswith("http"):
-            _adicionar_hyperlink(p_val, video_url, "Assistir gravação oficial no YouTube", COR_LINK_YOUTUBE)
+        if rotulo == "Transmissão Original:" and valor.startswith("http"):
+            _adicionar_hyperlink(p_val, valor, "Assistir gravação oficial no YouTube", COR_LINK_YOUTUBE)
+        elif rotulo == "Pauta Oficial (STJ):" and valor.startswith("http"):
+            total_it = pauta.get("total_itens", 0) if pauta else 0
+            _adicionar_hyperlink(
+                p_val,
+                valor,
+                f"Abrir Pauta Oficial em PDF ({total_it} itens na Ordem do Dia)",
+                COR_LINK_YOUTUBE,
+            )
+        elif rotulo == "Ata de Julgamento:" and valor.startswith("http"):
+            _adicionar_hyperlink(p_val, valor, "Abrir Ata Oficial de Julgamento em PDF", COR_LINK_YOUTUBE)
         else:
             r_v = p_val.add_run(valor)
             r_v.font.size = Pt(10)
@@ -218,6 +236,80 @@ def _adicionar_cabecalho_institucional(
     p_spacer = doc.add_paragraph()
     p_spacer.paragraph_format.space_before = Pt(8)
     p_spacer.paragraph_format.space_after = Pt(8)
+
+
+def _adicionar_quadro_pauta_docx(doc: docx.Document, pauta: dict[str, Any] | None) -> None:
+    """Insere o quadro sinótico da Pauta / Ordem do Dia no início do documento Word."""
+    if not pauta or not pauta.get("itens"):
+        return
+
+    itens = pauta["itens"]
+    p_sec = doc.add_paragraph()
+    p_sec.paragraph_format.space_before = Pt(10)
+    p_sec.paragraph_format.space_after = Pt(6)
+    p_sec.paragraph_format.keep_with_next = True
+    r_sec = p_sec.add_run(f"Pauta e Ordem do Dia Oficial ({len(itens)} processos)")
+    r_sec.font.bold = True
+    r_sec.font.size = Pt(13)
+    r_sec.font.color.rgb = COR_NAVY_STJ
+
+    table = doc.add_table(rows=len(itens) + 1, cols=5)
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    table.autofit = False
+
+    larguras = [Inches(0.5), Inches(1.75), Inches(1.45), Inches(1.35), Inches(1.25)]
+    cabecalhos = ["Item", "Processo", "Relator / Vistor", "Assunto", "Resultado"]
+
+    hdr_row = table.rows[0]
+    for col_idx, titulo_col in enumerate(cabecalhos):
+        cell = hdr_row.cells[col_idx]
+        cell.width = larguras[col_idx]
+        p_c = cell.paragraphs[0]
+        p_c.paragraph_format.space_before = Pt(2)
+        p_c.paragraph_format.space_after = Pt(2)
+        r_c = p_c.add_run(titulo_col)
+        r_c.font.bold = True
+        r_c.font.size = Pt(9)
+        r_c.font.color.rgb = RGBColor(255, 255, 255)
+        c_shd = parse_xml(f'<w:shd {nsdecls("w")} w:fill="0A2540"/>')
+        cell._tc.get_or_add_tcPr().append(c_shd)
+
+    for idx, it in enumerate(itens, start=1):
+        row = table.rows[idx]
+        proc_str = it.get("processo") or ""
+        if it.get("tema_repetitivo"):
+            proc_str = f"{proc_str} ({it['tema_repetitivo']})"
+        rel_str = it.get("relator") or ""
+        if it.get("vistor"):
+            rel_str = f"{rel_str} (Vista: {it['vistor']})"
+
+        valores = [
+            f"{int(it.get('item') or idx):02d}",
+            proc_str,
+            rel_str,
+            str(it.get("assunto") or "-"),
+            str(it.get("resultado_oficial") or "-"),
+        ]
+        shd_hex = "F8FAFC" if idx % 2 == 1 else "FFFFFF"
+        for col_idx, val in enumerate(valores):
+            cell = row.cells[col_idx]
+            cell.width = larguras[col_idx]
+            p_c = cell.paragraphs[0]
+            p_c.paragraph_format.space_before = Pt(1.5)
+            p_c.paragraph_format.space_after = Pt(1.5)
+            r_c = p_c.add_run(val)
+            r_c.font.size = Pt(8.5)
+            if col_idx in (0, 1):
+                r_c.font.bold = True
+                r_c.font.color.rgb = COR_NAVY_STJ
+            else:
+                r_c.font.color.rgb = COR_TEXTO_ESCURO
+            c_shd = parse_xml(f'<w:shd {nsdecls("w")} w:fill="{shd_hex}"/>')
+            cell._tc.get_or_add_tcPr().append(c_shd)
+
+    p_sp = doc.add_paragraph()
+    p_sp.paragraph_format.space_before = Pt(6)
+    p_sp.paragraph_format.space_after = Pt(6)
 
 
 def _renderizar_texto_com_negrito_inline(paragraph, texto: str, cor_padrao: RGBColor = COR_TEXTO_ESCURO) -> None:
@@ -242,6 +334,7 @@ def exportar_transcricao_para_docx(
     orgao: str = "",
     data_sessao: str = "",
     titulo_sessao: str = "",
+    pauta: dict[str, Any] | None = None,
 ) -> Path:
     """
     Converte o Markdown de uma transcrição saneada do STJ em um documento
@@ -259,7 +352,11 @@ def exportar_transcricao_para_docx(
         orgao=orgao,
         data_sessao=data_sessao,
         video_url=video_url,
+        pauta=pauta,
     )
+
+    # Inserir quadro sinótico da Pauta / Ordem do Dia quando disponível
+    _adicionar_quadro_pauta_docx(doc=doc, pauta=pauta)
 
     # Processar o corpo da transcrição
     linhas = (markdown_transcricao or "").replace("\r\n", "\n").replace("\r", "\n").splitlines()

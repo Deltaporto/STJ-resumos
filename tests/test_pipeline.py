@@ -280,3 +280,126 @@ def test_compilar_site_extrai_processos_herman_teses_e_transcricao(tmp_path: Pat
     assert s["processes"][1]["relatores"][0]["role"] == "convocado_substituto"
     assert (transc_dir / "2026-04-14_primeira_turma_transcricao_revisada.md").exists()
     assert (web_dir / "data.js").exists()
+
+
+def test_pauta_client_formatacao_vinculacao_e_integracao_site(tmp_path: Path) -> None:
+    from stj_sessoes.pauta_client import (
+        abreviar_classe_processual,
+        construir_identificacao_processo,
+        formatar_pauta_para_prompt,
+        gerar_markdown_pauta,
+        vincular_processos_julgados_com_pauta,
+    )
+
+    assert abreviar_classe_processual("AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL") == "AgInt nos EDcl no AREsp"
+    assert construir_identificacao_processo("RECURSO ESPECIAL", "2293252", "MG") == "REsp 2.293.252/MG"
+
+    pauta_exemplo = {
+        "seq_sessao": 54463,
+        "orgao_slug": "primeira_turma",
+        "cod_orgao_stj": 2012,
+        "nome_orgao": "Primeira Turma",
+        "data_iso": "2026-04-14",
+        "data_br": "14/04/2026",
+        "tipo_sessao": "Ordinária",
+        "hora_inicio": "14:00:00",
+        "url_pauta_pdf": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/1/pdf",
+        "url_ata_pdf": "",
+        "documentos": [],
+        "total_itens": 2,
+        "total_sustentacoes": 1,
+        "itens": [
+            {
+                "item": 26,
+                "num_registro": "202504238980",
+                "registro_formatado": "2025/0423898-0",
+                "sg_classe": "REsp",
+                "classe_completa": "REsp",
+                "num_proc_classe": "2293252",
+                "numero_formatado": "2.293.252",
+                "uf": "MG",
+                "processo": "REsp 2.293.252/MG",
+                "cabecalho_pdf": "RECURSO ESPECIAL Nº 2.293.252 - MG (2025/0423898-0)",
+                "tema_repetitivo": "",
+                "relator": "Min. Paulo Sérgio Domingues",
+                "vistor": "",
+                "ministro_sessao": "Min. Paulo Sérgio Domingues",
+                "categoria": "Destaques",
+                "ind_categoria": "PR",
+                "assunto": "Patrimônio Cultural",
+                "resultado_oficial": "DEU PROVIMENTO",
+                "segredo_justica": False,
+                "partes": [
+                    {"papel": "Recorrente", "nome": "MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS"},
+                    {"papel": "Recorrido", "nome": "MAURO HUMBERTO ELIAS"},
+                ],
+                "advogados": ["JOÃO DA SILVA - MG000001"],
+                "sustentacoes_orais": [{"advogado": "MARIA SOUZA", "partes": "MAURO HUMBERTO ELIAS"}],
+            },
+            {
+                "item": 28,
+                "num_registro": "202504228198",
+                "registro_formatado": "2025/0422819-8",
+                "sg_classe": "AREsp",
+                "classe_completa": "AgInt no AREsp",
+                "num_proc_classe": "3095458",
+                "numero_formatado": "3.095.458",
+                "uf": "SP",
+                "processo": "AgInt no AREsp 3.095.458/SP",
+                "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 3.095.458 - SP (2025/0422819-8)",
+                "tema_repetitivo": "",
+                "relator": "Min. Paulo Sérgio Domingues",
+                "vistor": "",
+                "ministro_sessao": "Min. Paulo Sérgio Domingues",
+                "categoria": "Destaques",
+                "ind_categoria": "PR",
+                "assunto": "Pagamento Atrasado / Correção Monetária",
+                "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+                "segredo_justica": False,
+                "partes": [
+                    {"papel": "Agravante", "nome": "JOAO CARLOS DE NOVAES"},
+                    {"papel": "Agravado", "nome": "CAIXA ECONÔMICA FEDERAL"},
+                ],
+                "advogados": [],
+                "sustentacoes_orais": [],
+            },
+        ],
+    }
+
+    prompt_ctx = formatar_pauta_para_prompt(pauta_exemplo)
+    assert "Item 26 [Destaques]: REsp 2.293.252/MG" in prompt_ctx
+    assert "Patrimônio Cultural" in prompt_ctx
+    assert "MARIA SOUZA" in prompt_ctx
+
+    md_pauta = gerar_markdown_pauta(pauta_exemplo)
+    assert "# Pauta de Julgamentos e Ordem do Dia" in md_pauta
+    assert "REsp 2.293.252/MG" in md_pauta
+
+    procs_julgados = [
+        {
+            "index": 1,
+            "heading": "REsp 2.293.252/MG - Tutela do patrimônio histórico-cultural",
+            "processNumber": "REsp 2.293.252/MG",
+            "resumoDiscussao": "Proteção do Hotel Regina.",
+            "timestamp": "03:59:31",
+            "videoUrl": "https://www.youtube.com/watch?v=ABC&t=14371s",
+        },
+        {
+            "index": 2,
+            "heading": "AgInt no AREsp 3.095.458/SP (Item 28 da pauta) - Adiamento",
+            "processNumber": "[Processo não identificado]",
+            "resumoDiscussao": "Foi apregoado o Item 28 da pauta para adiamento.",
+            "timestamp": "04:44:05",
+            "videoUrl": "https://www.youtube.com/watch?v=ABC&t=17045s",
+        },
+    ]
+
+    vincular_processos_julgados_com_pauta(procs_julgados, pauta_exemplo)
+    assert procs_julgados[0]["pautaItems"][0]["item"] == 26
+    assert procs_julgados[0]["assuntoOficial"] == "Patrimônio Cultural"
+    assert procs_julgados[1]["pautaItems"][0]["item"] == 28
+    assert procs_julgados[1]["pautaItems"][0]["processo"] == "AgInt no AREsp 3.095.458/SP"
+    assert pauta_exemplo["itens"][0]["matchedProcessIndex"] == 1
+    assert pauta_exemplo["itens"][0]["timestamp"] == "03:59:31"
+    assert pauta_exemplo["itens"][1]["matchedProcessIndex"] == 2
+

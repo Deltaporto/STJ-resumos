@@ -23,6 +23,11 @@ from stj_sessoes.config import (  # noqa: E402
     ensure_directories,
 )
 from stj_sessoes.gemini_client import GeminiClient  # noqa: E402
+from stj_sessoes.pauta_client import (  # noqa: E402
+    PautaClient,
+    formatar_pauta_para_prompt,
+    gerar_markdown_pauta,
+)
 from stj_sessoes.session_summarizer import (  # noqa: E402
     envolver_markdown_resumo,
     gerar_resumo_sessao,
@@ -93,6 +98,35 @@ def atualizar_index_json(output_dir: Path, video: VideoInfo, arquivos: dict[str,
     index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def obter_ids_ja_processados(output_dir: Path, exigir_resumo: bool = True) -> set[str]:
+    """
+    Retorna o conjunto de `video_id` das sessões já processadas e com arquivos íntegros em `output_dir`.
+    Permite que a execução padrão busque e processe exclusivamente as sessões inéditas.
+    """
+    index_path = output_dir / "index.json"
+    if not index_path.exists():
+        return set()
+    try:
+        index = json.loads(index_path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return set()
+
+    concluidos: set[str] = set()
+    for item in index.get("videos", []):
+        vid = str(item.get("video_id") or "").strip()
+        if not vid:
+            continue
+        arqs = item.get("arquivos") or {}
+        rel_rev = arqs.get("transcricao_revisada")
+        rel_res = arqs.get("resumo")
+        if not rel_rev or not (output_dir / rel_rev).exists():
+            continue
+        if exigir_resumo and (not rel_res or not (output_dir / rel_res).exists()):
+            continue
+        concluidos.add(vid)
+    return concluidos
+
+
 def processar_video(
     video: VideoInfo,
     yt_client: YouTubeClient,
@@ -102,6 +136,7 @@ def processar_video(
     saneamento_rapido: bool = False,
     force: bool = False,
     max_threads: int = DEFAULT_MAX_CHUNK_THREADS,
+    pauta_client: PautaClient | None = None,
 ) -> dict[str, str]:
     orgao_nome = nome_orgao_canonico(video.orgao)
     logger.info(
@@ -117,6 +152,20 @@ def processar_video(
     data_slug = video.upload_date or "sem_data"
     nome_base = f"{data_slug}_{video.orgao}_{video.video_id}"
     arquivos: dict[str, str] = {}
+
+    # 0. Obter Pauta de Julgamentos / Ordem do Dia oficial do STJ
+    if pauta_client is None:
+        pauta_client = PautaClient()
+    pauta = pauta_client.obter_pauta_sessao(video.upload_date, video.orgao, force=force)
+    pauta_contexto = formatar_pauta_para_prompt(pauta)
+    if pauta:
+        arq_pauta_json = orgao_dir / f"{nome_base}_pauta.json"
+        arq_pauta_json.write_text(json.dumps(pauta, ensure_ascii=False, indent=2), encoding="utf-8")
+        arquivos["pauta_json"] = arq_pauta_json.relative_to(output_dir).as_posix()
+
+        arq_pauta_md = orgao_dir / f"{nome_base}_pauta.md"
+        arq_pauta_md.write_text(gerar_markdown_pauta(pauta), encoding="utf-8")
+        arquivos["pauta_md"] = arq_pauta_md.relative_to(output_dir).as_posix()
 
     # 1. Obter transcrição bruta
     ok, transcricao_bruta, erro = yt_client.obter_transcricao_bruta(video.video_id, force=force)
@@ -143,6 +192,7 @@ def processar_video(
             gemini_client=gemini_client,
             usar_llm=(not saneamento_rapido),
             max_threads=max_threads,
+            pauta_contexto=pauta_contexto,
         )
         yt_client.salvar_cache(video.video_id, "transcricao_revisada", doc_revisada)
 
@@ -161,6 +211,7 @@ def processar_video(
             orgao=orgao_nome,
             data_sessao=formatar_data_br(video.upload_date),
             titulo_sessao=video.title,
+            pauta=pauta,
         )
         arquivos["transcricao_revisada_docx"] = arq_revisada_docx.relative_to(output_dir).as_posix()
     except Exception as exc:
@@ -182,6 +233,7 @@ def processar_video(
                 transcricao=doc_revisada,
                 gemini_client=gemini_client,
                 max_threads=max_threads,
+                pauta_contexto=pauta_contexto,
             )
             if not ok_res or not artefatos:
                 logger.error("Erro ao gerar resumo de %s: %s", video.video_id, erro_res)
@@ -263,6 +315,11 @@ def criar_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Ignora o cache local e reprocessa integralmente.",
     )
+    parser.add_argument(
+        "--incluir-existentes",
+        action="store_true",
+        help="Inclui na varredura do canal mesmo as sessões que já constam como concluídas em data/output/index.json.",
+    )
     return parser
 
 
@@ -273,6 +330,7 @@ def main() -> int:
 
     yt_client = YouTubeClient()
     gemini_client = GeminiClient()
+    pauta_client = PautaClient()
 
     if args.video_url:
         orgao_fb = None if args.orgao == "todos" else args.orgao
@@ -282,16 +340,27 @@ def main() -> int:
             return 1
         videos = [info]
     else:
+        ids_ja_incluidos = (
+            set()
+            if (args.force or args.incluir_existentes)
+            else obter_ids_ja_processados(OUTPUT_DIR, exigir_resumo=(not args.apenas_transcrever))
+        )
+        if ids_ja_incluidos:
+            logger.info(
+                "Modo incremental ativo: %d sessão(ões) já concluída(s) no sistema serão ignoradas na busca.",
+                len(ids_ja_incluidos),
+            )
         videos = yt_client.listar_sessoes_canal(
             canal=args.canal,
             filtro_orgao=args.orgao,
             data_inicio=args.data_inicio,
             data_fim=args.data_fim,
             max_resultados=args.max_videos,
+            ignorar_video_ids=ids_ja_incluidos,
         )
 
     if not videos:
-        logger.info("Nenhuma sessão encontrada com os critérios informados.")
+        logger.info("Nenhuma sessão inédita encontrada com os critérios informados.")
         return 0
 
     processados = 0
@@ -305,6 +374,7 @@ def main() -> int:
             saneamento_rapido=args.saneamento_rapido,
             force=args.force,
             max_threads=max(1, args.max_threads),
+            pauta_client=pauta_client,
         )
         if arquivos:
             atualizar_index_json(OUTPUT_DIR, video, arquivos)
