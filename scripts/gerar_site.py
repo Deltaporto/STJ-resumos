@@ -10,7 +10,13 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
-from stj_sessoes.config import OUTPUT_DIR, WEB_DIR, WEB_TRANSCRICOES_DIR, ensure_directories  # noqa: E402
+from stj_sessoes.config import (  # noqa: E402
+    OUTPUT_DIR,
+    WEB_DIR,
+    WEB_PAUTAS_DIR,
+    WEB_TRANSCRICOES_DIR,
+    ensure_directories,
+)
 from stj_sessoes.site_builder import compilar_site  # noqa: E402
 
 
@@ -21,6 +27,7 @@ def main() -> int:
         input_dir=OUTPUT_DIR,
         output_file=WEB_DIR / "data.js",
         web_transcricoes_dir=WEB_TRANSCRICOES_DIR,
+        web_pautas_dir=WEB_PAUTAS_DIR,
     )
     print(f"Portal atualizado em {WEB_DIR / 'data.js'} ({len(sessoes)} sessoes).")
     return 0

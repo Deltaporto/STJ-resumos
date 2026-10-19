@@ -167,6 +167,12 @@ def processar_video(
         arq_pauta_md.write_text(gerar_markdown_pauta(pauta), encoding="utf-8")
         arquivos["pauta_md"] = arq_pauta_md.relative_to(output_dir).as_posix()
 
+        caminho_pdf_cache = pauta_client.obter_caminho_cache_pdf(video.upload_date, video.orgao)
+        if caminho_pdf_cache and caminho_pdf_cache.exists():
+            arq_pauta_pdf = orgao_dir / f"{nome_base}_pauta.pdf"
+            arq_pauta_pdf.write_bytes(caminho_pdf_cache.read_bytes())
+            arquivos["pauta_pdf"] = arq_pauta_pdf.relative_to(output_dir).as_posix()
+
     # 1. Obter transcrição bruta
     ok, transcricao_bruta, erro = yt_client.obter_transcricao_bruta(video.video_id, force=force)
     if not ok or not transcricao_bruta:

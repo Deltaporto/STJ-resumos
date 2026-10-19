@@ -8,7 +8,13 @@ import re
 from pathlib import Path
 from typing import Any
 
-from stj_sessoes.config import OUTPUT_DIR, PAUTA_CACHE_DIR, WEB_DIR, WEB_TRANSCRICOES_DIR
+from stj_sessoes.config import (
+    OUTPUT_DIR,
+    PAUTA_CACHE_DIR,
+    WEB_DIR,
+    WEB_PAUTAS_DIR,
+    WEB_TRANSCRICOES_DIR,
+)
 from stj_sessoes.pauta_client import vincular_processos_julgados_com_pauta
 from stj_sessoes.taxonomy import (
     MATERIAS_GABINETE,
@@ -353,10 +359,11 @@ def _ordem_parte(video: dict[str, Any]) -> tuple[int, str]:
 def montar_sessoes_publicaveis(
     input_dir: Path = OUTPUT_DIR,
     web_transcricoes_dir: Path = WEB_TRANSCRICOES_DIR,
+    web_pautas_dir: Path = WEB_PAUTAS_DIR,
 ) -> list[dict[str, Any]]:
     """
     Lê index.json, consolida sessões por (data, órgão), copia as transcrições revisadas
-    para web/transcricoes/ e retorna a lista de sessões estruturadas para o data.js.
+    e os PDFs originais de pauta para web/ e retorna a lista de sessões estruturadas para o data.js.
     """
     index_path = input_dir / "index.json"
     if not index_path.exists():
@@ -399,6 +406,7 @@ def montar_sessoes_publicaveis(
 
     grupos_ordenados = sorted(grupos.items(), key=lambda item: item[0][0], reverse=True)
     web_transcricoes_dir.mkdir(parents=True, exist_ok=True)
+    web_pautas_dir.mkdir(parents=True, exist_ok=True)
 
     sessoes: list[dict[str, Any]] = []
 
@@ -578,6 +586,33 @@ def montar_sessoes_publicaveis(
 
         pauta_sessao = vincular_processos_julgados_com_pauta(todos_processos, pauta_sessao)
 
+        # Copiar PDF original da Pauta oficial para web/pautas/ (quando disponível)
+        pauta_pdf_rel_url = ""
+        candidatos_pdf: list[Path] = []
+        for video in grupo:
+            arqs = video.get("arquivos") or {}
+            if arqs.get("pauta_pdf"):
+                candidatos_pdf.append((input_dir / arqs["pauta_pdf"]).resolve())
+            res_p = video["_resumo_path"]
+            stem_base = res_p.name.replace("_resumo.md", "")
+            candidatos_pdf.append(res_p.with_name(f"{stem_base}_pauta.pdf"))
+        candidatos_pdf.append(input_dir / orgao_slug / f"{session_id}_pauta.pdf")
+        candidatos_pdf.append(PAUTA_CACHE_DIR / f"{upload_date}_{orgao_slug}_pauta.pdf")
+        candidatos_pdf.extend(sorted(PAUTA_CACHE_DIR.glob(f"{upload_date}_{orgao_slug}_doc_*.pdf")))
+
+        pdf_encontrado: Path | None = None
+        for cand_pdf in candidatos_pdf:
+            if cand_pdf.exists() and cand_pdf.is_file() and cand_pdf.stat().st_size > 0:
+                pdf_encontrado = cand_pdf
+                break
+
+        if pdf_encontrado:
+            nome_pauta_pdf = f"{session_id}_pauta.pdf"
+            destino_web_pdf = web_pautas_dir / nome_pauta_pdf
+            if not destino_web_pdf.exists() or destino_web_pdf.stat().st_size != pdf_encontrado.stat().st_size:
+                destino_web_pdf.write_bytes(pdf_encontrado.read_bytes())
+            pauta_pdf_rel_url = f"pautas/{nome_pauta_pdf}"
+
         # Salvar arquivo público de transcrição revisada para download (.docx e .md)
         transcript_rel_url = ""
         transcript_docx_rel_url = ""
@@ -646,6 +681,8 @@ def montar_sessoes_publicaveis(
                     "thesesCount": len(teses_sessao),
                 },
                 "pauta": pauta_sessao,
+                "pautaPdfUrl": pauta_pdf_rel_url,
+                "pautaOfficialUrl": (pauta_sessao.get("url_pauta_pdf") if pauta_sessao else "") or "",
                 "hermanHighlights": herman_highlights,
                 "highlights": destaques_sessao,
                 "processes": todos_processos,
@@ -681,11 +718,13 @@ def compilar_site(
     input_dir: Path = OUTPUT_DIR,
     output_file: Path = WEB_DIR / "data.js",
     web_transcricoes_dir: Path = WEB_TRANSCRICOES_DIR,
+    web_pautas_dir: Path = WEB_PAUTAS_DIR,
 ) -> list[dict[str, Any]]:
-    """Gera web/data.js e web/transcricoes/*.md a partir de data/output/."""
+    """Gera web/data.js, web/transcricoes/ e web/pautas/ a partir de data/output/."""
     sessoes = montar_sessoes_publicaveis(
         input_dir=input_dir,
         web_transcricoes_dir=web_transcricoes_dir,
+        web_pautas_dir=web_pautas_dir,
     )
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(renderizar_data_js(sessoes), encoding="utf-8")

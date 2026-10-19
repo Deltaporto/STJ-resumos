@@ -14,6 +14,7 @@ PAUTA_CACHE_DIR = CACHE_DIR / "pautas"
 OUTPUT_DIR = DATA_DIR / "output"
 WEB_DIR = PROJECT_ROOT / "web"
 WEB_TRANSCRICOES_DIR = WEB_DIR / "transcricoes"
+WEB_PAUTAS_DIR = WEB_DIR / "pautas"
 PAGES_SYNC_DIR = PROJECT_ROOT / ".pages_repo"
 
 # API pública do Calendário de Sessões e Pautas do STJ
@@ -60,5 +61,6 @@ def ensure_directories() -> None:
         OUTPUT_DIR,
         WEB_DIR,
         WEB_TRANSCRICOES_DIR,
+        WEB_PAUTAS_DIR,
     ):
         directory.mkdir(parents=True, exist_ok=True)

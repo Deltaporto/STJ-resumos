@@ -277,6 +277,17 @@ class PautaClient:
     def _caminho_cache_pdf(self, data_iso: str, orgao_slug: str, seq_doc: int | str) -> Path:
         return self.cache_dir / f"{data_iso}_{orgao_slug}_doc_{seq_doc}.pdf"
 
+    def obter_caminho_cache_pdf(self, data_iso: str, orgao_slug: str) -> Path | None:
+        """Localiza o arquivo PDF original da pauta no diretório de cache."""
+        canonico = self.cache_dir / f"{data_iso}_{orgao_slug}_pauta.pdf"
+        if canonico.exists() and canonico.stat().st_size > 0:
+            return canonico
+        candidatos = sorted(self.cache_dir.glob(f"{data_iso}_{orgao_slug}_doc_*.pdf"))
+        for cand in candidatos:
+            if cand.is_file() and cand.stat().st_size > 0:
+                return cand
+        return None
+
     def obter_pauta_sessao(
         self,
         data_iso: str,
@@ -391,6 +402,10 @@ class PautaClient:
                     logger.warning("Falha ao baixar PDF da pauta (%s): %s", url_pauta_pdf, exc)
 
             if pdf_bytes:
+                try:
+                    (self.cache_dir / f"{data_iso}_{orgao_slug}_pauta.pdf").write_bytes(pdf_bytes)
+                except Exception:
+                    pass
                 try:
                     mapa_pdf = parsear_pdf_pauta(pdf_bytes)
                 except Exception as exc:
@@ -510,6 +525,8 @@ class PautaClient:
             "tipo_sessao": tipo_sessao,
             "hora_inicio": hora_inicio,
             "url_pauta_pdf": url_pauta_pdf,
+            "seq_doc_pauta": seq_doc_pauta,
+            "tem_pdf_original": bool(pdf_bytes or (self.obter_caminho_cache_pdf(data_iso, orgao_slug) is not None)),
             "url_ata_pdf": url_ata_pdf,
             "documentos": documentos,
             "total_itens": len(itens_pauta),

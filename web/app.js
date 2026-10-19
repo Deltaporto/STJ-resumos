@@ -32,6 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const videoActionsGroup = document.getElementById('videoActionsGroup');
     const readTranscriptBtn = document.getElementById('readTranscriptBtn');
     const downloadTranscriptBtn = document.getElementById('downloadTranscriptBtn');
+    const downloadPautaBtn = document.getElementById('downloadPautaBtn');
     const copySummaryBtn = document.getElementById('copySummaryBtn');
     const copySummaryLabel = document.getElementById('copySummaryLabel');
     const printBtn = document.getElementById('printBtn');
@@ -605,15 +606,22 @@ document.addEventListener('DOMContentLoaded', () => {
         section.className = 'pauta-reading';
         section.setAttribute('aria-label', 'Pauta de julgamentos e Ordem do Dia');
 
+        const pdfDownloadUrl = session.pautaPdfUrl || pauta?.url_pauta_pdf || '';
         const docLinksHtml = [
-            pauta?.url_pauta_pdf
-                ? `<a href="${escapeHtml(pauta.url_pauta_pdf)}" target="_blank" rel="noopener noreferrer" class="btn-action" title="Abrir PDF oficial da Pauta de Julgamentos no portal do STJ">
-                    <span>Pauta oficial (PDF)</span>
+            pdfDownloadUrl
+                ? `<a href="${escapeHtml(pdfDownloadUrl)}" download="${escapeHtml(session.id || 'sessao')}_pauta_oficial.pdf" target="_blank" rel="noopener noreferrer" class="btn-action btn-action--primary" title="Baixar PDF original da Pauta de Julgamentos do STJ">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" style="width:14px;height:14px;margin-right:4px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><path d="M9 15l3 3 3-3"></path><path d="M12 11v7"></path></svg>
+                    <span>Baixar pauta original (PDF)</span>
+                   </a>`
+                : '',
+            pauta?.url_pauta_pdf && session.pautaPdfUrl
+                ? `<a href="${escapeHtml(pauta.url_pauta_pdf)}" target="_blank" rel="noopener noreferrer" class="btn-action" title="Abrir no portal do Calendário de Sessões do STJ">
+                    <span>Ver no STJ</span>
                    </a>`
                 : '',
             pauta?.url_ata_pdf
                 ? `<a href="${escapeHtml(pauta.url_ata_pdf)}" target="_blank" rel="noopener noreferrer" class="btn-action" title="Abrir PDF oficial da Ata de Julgamento no portal do STJ">
-                    <span>Ata de julgamento (PDF)</span>
+                    <span>Ata oficial (PDF)</span>
                    </a>`
                 : ''
         ].filter(Boolean).join('');
@@ -818,6 +826,22 @@ document.addEventListener('DOMContentLoaded', () => {
         readTranscriptBtn.hidden = !hasTranscript;
         configureTranscriptDownload(downloadTranscriptBtn, session);
         configureTranscriptDownload(drawerDownloadBtn, session);
+
+        // Configurar download do documento oficial da pauta (PDF original)
+        const pautaPdfTarget = session.pautaPdfUrl || session.pauta?.url_pauta_pdf || session.pautaOfficialUrl || '';
+        if (downloadPautaBtn) {
+            if (pautaPdfTarget) {
+                downloadPautaBtn.hidden = false;
+                downloadPautaBtn.href = pautaPdfTarget;
+                downloadPautaBtn.setAttribute('download', `${session.id || 'sessao'}_pauta_oficial.pdf`);
+                const totalItensPauta = session.pauta?.total_itens || session.stats?.pautaTotal || 0;
+                downloadPautaBtn.title = totalItensPauta
+                    ? `Baixar PDF original da Pauta de Julgamentos do STJ (${totalItensPauta} processos pautados)`
+                    : 'Baixar PDF original da Pauta de Julgamentos do STJ';
+            } else {
+                downloadPautaBtn.hidden = true;
+            }
+        }
 
         renderSessionMateriaChips(session);
 

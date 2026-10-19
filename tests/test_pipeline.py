@@ -262,10 +262,14 @@ def test_compilar_site_extrai_processos_herman_teses_e_transcricao(tmp_path: Pat
     }
     (out_dir / "index.json").write_text(json.dumps(index_payload, ensure_ascii=False), encoding="utf-8")
 
+    pauta_dummy_pdf = turma_dir / "2026-04-14_primeira_turma_ABC123xyz_pauta.pdf"
+    pauta_dummy_pdf.write_bytes(b"%PDF-1.4 dummy content pauta")
+
     sessoes = compilar_site(
         input_dir=out_dir,
         output_file=web_dir / "data.js",
         web_transcricoes_dir=transc_dir,
+        web_pautas_dir=web_dir / "pautas",
     )
 
     assert len(sessoes) == 1
@@ -278,6 +282,8 @@ def test_compilar_site_extrai_processos_herman_teses_e_transcricao(tmp_path: Pat
     assert s["processes"][0]["isHermanRelator"] is True
     assert s["processes"][0]["videoUrl"] == "https://www.youtube.com/watch?v=ABC123xyz&t=1510s"
     assert s["processes"][1]["relatores"][0]["role"] == "convocado_substituto"
+    assert s["pautaPdfUrl"] == "pautas/2026-04-14_primeira_turma_pauta.pdf"
+    assert (web_dir / "pautas" / "2026-04-14_primeira_turma_pauta.pdf").exists()
     assert (transc_dir / "2026-04-14_primeira_turma_transcricao_revisada.md").exists()
     assert (web_dir / "data.js").exists()
 
