@@ -95,12 +95,16 @@ aparece na barra superior. Enquanto `apiUrl` estiver vazio, o botão fica oculto
 
 **Situação atual (21/10/2026): código desligado.** Em `wrangler.toml`, `EXIGIR_CODIGO = "nao"` libera o assistente
 para qualquer visitante do portal, apenas com o limite de 20 requisições por minuto por endereço IP. O código
-(`IAGMHB`) continua guardado no Cloudflare.
+anterior continua guardado no Cloudflare (segredo `CODIGOS_ACESSO`).
 
 Para religar, se notar gasto excessivo:
 
-1. Em `wrangler.toml`, troque para `EXIGIR_CODIGO = "sim"`.
-2. Rode `npx wrangler deploy` na pasta `worker`.
+1. Defina um código novo, já que este repositório é público e o código anterior aparece no histórico:
+   `npx wrangler secret put CODIGOS_ACESSO` (formato `equipe:NOVO-CODIGO`).
+2. Em `wrangler.toml`, troque para `EXIGIR_CODIGO = "sim"`.
+3. Rode `npx wrangler deploy` na pasta `worker`.
+
+Nunca escreva o código em arquivos do repositório.
 
 Não é preciso republicar o portal: o painel pede o código sozinho quando o proxy passa a exigi-lo.
 
