@@ -36,6 +36,7 @@ from stj_sessoes.site_builder import compilar_site  # noqa: E402
 from stj_sessoes.taxonomy import nome_orgao_canonico  # noqa: E402
 from stj_sessoes.transcript_sanitizer import (  # noqa: E402
     formatar_data_br,
+    revisao_completa,
     sanear_e_revisar_transcricao,
 )
 from stj_sessoes.youtube_client import (  # noqa: E402
@@ -84,12 +85,18 @@ def atualizar_index_json(output_dir: Path, video: VideoInfo, arquivos: dict[str,
     else:
         index = {"videos": []}
 
+    # Mantém os arquivos já registrados que esta execução não regerou
+    # (ex.: --apenas-transcrever não pode apagar o resumo já existente)
+    anteriores = next(
+        (v.get("arquivos") or {} for v in index.get("videos", []) if v.get("video_id") == video.video_id),
+        {},
+    )
     index["videos"] = [v for v in index.get("videos", []) if v.get("video_id") != video.video_id]
     index["videos"].append(
         {
             **video.to_dict(),
             "processado_em": datetime.now().isoformat(),
-            "arquivos": arquivos,
+            "arquivos": {**anteriores, **arquivos},
         }
     )
     index["videos"].sort(key=lambda v: v.get("upload_date", ""), reverse=True)
@@ -135,6 +142,7 @@ def processar_video(
     apenas_transcrever: bool = False,
     saneamento_rapido: bool = False,
     force: bool = False,
+    refazer_revisao: bool = False,
     max_threads: int = DEFAULT_MAX_CHUNK_THREADS,
     pauta_client: PautaClient | None = None,
 ) -> dict[str, str]:
@@ -187,7 +195,7 @@ def processar_video(
     arquivos["transcricao_bruta"] = arq_bruta.relative_to(output_dir).as_posix()
 
     # 2. Gerar transcrição revisada e saneada (com minutagem e organização)
-    cached_rev = None if force else yt_client.carregar_cache(video.video_id, "transcricao_revisada")
+    cached_rev = None if (force or refazer_revisao) else yt_client.carregar_cache(video.video_id, "transcricao_revisada")
     if cached_rev:
         logger.info("Transcrição revisada carregada do cache: %s", video.video_id)
         doc_revisada = cached_rev
@@ -200,7 +208,11 @@ def processar_video(
             max_threads=max_threads,
             pauta_contexto=pauta_contexto,
         )
-        yt_client.salvar_cache(video.video_id, "transcricao_revisada", doc_revisada)
+        # Só guarda no cache a revisão completa; a incompleta é refeita na próxima execução
+        if revisao_completa(doc_revisada):
+            yt_client.salvar_cache(video.video_id, "transcricao_revisada", doc_revisada)
+        else:
+            logger.warning("Transcrição revisada de %s não foi para o cache (revisão incompleta).", video.video_id)
 
     arq_revisada = orgao_dir / f"{nome_base}_transcricao_revisada.md"
     arq_revisada.write_text(doc_revisada, encoding="utf-8")
@@ -317,6 +329,11 @@ def criar_parser() -> argparse.ArgumentParser:
         help="Usa apenas o saneamento determinístico de transcrição (sem chamada extra de IA na transcrição).",
     )
     parser.add_argument(
+        "--refazer-revisao",
+        action="store_true",
+        help="Refaz só a transcrição revisada (identificação de interlocutores), ignorando a versão em cache.",
+    )
+    parser.add_argument(
         "--force",
         action="store_true",
         help="Ignora o cache local e reprocessa integralmente.",
@@ -378,6 +395,7 @@ def main() -> int:
             output_dir=OUTPUT_DIR,
             apenas_transcrever=args.apenas_transcrever,
             saneamento_rapido=args.saneamento_rapido,
+            refazer_revisao=args.refazer_revisao,
             force=args.force,
             max_threads=max(1, args.max_threads),
             pauta_client=pauta_client,

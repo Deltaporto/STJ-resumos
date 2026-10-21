@@ -44,6 +44,16 @@ uv run python scripts/processar_sessoes.py --orgao todos --max-videos 5
 uv run python scripts/processar_sessoes.py --video-url "https://www.youtube.com/watch?v=ID_DO_VIDEO"
 ```
 
+Para refazer só a transcrição revisada (identificação de interlocutores) de uma sessão já publicada, mantendo o resumo:
+```powershell
+uv run python scripts/processar_sessoes.py --video-url "https://www.youtube.com/watch?v=ID_DO_VIDEO" --apenas-transcrever --refazer-revisao
+```
+
+**Chave do Gemini:** o pipeline usa `GEMINI_API_KEY` do ambiente ou, se não houver, a lê de `.env` na raiz do projeto
+ou de `worker/.dev.vars` (o mesmo arquivo do assistente). Sem chave, a transcrição sai **sem interlocutores**,
+marcada como "Saneamento determinístico", e o log avisa. Modelos padrão: `gemini-3.8-flash` (revisão e classificação)
+e `gemini-3.1-pro-preview` (resumos), ajustáveis por `GEMINI_MODEL_FLASH` e `GEMINI_MODEL_PRO`.
+
 ### 4. Recompilar `web/data.js`, `web/transcricoes/`, `web/pautas/` e `web/assistente/`
 ```powershell
 uv run python scripts/gerar_site.py

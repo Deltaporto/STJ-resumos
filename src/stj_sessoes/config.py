@@ -7,6 +7,32 @@ from pathlib import Path
 
 # Diretórios principais do projeto
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+
+def _carregar_chave_gemini_local() -> None:
+    """Lê a chave do Gemini de arquivos locais (fora do git) quando não está no ambiente.
+
+    Procura, nesta ordem, `.env` na raiz do projeto e `worker/.dev.vars` (o mesmo arquivo
+    usado pelo proxy do assistente). Assim a chave fica num lugar só.
+    """
+    if os.environ.get("STJ_GEMINI_DESATIVADO") == "1":
+        return
+    if os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"):
+        return
+    for arquivo in (PROJECT_ROOT / ".env", PROJECT_ROOT / "worker" / ".dev.vars"):
+        if not arquivo.exists():
+            continue
+        for linha in arquivo.read_text(encoding="utf-8-sig").splitlines():
+            nome, _, valor = linha.partition("=")
+            if nome.strip() == "GEMINI_API_KEY":
+                valor = valor.strip().strip("\"'").strip()
+                if valor and "cole-aqui" not in valor:
+                    os.environ["GEMINI_API_KEY"] = valor
+                    return
+
+
+_carregar_chave_gemini_local()
+
 DATA_DIR = PROJECT_ROOT / "data"
 CACHE_DIR = DATA_DIR / "cache"
 YOUTUBE_CACHE_DIR = CACHE_DIR / "youtube"
@@ -35,8 +61,9 @@ MIN_DURACAO_SESSAO_SEGUNDOS = int(os.environ.get("STJ_MIN_DURACAO_SEGUNDOS", str
 
 # Configurações do Gemini (SDK ou CLI headless)
 GEMINI_CLI_COMMAND = os.environ.get("GEMINI_CLI_COMMAND", "gemini")
-GEMINI_MODEL_PRO = os.environ.get("GEMINI_MODEL_PRO", "gemini-2.5-pro")
-GEMINI_MODEL_FLASH = os.environ.get("GEMINI_MODEL_FLASH", "gemini-2.5-flash")
+# Os modelos 2.5 deixaram de estar disponíveis para chaves novas (erro 404); ver https://ai.google.dev/gemini-api/docs/models
+GEMINI_MODEL_PRO = os.environ.get("GEMINI_MODEL_PRO", "gemini-3.1-pro-preview")
+GEMINI_MODEL_FLASH = os.environ.get("GEMINI_MODEL_FLASH", "gemini-3.8-flash")
 GEMINI_CLI_TIMEOUT = int(os.environ.get("GEMINI_CLI_TIMEOUT", "600"))
 GEMINI_RATE_LIMIT_RPM = int(os.environ.get("GEMINI_RATE_LIMIT_RPM", "15"))
 

@@ -44,6 +44,9 @@ class GeminiClient:
 
         self.cli_executable = self._resolver_cli_windows(GEMINI_CLI_COMMAND)
         self.disponivel = bool(self.api_key or self.cli_executable)
+        # STJ_GEMINI_DESATIVADO=1 impede qualquer chamada real (ex.: nos testes automatizados)
+        if os.environ.get("STJ_GEMINI_DESATIVADO") == "1":
+            self.disponivel = False
 
     @staticmethod
     def _resolver_cli_windows(comando: str) -> str | None:

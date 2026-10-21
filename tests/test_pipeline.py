@@ -440,3 +440,139 @@ def test_pauta_client_formatacao_vinculacao_e_integracao_site(tmp_path: Path) ->
     assert pauta_exemplo["itens"][0]["timestamp"] == "03:59:31"
     assert pauta_exemplo["itens"][1]["matchedProcessIndex"] == 2
 
+
+
+class StubRevisor:
+    """Stub do Gemini para a revisão da transcrição: responde com interlocutor ou falha."""
+
+    def __init__(self, falhar: bool) -> None:
+        self.disponivel = True
+        self.falhar = falhar
+
+    def gerar_conteudo(self, prompt: str, tier: str = "pro") -> tuple[bool, str, str | None]:
+        if self.falhar:
+            return False, "", "404 modelo indisponível"
+        trecho = prompt.split("TRECHO DA TRANSCRIÇÃO")[-1]
+        return True, "**[00:01:20] Min. Sérgio Kukina (Presidente):** " + trecho, None
+
+
+def _video_teste():
+    from stj_sessoes.youtube_client import VideoInfo
+
+    return VideoInfo(
+        video_id="ABC123xyz",
+        title="Primeira Turma - STJ - 14/04/2026",
+        upload_date="2026-04-14",
+        url="https://www.youtube.com/watch?v=ABC123xyz",
+        duration=3600,
+        orgao="primeira_turma",
+    )
+
+
+BRUTA_TESTE = "\n".join(
+    [
+        "[00:01:20] Declaro aberta a sessão da Primeira Turma.",
+        "[00:01:24] Apregoa-se o item 1 da pauta, recurso especial.",
+    ]
+)
+
+
+def test_revisao_com_ia_identifica_interlocutores_e_e_completa() -> None:
+    from stj_sessoes.transcript_sanitizer import revisao_completa, sanear_e_revisar_transcricao
+
+    doc = sanear_e_revisar_transcricao(_video_teste(), BRUTA_TESTE, gemini_client=StubRevisor(falhar=False))
+    assert "Min. Sérgio Kukina (Presidente):" in doc
+    assert revisao_completa(doc)
+
+
+def test_falha_do_gemini_marca_revisao_incompleta() -> None:
+    from stj_sessoes.transcript_sanitizer import revisao_completa, sanear_e_revisar_transcricao
+
+    doc = sanear_e_revisar_transcricao(_video_teste(), BRUTA_TESTE, gemini_client=StubRevisor(falhar=True))
+    assert "Revisão assistida incompleta (1 de 1 trechos sem revisão)" in doc
+    assert not revisao_completa(doc)
+
+
+def test_gemini_indisponivel_gera_versao_sem_interlocutores_nao_completa() -> None:
+    from stj_sessoes.transcript_sanitizer import revisao_completa, sanear_e_revisar_transcricao
+
+    class Indisponivel:
+        disponivel = False
+
+    doc = sanear_e_revisar_transcricao(_video_teste(), BRUTA_TESTE, gemini_client=Indisponivel())
+    assert "Saneamento determinístico" in doc
+    assert not revisao_completa(doc)
+
+
+def test_testes_nao_chamam_o_gemini_de_verdade() -> None:
+    from stj_sessoes.gemini_client import GeminiClient
+
+    assert GeminiClient().disponivel is False
+
+
+def test_atualizar_indice_preserva_resumo_ao_refazer_so_a_transcricao(tmp_path: Path) -> None:
+    import importlib.util
+
+    spec = importlib.util.spec_from_file_location("processar_sessoes", Path(__file__).resolve().parents[1] / "scripts" / "processar_sessoes.py")
+    modulo = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(modulo)
+
+    video = _video_teste()
+    modulo.atualizar_index_json(tmp_path, video, {"resumo": "r.md", "transcricao_revisada": "antiga.md"})
+    modulo.atualizar_index_json(tmp_path, video, {"transcricao_revisada": "nova.md"})
+    indice = json.loads((tmp_path / "index.json").read_text(encoding="utf-8"))
+    assert len(indice["videos"]) == 1
+    assert indice["videos"][0]["arquivos"] == {"resumo": "r.md", "transcricao_revisada": "nova.md"}
+
+
+def test_normalizar_interlocutores_uniformiza_presidente_e_nomes_conhecidos() -> None:
+    from stj_sessoes.transcript_sanitizer import normalizar_interlocutores
+
+    corpo = "\n\n".join(
+        [
+            "**[00:37:16] Min. Sérgio Kukina (Presidente):** Declaro abertos os trabalhos.",
+            "**[00:37:29] Dra. Andreia Gonçalves Fujima (Secretária):** Ata de julgamento.",
+            "**[03:09:11] Min. Presidente (Min. Sérgio Kukina):** Pois não.",
+            "**[05:10:25] Min. Presidente:** Boa noite.",
+            "**[05:10:35] Min. Relator:** Voto comigo.",
+        ]
+    )
+    saida = normalizar_interlocutores(corpo)
+    assert "**[03:09:11] Min. Sérgio Kukina (Presidente):**" in saida
+    assert "**[05:10:25] Min. Sérgio Kukina (Presidente):**" in saida
+    assert "Dra. Andrea Gonçalves Fujishima (Secretária)" in saida
+    assert "Min. Presidente" not in saida
+    # O que não dá para inferir com segurança fica como está
+    assert "**[05:10:35] Min. Relator:**" in saida
+
+
+def test_prompt_de_revisao_proibe_nomes_inventados() -> None:
+    from stj_sessoes.transcript_sanitizer import PROMPT_REVISAO_TRANSCRICAO
+
+    assert "NÃO INVENTE NOMES" in PROMPT_REVISAO_TRANSCRICAO
+    assert "Secretária da Sessão" in PROMPT_REVISAO_TRANSCRICAO
+
+
+def test_nomes_inventados_viram_funcao() -> None:
+    from stj_sessoes.transcript_sanitizer import remover_nomes_sem_fonte
+
+    fonte = "a cargo da Dra. Franciele Libreloto da Rosa que está na tribuna. Dr. Roque Antônio Carraza"
+    corpo = "\n\n".join(
+        [
+            "**[01:10:37] Dra. Fabiana Silva (Secretária):** Retirada de pauta.",
+            "**[03:38:45] Dra. Francieli Librelotto da Rosa (Advogada):** Obrigada.",
+            "**[03:01:00] Dr. Roque Antônio Carrazza (Advogado):** Senhor Presidente.",
+            "**[02:00:00] Dr. Inventado Qualquer (Advogado):** Excelências.",
+            "**[00:37:29] Dra. Andrea Gonçalves Fujishima (Secretária):** Ata.",
+            "**[00:40:00] Min. Herman Benjamin:** Presidente.",
+        ]
+    )
+    saida = remover_nomes_sem_fonte(corpo, fonte)
+    assert "**[01:10:37] Secretária da Sessão:**" in saida
+    assert "**[02:00:00] Advogado(a):**" in saida
+    # Sobrenome presente no áudio (mesmo com grafia aproximada do nome): mantém
+    assert "Dra. Francieli Librelotto da Rosa (Advogada)" in saida
+    assert "Dr. Roque Antônio Carrazza (Advogado)" in saida
+    # Nome conhecido e ministros não são tocados
+    assert "Dra. Andrea Gonçalves Fujishima (Secretária)" in saida
+    assert "Min. Herman Benjamin" in saida

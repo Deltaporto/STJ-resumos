@@ -4,6 +4,9 @@ from __future__ import annotations
 
 import logging
 import re
+import unicodedata
+from difflib import get_close_matches
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
@@ -110,11 +113,14 @@ Sua tarefa é revisar e sanear o trecho de transcrição abaixo, transformando a
    - DESTAQUE NOMINAL EM NEGRITO para todas as intervenções do Min. Herman Benjamin:
      `**[HH:MM:SS] Min. Herman Benjamin:** Texto`
    - Para os demais oradores, identifique o cargo ou função institucional:
-     - Presidente: `**[HH:MM:SS] Min. Presidente (Min. [Nome]):** Texto` ou `**[HH:MM:SS] Min. [Nome] (Presidente):** Texto`
+     - Presidente: sempre `**[HH:MM:SS] Min. [Nome] (Presidente):** Texto`
      - Relatores/Vogais: `**[HH:MM:SS] Min. [Nome]:** Texto` (ou `Des. Conv. [Nome]`)
      - Advogados: `**[HH:MM:SS] Dr. [Nome] (Advogado):** Texto`
      - Ministério Público: `**[HH:MM:SS] Dr. [Nome] (Subprocurador-Geral da República):** Texto`
      - Secretária da Turma/Seção: `**[HH:MM:SS] Dra. [Nome] (Secretária):** Texto`
+   - NÃO INVENTE NOMES. Só identifique alguém pelo nome se o nome for dito no próprio trecho (ex.: "com a palavra o Dr. Fulano"), constar da Pauta Oficial ou for um dos Ministros listados no item 4. Caso contrário, use apenas a função: `**[HH:MM:SS] Secretária da Sessão:**`, `**[HH:MM:SS] Advogado(a):**`, `**[HH:MM:SS] Subprocurador(a)-Geral da República:**`.
+   - Quando a Secretária lê a ata ou anuncia retiradas de pauta, adiamentos e pedidos de vista ("Pelo Senhor Ministro Fulano, o REsp..."), a fala é DELA, ainda que cite o nome de um Ministro.
+   - Na dúvida sobre quem fala, prefira a função do orador a um nome incerto.
    - Quando houver apregoamento de novo processo, questão de ordem ou início de bloco temático relevante, insira um subtítulo:
      `### [HH:MM:SS] [Identificação do Processo / Questão de Ordem]`
 
@@ -133,6 +139,100 @@ TRECHO DA TRANSCRIÇÃO ({orgao} - {data} - Parte {parte}/{total_partes}):
 
 {trecho}
 """
+
+
+MODO_DETERMINISTICO = "Saneamento determinístico e organização por minutagem"
+MODO_REVISADO = "Saneamento estrutural e revisão textual assistida"
+MODO_PARCIAL = "Revisão assistida incompleta"
+
+
+# Grafias corretas de servidores das sessões que a legenda automática costuma distorcer
+NOMES_CONHECIDOS = (
+    (re.compile(r"\bDra\.\s+Andr[eé]i?a\s+(?:Gon[cç]alves\s+)?Fuji\w*ma\b"), "Dra. Andrea Gonçalves Fujishima"),
+)
+
+_RE_ROTULO = re.compile(r"^\*\*\[(\d{2}:\d{2}:\d{2})\] ([^*]+?):\*\*", re.MULTILINE)
+
+
+def _sem_acento(texto: str) -> str:
+    return unicodedata.normalize("NFD", texto).encode("ascii", "ignore").decode().lower()
+
+
+_PARTICULAS = {"de", "da", "do", "das", "dos", "e"}
+
+
+def remover_nomes_sem_fonte(corpo: str, fonte: str) -> str:
+    """Troca por função os nomes de Dr./Dra. que não aparecem no áudio nem na pauta.
+
+    A IA às vezes inventa nomes (ex.: de secretárias). Um rótulo como
+    "Dra. Fulana Tal (Secretária)" só fica se prenome e sobrenome estiverem na transcrição
+    bruta ou na pauta oficial; senão vira apenas a função ("Secretária da Sessão").
+    Nomes de NOMES_CONHECIDOS são mantidos.
+    """
+    palavras_fonte = set(re.findall(r"[a-z]{3,}", _sem_acento(fonte)))
+    conhecidos = {_sem_acento(correto) for _, correto in NOMES_CONHECIDOS}
+
+    def consta(palavra: str) -> bool:
+        # Tolera pequenas diferenças de grafia da legenda automática (ex.: Carraza x Carrazza)
+        p = _sem_acento(palavra)
+        return p in palavras_fonte or bool(get_close_matches(p, palavras_fonte, n=1, cutoff=0.8))
+
+    def trocar(m: re.Match) -> str:
+        ts, titulo, nome, funcao = m.group(1), m.group(2), m.group(3).strip(), (m.group(4) or "").strip()
+        if _sem_acento(f"{titulo} {nome}") in conhecidos:
+            return m.group(0)
+        palavras = [w for w in re.findall(r"[A-Za-zÀ-ÿ]+", nome) if len(w) >= 3 and w.lower() not in _PARTICULAS]
+        # Prenome e sobrenome precisam constar das fontes (um sobrenome comum sozinho não basta)
+        if palavras and consta(palavras[0]) and consta(palavras[-1]):
+            return m.group(0)
+        f = _sem_acento(funcao)
+        if "secret" in f:
+            rotulo = "Secretária da Sessão"
+        elif "advog" in f:
+            rotulo = "Advogado(a)"
+        elif funcao:
+            rotulo = funcao
+        else:
+            rotulo = "Orador(a) não identificado(a)"
+        logger.warning("Nome sem fonte no áudio ou na pauta substituído pela função: %s %s -> %s", titulo, nome, rotulo)
+        return f"**[{ts}] {rotulo}:**"
+
+    return re.sub(
+        r"^\*\*\[(\d{2}:\d{2}:\d{2})\] (Dra?\.) ([^*()]+?)(?: \(([^)]*)\))?:\*\*",
+        trocar,
+        corpo,
+        flags=re.MULTILINE,
+    )
+
+
+def normalizar_interlocutores(corpo: str) -> str:
+    """Uniformiza rótulos de interlocutor depois da revisão pela IA.
+
+    - "Min. Presidente (Min. Fulano)" vira "Min. Fulano (Presidente)";
+    - "Min. Presidente" sem nome recebe o nome de quem mais presidiu a sessão;
+    - nomes de servidores conhecidos ganham a grafia correta.
+    """
+    corpo = re.sub(
+        r"^\*\*\[(\d{2}:\d{2}:\d{2})\] Min\. Presidente \((?:Min\. )?([^)]+)\):\*\*",
+        r"**[\1] Min. \2 (Presidente):**",
+        corpo,
+        flags=re.MULTILINE,
+    )
+    presidentes = Counter(
+        m.group(1).strip()
+        for m in re.finditer(r"^\*\*\[\d{2}:\d{2}:\d{2}\] Min\. ([^*()]+?) \(Presidente[^)]*\):\*\*", corpo, re.MULTILINE)
+    )
+    if presidentes:
+        nome = presidentes.most_common(1)[0][0]
+        corpo = re.sub(
+            r"^\*\*\[(\d{2}:\d{2}:\d{2})\] Min\. Presidente:\*\*",
+            rf"**[\1] Min. {nome} (Presidente):**",
+            corpo,
+            flags=re.MULTILINE,
+        )
+    for padrao, correto in NOMES_CONHECIDOS:
+        corpo = padrao.sub(correto, corpo)
+    return corpo
 
 
 def _timestamp_para_segundos(ts: str) -> int:
@@ -349,10 +449,16 @@ def sanear_e_revisar_transcricao(
     """
     base_saneada = pre_sanear_transcricao(transcricao_bruta)
     if not usar_llm or gemini_client is None or not gemini_client.disponivel:
+        if usar_llm:
+            logger.warning(
+                "Gemini indisponível: a transcrição de %s sai SEM identificação de interlocutores "
+                "(apenas saneamento determinístico). Configure GEMINI_API_KEY e rode de novo com --refazer-revisao.",
+                video.video_id,
+            )
         return gerar_documento_transcricao_revisada(
             video,
             base_saneada,
-            modo_revisao="Saneamento determinístico e organização por minutagem",
+            modo_revisao=MODO_DETERMINISTICO,
         )
 
     chunks = _dividir_em_chunks(base_saneada, LIMITE_CARACTERES_SANEAMENTO_CHUNK)
@@ -365,6 +471,8 @@ def sanear_e_revisar_transcricao(
         video.video_id,
         len(chunks),
     )
+
+    falhas: list[int] = []
 
     def revisar_chunk(item: tuple[int, str]) -> tuple[int, str]:
         idx, trecho = item
@@ -385,6 +493,7 @@ def sanear_e_revisar_transcricao(
             len(chunks),
             erro or "resposta curta",
         )
+        falhas.append(idx)
         return idx, trecho
 
     workers = max(1, min(max_threads, len(chunks)))
@@ -404,9 +513,21 @@ def sanear_e_revisar_transcricao(
         flags=re.IGNORECASE,
     )
     corpo_final = re.sub(r"[ \t]+", " ", corpo_final)
+    corpo_final = remover_nomes_sem_fonte(corpo_final, f"{transcricao_bruta}\n{pauta_contexto}")
+    corpo_final = normalizar_interlocutores(corpo_final)
 
-    return gerar_documento_transcricao_revisada(
-        video,
-        corpo_final,
-        modo_revisao="Saneamento estrutural e revisão textual assistida",
-    )
+    modo = MODO_REVISADO
+    if falhas:
+        modo = f"{MODO_PARCIAL} ({len(falhas)} de {len(chunks)} trechos sem revisão)"
+        logger.warning(
+            "Revisão de %s incompleta: %d de %d trechos ficaram sem identificação de interlocutores.",
+            video.video_id,
+            len(falhas),
+            len(chunks),
+        )
+    return gerar_documento_transcricao_revisada(video, corpo_final, modo_revisao=modo)
+
+
+def revisao_completa(documento: str) -> bool:
+    """Indica se a transcrição passou inteira pela revisão com IA (com interlocutores)."""
+    return f"**Processamento:** {MODO_REVISADO}" in documento
