@@ -44,10 +44,13 @@ uv run python scripts/processar_sessoes.py --orgao todos --max-videos 5
 uv run python scripts/processar_sessoes.py --video-url "https://www.youtube.com/watch?v=ID_DO_VIDEO"
 ```
 
-### 4. Recompilar `web/data.js`, `web/transcricoes/` e `web/assistente/`
+### 4. Recompilar `web/data.js`, `web/transcricoes/`, `web/pautas/` e `web/assistente/`
 ```powershell
 uv run python scripts/gerar_site.py
 ```
+
+Esses arquivos são gerados a partir de `data/output/` e não ficam no git. Depois de baixar o código em
+outro computador, rode este passo antes de abrir o portal localmente. A publicação (passo 5) já roda o build sozinha.
 
 ### 5. Publicar no GitHub Pages (`Deltaporto/STJ-resumos`)
 ```powershell

@@ -13,3 +13,10 @@ data/cache/
 # Repositório temporário de sincronização do Pages
 .pages_repo/
 tests/screenshots/
+
+# Arquivos do portal gerados pelo build (scripts/gerar_site.py) a partir de data/output/.
+# São recriados a cada publicação; não precisam ficar no histórico do código-fonte.
+web/data.js
+web/transcricoes/
+web/pautas/
+web/assistente/

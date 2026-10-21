@@ -17,7 +17,6 @@ from __future__ import annotations
 import json
 import logging
 import re
-from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -223,9 +222,9 @@ def gerar_corpus_assistente(sessoes: list[dict[str, Any]], destino_dir: Path) ->
         if antigo.name not in arquivos_gerados:
             antigo.unlink()
 
+    # Sem data de geração: o arquivo só muda quando as sessões mudam
     indice = {
         "versao": VERSAO_CORPUS,
-        "geradoEm": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "sessoes": entradas,
     }
     (destino_dir / "indice.json").write_text(

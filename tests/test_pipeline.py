@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import time
 from pathlib import Path
 
 from stj_sessoes.site_builder import compilar_site
@@ -301,6 +302,21 @@ def test_compilar_site_extrai_processos_herman_teses_e_transcricao(tmp_path: Pat
     assert "<resumo_estruturado>" in material
     assert "<transcricao_revisada>" in material
     assert material.rstrip().endswith("</sessao>")
+    assert "geradoEm" not in indice
+
+    # Rodar o build de novo sem mudanças nos dados não pode alterar nenhum arquivo gerado
+    docx_gerados = sorted(transc_dir.glob("*.docx"))
+    assert docx_gerados, "o build deveria gerar a transcrição em .docx"
+    antes = {f: f.read_bytes() for f in [*docx_gerados, web_dir / "assistente" / "indice.json", web_dir / "data.js"]}
+    time.sleep(2.1)  # o .docx guarda a hora com resolução de 2 s; sem a pausa o teste passaria por acaso
+    compilar_site(
+        input_dir=out_dir,
+        output_file=web_dir / "data.js",
+        web_transcricoes_dir=transc_dir,
+        web_pautas_dir=web_dir / "pautas",
+    )
+    for arquivo, conteudo in antes.items():
+        assert arquivo.read_bytes() == conteudo, f"{arquivo.name} mudou sem mudança nos dados"
 
 
 def test_pauta_client_formatacao_vinculacao_e_integracao_site(tmp_path: Path) -> None:

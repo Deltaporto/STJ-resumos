@@ -2,8 +2,10 @@
 
 from __future__ import annotations
 
+import io
 import logging
 import re
+import zipfile
 from pathlib import Path
 from typing import Any
 
@@ -31,6 +33,27 @@ HEX_BORDER_PROCESSO = "0284C7"              # Azul ciano para marcar apregoament
 TIMESTAMP_RE = re.compile(r"\[(\d{1,2}:\d{2}:\d{2})\]")
 SPEAKER_LINE_RE = re.compile(r"^\*\*\[(\d{1,2}:\d{2}:\d{2})\]\s*([^:*]+):\*\*\s*(.*)$")
 HEADING_PROCESSO_RE = re.compile(r"^###\s+\[?(\d{1,2}:\d{2}:\d{2})\]?\s*(.*)$")
+
+
+def _conteudo_docx(dados: bytes) -> dict[str, bytes]:
+    with zipfile.ZipFile(io.BytesIO(dados)) as arquivo_zip:
+        return {nome: arquivo_zip.read(nome) for nome in arquivo_zip.namelist()}
+
+
+def _gravar_docx_se_mudou(caminho: Path, dados: bytes) -> bool:
+    """Grava o .docx só se o conteúdo mudou.
+
+    O Word guarda a data de gravação dentro do arquivo; sem essa comparação, cada build
+    regravaria o mesmo documento e ele apareceria sempre como modificado.
+    """
+    if caminho.exists():
+        try:
+            if _conteudo_docx(caminho.read_bytes()) == _conteudo_docx(dados):
+                return False
+        except zipfile.BadZipFile:
+            pass
+    caminho.write_bytes(dados)
+    return True
 
 
 def _timestamp_para_segundos(ts: str) -> int:
@@ -489,6 +512,10 @@ def exportar_transcricao_para_docx(
         else:
             _renderizar_texto_com_negrito_inline(p, texto, COR_TEXTO_ESCURO)
 
-    doc.save(str(output_file))
-    logger.info("Transcrição exportada para Word com sucesso: %s", output_file)
+    buffer = io.BytesIO()
+    doc.save(buffer)
+    if _gravar_docx_se_mudou(Path(output_file), buffer.getvalue()):
+        logger.info("Transcrição exportada para Word com sucesso: %s", output_file)
+    else:
+        logger.info("Transcrição em Word sem mudanças: %s", output_file)
     return output_file
