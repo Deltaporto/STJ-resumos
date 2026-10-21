@@ -287,6 +287,21 @@ def test_compilar_site_extrai_processos_herman_teses_e_transcricao(tmp_path: Pat
     assert (transc_dir / "2026-04-14_primeira_turma_transcricao_revisada.md").exists()
     assert (web_dir / "data.js").exists()
 
+    # Material de contexto do assistente de IA
+    indice = json.loads((web_dir / "assistente" / "indice.json").read_text(encoding="utf-8"))
+    assert [e["id"] for e in indice["sessoes"]] == ["2026-04-14_primeira_turma"]
+    entrada = indice["sessoes"][0]
+    assert entrada["orgaoSlug"] == "primeira_turma"
+    assert 12 in entrada["materiaIds"]
+    assert entrada["videoUrl"] == "https://www.youtube.com/watch?v=ABC123xyz"
+    assert entrada["indice"].startswith('<sessao_indice id="2026-04-14_primeira_turma">')
+    assert "Min. Herman Benjamin (relator)" in entrada["indice"]
+    material = (web_dir / entrada["arquivo"]).read_text(encoding="utf-8")
+    assert entrada["caracteres"] == len(material)
+    assert "<resumo_estruturado>" in material
+    assert "<transcricao_revisada>" in material
+    assert material.rstrip().endswith("</sessao>")
+
 
 def test_pauta_client_formatacao_vinculacao_e_integracao_site(tmp_path: Path) -> None:
     from stj_sessoes.pauta_client import (

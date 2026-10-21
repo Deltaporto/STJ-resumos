@@ -1,4 +1,4 @@
-"""Compilador de dados estáticos (web/data.js e web/transcricoes/) para o portal público."""
+"""Compilador de dados estáticos (web/data.js, web/transcricoes/ e web/assistente/) para o portal público."""
 
 from __future__ import annotations
 
@@ -15,6 +15,7 @@ from stj_sessoes.config import (
     WEB_PAUTAS_DIR,
     WEB_TRANSCRICOES_DIR,
 )
+from stj_sessoes.assistente_corpus import gerar_corpus_assistente
 from stj_sessoes.pauta_client import vincular_processos_julgados_com_pauta
 from stj_sessoes.taxonomy import (
     MATERIAS_GABINETE,
@@ -719,8 +720,9 @@ def compilar_site(
     output_file: Path = WEB_DIR / "data.js",
     web_transcricoes_dir: Path = WEB_TRANSCRICOES_DIR,
     web_pautas_dir: Path = WEB_PAUTAS_DIR,
+    web_assistente_dir: Path | None = None,
 ) -> list[dict[str, Any]]:
-    """Gera web/data.js, web/transcricoes/ e web/pautas/ a partir de data/output/."""
+    """Gera web/data.js, web/transcricoes/, web/pautas/ e web/assistente/ a partir de data/output/."""
     sessoes = montar_sessoes_publicaveis(
         input_dir=input_dir,
         web_transcricoes_dir=web_transcricoes_dir,
@@ -729,4 +731,6 @@ def compilar_site(
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(renderizar_data_js(sessoes), encoding="utf-8")
     logger.info("Base web/data.js gerada com %d sessão(ões).", len(sessoes))
+    # Material do assistente fica ao lado do data.js (web/assistente/ no portal real)
+    gerar_corpus_assistente(sessoes, web_assistente_dir or output_file.parent / "assistente")
     return sessoes

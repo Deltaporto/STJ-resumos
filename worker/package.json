@@ -1,0 +1,20 @@
+{
+  "name": "stj-assistente",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy do Assistente de IA (Gemini) do Caderno de Sessões GMHB, para Cloudflare Workers.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "local": "node scripts/servidor-local.mjs",
+    "local:simulado": "node scripts/servidor-local.mjs --simular-gemini",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "wrangler": "^4.151.3"
+  }
+}

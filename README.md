@@ -25,6 +25,8 @@ Sistema nativo para Windows (Python 3.13+ e PowerShell) destinado à captura, sa
 4. **Classificação de Julgadores com Categoria Flexível**: normaliza os nomes dos Ministros titulares da 1ª Turma e da 1ª Seção e classifica automaticamente na categoria flexível `Desembargadores Convocados / Substitutos` eventuais magistrados convocados ou substitutos atuantes no colegiado.
 5. **Transcrição Revisada e Saneada para Download Público**: remove vinhetas institucionais prévias à abertura da sessão, corrige erros fonéticos de reconhecimento de voz, organiza os blocos por minutagem (`[HH:MM:SS]`) e disponibiliza o arquivo `.md` para download direto e leitura na própria página.
 
+6. **Assistente de IA (Gemini 3.8 Flash) restrito à equipe**: painel "Assistente" no portal para perguntas em linguagem natural sobre a sessão aberta, um órgão ou todas as sessões, com filtro por matéria e links para o minuto exato do vídeo. A chave do Gemini fica num proxy no Cloudflare Workers (`worker/`), protegido por códigos de acesso. Instalação e publicação em [worker/README.md](worker/README.md).
+
 ## Comandos Principais (PowerShell)
 
 ### 1. Instalar ou sincronizar ambiente virtual
@@ -42,7 +44,7 @@ uv run python scripts/processar_sessoes.py --orgao todos --max-videos 5
 uv run python scripts/processar_sessoes.py --video-url "https://www.youtube.com/watch?v=ID_DO_VIDEO"
 ```
 
-### 4. Recompilar `web/data.js` e `web/transcricoes/`
+### 4. Recompilar `web/data.js`, `web/transcricoes/` e `web/assistente/`
 ```powershell
 uv run python scripts/gerar_site.py
 ```

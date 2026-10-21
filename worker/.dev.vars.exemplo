@@ -1,0 +1,9 @@
+# Copie este arquivo para .dev.vars (ignorado pelo git) e preencha.
+# Usado só para testes locais (npm run local / npx wrangler dev).
+# Em produção, os segredos vão para o Cloudflare com: npx wrangler secret put NOME
+
+# Chave da API do Gemini (Google AI Studio)
+GEMINI_API_KEY=cole-aqui-a-sua-chave
+
+# Códigos de acesso da equipe: nome:codigo separados por vírgula (mínimo 8 caracteres cada)
+CODIGOS_ACESSO=rafael:troque-este-codigo,equipe:outro-codigo-longo

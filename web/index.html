@@ -111,6 +111,17 @@
                 </div>
 
                 <div class="topbar-actions" id="topbarActions">
+                    <!-- Assistente de IA (aparece só quando assistente-config.js aponta para o proxy) -->
+                    <button type="button" id="assistantOpenBtn" class="btn-action btn-action--assistant" aria-controls="assistantPanel" aria-expanded="false" title="Perguntar às sessões com IA" hidden>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.4-5A8 8 0 1 1 21 12Z"></path>
+                            <path d="M12 8.2v.01"></path>
+                            <path d="M9.2 11h5.6"></path>
+                            <path d="M10 14h4"></path>
+                        </svg>
+                        <span>Assistente</span>
+                    </button>
+
                     <!-- Links de Vídeo (YouTube) -->
                     <div id="videoActionsGroup" class="action-group"></div>
 
@@ -308,10 +319,73 @@
         <div id="transcriptDrawerBody" class="drawer-body" data-font-size="17"></div>
     </aside>
 
+    <!-- Assistente de IA: perguntas em linguagem natural sobre as sessões -->
+    <aside id="assistantPanel" class="assistant-panel" aria-labelledby="assistantTitle" hidden>
+        <header class="assistant-header">
+            <div class="drawer-title-group">
+                <span class="drawer-kicker">Assistente com IA · Gemini</span>
+                <h2 id="assistantTitle" class="drawer-title">Pergunte às sessões</h2>
+            </div>
+            <div class="drawer-actions">
+                <button type="button" id="assistantNewBtn" class="btn-subtle" title="Apagar a conversa e começar outra">Nova conversa</button>
+                <button type="button" id="assistantCloseBtn" class="icon-button" aria-label="Fechar assistente" title="Fechar (Esc)">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+        </header>
+
+        <div class="assistant-scope">
+            <div class="assistant-scope-row">
+                <div class="assistant-scope-tabs" role="radiogroup" aria-label="Onde pesquisar">
+                    <button type="button" role="radio" class="assistant-scope-tab" data-escopo="sessao" aria-checked="true">Esta sessão</button>
+                    <button type="button" role="radio" class="assistant-scope-tab" data-escopo="primeira_turma" aria-checked="false">1ª Turma</button>
+                    <button type="button" role="radio" class="assistant-scope-tab" data-escopo="primeira_secao" aria-checked="false">1ª Seção</button>
+                    <button type="button" role="radio" class="assistant-scope-tab" data-escopo="todas" aria-checked="false">Todas</button>
+                </div>
+                <label class="sr-only" for="assistantMateria">Matéria</label>
+                <select id="assistantMateria" class="filter-select assistant-materia">
+                    <option value="">Todas as matérias</option>
+                </select>
+            </div>
+            <p id="assistantScopeHint" class="assistant-scope-hint"></p>
+        </div>
+
+        <form id="assistantLogin" class="assistant-login" hidden>
+            <h3 class="assistant-login-title">Acesso da equipe</h3>
+            <p class="assistant-login-text">O assistente é restrito à equipe do gabinete. Digite o código de acesso que você recebeu.</p>
+            <label class="assistant-login-label" for="assistantCodeInput">Código de acesso</label>
+            <input type="password" id="assistantCodeInput" class="assistant-login-input" autocomplete="off" spellcheck="false" required>
+            <p id="assistantLoginError" class="assistant-login-error" role="alert" hidden></p>
+            <button type="submit" id="assistantLoginBtn" class="btn-action btn-action--primary">Entrar</button>
+        </form>
+
+        <div id="assistantMessages" class="assistant-messages" aria-live="polite"></div>
+
+        <form id="assistantForm" class="assistant-composer">
+            <label class="sr-only" for="assistantInput">Sua pergunta</label>
+            <textarea id="assistantInput" class="assistant-input" rows="2" maxlength="2000" placeholder="Pergunte sobre processos, votos, teses ou debates…"></textarea>
+            <div class="assistant-composer-actions">
+                <span class="assistant-composer-hint">Enter envia · Shift+Enter quebra a linha</span>
+                <button type="button" id="assistantStopBtn" class="btn-action" hidden>Parar</button>
+                <button type="submit" id="assistantSendBtn" class="btn-action btn-action--primary">Enviar</button>
+            </div>
+        </form>
+
+        <footer class="assistant-footer">
+            <span>Respostas geradas por IA a partir de transcrições automáticas. Confira no vídeo antes de citar.</span>
+            <button type="button" id="assistantLogoutBtn" class="btn-subtle" hidden>Trocar código</button>
+        </footer>
+    </aside>
+
     <!-- Movido pelo app.js para o cabeçalho da lista de processos -->
     <button type="button" id="toggleAllDetailsBtn" class="btn-subtle" hidden>Expandir discussões</button>
 
     <script src="data.js"></script>
+    <script src="assistente-config.js"></script>
     <script src="app.js"></script>
+    <script src="assistente.js"></script>
 </body>
 </html>

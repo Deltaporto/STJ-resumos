@@ -1,0 +1,144 @@
+# Assistente de IA do Caderno de Sessões — proxy (Cloudflare Worker)
+
+O portal publicado no GitHub Pages é estático e público. Por isso a chave do Gemini **não pode** ficar nele.
+Este proxy roda no Cloudflare Workers, guarda a chave e os códigos de acesso da equipe e conversa com o Gemini
+em nome do portal.
+
+```
+Navegador (portal)  ──pergunta + código──▶  Proxy (Cloudflare)  ──material + pergunta──▶  Gemini 3.8 Flash
+                    ◀──resposta em fluxo──                       ◀──────resposta──────────
+                                              │
+                                              └── lê o material publicado em web/assistente/
+```
+
+- O navegador envia só a pergunta, o escopo escolhido e o histórico da conversa. O material das sessões é lido
+  pelo proxy direto do portal publicado (`web/assistente/`), então ninguém consegue usar o proxy para outros fins.
+- O build (`scripts/gerar_site.py`) gera `web/assistente/indice.json` e um `.txt` por sessão (resumo, pauta e
+  transcrição), já no formato que vai para o modelo.
+
+## Como o assistente escolhe o que ler
+
+| Escopo no painel | O que o modelo lê |
+|---|---|
+| Esta sessão | Resumo, pauta e transcrição completa da sessão aberta (~70–80 mil tokens) |
+| 1ª Turma, 1ª Seção ou Todas | Se couber em `ORCAMENTO_CARACTERES` (padrão 600 mil caracteres ≈ 150 mil tokens), tudo na íntegra |
+| Escopo maior que o orçamento | Primeiro o modelo lê o índice de todas as sessões (processos, resultados, teses, pauta) e escolhe até 3 para ler na íntegra; a resposta usa o índice e essas sessões |
+
+O filtro de matéria limita as sessões consultadas às que têm processos daquela matéria.
+
+As respostas citam a minutagem no formato `[[id_da_sessao@HH:MM:SS]]`; o portal converte em links para o minuto
+exato do vídeo.
+
+## 1. Testar no seu computador
+
+Requisitos: Node.js 20 ou mais recente.
+
+```bash
+cd worker
+npm install
+```
+
+Sem chave, com respostas simuladas (para ver a interface):
+
+```bash
+npm run local:simulado
+```
+
+Abra http://localhost:8791 e use o código `codigo-local-123`.
+
+Com o Gemini de verdade: copie `.dev.vars.exemplo` para `.dev.vars`, preencha `GEMINI_API_KEY` e
+`CODIGOS_ACESSO` e rode:
+
+```bash
+npm run local
+```
+
+`.dev.vars` está no `.gitignore` e nunca vai para o GitHub.
+
+## 2. Publicar o proxy (uma vez)
+
+1. Crie uma conta gratuita em https://dash.cloudflare.com.
+2. Entre pelo terminal (abre o navegador para autorizar):
+
+   ```bash
+   npx wrangler login
+   ```
+
+3. Publique:
+
+   ```bash
+   npx wrangler deploy
+   ```
+
+   O comando mostra o endereço do proxy, algo como `https://stj-assistente.SEU-SUBDOMINIO.workers.dev`.
+
+4. Envie os segredos a partir do seu `.dev.vars`:
+
+   ```bash
+   npx wrangler secret bulk .dev.vars
+   ```
+
+5. Confira: abrir `https://stj-assistente.SEU-SUBDOMINIO.workers.dev/api/saude` deve mostrar `{"ok":true,...}`.
+
+## 3. Ligar o portal ao proxy
+
+Em `web/assistente-config.js`, coloque o endereço do passo 2:
+
+```js
+window.ASSISTENTE_CONFIG = { apiUrl: 'https://stj-assistente.SEU-SUBDOMINIO.workers.dev' };
+```
+
+Depois publique o portal normalmente (`pwsh -File scripts/publicar_github_pages.ps1`). O botão **Assistente**
+aparece na barra superior. Enquanto `apiUrl` estiver vazio, o botão fica oculto.
+
+## Códigos de acesso da equipe
+
+`CODIGOS_ACESSO` aceita vários códigos no formato `nome:codigo`, separados por vírgula (mínimo de 8 caracteres
+cada). O nome aparece nos logs do Cloudflare e permite revogar o código de uma pessoa sem afetar as outras.
+Para trocar a lista:
+
+```bash
+npx wrangler secret put CODIGOS_ACESSO
+```
+
+Cada pessoa digita o código uma vez; ele fica salvo só no navegador dela ("Trocar código" no rodapé do painel).
+
+## Custos, limites e privacidade
+
+- **Gemini:** cada pergunta sobre uma sessão envia ~70–80 mil tokens de entrada; perguntas sobre várias sessões,
+  até ~225 mil. Perguntas seguidas sobre o mesmo material aproveitam o cache implícito do Gemini, que é mais barato.
+  Configure um limite de gastos e alertas no Google AI Studio / Google Cloud.
+- **Use uma chave com faturamento ativo.** No nível gratuito da API do Gemini, o Google pode usar o conteúdo das
+  requisições para melhorar seus produtos; no nível pago, não. O material das sessões já é público, mas as
+  perguntas da equipe não.
+- **Cloudflare:** o plano gratuito permite 100 mil requisições por dia, mas limita o tempo de CPU a 10 ms por
+  requisição. O proxy só junta textos, mas com o material atual a estimativa fica entre 10 e 30 ms. Se aparecer
+  o erro 1102 ("Worker exceeded resource limits"), ative o plano Workers Paid (US$ 5/mês).
+- **Limite de uso:** 20 requisições por minuto por pessoa e por endereço IP (`[[ratelimits]]` em `wrangler.toml`).
+- **Logs:** o proxy registra quem perguntou, o escopo e os tokens usados, mas não o texto das perguntas. Veja em
+  Cloudflare → Workers → stj-assistente → Logs.
+
+## Ajustes (wrangler.toml → [vars])
+
+| Variável | Padrão | Para quê |
+|---|---|---|
+| `GEMINI_MODELO` | `gemini-3.8-flash` | Modelo usado nas respostas |
+| `GEMINI_NIVEL_RACIOCINIO` | vazio (= `medium`) | `low` responde mais rápido e mais barato; `high`, com mais cuidado |
+| `ORCAMENTO_CARACTERES` | `600000` | Até quanto material vai na íntegra antes de o assistente escolher sessões |
+| `MAX_SESSOES_COMPLETAS` | `3` | Máximo de sessões lidas na íntegra quando o escopo é grande |
+| `ORIGENS_PERMITIDAS` | GitHub Pages + localhost | Sites autorizados a chamar o proxy |
+
+Depois de mudar, rode `npx wrangler deploy` de novo.
+
+## Testes
+
+```bash
+npm test
+```
+
+## Observação técnica
+
+O proxy usa a API `generateContent` do Gemini (REST, com streaming). O Google recomenda a nova Interactions API
+para projetos novos, mas mantém a `generateContent` "totalmente suportada". Além disso, ela não guarda as conversas
+no servidor do Google por padrão. Toda a comunicação com o Gemini está em `src/gemini.js`; para migrar, basta
+trocar esse arquivo.

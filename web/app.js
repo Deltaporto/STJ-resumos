@@ -791,6 +791,9 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
+        // Avisa o painel do assistente qual sessão está aberta
+        document.dispatchEvent(new CustomEvent('portal:sessao-ativa', { detail: { id: session.id } }));
+
         // Atualizar Topbar
         topbarSessionMeta.innerHTML = `
             <span class="topbar-orgao-badge">${escapeHtml(session.orgao)} · Superior Tribunal de Justiça</span>
@@ -1751,6 +1754,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 closeMobileMenu();
             }
         }
+    });
+
+    // O assistente pede para abrir uma sessão citada na resposta
+    document.addEventListener('assistente:abrir-sessao', (e) => {
+        const id = e.detail?.id;
+        if (!id || !rawSessions.some((s) => s.id === id)) return;
+        state.activeSessionId = id;
+        renderSidebar();
+        renderActiveSession();
+        documentViewer.scrollTo({ top: 0 });
     });
 
     // Inicialização

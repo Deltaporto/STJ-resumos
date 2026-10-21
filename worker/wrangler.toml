@@ -1,0 +1,33 @@
+# Proxy do Assistente de IA do Caderno de Sessões (GMHB).
+# Segredos (NÃO coloque aqui): GEMINI_API_KEY e CODIGOS_ACESSO -> npx wrangler secret put NOME
+name = "stj-assistente"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+# Endereço público do portal, de onde o proxy lê o material (web/assistente/)
+SITE_BASE_URL = "https://deltaporto.github.io/STJ-resumos/"
+# Sites autorizados a usar o proxy (separados por vírgula)
+ORIGENS_PERMITIDAS = "https://deltaporto.github.io,http://localhost:8790,http://127.0.0.1:8790"
+GEMINI_MODELO = "gemini-3.8-flash"
+# Nível de raciocínio da resposta (low, medium, high). Vazio = padrão do modelo (medium).
+GEMINI_NIVEL_RACIOCINIO = ""
+# Até quantos caracteres de material vão na íntegra (~4 caracteres por token).
+# Acima disso, o assistente lê o índice de todas as sessões e escolhe as mais relevantes.
+ORCAMENTO_CARACTERES = "600000"
+ORCAMENTO_INDICE = "300000"
+MAX_SESSOES_COMPLETAS = "3"
+MAX_TOKENS_RESPOSTA = "16384"
+CACHE_SEGUNDOS = "300"
+
+# Limite de requisições: 20 por minuto por pessoa (e por endereço IP)
+[[ratelimits]]
+name = "LIMITADOR"
+namespace_id = "2026"
+
+  [ratelimits.simple]
+  limit = 20
+  period = 60
+
+[observability]
+enabled = true

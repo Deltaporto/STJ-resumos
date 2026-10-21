@@ -6,3 +6,4 @@ Repositório estático de visualização das sessões de julgamento da **Primeir
 - Classificação temática pelas **15 matérias de Direito Público do Gabinete**;
 - Tesauro de teses fixadas, propostas e votos vencidos;
 - Download público e leitura integrada da **transcrição revisada e saneada** de cada sessão, com minutagem vinculada ao vídeo oficial no YouTube.
+- **Assistente de IA** para perguntas em linguagem natural sobre as sessões (restrito à equipe do gabinete, mediante código de acesso).

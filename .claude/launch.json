@@ -4,8 +4,28 @@
     {
       "name": "web",
       "runtimeExecutable": "uv",
-      "runtimeArgs": ["run", "--no-project", "python", "-m", "http.server", "8790", "--directory", "web"],
+      "runtimeArgs": [
+        "run",
+        "--no-project",
+        "python",
+        "-m",
+        "http.server",
+        "8790",
+        "--directory",
+        "web"
+      ],
       "port": 8790
+    },
+    {
+      "name": "assistente-simulado",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "worker/scripts/servidor-local.mjs",
+        "--simular-gemini",
+        "--porta",
+        "8791"
+      ],
+      "port": 8791
     }
   ]
 }
