@@ -153,6 +153,26 @@ npm run teste:real -- --raciocinio medium --seguimento "Pergunta seguinte"
 - **Logs:** o proxy registra quem perguntou, o escopo e os tokens usados, mas não o texto das perguntas. Veja em
   Cloudflare → Workers → stj-assistente → Logs.
 
+## O que o usuário vê quando um limite é atingido
+
+O painel mostra um aviso com título, explicação e, quando faz sentido, o botão "Tentar de novo" com contagem
+regressiva. Amarelo indica que basta aguardar; vermelho indica que depende do administrador ou da rede.
+
+| Aviso no painel | Causa | O que fazer |
+|---|---|---|
+| **Aguarde um pouco**: "Muitas perguntas foram enviadas desta rede no último minuto (o limite é 20 por minuto)" | Limite do proxy por endereço IP (`[[ratelimits]]`) | O usuário espera 60 s. Se for frequente, aumente `limit` em `wrangler.toml` |
+| **Aguarde um pouco**: "O serviço de IA recebeu muitas perguntas ao mesmo tempo" | Cota por minuto do Gemini (contagem usa o tempo que o Google informa) | O usuário espera. Se for frequente, veja as cotas do projeto no AI Studio |
+| **Serviço instável** | Erro 5xx do Gemini | O usuário tenta de novo após 20 s |
+| **Limite de hoje atingido** | Cota diária do Gemini | Volta no dia seguinte (o Google zera à meia-noite do Pacífico, ~4h–5h em Brasília) |
+| **Assistente pausado**: "limite de gastos do mês" | Teto de gastos do projeto no AI Studio | Aumente o teto em https://ai.studio/spend |
+| **Assistente indisponível**: "problema de configuração" | Chave inválida, modelo inexistente ou material do portal não encontrado | Veja o detalhe em Cloudflare → Workers → stj-assistente → Logs |
+| **Assistente fora do ar** | O proxy não respondeu: fora do ar, limite diário do Cloudflare (100 mil requisições no plano gratuito) ou limite de CPU (erro 1102) | Veja o painel do Cloudflare; se for limite, considere o plano Workers Paid |
+| **Sem conexão** | O computador do usuário está sem internet | O usuário verifica a rede |
+| **Conversa longa demais** | Histórico acima do limite do proxy | O botão "Começar nova conversa" mantém a pergunta na caixa |
+
+Para ver cada aviso no simulador local (`npm run local:simulado`), escreva na pergunta `#simular:limite_ia`,
+`#simular:limite_diario`, `#simular:limite_gastos` ou `#simular:instavel`.
+
 ## Ajustes (wrangler.toml → [vars])
 
 | Variável | Padrão | Para quê |

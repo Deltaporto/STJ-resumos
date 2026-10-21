@@ -55,6 +55,17 @@ if (simular) {
     env.GEMINI_API_KEY = env.GEMINI_API_KEY || 'simulada';
     env.CODIGOS_ACESSO = env.CODIGOS_ACESSO || 'teste:codigo-local-123';
     instalarGeminiSimulado();
+    // Imita o limite do Cloudflare (20 requisições por minuto por chave)
+    const contagem = new Map();
+    env.LIMITADOR = {
+        async limit({ key }) {
+            const agora = Date.now();
+            const recentes = (contagem.get(key) || []).filter((t) => agora - t < 60000);
+            recentes.push(agora);
+            contagem.set(key, recentes);
+            return { success: recentes.length <= 20 };
+        },
+    };
 }
 if (!env.GEMINI_API_KEY || PLACEHOLDERS.test(env.GEMINI_API_KEY)) {
     console.error('Preencha GEMINI_API_KEY em worker/.dev.vars com a sua chave e salve o arquivo (ou use --simular-gemini).');
@@ -75,6 +86,24 @@ function instalarGeminiSimulado() {
         const instrucao = corpo.systemInstruction.parts[0].text;
         const pergunta = corpo.contents.at(-1).parts[0].text;
         const ids = [...instrucao.matchAll(/<sessao(?:_indice)? id="(\d{4}-\d{2}-\d{2}_[a-z_]+)"/g)].map((m) => m[1]);
+
+        // Para testar os avisos: escreva "#simular:limite_ia" (ou limite_diario, limite_gastos, instavel) na pergunta
+        const simulado = pergunta.match(/#simular:(\w+)/)?.[1];
+        const ERROS = {
+            limite_ia: [429, { code: 429, status: 'RESOURCE_EXHAUSTED', message: 'Quota exceeded', details: [
+                { '@type': 'type.googleapis.com/google.rpc.QuotaFailure', violations: [{ quotaId: 'GenerateRequestsPerMinutePerProjectPerModel' }] },
+                { '@type': 'type.googleapis.com/google.rpc.RetryInfo', retryDelay: '8s' },
+            ] }],
+            limite_diario: [429, { code: 429, status: 'RESOURCE_EXHAUSTED', message: 'Quota exceeded', details: [
+                { '@type': 'type.googleapis.com/google.rpc.QuotaFailure', violations: [{ quotaId: 'GenerateRequestsPerDayPerProjectPerModel' }] },
+            ] }],
+            limite_gastos: [429, { code: 429, status: 'RESOURCE_EXHAUSTED', message: 'Your project has exceeded its monthly spending cap.' }],
+            instavel: [503, { code: 503, status: 'UNAVAILABLE', message: 'The model is overloaded.' }],
+        };
+        if (simulado && ERROS[simulado]) {
+            const [status, erro] = ERROS[simulado];
+            return new Response(JSON.stringify({ error: erro }), { status, headers: { 'content-type': 'application/json' } });
+        }
 
         if (url.includes(':generateContent')) {
             // Roteador: o índice vem na mensagem do usuário

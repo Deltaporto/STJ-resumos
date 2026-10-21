@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import proxy, { exigeCodigo, validarPedido } from '../src/index.js';
 import { autenticar, lerCodigos } from '../src/auth.js';
 import { cortarPorOrcamento, filtrarCandidatas, limparCache } from '../src/corpus.js';
-import { interpretarPedaco, lerEventosSSE, montarConteudo, mensagemErro } from '../src/gemini.js';
+import { classificarErro, interpretarPedaco, lerEventosSSE, montarConteudo, mensagemErro } from '../src/gemini.js';
 
 const SITE = 'https://portal.exemplo/STJ-resumos/';
 const ORIGEM = 'https://portal.exemplo';
@@ -152,7 +152,7 @@ test('mensagemErro traduz falhas comuns do Gemini', () => {
     assert.match(mensagemErro(429, ''), /muitas perguntas/);
     assert.match(
         mensagemErro(429, '{"error":{"message":"Your project has exceeded its monthly spending cap. Please go to AI Studio"}}'),
-        /limite mensal de uso/,
+        /limite de gastos do mês/,
     );
     assert.match(mensagemErro(404, ''), /problema de configuração/);
     assert.match(mensagemErro(400, '{"error":{"message":"API key not valid"}}'), /problema de configuração/);
@@ -287,4 +287,63 @@ test('erro de material do portal não mostra endereço técnico ao usuário', as
     assert.equal(lista.at(-1).evento, 'erro');
     assert.match(lista.at(-1).dados.mensagem, /problema de configuração/);
     assert.doesNotMatch(lista.at(-1).dados.mensagem, /https?:/);
+});
+
+// Formato real dos erros 429 do Gemini (google.rpc.QuotaFailure e RetryInfo)
+function erro429(quotaId, retryDelay) {
+    const details = [{ '@type': 'type.googleapis.com/google.rpc.QuotaFailure', violations: [{ quotaId, quotaMetric: 'generativelanguage.googleapis.com/generate_content_requests' }] }];
+    if (retryDelay) details.push({ '@type': 'type.googleapis.com/google.rpc.RetryInfo', retryDelay });
+    return JSON.stringify({ error: { code: 429, status: 'RESOURCE_EXHAUSTED', message: 'You exceeded your current quota.', details } });
+}
+
+test('classificarErro distingue os limites do Gemini', () => {
+    const minuto = classificarErro(429, erro429('GenerateRequestsPerMinutePerProjectPerModel', '37.2s'));
+    assert.equal(minuto.tipo, 'limite_ia');
+    assert.equal(minuto.tentarEm, 38);
+
+    const semEspera = classificarErro(429, erro429('GenerateContentInputTokensPerModelPerMinute'));
+    assert.equal(semEspera.tipo, 'limite_ia');
+    assert.equal(semEspera.tentarEm, 30);
+
+    const dia = classificarErro(429, erro429('GenerateRequestsPerDayPerProjectPerModel', '3600s'));
+    assert.equal(dia.tipo, 'limite_diario');
+    assert.equal(dia.tentarEm, undefined);
+    assert.match(dia.mensagem, /amanhã/);
+
+    const gastos = classificarErro(429, '{"error":{"code":429,"message":"Your project has exceeded its monthly spending cap."}}');
+    assert.equal(gastos.tipo, 'limite_gastos');
+
+    assert.equal(classificarErro(503, '').tipo, 'instavel');
+    assert.equal(classificarErro(404, '').tipo, 'configuracao');
+});
+
+test('limite do Gemini chega ao painel com tipo e tempo de espera', async () => {
+    globalThis.fetch = async (entrada) => {
+        const url = String(entrada);
+        if (url.endsWith('indice.json')) return Response.json(indice);
+        if (url.endsWith('.txt')) return new Response('<sessao>x</sessao>');
+        return new Response(erro429('GenerateRequestsPerMinutePerProjectPerModel', '12s'), { status: 429 });
+    };
+    const resp = await proxy.fetch(pedido({ pergunta: 'x', escopo: { tipo: 'sessao', sessaoId: '2026-10-20_primeira_turma' } }), envBase(), { waitUntil() {} });
+    const ultimo = (await eventos(resp)).at(-1);
+    assert.equal(ultimo.evento, 'erro');
+    assert.equal(ultimo.dados.tipo, 'limite_ia');
+    assert.equal(ultimo.dados.tentarEm, 12);
+});
+
+test('limite por rede do proxy informa tipo e espera de 60 s', async () => {
+    const env = envBase({ LIMITADOR: { limit: async () => ({ success: false }) } });
+    const resp = await proxy.fetch(pedido({ pergunta: 'x', escopo: { tipo: 'todas' } }), env);
+    assert.equal(resp.status, 429);
+    const corpo = await resp.json();
+    assert.equal(corpo.tipo, 'limite_rede');
+    assert.equal(corpo.tentarEm, 60);
+    assert.match(corpo.erro, /20 por minuto/);
+});
+
+test('conversa longa demais volta com tipo próprio', async () => {
+    const historico = Array.from({ length: 13 }, (_, i) => ({ papel: i % 2 ? 'assistente' : 'usuario', texto: 'a' }));
+    const resp = await proxy.fetch(pedido({ pergunta: 'x', escopo: { tipo: 'todas' }, historico }), envBase());
+    assert.equal(resp.status, 400);
+    assert.equal((await resp.json()).tipo, 'conversa_longa');
 });

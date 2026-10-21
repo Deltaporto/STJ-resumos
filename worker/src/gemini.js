@@ -4,10 +4,14 @@
 
 const BASE_PADRAO = 'https://generativelanguage.googleapis.com';
 
+// tipo: categoria do problema, usada pelo painel para escolher título e ação
+// tentarEm: segundos sugeridos de espera antes de tentar de novo (quando fizer sentido)
 export class ErroGemini extends Error {
-    constructor(mensagem, status) {
+    constructor(mensagem, status, tipo = 'outro', tentarEm = null) {
         super(mensagem);
         this.status = status;
+        this.tipo = tipo;
+        this.tentarEm = tentarEm;
     }
 }
 
@@ -58,25 +62,63 @@ function urlModelo(env, modelo, metodo) {
 // O detalhe técnico vai para o log do Cloudflare (ver enviar()).
 export const MENSAGEM_CONFIGURACAO = 'O assistente está com um problema de configuração. Avise o administrador.';
 
-export function mensagemErro(status, corpoTexto) {
-    let detalhe = '';
-    try {
-        detalhe = JSON.parse(corpoTexto)?.error?.message || '';
-    } catch { /* corpo não é JSON */ }
-    if (status === 429 && /spend(ing)? cap|billing|prepay|credit/i.test(detalhe)) {
-        return 'O assistente atingiu o limite mensal de uso. Avise o administrador.';
+export const MENSAGENS = {
+    limite_ia: 'O serviço de IA recebeu muitas perguntas ao mesmo tempo. Aguarde um pouco e tente de novo.',
+    limite_diario: 'O assistente atingiu o limite de perguntas de hoje. Ele volta a funcionar amanhã de manhã.',
+    limite_gastos: 'O assistente atingiu o limite de gastos do mês e está pausado. Avise o administrador do Caderno de Sessões.',
+    instavel: 'O serviço de IA está instável no momento. Aguarde um pouco e tente de novo.',
+};
+
+// Lê o tempo de espera que o Google informa no erro 429 (RetryInfo.retryDelay, ex.: "37s")
+function esperaInformada(erro) {
+    for (const d of erro?.details || []) {
+        const m = String(d?.retryDelay || '').match(/^(\d+(?:\.\d+)?)s$/);
+        if (m) return Math.max(1, Math.ceil(Number(m[1])));
     }
-    if (status === 429) return 'O assistente está com muitas perguntas no momento. Tente de novo em alguns minutos.';
-    if (status === 400 && /api key/i.test(detalhe)) return MENSAGEM_CONFIGURACAO;
-    if (status === 401 || status === 403 || status === 404) return MENSAGEM_CONFIGURACAO;
-    if (status >= 500) return 'O serviço de IA está instável no momento. Tente de novo.';
-    return `A IA não conseguiu responder (erro ${status}). Tente de novo.`;
+    return null;
+}
+
+// Identifica qual cota do Google foi atingida (por minuto ou por dia)
+function cotaAtingida(erro) {
+    const ids = [];
+    for (const d of erro?.details || []) {
+        for (const v of d?.violations || []) ids.push(`${v.quotaId || ''} ${v.quotaMetric || ''}`);
+    }
+    const texto = `${ids.join(' ')} ${erro?.message || ''}`;
+    if (/per ?day|PerDay|daily/i.test(texto)) return 'dia';
+    return 'minuto';
+}
+
+export function classificarErro(status, corpoTexto) {
+    let erro = null;
+    try {
+        erro = JSON.parse(corpoTexto)?.error || null;
+    } catch { /* corpo não é JSON */ }
+    const detalhe = erro?.message || '';
+
+    if (status === 429 && /spend(ing)? cap|billing|prepay|credit/i.test(detalhe)) {
+        return { tipo: 'limite_gastos', mensagem: MENSAGENS.limite_gastos };
+    }
+    if (status === 429 && cotaAtingida(erro) === 'dia') {
+        return { tipo: 'limite_diario', mensagem: MENSAGENS.limite_diario };
+    }
+    if (status === 429) {
+        return { tipo: 'limite_ia', mensagem: MENSAGENS.limite_ia, tentarEm: esperaInformada(erro) || 30 };
+    }
+    if (status === 400 && /api key/i.test(detalhe)) return { tipo: 'configuracao', mensagem: MENSAGEM_CONFIGURACAO };
+    if (status === 401 || status === 403 || status === 404) return { tipo: 'configuracao', mensagem: MENSAGEM_CONFIGURACAO };
+    if (status >= 500) return { tipo: 'instavel', mensagem: MENSAGENS.instavel, tentarEm: 20 };
+    return { tipo: 'outro', mensagem: `A IA não conseguiu responder (erro ${status}). Tente de novo.` };
+}
+
+export function mensagemErro(status, corpoTexto) {
+    return classificarErro(status, corpoTexto).mensagem;
 }
 
 async function enviar(env, modelo, metodo, corpo, signal) {
     if (!env.GEMINI_API_KEY) {
         console.error(JSON.stringify({ evento: 'erro_configuracao', detalhe: 'GEMINI_API_KEY ausente' }));
-        throw new ErroGemini(MENSAGEM_CONFIGURACAO, 500);
+        throw new ErroGemini(MENSAGEM_CONFIGURACAO, 500, 'configuracao');
     }
     const resposta = await fetch(urlModelo(env, modelo, metodo), {
         method: 'POST',
@@ -90,7 +132,8 @@ async function enviar(env, modelo, metodo, corpo, signal) {
     if (!resposta.ok) {
         const texto = await resposta.text().catch(() => '');
         console.error(JSON.stringify({ evento: 'erro_gemini', status: resposta.status, detalhe: texto.slice(0, 500) }));
-        throw new ErroGemini(mensagemErro(resposta.status, texto), resposta.status);
+        const { mensagem, tipo, tentarEm } = classificarErro(resposta.status, texto);
+        throw new ErroGemini(mensagem, resposta.status, tipo, tentarEm);
     }
     return resposta;
 }

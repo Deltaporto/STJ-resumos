@@ -350,6 +350,7 @@
             div.className = 'assistant-msg assistant-msg--user';
             div.innerHTML = escapar(texto).replace(/\n/g, '<br>');
             areaMensagens.appendChild(div);
+            return div;
         };
 
         const criarMensagemAssistente = () => {
@@ -386,6 +387,62 @@
             return html;
         };
 
+        // ---------- Avisos de limite e erro ----------
+        // Cada tipo vem do proxy (ou da falta de conexão) e define título, cor e ação do aviso.
+        // espera: amarelo (é só aguardar); erro: vermelho (depende de outra pessoa ou da rede)
+        const CARTOES = {
+            limite_rede: { titulo: 'Aguarde um pouco', estilo: 'espera', acao: 'repetir' },
+            limite_pessoa: { titulo: 'Aguarde um pouco', estilo: 'espera', acao: 'repetir' },
+            limite_ia: { titulo: 'Aguarde um pouco', estilo: 'espera', acao: 'repetir' },
+            instavel: { titulo: 'Serviço instável', estilo: 'espera', acao: 'repetir' },
+            limite_diario: { titulo: 'Limite de hoje atingido', estilo: 'espera', acao: null },
+            limite_gastos: { titulo: 'Assistente pausado', estilo: 'erro', acao: null },
+            configuracao: { titulo: 'Assistente indisponível', estilo: 'erro', acao: null },
+            indisponivel: { titulo: 'Assistente fora do ar', estilo: 'erro', acao: 'repetir' },
+            sem_internet: { titulo: 'Sem conexão', estilo: 'erro', acao: 'repetir' },
+            conversa_longa: { titulo: 'Conversa longa demais', estilo: 'espera', acao: 'nova' },
+            bloqueio: { titulo: 'Pergunta não respondida', estilo: 'espera', acao: null },
+            outro: { titulo: 'Algo deu errado', estilo: 'erro', acao: 'repetir' },
+        };
+
+        const mostrarAviso = (msg, erro, aoRepetir, aoNovaConversa) => {
+            const cartao = CARTOES[erro.tipo] || CARTOES.outro;
+            const caixa = document.createElement('div');
+            caixa.className = `assistant-alert assistant-alert--${cartao.estilo}`;
+            caixa.setAttribute('role', 'alert');
+            caixa.innerHTML = `<p class="assistant-alert-title">${escapar(cartao.titulo)}</p><p class="assistant-alert-text">${escapar(erro.mensagem)}</p>`;
+
+            if (cartao.acao === 'repetir') {
+                const botao = document.createElement('button');
+                botao.type = 'button';
+                botao.className = 'btn-action assistant-alert-btn';
+                let restante = Math.max(0, Math.round(Number(erro.tentarEm) || 0));
+                const atualizar = () => {
+                    botao.disabled = restante > 0;
+                    botao.textContent = restante > 0 ? `Tentar de novo em ${restante} s` : 'Tentar de novo';
+                };
+                atualizar();
+                const relogio = restante > 0 ? setInterval(() => {
+                    restante -= 1;
+                    atualizar();
+                    if (restante <= 0 || !caixa.isConnected) clearInterval(relogio);
+                }, 1000) : null;
+                botao.addEventListener('click', () => {
+                    if (relogio) clearInterval(relogio);
+                    aoRepetir();
+                });
+                caixa.appendChild(botao);
+            } else if (cartao.acao === 'nova') {
+                const botao = document.createElement('button');
+                botao.type = 'button';
+                botao.className = 'btn-action assistant-alert-btn';
+                botao.textContent = 'Começar nova conversa';
+                botao.addEventListener('click', aoNovaConversa);
+                caixa.appendChild(botao);
+            }
+            msg.resposta.appendChild(caixa);
+        };
+
         // ---------- Rede ----------
         const sair = (mensagem) => {
             estado.codigo = '';
@@ -418,14 +475,18 @@
             campoPergunta.disabled = false;
         };
 
-        const enviarPergunta = async () => {
-            const pergunta = campoPergunta.value.trim();
+        // perguntaRepetida: usada pelo botão "Tentar de novo" (reenvia sem mexer na caixa de texto)
+        const enviarPergunta = async (perguntaRepetida) => {
+            const repetida = typeof perguntaRepetida === 'string';
+            const pergunta = (repetida ? perguntaRepetida : campoPergunta.value).trim();
             if (!pergunta || estado.controle) return;
             if (estado.escopo === 'sessao' && !sessaoAtivaId) return;
 
-            adicionarMensagemUsuario(pergunta);
-            campoPergunta.value = '';
-            ajustarAltura();
+            const balaoUsuario = adicionarMensagemUsuario(pergunta);
+            if (!repetida) {
+                campoPergunta.value = '';
+                ajustarAltura();
+            }
             const msg = criarMensagemAssistente();
 
             rolarParaFim();
@@ -478,10 +539,14 @@
                         campoPergunta.value = pergunta;
                         return;
                     }
-                    throw new Error(corpo.erro || `O assistente não respondeu (erro ${resposta.status}). Tente de novo.`);
+                    erro = {
+                        tipo: corpo.tipo || 'outro',
+                        mensagem: corpo.erro || `O assistente não respondeu (erro ${resposta.status}). Tente de novo.`,
+                        tentarEm: corpo.tentarEm,
+                    };
                 }
 
-                for await (const { evento, dados } of lerFluxoSSE(resposta)) {
+                if (!erro) for await (const { evento, dados } of lerFluxoSSE(resposta)) {
                     if (evento === 'estado') {
                         msg.statusTexto.textContent = dados.texto;
                     } else if (evento === 'fontes') {
@@ -496,16 +561,21 @@
                     } else if (evento === 'fim') {
                         aviso = dados.aviso;
                     } else if (evento === 'erro') {
-                        erro = dados.mensagem;
+                        erro = { tipo: dados.tipo || 'outro', mensagem: dados.mensagem, tentarEm: dados.tentarEm };
                     }
                 }
             } catch (falha) {
                 if (falha.name === 'AbortError') {
                     aviso = 'Resposta interrompida.';
+                } else if (navigator.onLine === false) {
+                    erro = { tipo: 'sem_internet', mensagem: 'Seu computador está sem internet. Verifique a rede e tente de novo.' };
                 } else {
-                    erro = falha.message && !/fetch|network/i.test(falha.message)
-                        ? falha.message
-                        : 'Não foi possível falar com o assistente. Verifique a conexão e tente de novo.';
+                    // Sem resposta do proxy: fora do ar ou no limite do Cloudflare (que responde sem liberar o site)
+                    erro = {
+                        tipo: 'indisponivel',
+                        mensagem: 'O assistente não respondeu. Ele pode estar fora do ar ou sobrecarregado. Aguarde e tente de novo.',
+                        tentarEm: 30,
+                    };
                 }
             } finally {
                 estado.controle = null;
@@ -515,7 +585,21 @@
             msg.status.hidden = true;
             desenhar();
             if (erro) {
-                msg.resposta.insertAdjacentHTML('beforeend', `<p class="assistant-error" role="alert">${escapar(erro)}</p>`);
+                mostrarAviso(
+                    msg,
+                    erro,
+                    () => {
+                        // Tira a tentativa que falhou e pergunta de novo
+                        balaoUsuario.remove();
+                        msg.raiz.remove();
+                        enviarPergunta(pergunta);
+                    },
+                    () => {
+                        botaoNova.click();
+                        campoPergunta.value = pergunta;
+                        ajustarAltura();
+                    },
+                );
             }
             if (aviso) {
                 msg.resposta.insertAdjacentHTML('beforeend', `<p class="assistant-warning">${escapar(aviso)}</p>`);

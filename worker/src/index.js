@@ -123,7 +123,7 @@ export function validarPedido(corpo) {
 
     const historicoBruto = Array.isArray(corpo.historico) ? corpo.historico : [];
     if (historicoBruto.length > LIMITES.mensagensHistorico) {
-        return { erro: 'A conversa ficou longa demais. Clique em “Nova conversa”.' };
+        return { tipo: 'conversa_longa', erro: 'A conversa ficou longa demais para o assistente acompanhar.' };
     }
     const historico = [];
     let total = 0;
@@ -136,7 +136,7 @@ export function validarPedido(corpo) {
         if (texto.trim()) historico.push({ papel: m.papel, texto });
     }
     if (total > LIMITES.caracteresHistorico) {
-        return { erro: 'A conversa ficou longa demais. Clique em “Nova conversa”.' };
+        return { tipo: 'conversa_longa', erro: 'A conversa ficou longa demais para o assistente acompanhar.' };
     }
 
     return { pedido: { pergunta, escopo, materiaId, historico } };
@@ -251,7 +251,7 @@ async function responderEmFluxo(env, pedido, usuario, escrever, signal) {
     let algumTexto = false;
     for await (const pedaco of gerarStream(env, corpo, signal)) {
         if (pedaco.bloqueio) {
-            await emitir('erro', { mensagem: 'A IA não respondeu por causa de filtros de segurança. Tente reformular a pergunta.' });
+            await emitir('erro', { tipo: 'bloqueio', mensagem: 'A IA não respondeu por causa de filtros de segurança. Tente reformular a pergunta.' });
             return;
         }
         if (pedaco.texto) {
@@ -263,7 +263,7 @@ async function responderEmFluxo(env, pedido, usuario, escrever, signal) {
     }
 
     let aviso = null;
-    if (motivoFim === 'MAX_TOKENS') aviso = 'A resposta foi interrompida por atingir o tamanho máximo. Peça a continuação ou uma versão mais curta.';
+    if (motivoFim === 'MAX_TOKENS') aviso = 'A resposta ficou longa demais e foi cortada. Peça “continue” ou faça uma pergunta mais específica.';
     else if (motivoFim && motivoFim !== 'STOP') aviso = 'A resposta foi interrompida. Tente de novo.';
     else if (!algumTexto) aviso = 'A IA não respondeu a esta pergunta. Tente reformular.';
 
@@ -300,8 +300,8 @@ async function perguntar(request, env, ctx, cors, usuario) {
     } catch {
         return json({ erro: 'Corpo da requisição não é JSON.' }, 400, cors);
     }
-    const { pedido, erro } = validarPedido(corpo);
-    if (erro) return json({ erro }, 400, cors);
+    const { pedido, erro, tipo } = validarPedido(corpo);
+    if (erro) return json({ erro, tipo: tipo || 'pedido' }, 400, cors);
 
     const { readable, writable } = new TransformStream();
     const escritor = writable.getWriter();
@@ -325,11 +325,11 @@ async function perguntar(request, env, ctx, cors, usuario) {
             await responderEmFluxo(env, pedido, usuario, escrever, controle.signal);
         } catch (falha) {
             if (controle.signal.aborted) return;
-            let mensagem = 'Erro inesperado no assistente. Tente de novo.';
-            if (falha instanceof ErroGemini) mensagem = falha.message;
-            else if (falha instanceof ErroCorpus) mensagem = MENSAGEM_CONFIGURACAO;
+            let dados = { tipo: 'outro', mensagem: 'Erro inesperado no assistente. Tente de novo.' };
+            if (falha instanceof ErroGemini) dados = { tipo: falha.tipo, mensagem: falha.message, tentarEm: falha.tentarEm };
+            else if (falha instanceof ErroCorpus) dados = { tipo: 'configuracao', mensagem: MENSAGEM_CONFIGURACAO };
             console.error(JSON.stringify({ evento: 'erro', usuario, mensagem: String(falha?.message || falha) }));
-            await escrever(`event: erro\ndata: ${JSON.stringify({ mensagem })}\n\n`);
+            await escrever(`event: erro\ndata: ${JSON.stringify(dados)}\n\n`);
         } finally {
             if (aberto) await escritor.close().catch(() => {});
         }
@@ -370,7 +370,11 @@ export default {
 
         // Limite por endereço antes da autenticação (protege contra tentativa de adivinhar códigos)
         if (!(await dentroDoLimite(env, `ip:${ipDoCliente(request)}`))) {
-            return json({ erro: 'Muitas tentativas seguidas. Aguarde um minuto.' }, 429, cors);
+            return json({
+                tipo: 'limite_rede',
+                tentarEm: 60,
+                erro: 'Muitas perguntas foram enviadas desta rede no último minuto (o limite é 20 por minuto). Aguarde e tente de novo.',
+            }, 429, cors);
         }
         let usuario = await autenticar(request, env);
         if (!usuario) {
@@ -382,7 +386,11 @@ export default {
             return json({ ok: true, nome: usuario }, 200, cors);
         }
         if (usuario !== 'publico' && !(await dentroDoLimite(env, `usuario:${usuario}`))) {
-            return json({ erro: 'Muitas perguntas seguidas. Aguarde um minuto.' }, 429, cors);
+            return json({
+                tipo: 'limite_pessoa',
+                tentarEm: 60,
+                erro: 'Você enviou muitas perguntas no último minuto. Aguarde e tente de novo.',
+            }, 429, cors);
         }
         return perguntar(request, env, ctx, cors, usuario);
     },
