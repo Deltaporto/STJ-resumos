@@ -561,6 +561,12 @@
             botaoSair.hidden = false;
             botaoNova.hidden = false;
             if (!estado.historico.length && !areaMensagens.children.length) renderizarBoasVindas();
+            // Veio do balão de apresentação: deixa o exemplo pronto para enviar
+            if (exemploPendente && !campoPergunta.value) {
+                campoPergunta.value = exemploPendente;
+                ajustarAltura();
+            }
+            exemploPendente = '';
         };
 
         formEntrada.addEventListener('submit', async (e) => {
@@ -599,6 +605,7 @@
             painel.classList.add('is-open');
             appShell?.classList.add('assistant-open');
             botaoAbrir.setAttribute('aria-expanded', 'true');
+            marcarComoConhecido();
             atualizarEscopo();
             if (arquivoLocal) {
                 formEntrada.hidden = true;
@@ -658,6 +665,63 @@
         formPergunta.addEventListener('submit', (e) => {
             e.preventDefault();
             enviarPergunta();
+        });
+
+        // ---------- Primeira visita: selo "Novo" e balão de apresentação ----------
+        const CHAVE_ABERTO = 'stj_gmhb_assistente_ja_aberto';
+        const CHAVE_APRESENTADO = 'stj_gmhb_assistente_apresentado';
+        const EXEMPLO = 'O que o Min. Herman Benjamin disse sobre áreas de preservação permanente?';
+        const seloNovo = document.getElementById('assistantNewBadge');
+        const balao = document.getElementById('assistantIntro');
+        const botaoExperimentar = document.getElementById('assistantIntroTry');
+        const botaoAgoraNao = document.getElementById('assistantIntroDismiss');
+        let exemploPendente = '';
+
+        const posicionarBalao = () => {
+            if (balao.hidden) return;
+            const r = botaoAbrir.getBoundingClientRect();
+            if (!r.width) return;
+            const largura = balao.offsetWidth;
+            const esquerda = Math.min(Math.max(16, r.left), window.innerWidth - largura - 16);
+            balao.style.left = `${esquerda}px`;
+            balao.style.top = `${r.bottom + 12}px`;
+            balao.style.setProperty('--seta-x', `${Math.round(r.left + r.width / 2 - esquerda)}px`);
+        };
+
+        const fecharBalao = () => {
+            if (balao.hidden) return;
+            balao.hidden = true;
+            armazenamento.gravar(CHAVE_APRESENTADO, 'sim');
+        };
+
+        // Ao abrir o painel pela primeira vez, o selo e o balão deixam de aparecer
+        function marcarComoConhecido() {
+            seloNovo.hidden = true;
+            armazenamento.gravar(CHAVE_ABERTO, 'sim');
+            fecharBalao();
+        }
+
+        seloNovo.hidden = Boolean(armazenamento.ler(CHAVE_ABERTO));
+        if (!armazenamento.ler(CHAVE_APRESENTADO) && !armazenamento.ler(CHAVE_ABERTO)) {
+            setTimeout(() => {
+                if (painel.classList.contains('is-open')) return;
+                balao.hidden = false;
+                posicionarBalao();
+            }, 700);
+        }
+        window.addEventListener('resize', posicionarBalao);
+        document.getElementById('topbarActions')?.addEventListener('scroll', posicionarBalao, { passive: true });
+
+        botaoAgoraNao.addEventListener('click', () => {
+            fecharBalao();
+            botaoAbrir.focus();
+        });
+        botaoExperimentar.addEventListener('click', () => {
+            exemploPendente = EXEMPLO;
+            abrir();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && !balao.hidden) fecharBalao();
         });
 
         atualizarEscopo();
