@@ -2575,6 +2575,44 @@ code {
     color: var(--status-desprovido-fg);
 }
 
+/* Avisos de limite e erro: amarelo = é só aguardar; vermelho = depende de outra pessoa ou da rede */
+.assistant-alert {
+    margin: 4px 0 0;
+    padding: 10px 12px;
+    background: var(--bg-subtle);
+    border: 1px solid var(--border-subtle);
+    border-left: 3px solid var(--status-parcial-fg);
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+.assistant-alert--erro {
+    border-left-color: var(--status-desprovido-fg);
+}
+
+.assistant-alert-title {
+    margin: 0 0 2px;
+    font-size: var(--fs-sm);
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.assistant-alert-text {
+    margin: 0;
+    font-size: var(--fs-sm);
+    line-height: 1.5;
+    color: var(--text-secondary);
+}
+
+.assistant-alert-btn {
+    margin-top: 10px;
+}
+
+.assistant-alert-btn:disabled {
+    color: var(--text-muted);
+    cursor: default;
+    background: var(--bg-surface);
+}
+
 .assistant-warning {
     margin: 8px 0 0;
     font-size: var(--fs-sm);
