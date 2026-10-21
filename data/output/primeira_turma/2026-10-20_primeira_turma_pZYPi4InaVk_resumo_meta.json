@@ -11,11 +11,12 @@
     "Processos Julgados",
     "Estatísticas"
   ],
-  "process_count": 12,
-  "materia_count": 12,
-  "herman_process_manifestations": 5,
+  "process_count": 13,
+  "materia_count": 13,
+  "herman_process_manifestations": 2,
   "timestamp_coverage": {
-    "with_timestamp": 12,
+    "with_timestamp": 13,
     "without_timestamp": 0
-  }
+  },
+  "revisao_manual": "2026-10-21: corrigido contra a transcrição revisada (com interlocutores) e a pauta oficial"
 }

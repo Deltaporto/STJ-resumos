@@ -40,11 +40,11 @@
     },
     {
       "index": 3,
-      "materia_id": 4,
+      "materia_id": 5,
       "materia": {
-        "id": 4,
-        "code": "4. Servidor Público Civil e Militar",
-        "short": "Servidor Público Civil e Militar"
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
       },
       "relatores": [
         {
@@ -143,13 +143,13 @@
       },
       "relatores": [
         {
-          "name": "Min. Herman Benjamin",
+          "name": "Min. Gurgel de Faria",
           "role": "titular",
           "category_label": "Ministros Titulares",
-          "is_herman": true
+          "is_herman": false
         }
       ],
-      "has_herman": true,
+      "has_herman": false,
       "is_relevant": false
     },
     {
@@ -162,22 +162,22 @@
       },
       "relatores": [
         {
-          "name": "Min. Paulo Sérgio Domingues",
+          "name": "Min. Sérgio Kukina",
           "role": "titular",
           "category_label": "Ministros Titulares",
           "is_herman": false
         }
       ],
-      "has_herman": true,
+      "has_herman": false,
       "is_relevant": true
     },
     {
       "index": 10,
-      "materia_id": 5,
+      "materia_id": 8,
       "materia": {
-        "id": 5,
-        "code": "5. Atos Administrativos",
-        "short": "Atos Administrativos"
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
       },
       "relatores": [
         {
@@ -206,11 +206,30 @@
           "is_herman": false
         }
       ],
-      "has_herman": true,
+      "has_herman": false,
       "is_relevant": true
     },
     {
       "index": 12,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 13,
       "materia_id": 4,
       "materia": {
         "id": 4,
