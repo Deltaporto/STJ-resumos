@@ -1,6 +1,27 @@
 {
   "videos": [
     {
+      "video_id": "pZYPi4InaVk",
+      "title": "Primeira Turma - STJ -  20/10/2026",
+      "upload_date": "2026-10-20",
+      "url": "https://www.youtube.com/watch?v=pZYPi4InaVk",
+      "duration": 18720,
+      "orgao": "primeira_turma",
+      "processado_em": "2026-10-20T21:15:38.688306",
+      "arquivos": {
+        "pauta_json": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_pauta.json",
+        "pauta_md": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_pauta.md",
+        "pauta_pdf": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_pauta.pdf",
+        "transcricao_bruta": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_transcricao_revisada.md",
+        "transcricao_revisada_docx": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_transcricao_revisada.docx",
+        "resumo_bruto": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_resumo_bruto.md",
+        "resumo": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_resumo.md",
+        "resumo_meta": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_resumo_meta.json",
+        "classificacao_flash": "primeira_turma/2026-10-20_primeira_turma_pZYPi4InaVk_classificacao_flash.json"
+      }
+    },
+    {
       "video_id": "59Xi4wO9VVs",
       "title": "Primeira Seção - STJ - 14/10/2026",
       "upload_date": "2026-10-14",
@@ -41,6 +62,6 @@
       }
     }
   ],
-  "ultima_atualizacao": "2026-10-17T15:24:00.000000",
-  "total_videos": 2
+  "ultima_atualizacao": "2026-10-20T21:15:38.688321",
+  "total_videos": 3
 }

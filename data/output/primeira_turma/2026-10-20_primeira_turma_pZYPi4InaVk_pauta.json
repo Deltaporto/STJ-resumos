@@ -1,0 +1,1159 @@
+{
+  "seq_sessao": 2050236443,
+  "orgao_slug": "primeira_turma",
+  "cod_orgao_stj": "T1",
+  "nome_orgao": "Primeira Turma",
+  "data_iso": "2026-10-20",
+  "data_br": "20/10/2026",
+  "tipo_sessao": "Ordinária",
+  "hora_inicio": "",
+  "url_pauta_pdf": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/402552660/pdf",
+  "seq_doc_pauta": 402552660,
+  "tem_pdf_original": true,
+  "url_ata_pdf": "",
+  "documentos": [
+    {
+      "seq_documento": 402552660,
+      "cod_tipo": 40,
+      "tipo": "PAUTA DE JULGAMENTOS",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/402552660/pdf"
+    },
+    {
+      "seq_documento": null,
+      "cod_tipo": 0,
+      "tipo": "SUST. ORAL",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/2050236443/sustentacoes-orais"
+    }
+  ],
+  "total_itens": 30,
+  "total_sustentacoes": 18,
+  "itens": [
+    {
+      "item": 1,
+      "num_registro": "202501647484",
+      "registro_formatado": "2025/0164748-4",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2212566",
+      "numero_formatado": "2212566",
+      "uf": "AL",
+      "processo": "REsp 2.212.566/AL",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2212566 - AL (2025/0164748-4)",
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "ICMS / Incidência Sobre o Ativo Fixo",
+      "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "MUNICÍPIO DE MACEIÓ"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "MUNICIPIO DE COLONIA LEOPOLDINA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "ESTADO DE ALAGOAS"
+        }
+      ],
+      "advogados": [
+        "GUILHERME EMMANUEL LANZILLOTTI ALVARENGA -",
+        "CRISTIANA MARIA MAYA DE OMENA CALHEIROS - AL009459"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "CRISTIANA MARIA MAYA DE OMENA CALHEIROS",
+          "partes": "MUNICIPIO DE COLONIA LEOPOLDINA"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "num_registro": "201702011182",
+      "registro_formatado": "2017/0201118-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1695943",
+      "numero_formatado": "1695943",
+      "uf": "RS",
+      "processo": "REsp 1.695.943/RS",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 1695943 - RS (2017/0201118-2)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Adicional de Periculosidade",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "SINDICATO DOS SERVIDORES DO MINISTERIO DA FAZENDA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "SINDICATO DOS SERVIDORES DO MINISTERIO DA FAZENDA"
+        }
+      ],
+      "advogados": [
+        "GLENIO LUIS OHLWEILER FERREIRA - RS023021",
+        "GLENIO LUIS OHLWEILER FERREIRA - RS023021"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LUANA MARQUES DE ALBUQUERQUE",
+          "partes": "SINDICATO DOS SERVIDORES DO MINISTERIO DA FAZENDA NO RS"
+        },
+        {
+          "advogado": "THAIS FERREIRA DE ALMEIDA",
+          "partes": "UNIÃO"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "num_registro": "202303748987",
+      "registro_formatado": "2023/0374898-7",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2208021",
+      "numero_formatado": "2208021",
+      "uf": "SP",
+      "processo": "REsp 2.208.021/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2208021 - SP (2023/0374898-7)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Processo Administrativo Disciplinar ou Sindicância",
+      "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "ARY JOSE DE LIMA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA DO ESTADO DE SÃO PAULO"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "LUIS MARCIO OLINTO PESSOA"
+        }
+      ],
+      "advogados": [
+        "SAMUEL MEZZALIRA - SP257984",
+        "MARCOS VINICIUS WITCZAK - DF011923"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "SAMUEL MEZZALIRA",
+          "partes": "ARY JOSE DE LIMA"
+        },
+        {
+          "advogado": "LEANDRO DIAS PORTO BATISTA",
+          "partes": "LUIS MARCIO OLINTO PESSOA"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "num_registro": "202500895003",
+      "registro_formatado": "2025/0089500-3",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2203071",
+      "numero_formatado": "2203071",
+      "uf": "PI",
+      "processo": "AgInt no REsp 2.203.071/PI",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2203071 - PI (2025/0089500-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Ambiental",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "CALCARIO CAMPO ALEGRE LTDA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS"
+        }
+      ],
+      "advogados": [
+        "INALDO PIRES GALVÃO - PI001142"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "INALDO PIRES GALVÃO",
+          "partes": "LARBAC TEC SERVICOS DE MANUTENCAO DE MAQUINAS LTDA - ME"
+        },
+        {
+          "advogado": "MARCELO MENDES TAVARES",
+          "partes": "ADEMAR CABRAL"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "num_registro": "202402803475",
+      "registro_formatado": "2024/0280347-5",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2160450",
+      "numero_formatado": "2.160.450",
+      "uf": "",
+      "processo": "REsp 2.160.450",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Reserva de Vagas para Pessoas com Deficiência",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": [
+        {
+          "advogado": "THAIS CRISTINNE RODRIGUES DE FREITAS",
+          "partes": "SINDICATO DOS POLICIAIS RODOVIARIOS FEDERAIS NO EST MG"
+        },
+        {
+          "advogado": "FERNANDO FILGUEIRAS DE ARAUJO",
+          "partes": "UNIÃO"
+        },
+        {
+          "advogado": "ROBSON RODRIGUES BARBOSA",
+          "partes": "FEDERAÇÃO NACIONAL DOS POLICIAIS RODOVIÁRIOS FEDERAIS"
+        },
+        {
+          "advogado": "GABRIEL CARLOS MACHADO NETO",
+          "partes": "ANDERSON LUIZ GABURRO"
+        }
+      ]
+    },
+    {
+      "item": 6,
+      "num_registro": "202402889839",
+      "registro_formatado": "2024/0288983-9",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2178446",
+      "numero_formatado": "2178446",
+      "uf": "SP",
+      "processo": "REsp 2.178.446/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2178446 - SP (2024/0288983-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+      "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "C&A MODAS S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "ELIANA CALMON ALVES E OUTRO(S) - DF046625"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "ROQUE ANTÔNIO CARRAZZA",
+          "partes": "C&A MODAS S.A.; C&A MODAS LTDA"
+        }
+      ]
+    },
+    {
+      "item": 7,
+      "num_registro": "202403504772",
+      "registro_formatado": "2024/0350477-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2174279",
+      "numero_formatado": "2174279",
+      "uf": "RJ",
+      "processo": "REsp 2.174.279/RJ",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2174279 - RJ (2024/0350477-2)",
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+      "resultado_oficial": "CONHECEU PARCIALMENTE DO RECURSO, MAS LHE NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "NC ENERGIA S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "ELIANA CALMON ALVES E OUTRO(S) - DF046625"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "ROQUE ANTÔNIO CARRAZZA",
+          "partes": "NC ENERGIA S.A."
+        },
+        {
+          "advogado": "LEONARDO LEAO LAMB",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 8,
+      "num_registro": "202500641001",
+      "registro_formatado": "2025/0064100-1",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2200101",
+      "numero_formatado": "2200101",
+      "uf": "RS",
+      "processo": "AgInt no REsp 2.200.101/RS",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2200101 - RS (2025/0064100-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Herman Benjamin",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Área de Preservação Permanente",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "REJANE MARIA LIBRELOTTO DA ROSA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "MUNICIPIO DE XANGRI-LA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FUNDAÇÃO ESTADUAL DE PROTEÇÃO AMBIENTAL HENRIQUE"
+        },
+        {
+          "papel": "Embargante",
+          "nome": "ISAAC CAVALCANTE DE CARVALHO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA"
+        }
+      ],
+      "advogados": [
+        "FRANCIELI LIBRELOTTO DA ROSA - RS078435",
+        "BRUNO ALBERTON MACHADO - RS090709",
+        "LUIZ ANTÔNIO COSTA DE SANTANA - BA014496"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FRANCIELI LIBRELOTTO DA ROSA",
+          "partes": "JOÃO VITOR BRUGNERA"
+        }
+      ]
+    },
+    {
+      "item": 9,
+      "num_registro": "202400180574",
+      "registro_formatado": "2024/0018057-4",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2119696",
+      "numero_formatado": "2119696",
+      "uf": "RJ",
+      "processo": "AgInt no REsp 2.119.696/RJ",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2119696 - RJ (2024/0018057-4)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Multas e demais Sanções",
+      "resultado_oficial": "DEU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "BANCO SANTANDER (BRASIL) S.A."
+        },
+        {
+          "papel": "Agravado",
+          "nome": "AGENCIA NACIONAL DE TELECOMUNICACOES"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "OI S.A. - EM RECUPERACAO JUDICIAL - SUCESSORA DE"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL"
+        }
+      ],
+      "advogados": [
+        "MARIA ZULEIKA DE OLIVEIRA ROCHA - DF010407",
+        "ROGERIO MARINHO MAGALHÃES ALCÂNTARA FILHO -"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "HELENO TAVEIRA TORRES",
+          "partes": "LUCAS MODELLI AGUIAR RIBEIRO"
+        },
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "AGENCIA NACIONAL DE TELECOMUNICACOES"
+        }
+      ]
+    },
+    {
+      "item": 10,
+      "num_registro": "202501072515",
+      "registro_formatado": "2025/0107251-5",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt nos EDcl no REsp",
+      "num_proc_classe": "2205669",
+      "numero_formatado": "2205669",
+      "uf": "SP",
+      "processo": "AgInt nos EDcl no REsp 2.205.669/SP",
+      "cabecalho_pdf": "AgInt nos EDcl no RECURSO ESPECIAL Nº 2205669 - SP (2025/0107251-5)",
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Dano Ambiental",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "RIO PARANÁ ENERGIA S/A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS"
+        }
+      ],
+      "advogados": [
+        "LAURA FANUCCHI - SP374979",
+        "GILBERTO ANTONIO LUIZ - SP076663",
+        "PEDRO ACIOLI WERNER - RJ166030",
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA"
+        }
+      ]
+    },
+    {
+      "item": 11,
+      "num_registro": "202501072515",
+      "registro_formatado": "2025/0107251-5",
+      "sg_classe": "AgInt nos EDcl no REsp",
+      "classe_completa": "AgInt nos EDcl no REsp",
+      "num_proc_classe": "2205669",
+      "numero_formatado": "2205669",
+      "uf": "SP",
+      "processo": "AgInt nos EDcl no REsp 2.205.669/SP",
+      "cabecalho_pdf": "AgInt nos EDcl no RECURSO ESPECIAL Nº 2205669 - SP (2025/0107251-5)",
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Dano Ambiental",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "RIO PARANÁ ENERGIA S/A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS"
+        }
+      ],
+      "advogados": [
+        "LAURA FANUCCHI - SP374979",
+        "GILBERTO ANTONIO LUIZ - SP076663",
+        "PEDRO ACIOLI WERNER - RJ166030",
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FABIO VICTOR DA FONTE MONNERAT",
+          "partes": "INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA"
+        }
+      ]
+    },
+    {
+      "item": 12,
+      "num_registro": "202504634960",
+      "registro_formatado": "2025/0463496-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2247064",
+      "numero_formatado": "2.247.064",
+      "uf": "",
+      "processo": "REsp 2.247.064",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Prioritários",
+      "ind_categoria": "PR",
+      "assunto": "Dano ao Erário",
+      "resultado_oficial": "ACOLHEU REQUERIMENTO DE PRORROGAÇÃO DE PRAZO DE PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 13,
+      "num_registro": "202100887134",
+      "registro_formatado": "2021/0088713-4",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "1930853",
+      "numero_formatado": "1930853",
+      "uf": "RJ",
+      "processo": "AgInt no REsp 1.930.853/RJ",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 1930853 - RJ (2021/0088713-4)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Preferências de Julgamento",
+      "ind_categoria": "PJ",
+      "assunto": "Importações",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "SANES BRASIL AGROINDUSTRIAL LTDA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "MARCO ANTONIO INNOCENTI - SP130329"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 14,
+      "num_registro": "202502304159",
+      "registro_formatado": "2025/0230415-9",
+      "sg_classe": "AgInt nos EDcl no REsp",
+      "classe_completa": "AgInt nos EDcl no REsp",
+      "num_proc_classe": "2220032",
+      "numero_formatado": "2220032",
+      "uf": "MG",
+      "processo": "AgInt nos EDcl no REsp 2.220.032/MG",
+      "cabecalho_pdf": "AgInt nos EDcl no RECURSO ESPECIAL Nº 2220032 - MG (2025/0230415-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Preferências de Julgamento",
+      "ind_categoria": "PJ",
+      "assunto": "PIS",
+      "resultado_oficial": "DEU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "MARTINS COMÉRCIO E SERVIÇOS DE DISTRIBUIÇÃO S/A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "ÂNGELA BEATRIZ PAES DE BARROS DI FRANCO - SP088601"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 15,
+      "num_registro": "202503584394",
+      "registro_formatado": "2025/0358439-4",
+      "sg_classe": "AREsp",
+      "classe_completa": "AREsp",
+      "num_proc_classe": "3057538",
+      "numero_formatado": "3.057.538",
+      "uf": "",
+      "processo": "AREsp 3.057.538",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Descontos Indevidos",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 16,
+      "num_registro": "201703101353",
+      "registro_formatado": "2017/0310135-3",
+      "sg_classe": "AgInt no AgInt no AREsp",
+      "classe_completa": "AgInt no AgInt no AREsp",
+      "num_proc_classe": "1214884",
+      "numero_formatado": "1.214.884",
+      "uf": "",
+      "processo": "AgInt no AgInt no AREsp 1.214.884",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Improbidade Administrativa",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 17,
+      "num_registro": "201703101353",
+      "registro_formatado": "2017/0310135-3",
+      "sg_classe": "AREsp",
+      "classe_completa": "AREsp",
+      "num_proc_classe": "1214884",
+      "numero_formatado": "1.214.884",
+      "uf": "",
+      "processo": "AREsp 1.214.884",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Improbidade Administrativa",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 18,
+      "num_registro": "202101469516",
+      "registro_formatado": "2021/0146951-6",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "1967737",
+      "numero_formatado": "1967737",
+      "uf": "DF",
+      "processo": "AgInt no REsp 1.967.737/DF",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 1967737 - DF (2021/0146951-6)",
+      "tema_repetitivo": "",
+      "relator": "Min. Herman Benjamin",
+      "vistor": "",
+      "ministro_sessao": "Min. Herman Benjamin",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Dano ao Erário",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "PAIAGUAS IMPORTADORA E EXPORTADORA LTDA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+        }
+      ],
+      "advogados": [
+        "AMARO CÉSAR CASTILHO - MT004384B"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 19,
+      "num_registro": "202600742427",
+      "registro_formatado": "2026/0074242-7",
+      "sg_classe": "RMS",
+      "classe_completa": "RMS",
+      "num_proc_classe": "78564",
+      "numero_formatado": "78.564",
+      "uf": "",
+      "processo": "RMS 78.564",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Gratificações e Adicionais",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 20,
+      "num_registro": "202403470697",
+      "registro_formatado": "2024/0347069-7",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2182125",
+      "numero_formatado": "2182125",
+      "uf": "RJ",
+      "processo": "REsp 2.182.125/RJ",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2182125 - RJ (2024/0347069-7)",
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "SUPERCOMM S.A."
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "JANSSEN HIROSHI MURAYAMA - RJ119278"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 21,
+      "num_registro": "202201319542",
+      "registro_formatado": "2022/0131954-2",
+      "sg_classe": "AgInt nos EDcl no AREsp",
+      "classe_completa": "AgInt nos EDcl no AREsp",
+      "num_proc_classe": "2121182",
+      "numero_formatado": "2121182",
+      "uf": "SP",
+      "processo": "AgInt nos EDcl no AREsp 2.121.182/SP",
+      "cabecalho_pdf": "AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 2121182 - SP (2022/0131954-2)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Transporte Aquaviário",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "BRASIL TERMINAL PORTUARIO S.A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "DEICMAR ARMAZENAGEM E DISTRIBUICAO LTDA"
+        }
+      ],
+      "advogados": [
+        "JOSÉ URBANO CAVALINI JÚNIOR - SP189588",
+        "FERNANDO EDUARDO SEREC - SP086352"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 22,
+      "num_registro": "201702294127",
+      "registro_formatado": "2017/0229412-7",
+      "sg_classe": "RMS",
+      "classe_completa": "AgInt no RMS",
+      "num_proc_classe": "55248",
+      "numero_formatado": "55248",
+      "uf": "RS",
+      "processo": "AgInt no RMS 55.248/RS",
+      "cabecalho_pdf": "AgInt no RECURSO EM MANDADO DE SEGURANÇA Nº 55248 - RS (2017/0229412-7)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Demissão ou Exoneração",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "HILDEBRANDO DE ALMEIDA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DO RIO GRANDE DO SUL"
+        }
+      ],
+      "advogados": [
+        "GABRIEL PAULI FADEL - RS007889",
+        "FLÁVIA SUSANA DE CESARO E OUTRO(S) - RS054290"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 23,
+      "num_registro": "202101013503",
+      "registro_formatado": "2021/0101350-3",
+      "sg_classe": "AgInt nos EDcl no AREsp",
+      "classe_completa": "AgInt nos EDcl no AREsp",
+      "num_proc_classe": "1869559",
+      "numero_formatado": "1869559",
+      "uf": "SP",
+      "processo": "AgInt nos EDcl no AREsp 1.869.559/SP",
+      "cabecalho_pdf": "AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1869559 - SP (2021/0101350-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Federais",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "MARIMEX DESPACHOS, TRANSPORTES & SERVICOS LTDA"
+        }
+      ],
+      "advogados": [
+        "JOSÉ CARLOS DA ANUNCIAÇÃO - SP131142",
+        "BRUNO CORRÊA BURINI - SP183644"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 24,
+      "num_registro": "202504228198",
+      "registro_formatado": "2025/0422819-8",
+      "sg_classe": "AREsp",
+      "classe_completa": "AREsp",
+      "num_proc_classe": "3095458",
+      "numero_formatado": "3.095.458",
+      "uf": "",
+      "processo": "AREsp 3.095.458",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Pagamento Atrasado / Correção Monetária",
+      "resultado_oficial": "NEGOU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 25,
+      "num_registro": "202202732855",
+      "registro_formatado": "2022/0273285-5",
+      "sg_classe": "EDcl nos EDcl no AgInt no AREsp",
+      "classe_completa": "EDcl nos EDcl no AgInt no AREsp",
+      "num_proc_classe": "2200237",
+      "numero_formatado": "2.200.237",
+      "uf": "",
+      "processo": "EDcl nos EDcl no AgInt no AREsp 2.200.237",
+      "cabecalho_pdf": "",
+      "tema_repetitivo": "",
+      "relator": "Min. Herman Benjamin",
+      "vistor": "",
+      "ministro_sessao": "Min. Herman Benjamin",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Violação dos Princípios Administrativos",
+      "resultado_oficial": "ACOLHEU OS EMBARGOS DE DECLARAÇÃO COM EFEITOS MODIFICATIVOS",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 26,
+      "num_registro": "202500621942",
+      "registro_formatado": "2025/0062194-2",
+      "sg_classe": "AREsp",
+      "classe_completa": "AgInt no AREsp",
+      "num_proc_classe": "2869599",
+      "numero_formatado": "2869599",
+      "uf": "GO",
+      "processo": "AgInt no AREsp 2.869.599/GO",
+      "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2869599 - GO (2025/0062194-2)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Exclusão - ICMS",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DE GOIAS"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "SENDAS DISTRIBUIDORA S/A"
+        }
+      ],
+      "advogados": [
+        "ALEXANDRE FELIX GROSS - GO040240",
+        "RODOLFO TSUNETAKA TAMANAHA - DF031795"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 27,
+      "num_registro": "202301538998",
+      "registro_formatado": "2023/0153899-8",
+      "sg_classe": "AgInt nos EDcl no REsp",
+      "classe_completa": "AgInt nos EDcl no REsp",
+      "num_proc_classe": "2073681",
+      "numero_formatado": "2073681",
+      "uf": "SP",
+      "processo": "AgInt nos EDcl no REsp 2.073.681/SP",
+      "cabecalho_pdf": "AgInt nos EDcl no RECURSO ESPECIAL Nº 2073681 - SP (2023/0153899-8)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Desapropriação por Utilidade Pública / DL 3.365/1941",
+      "resultado_oficial": "NAO CONHECEU DO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "MAURA ZAGO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA"
+        }
+      ],
+      "advogados": [
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M",
+        "ALFREDO ZUCCA NETO - SP154694"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 28,
+      "num_registro": "202102423234",
+      "registro_formatado": "2021/0242323-4",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "1953104",
+      "numero_formatado": "1953104",
+      "uf": "DF",
+      "processo": "AgInt no REsp 1.953.104/DF",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 1953104 - DF (2021/0242323-4)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Reserva de Vagas para Pessoas com Deficiência",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "GUILHERME DE ROSE SANTOS"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "LAURA CAMPÊLO GANDOLFO"
+        }
+      ],
+      "advogados": [
+        "JOSE DE CASTRO MEIRA JUNIOR - DF021616"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 29,
+      "num_registro": "202202062031",
+      "registro_formatado": "2022/0206203-1",
+      "sg_classe": "AgInt no AgInt no AREsp",
+      "classe_completa": "AgInt no AgInt no AREsp",
+      "num_proc_classe": "2163223",
+      "numero_formatado": "2163223",
+      "uf": "RJ",
+      "processo": "AgInt no AgInt no AREsp 2.163.223/RJ",
+      "cabecalho_pdf": "AgInt no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2163223 - RJ (2022/0206203-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Dívida Ativa (Execução Fiscal)",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "S.A. (VIACAO AEREA RIO-GRANDENSE) - FALIDA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "RAFAELA FASSINI VILLAS-BOAS CHAGAS - RJ147444"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 30,
+      "num_registro": "202403147543",
+      "registro_formatado": "2024/0314754-3",
+      "sg_classe": "RMS",
+      "classe_completa": "RMS",
+      "num_proc_classe": "74397",
+      "numero_formatado": "74397",
+      "uf": "SC",
+      "processo": "RMS 74.397/SC",
+      "cabecalho_pdf": "RECURSO EM MANDADO DE SEGURANÇA Nº 74397 - SC (2024/0314754-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Funcionamento de Comércio de Derivados de Petróleo",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "POSTO ECONOMIC LTDA"
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "REDE ECONOMIC COMÉRCIO DE COMBUSTÍVEIS LTDA."
+        },
+        {
+          "papel": "Recorrente",
+          "nome": "REDE ECONOMIC COMERCIO DE COMBUSTIVEIS LTDA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "ESTADO DE SANTA CATARINA"
+        }
+      ],
+      "advogados": [
+        "TRAJANO BASTOS DE OLIVEIRA NETO FRIEDRICH - PR035463",
+        "FELIPE WILDI VARELA - SC020548"
+      ],
+      "sustentacoes_orais": []
+    }
+  ]
+}
