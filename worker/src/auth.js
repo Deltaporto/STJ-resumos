@@ -2,7 +2,7 @@
 // "nome:codigo,nome2:codigo2" (o nome aparece nos logs e permite revogar um código
 // sem afetar os demais). Um código sem nome é aceito e recebe o nome "equipe".
 
-const TAMANHO_MINIMO_CODIGO = 8;
+const TAMANHO_MINIMO_CODIGO = 6;
 
 export function lerCodigos(texto) {
     const codigos = [];

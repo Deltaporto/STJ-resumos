@@ -59,6 +59,9 @@ export function mensagemErro(status, corpoTexto) {
     try {
         detalhe = JSON.parse(corpoTexto)?.error?.message || '';
     } catch { /* corpo não é JSON */ }
+    if (status === 429 && /spend(ing)? cap|billing|prepay|credit/i.test(detalhe)) {
+        return 'O limite de gastos do projeto do Gemini foi atingido. Quem administra a chave precisa aumentá-lo no Google AI Studio (ai.studio/spend). Tentar de novo não resolve.';
+    }
     if (status === 429) return 'A cota da API do Gemini foi atingida. Tente novamente em alguns minutos.';
     if (status === 400 && /api key/i.test(detalhe)) return 'A chave da API do Gemini configurada no proxy é inválida.';
     if (status === 401 || status === 403) return 'A chave da API do Gemini não tem permissão para este modelo.';

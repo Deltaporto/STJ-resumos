@@ -11,8 +11,9 @@ SITE_BASE_URL = "https://deltaporto.github.io/STJ-resumos/"
 ORIGENS_PERMITIDAS = "https://deltaporto.github.io,http://localhost:8790,http://127.0.0.1:8790"
 GEMINI_MODELO = "gemini-3.8-flash"
 # Nível de raciocínio da resposta (low, medium, high). Vazio = padrão do modelo (medium).
-GEMINI_NIVEL_RACIOCINIO = ""
-# Até quantos caracteres de material vão na íntegra (~4 caracteres por token).
+# Testado em 21/10/2026: low deu respostas equivalentes com a 1ª palavra em ~3 s (medium: ~16 s).
+GEMINI_NIVEL_RACIOCINIO = "low"
+# Até quantos caracteres de material vão na íntegra (~3,6 caracteres por token).
 # Acima disso, o assistente lê o índice de todas as sessões e escolhe as mais relevantes.
 ORCAMENTO_CARACTERES = "600000"
 ORCAMENTO_INDICE = "300000"

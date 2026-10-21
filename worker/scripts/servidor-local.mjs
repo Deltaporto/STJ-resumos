@@ -25,12 +25,15 @@ function lerDevVars() {
     const caminho = join(raizWorker, '.dev.vars');
     if (!existsSync(caminho)) return {};
     const vars = {};
-    for (const linha of readFileSync(caminho, 'utf8').split(/\r?\n/)) {
-        const m = linha.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*)\s*$/);
-        if (m) vars[m[1]] = m[2].replace(/^["']|["']$/g, '');
+    for (const linha of readFileSync(caminho, 'utf8').replace(/^﻿/, '').split(/\r?\n/)) {
+        const m = linha.match(/^\s*([A-Z0-9_]+)\s*=(.*)$/);
+        if (m) vars[m[1]] = m[2].trim().replace(/^["']|["']$/g, '').trim();
     }
     return vars;
 }
+
+// Valores ainda iguais aos do .dev.vars.exemplo
+const PLACEHOLDERS = /cole-aqui-a-sua-chave|troque-este-codigo|outro-codigo-longo/;
 
 function lerVarsWrangler() {
     const toml = readFileSync(join(raizWorker, 'wrangler.toml'), 'utf8');
@@ -53,12 +56,12 @@ if (simular) {
     env.CODIGOS_ACESSO = env.CODIGOS_ACESSO || 'teste:codigo-local-123';
     instalarGeminiSimulado();
 }
-if (!env.GEMINI_API_KEY) {
-    console.error('Falta GEMINI_API_KEY em worker/.dev.vars (ou use --simular-gemini).');
+if (!env.GEMINI_API_KEY || PLACEHOLDERS.test(env.GEMINI_API_KEY)) {
+    console.error('Preencha GEMINI_API_KEY em worker/.dev.vars com a sua chave e salve o arquivo (ou use --simular-gemini).');
     process.exit(1);
 }
-if (!env.CODIGOS_ACESSO) {
-    console.error('Falta CODIGOS_ACESSO em worker/.dev.vars.');
+if (!env.CODIGOS_ACESSO || PLACEHOLDERS.test(env.CODIGOS_ACESSO)) {
+    console.error('Troque os códigos de exemplo de CODIGOS_ACESSO em worker/.dev.vars pelos códigos da equipe.');
     process.exit(1);
 }
 

@@ -20,8 +20,8 @@ Navegador (portal)  ──pergunta + código──▶  Proxy (Cloudflare)  ─�
 
 | Escopo no painel | O que o modelo lê |
 |---|---|
-| Esta sessão | Resumo, pauta e transcrição completa da sessão aberta (~70–80 mil tokens) |
-| 1ª Turma, 1ª Seção ou Todas | Se couber em `ORCAMENTO_CARACTERES` (padrão 600 mil caracteres ≈ 150 mil tokens), tudo na íntegra |
+| Esta sessão | Resumo, pauta e transcrição completa da sessão aberta (~72–85 mil tokens) |
+| 1ª Turma, 1ª Seção ou Todas | Se couber em `ORCAMENTO_CARACTERES` (padrão 600 mil caracteres ≈ 165 mil tokens), tudo na íntegra |
 | Escopo maior que o orçamento | Primeiro o modelo lê o índice de todas as sessões (processos, resultados, teses, pauta) e escolhe até 3 para ler na íntegra; a resposta usa o índice e essas sessões |
 
 O filtro de matéria limita as sessões consultadas às que têm processos daquela matéria.
@@ -93,7 +93,7 @@ aparece na barra superior. Enquanto `apiUrl` estiver vazio, o botão fica oculto
 
 ## Códigos de acesso da equipe
 
-`CODIGOS_ACESSO` aceita vários códigos no formato `nome:codigo`, separados por vírgula (mínimo de 8 caracteres
+`CODIGOS_ACESSO` aceita vários códigos no formato `nome:codigo`, separados por vírgula (mínimo de 6 caracteres
 cada). O nome aparece nos logs do Cloudflare e permite revogar o código de uma pessoa sem afetar as outras.
 Para trocar a lista:
 
@@ -105,9 +105,30 @@ Cada pessoa digita o código uma vez; ele fica salvo só no navegador dela ("Tro
 
 ## Custos, limites e privacidade
 
-- **Gemini:** cada pergunta sobre uma sessão envia ~70–80 mil tokens de entrada; perguntas sobre várias sessões,
-  até ~225 mil. Perguntas seguidas sobre o mesmo material aproveitam o cache implícito do Gemini, que é mais barato.
-  Configure um limite de gastos e alertas no Google AI Studio / Google Cloud.
+- **Gemini:** cada pergunta sobre uma sessão envia ~72–85 mil tokens de entrada; perguntas sobre várias sessões,
+  até ~250 mil. Perguntas seguidas sobre o mesmo material aproveitam o cache implícito do Gemini, que é mais barato
+  (no teste, 96% da entrada da segunda pergunta veio do cache). O cache não é garantido: às vezes a mesma pergunta
+  repetida minutos depois não o aproveita. Configure um limite de gastos e alertas no Google AI Studio; quando o
+  limite é atingido, o painel avisa que é preciso aumentá-lo em ai.studio/spend.
+
+Tempos medidos em 21/10/2026 (raciocínio `low`, teste local):
+
+| Situação | Primeira palavra | Resposta completa |
+|---|---|---|
+| Primeira pergunta sobre uma sessão | ~3 s | ~9 s |
+| Pergunta seguinte na mesma conversa (com cache) | ~2 s | ~7 s |
+| Todas as sessões (com escolha de sessões, ~180 mil tokens) | ~10 s | ~18 s |
+
+Com raciocínio `medium` (padrão do modelo), a primeira pergunta sobre uma sessão levou ~16 s até a primeira palavra,
+com conteúdo equivalente. Por isso o padrão aqui é `low`.
+
+Para repetir o teste com o Gemini de verdade (a chave e o código nunca são exibidos):
+
+```bash
+npm run teste:real
+npm run teste:real -- --todas --pergunta "Sua pergunta"
+npm run teste:real -- --raciocinio medium --seguimento "Pergunta seguinte"
+```
 - **Use uma chave com faturamento ativo.** No nível gratuito da API do Gemini, o Google pode usar o conteúdo das
   requisições para melhorar seus produtos; no nível pago, não. O material das sessões já é público, mas as
   perguntas da equipe não.
@@ -123,7 +144,7 @@ Cada pessoa digita o código uma vez; ele fica salvo só no navegador dela ("Tro
 | Variável | Padrão | Para quê |
 |---|---|---|
 | `GEMINI_MODELO` | `gemini-3.8-flash` | Modelo usado nas respostas |
-| `GEMINI_NIVEL_RACIOCINIO` | vazio (= `medium`) | `low` responde mais rápido e mais barato; `high`, com mais cuidado |
+| `GEMINI_NIVEL_RACIOCINIO` | `low` | `low` responde mais rápido e mais barato; `medium` ou `high` raciocinam mais antes de responder |
 | `ORCAMENTO_CARACTERES` | `600000` | Até quanto material vai na íntegra antes de o assistente escolher sessões |
 | `MAX_SESSOES_COMPLETAS` | `3` | Máximo de sessões lidas na íntegra quando o escopo é grande |
 | `ORIGENS_PERMITIDAS` | GitHub Pages + localhost | Sites autorizados a chamar o proxy |

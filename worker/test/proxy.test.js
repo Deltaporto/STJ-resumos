@@ -150,6 +150,10 @@ test('interpretarPedaco ignora o raciocínio interno do modelo', () => {
 
 test('mensagemErro traduz falhas comuns do Gemini', () => {
     assert.match(mensagemErro(429, ''), /cota/);
+    assert.match(
+        mensagemErro(429, '{"error":{"message":"Your project has exceeded its monthly spending cap. Please go to AI Studio"}}'),
+        /limite de gastos.*ai\.studio\/spend/,
+    );
     assert.match(mensagemErro(404, ''), /GEMINI_MODELO/);
     assert.match(mensagemErro(400, '{"error":{"message":"API key not valid"}}'), /chave/);
 });

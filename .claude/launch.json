@@ -26,6 +26,16 @@
         "8791"
       ],
       "port": 8791
+    },
+    {
+      "name": "assistente-real",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "worker/scripts/servidor-local.mjs",
+        "--porta",
+        "8792"
+      ],
+      "port": 8792
     }
   ]
 }

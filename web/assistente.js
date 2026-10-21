@@ -408,6 +408,15 @@
             campoPergunta.value = '';
             ajustarAltura();
             const msg = criarMensagemAssistente();
+
+            // Mostra há quanto tempo está esperando: a primeira resposta pode levar alguns segundos
+            let etapa = 'Enviando a pergunta…';
+            const inicioEspera = Date.now();
+            const atualizarStatus = () => {
+                const s = Math.round((Date.now() - inicioEspera) / 1000);
+                msg.statusTexto.textContent = s >= 2 ? `${etapa} ${s} s` : etapa;
+            };
+            const relogio = setInterval(atualizarStatus, 1000);
             rolarParaFim();
 
             const controle = new AbortController();
@@ -459,11 +468,15 @@
 
                 for await (const { evento, dados } of lerFluxoSSE(resposta)) {
                     if (evento === 'estado') {
-                        msg.statusTexto.textContent = dados.texto;
+                        etapa = dados.texto;
+                        atualizarStatus();
                     } else if (evento === 'fontes') {
                         fontes = dados;
                     } else if (evento === 'texto') {
-                        if (!texto) msg.status.hidden = true;
+                        if (!texto) {
+                            msg.status.hidden = true;
+                            clearInterval(relogio);
+                        }
                         texto += dados.t;
                         if (!agendado) {
                             agendado = true;
@@ -484,6 +497,7 @@
                         : 'Não foi possível falar com o assistente. Verifique a conexão e tente de novo.';
                 }
             } finally {
+                clearInterval(relogio);
                 estado.controle = null;
                 definirEnviando(false);
             }

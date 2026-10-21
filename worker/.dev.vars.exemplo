@@ -5,5 +5,5 @@
 # Chave da API do Gemini (Google AI Studio)
 GEMINI_API_KEY=cole-aqui-a-sua-chave
 
-# Códigos de acesso da equipe: nome:codigo separados por vírgula (mínimo 8 caracteres cada)
+# Códigos de acesso da equipe: nome:codigo separados por vírgula (mínimo 6 caracteres cada)
 CODIGOS_ACESSO=rafael:troque-este-codigo,equipe:outro-codigo-longo
