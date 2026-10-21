@@ -1,7 +1,7 @@
 import { test, beforeEach, afterEach } from 'node:test';
 import assert from 'node:assert/strict';
 
-import proxy, { validarPedido } from '../src/index.js';
+import proxy, { exigeCodigo, validarPedido } from '../src/index.js';
 import { autenticar, lerCodigos } from '../src/auth.js';
 import { cortarPorOrcamento, filtrarCandidatas, limparCache } from '../src/corpus.js';
 import { interpretarPedaco, lerEventosSSE, montarConteudo, mensagemErro } from '../src/gemini.js';
@@ -149,13 +149,17 @@ test('interpretarPedaco ignora o raciocínio interno do modelo', () => {
 });
 
 test('mensagemErro traduz falhas comuns do Gemini', () => {
-    assert.match(mensagemErro(429, ''), /cota/);
+    assert.match(mensagemErro(429, ''), /muitas perguntas/);
     assert.match(
         mensagemErro(429, '{"error":{"message":"Your project has exceeded its monthly spending cap. Please go to AI Studio"}}'),
-        /limite de gastos.*ai\.studio\/spend/,
+        /limite mensal de uso/,
     );
-    assert.match(mensagemErro(404, ''), /GEMINI_MODELO/);
-    assert.match(mensagemErro(400, '{"error":{"message":"API key not valid"}}'), /chave/);
+    assert.match(mensagemErro(404, ''), /problema de configuração/);
+    assert.match(mensagemErro(400, '{"error":{"message":"API key not valid"}}'), /problema de configuração/);
+    // Nada de jargão técnico na mensagem ao usuário
+    for (const status of [400, 401, 403, 404, 429, 500]) {
+        assert.doesNotMatch(mensagemErro(status, ''), /Gemini|API|proxy|GEMINI_/);
+    }
 });
 
 test('sem código de acesso devolve 401', async () => {
@@ -240,7 +244,7 @@ test('falha do Gemini chega ao portal como evento de erro legível', async () =>
     const resp = await proxy.fetch(pedido({ pergunta: 'x', escopo: { tipo: 'sessao', sessaoId: '2026-10-20_primeira_turma' } }), envBase(), { waitUntil() {} });
     const lista = await eventos(resp);
     assert.equal(lista.at(-1).evento, 'erro');
-    assert.match(lista.at(-1).dados.mensagem, /cota/);
+    assert.match(lista.at(-1).dados.mensagem, /muitas perguntas/);
 });
 
 test('matéria sem sessões no escopo responde sem chamar o Gemini', async () => {
@@ -248,4 +252,39 @@ test('matéria sem sessões no escopo responde sem chamar o Gemini', async () =>
     const lista = await eventos(resp);
     assert.equal(lista.find((e) => e.evento === 'fontes').dados.modo, 'vazio');
     assert.ok(!chamadas.some((c) => c.url.includes('googleapis') || c.url.includes(':stream')));
+});
+
+test('interruptor EXIGIR_CODIGO: padrão exige; "nao" libera', () => {
+    assert.equal(exigeCodigo({}), true);
+    assert.equal(exigeCodigo({ EXIGIR_CODIGO: 'sim' }), true);
+    assert.equal(exigeCodigo({ EXIGIR_CODIGO: 'nao' }), false);
+    assert.equal(exigeCodigo({ EXIGIR_CODIGO: ' NAO ' }), false);
+});
+
+test('com o código desligado, pergunta sem código é respondida', async () => {
+    const env = envBase({ EXIGIR_CODIGO: 'nao' });
+    const resp = await proxy.fetch(pedido({ pergunta: 'x', escopo: { tipo: 'sessao', sessaoId: '2026-10-20_primeira_turma' } }, { codigo: null }), env, { waitUntil() {} });
+    assert.equal(resp.status, 200);
+    const lista = await eventos(resp);
+    assert.equal(lista.at(-1).evento, 'fim');
+
+    const verificar = await proxy.fetch(new Request('https://proxy.exemplo/api/verificar', { method: 'POST', headers: { origin: ORIGEM } }), env);
+    assert.deepEqual(await verificar.json(), { ok: true, nome: 'publico' });
+});
+
+test('com o código desligado, o limite por endereço continua valendo', async () => {
+    const chaves = [];
+    const env = envBase({ EXIGIR_CODIGO: 'nao', LIMITADOR: { limit: async ({ key }) => { chaves.push(key); return { success: false }; } } });
+    const resp = await proxy.fetch(pedido({ pergunta: 'x', escopo: { tipo: 'todas' } }, { codigo: null }), env);
+    assert.equal(resp.status, 429);
+    assert.match(chaves[0], /^ip:/);
+});
+
+test('erro de material do portal não mostra endereço técnico ao usuário', async () => {
+    globalThis.fetch = async () => new Response('não encontrado', { status: 404 });
+    const resp = await proxy.fetch(pedido({ pergunta: 'x', escopo: { tipo: 'todas' } }), envBase(), { waitUntil() {} });
+    const lista = await eventos(resp);
+    assert.equal(lista.at(-1).evento, 'erro');
+    assert.match(lista.at(-1).dados.mensagem, /problema de configuração/);
+    assert.doesNotMatch(lista.at(-1).dados.mensagem, /https?:/);
 });

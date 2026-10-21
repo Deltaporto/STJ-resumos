@@ -93,6 +93,20 @@ aparece na barra superior. Enquanto `apiUrl` estiver vazio, o botão fica oculto
 
 ## Códigos de acesso da equipe
 
+**Situação atual (21/10/2026): código desligado.** Em `wrangler.toml`, `EXIGIR_CODIGO = "nao"` libera o assistente
+para qualquer visitante do portal, apenas com o limite de 20 requisições por minuto por endereço IP. O código
+(`IAGMHB`) continua guardado no Cloudflare.
+
+Para religar, se notar gasto excessivo:
+
+1. Em `wrangler.toml`, troque para `EXIGIR_CODIGO = "sim"`.
+2. Rode `npx wrangler deploy` na pasta `worker`.
+
+Não é preciso republicar o portal: o painel pede o código sozinho quando o proxy passa a exigi-lo.
+
+Com o código desligado, o que limita o gasto é o teto configurado em https://ai.studio/spend. Mantenha esse
+teto ajustado ao orçamento.
+
 `CODIGOS_ACESSO` aceita vários códigos no formato `nome:codigo`, separados por vírgula (mínimo de 6 caracteres
 cada). O nome aparece nos logs do Cloudflare e permite revogar o código de uma pessoa sem afetar as outras.
 Para trocar a lista:
@@ -148,6 +162,7 @@ npm run teste:real -- --raciocinio medium --seguimento "Pergunta seguinte"
 | `ORCAMENTO_CARACTERES` | `600000` | Até quanto material vai na íntegra antes de o assistente escolher sessões |
 | `MAX_SESSOES_COMPLETAS` | `3` | Máximo de sessões lidas na íntegra quando o escopo é grande |
 | `ORIGENS_PERMITIDAS` | GitHub Pages + localhost | Sites autorizados a chamar o proxy |
+| `EXIGIR_CODIGO` | `nao` | `sim` exige o código de acesso; `nao` libera para qualquer visitante |
 
 Depois de mudar, rode `npx wrangler deploy` de novo.
 

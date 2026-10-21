@@ -9,6 +9,9 @@ compatibility_date = "2026-09-01"
 SITE_BASE_URL = "https://deltaporto.github.io/STJ-resumos/"
 # Sites autorizados a usar o proxy (separados por vírgula)
 ORIGENS_PERMITIDAS = "https://deltaporto.github.io,http://localhost:8790,http://127.0.0.1:8790"
+# Código de acesso: "sim" exige o código (segredo CODIGOS_ACESSO); "nao" libera para qualquer visitante,
+# apenas com o limite de requisições por endereço IP. O código continua guardado para quando for religado.
+EXIGIR_CODIGO = "nao"
 GEMINI_MODELO = "gemini-3.8-flash"
 # Nível de raciocínio da resposta (low, medium, high). Vazio = padrão do modelo (medium).
 # Testado em 21/10/2026: low deu respostas equivalentes com a 1ª palavra em ~3 s (medium: ~16 s).

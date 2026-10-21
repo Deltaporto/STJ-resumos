@@ -54,24 +54,30 @@ function urlModelo(env, modelo, metodo) {
     return `${base}/v1beta/models/${encodeURIComponent(modelo)}:${metodo}${sufixo}`;
 }
 
+// Mensagens para quem usa o portal: simples, sem termos técnicos.
+// O detalhe técnico vai para o log do Cloudflare (ver enviar()).
+export const MENSAGEM_CONFIGURACAO = 'O assistente está com um problema de configuração. Avise o administrador.';
+
 export function mensagemErro(status, corpoTexto) {
     let detalhe = '';
     try {
         detalhe = JSON.parse(corpoTexto)?.error?.message || '';
     } catch { /* corpo não é JSON */ }
     if (status === 429 && /spend(ing)? cap|billing|prepay|credit/i.test(detalhe)) {
-        return 'O limite de gastos do projeto do Gemini foi atingido. Quem administra a chave precisa aumentá-lo no Google AI Studio (ai.studio/spend). Tentar de novo não resolve.';
+        return 'O assistente atingiu o limite mensal de uso. Avise o administrador.';
     }
-    if (status === 429) return 'A cota da API do Gemini foi atingida. Tente novamente em alguns minutos.';
-    if (status === 400 && /api key/i.test(detalhe)) return 'A chave da API do Gemini configurada no proxy é inválida.';
-    if (status === 401 || status === 403) return 'A chave da API do Gemini não tem permissão para este modelo.';
-    if (status === 404) return 'Modelo do Gemini não encontrado. Confira GEMINI_MODELO no proxy.';
-    if (status >= 500) return 'O serviço do Gemini está instável no momento. Tente novamente.';
-    return `O Gemini recusou a requisição (${status}).`;
+    if (status === 429) return 'O assistente está com muitas perguntas no momento. Tente de novo em alguns minutos.';
+    if (status === 400 && /api key/i.test(detalhe)) return MENSAGEM_CONFIGURACAO;
+    if (status === 401 || status === 403 || status === 404) return MENSAGEM_CONFIGURACAO;
+    if (status >= 500) return 'O serviço de IA está instável no momento. Tente de novo.';
+    return `A IA não conseguiu responder (erro ${status}). Tente de novo.`;
 }
 
 async function enviar(env, modelo, metodo, corpo, signal) {
-    if (!env.GEMINI_API_KEY) throw new ErroGemini('GEMINI_API_KEY não configurada no proxy.', 500);
+    if (!env.GEMINI_API_KEY) {
+        console.error(JSON.stringify({ evento: 'erro_configuracao', detalhe: 'GEMINI_API_KEY ausente' }));
+        throw new ErroGemini(MENSAGEM_CONFIGURACAO, 500);
+    }
     const resposta = await fetch(urlModelo(env, modelo, metodo), {
         method: 'POST',
         headers: {

@@ -112,7 +112,7 @@
 
                 <div class="topbar-actions" id="topbarActions">
                     <!-- Assistente de IA (aparece só quando assistente-config.js aponta para o proxy) -->
-                    <button type="button" id="assistantOpenBtn" class="btn-action btn-action--assistant" aria-controls="assistantPanel" aria-expanded="false" title="Fazer perguntas sobre as sessões a uma inteligência artificial" hidden>
+                    <button type="button" id="assistantOpenBtn" class="btn-action btn-action--assistant" aria-controls="assistantPanel" aria-expanded="false" title="Fazer perguntas sobre as sessões" hidden>
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                             <path d="M9.94 15.5A2 2 0 0 0 8.5 14.06l-6.14-1.58a.5.5 0 0 1 0-.96L8.5 9.94A2 2 0 0 0 9.94 8.5l1.58-6.14a.5.5 0 0 1 .96 0l1.58 6.14a2 2 0 0 0 1.44 1.44l6.14 1.58a.5.5 0 0 1 0 .96l-6.14 1.58a2 2 0 0 0-1.44 1.44l-1.58 6.14a.5.5 0 0 1-.96 0z"></path>
                             <path d="M20 3v4"></path>
@@ -323,8 +323,8 @@
     <aside id="assistantPanel" class="assistant-panel" aria-labelledby="assistantTitle" hidden>
         <header class="assistant-header">
             <div class="drawer-title-group">
-                <span class="drawer-kicker">Assistente com IA · Gemini</span>
-                <h2 id="assistantTitle" class="drawer-title">Pergunte às sessões</h2>
+                <span class="drawer-kicker">Assistente de IA</span>
+                <h2 id="assistantTitle" class="drawer-title">Pergunte sobre as sessões</h2>
             </div>
             <div class="drawer-actions">
                 <button type="button" id="assistantNewBtn" class="btn-subtle" title="Apagar a conversa e começar outra">Nova conversa</button>
@@ -355,8 +355,8 @@
 
         <form id="assistantLogin" class="assistant-login" hidden>
             <h3 class="assistant-login-title">Acesso da equipe</h3>
-            <p class="assistant-login-text">O assistente é restrito à equipe do gabinete. Digite o código de acesso que você recebeu.</p>
-            <label class="assistant-login-label" for="assistantCodeInput">Código de acesso</label>
+            <p class="assistant-login-text">Digite o código que você recebeu.</p>
+            <label class="assistant-login-label" for="assistantCodeInput">Código</label>
             <input type="password" id="assistantCodeInput" class="assistant-login-input" autocomplete="off" spellcheck="false" required>
             <p id="assistantLoginError" class="assistant-login-error" role="alert" hidden></p>
             <button type="submit" id="assistantLoginBtn" class="btn-action btn-action--primary">Entrar</button>
@@ -375,15 +375,15 @@
         </form>
 
         <footer class="assistant-footer">
-            <span>Respostas geradas por IA a partir de transcrições automáticas. Confira no vídeo antes de citar.</span>
+            <span>As respostas podem conter erros. Confira no vídeo antes de citar.</span>
             <button type="button" id="assistantLogoutBtn" class="btn-subtle" hidden>Trocar código</button>
         </footer>
     </aside>
 
     <!-- Balão de apresentação do assistente (só na primeira visita) -->
     <div id="assistantIntro" class="assistant-intro" role="dialog" aria-labelledby="assistantIntroTitle" hidden>
-        <p id="assistantIntroTitle" class="assistant-intro-title">Novo: pergunte às sessões</p>
-        <p class="assistant-intro-text">Escreva uma pergunta sobre os julgamentos. A IA responde com base nas transcrições e indica o minuto exato do vídeo.</p>
+        <p id="assistantIntroTitle" class="assistant-intro-title">Pergunte sobre as sessões</p>
+        <p class="assistant-intro-text">A IA responde com base nas transcrições e indica o minuto do vídeo.</p>
         <p class="assistant-intro-example">Exemplo: “O que o Min. Herman Benjamin disse sobre áreas de preservação permanente?”</p>
         <div class="assistant-intro-actions">
             <button type="button" id="assistantIntroTry" class="btn-action btn-action--primary">Experimentar</button>

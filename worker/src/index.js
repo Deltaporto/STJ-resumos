@@ -17,7 +17,7 @@ import {
     montarMaterial,
     textoIndice,
 } from './corpus.js';
-import { ErroGemini, gerarJson, gerarStream, montarConteudo, montarCorpo } from './gemini.js';
+import { ErroGemini, MENSAGEM_CONFIGURACAO, gerarJson, gerarStream, montarConteudo, montarCorpo } from './gemini.js';
 import { ESQUEMA_ROTEADOR, instrucaoResposta, instrucaoRoteador } from './prompts.js';
 
 const MATERIAS = {
@@ -78,6 +78,12 @@ function json(dados, status, cors) {
     });
 }
 
+// Interruptor do código de acesso. Padrão: exigir. "nao" libera o assistente sem código,
+// mantendo CODIGOS_ACESSO guardado para quando for religado.
+export function exigeCodigo(env) {
+    return String(env.EXIGIR_CODIGO ?? 'sim').trim().toLowerCase() !== 'nao';
+}
+
 function ipDoCliente(request) {
     return request.headers.get('cf-connecting-ip') || 'desconhecido';
 }
@@ -117,7 +123,7 @@ export function validarPedido(corpo) {
 
     const historicoBruto = Array.isArray(corpo.historico) ? corpo.historico : [];
     if (historicoBruto.length > LIMITES.mensagensHistorico) {
-        return { erro: 'Conversa longa demais. Comece uma nova conversa.' };
+        return { erro: 'A conversa ficou longa demais. Clique em “Nova conversa”.' };
     }
     const historico = [];
     let total = 0;
@@ -130,7 +136,7 @@ export function validarPedido(corpo) {
         if (texto.trim()) historico.push({ papel: m.papel, texto });
     }
     if (total > LIMITES.caracteresHistorico) {
-        return { erro: 'Conversa longa demais. Comece uma nova conversa.' };
+        return { erro: 'A conversa ficou longa demais. Clique em “Nova conversa”.' };
     }
 
     return { pedido: { pergunta, escopo, materiaId, historico } };
@@ -221,7 +227,7 @@ async function responderEmFluxo(env, pedido, usuario, escrever, signal) {
     const plano = await planejarContexto(env, pedido, emitir, signal);
     if (plano.vazio) {
         await emitir('fontes', { modo: 'vazio', integrais: [], indice: [] });
-        await emitir('texto', { t: 'Não há sessões publicadas para o escopo e a matéria escolhidos. Tente ampliar o escopo no seletor acima.' });
+        await emitir('texto', { t: 'Não há sessões com essa matéria na opção escolhida. Escolha “Todas” ou outra matéria.' });
         await emitir('fim', {});
         return;
     }
@@ -245,7 +251,7 @@ async function responderEmFluxo(env, pedido, usuario, escrever, signal) {
     let algumTexto = false;
     for await (const pedaco of gerarStream(env, corpo, signal)) {
         if (pedaco.bloqueio) {
-            await emitir('erro', { mensagem: 'O Gemini bloqueou esta pergunta pelos filtros de segurança. Reformule a pergunta.' });
+            await emitir('erro', { mensagem: 'A IA não respondeu por causa de filtros de segurança. Tente reformular a pergunta.' });
             return;
         }
         if (pedaco.texto) {
@@ -258,8 +264,8 @@ async function responderEmFluxo(env, pedido, usuario, escrever, signal) {
 
     let aviso = null;
     if (motivoFim === 'MAX_TOKENS') aviso = 'A resposta foi interrompida por atingir o tamanho máximo. Peça a continuação ou uma versão mais curta.';
-    else if (motivoFim && motivoFim !== 'STOP') aviso = `A resposta foi interrompida pelo Gemini (${motivoFim}).`;
-    else if (!algumTexto) aviso = 'O Gemini não devolveu texto para esta pergunta. Tente reformular.';
+    else if (motivoFim && motivoFim !== 'STOP') aviso = 'A resposta foi interrompida. Tente de novo.';
+    else if (!algumTexto) aviso = 'A IA não respondeu a esta pergunta. Tente reformular.';
 
     await emitir('fim', {
         aviso,
@@ -319,9 +325,9 @@ async function perguntar(request, env, ctx, cors, usuario) {
             await responderEmFluxo(env, pedido, usuario, escrever, controle.signal);
         } catch (falha) {
             if (controle.signal.aborted) return;
-            const mensagem = falha instanceof ErroGemini || falha instanceof ErroCorpus
-                ? falha.message
-                : 'Erro inesperado no assistente. Tente novamente.';
+            let mensagem = 'Erro inesperado no assistente. Tente de novo.';
+            if (falha instanceof ErroGemini) mensagem = falha.message;
+            else if (falha instanceof ErroCorpus) mensagem = MENSAGEM_CONFIGURACAO;
             console.error(JSON.stringify({ evento: 'erro', usuario, mensagem: String(falha?.message || falha) }));
             await escrever(`event: erro\ndata: ${JSON.stringify({ mensagem })}\n\n`);
         } finally {
@@ -364,17 +370,19 @@ export default {
 
         // Limite por endereço antes da autenticação (protege contra tentativa de adivinhar códigos)
         if (!(await dentroDoLimite(env, `ip:${ipDoCliente(request)}`))) {
-            return json({ erro: 'Muitas requisições. Aguarde um minuto.' }, 429, cors);
+            return json({ erro: 'Muitas tentativas seguidas. Aguarde um minuto.' }, 429, cors);
         }
-        const usuario = await autenticar(request, env);
+        let usuario = await autenticar(request, env);
         if (!usuario) {
-            return json({ erro: 'Código de acesso inválido.' }, 401, cors);
+            if (exigeCodigo(env)) return json({ erro: 'Código inválido.' }, 401, cors);
+            // Código desligado (EXIGIR_CODIGO = "nao"): acesso aberto, só com o limite por endereço
+            usuario = 'publico';
         }
         if (rota === '/api/verificar') {
             return json({ ok: true, nome: usuario }, 200, cors);
         }
-        if (!(await dentroDoLimite(env, `usuario:${usuario}`))) {
-            return json({ erro: 'Muitas perguntas em pouco tempo. Aguarde um minuto.' }, 429, cors);
+        if (usuario !== 'publico' && !(await dentroDoLimite(env, `usuario:${usuario}`))) {
+            return json({ erro: 'Muitas perguntas seguidas. Aguarde um minuto.' }, 429, cors);
         }
         return perguntar(request, env, ctx, cors, usuario);
     },

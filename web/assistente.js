@@ -259,7 +259,7 @@
             } else if (!lista.length) {
                 aviso = materia
                     ? `Nenhuma sessão${estado.escopo === 'todas' ? '' : ` da ${nomeOrgao(estado.escopo)}`} com processos de ${materia.short}.`
-                    : 'Nenhuma sessão disponível neste escopo.';
+                    : 'Não há sessões para esta opção.';
             } else {
                 const datas = lista.map((s) => s.date).sort((a, b) => a.split('/').reverse().join('').localeCompare(b.split('/').reverse().join('')));
                 const [primeira, ultima] = [datas[0], datas.at(-1)];
@@ -325,14 +325,13 @@
                     <div class="assistant-welcome">
                         <p class="assistant-welcome-text"><strong>O assistente não funciona com o portal aberto como arquivo</strong> (endereço começando com <code>file:///</code>). Por segurança, o servidor do assistente só atende o site publicado.</p>
                         ${siteUrl ? `<p class="assistant-welcome-text"><a href="${escapar(siteUrl)}" target="_blank" rel="noopener noreferrer">Abrir o portal publicado</a> e usar o assistente por lá.</p>` : ''}
-                        <p class="assistant-welcome-text">Para testar no seu computador, rode <code>npm run local</code> na pasta <code>worker</code> e abra http://localhost:8791.</p>
                     </div>`;
                 return;
             }
             const sugestoes = estado.escopo === 'sessao' ? SUGESTOES.sessao : SUGESTOES.varias;
             areaMensagens.innerHTML = `
                 <div class="assistant-welcome">
-                    <p class="assistant-welcome-text">Faça perguntas em linguagem natural. As respostas citam os processos e trazem links para o minuto exato do vídeo.</p>
+                    <p class="assistant-welcome-text">As respostas citam os processos e trazem links para o minuto do vídeo.</p>
                     <div class="assistant-suggestions">
                         ${sugestoes.map((s) => `<button type="button" class="assistant-suggestion">${escapar(s)}</button>`).join('')}
                     </div>
@@ -375,13 +374,13 @@
             const chip = (f) => `<button type="button" class="assistant-source" data-sessao="${escapar(f.id)}" title="Abrir esta sessão no portal">${escapar(f.titulo)}</button>`;
             let html = '';
             if (fontes.integrais.length) {
-                html += `<div class="assistant-sources"><span class="assistant-sources-label">Lido na íntegra:</span>${fontes.integrais.map(chip).join('')}</div>`;
+                html += `<div class="assistant-sources"><span class="assistant-sources-label">${fontes.integrais.length === 1 ? 'Lida' : 'Lidas'} por inteiro:</span>${fontes.integrais.map(chip).join('')}</div>`;
             }
             if (fontes.modo === 'selecao') {
                 const resto = fontes.indice.length - fontes.integrais.length;
                 if (resto > 0) {
                     const quantas = `${fontes.integrais.length ? 'mais ' : ''}${resto} ${resto === 1 ? 'sessão' : 'sessões'}`;
-                    html += `<div class="assistant-sources"><span class="assistant-sources-label">Consultado pelo índice:</span><span class="assistant-sources-more">${quantas} (resumos, pauta e teses)</span></div>`;
+                    html += `<div class="assistant-sources"><span class="assistant-sources-label">${resto === 1 ? 'Consultada' : 'Consultadas'} só pelo resumo:</span><span class="assistant-sources-more">${quantas}</span></div>`;
                 }
             }
             return html;
@@ -456,7 +455,10 @@
             try {
                 const resposta = await fetch(`${apiUrl}/api/perguntar`, {
                     method: 'POST',
-                    headers: { 'content-type': 'application/json', authorization: `Bearer ${estado.codigo}` },
+                    headers: {
+                        'content-type': 'application/json',
+                        ...(estado.codigo ? { authorization: `Bearer ${estado.codigo}` } : {}),
+                    },
                     body: JSON.stringify({
                         pergunta,
                         escopo: escopoParaApi(),
@@ -469,13 +471,14 @@
                 if (!resposta.ok) {
                     const corpo = await resposta.json().catch(() => ({}));
                     if (resposta.status === 401) {
-                        sair('Seu código de acesso não é mais válido. Digite o código atual.');
+                        // O proxy passou a exigir código (ou o código salvo mudou)
+                        sair(estado.codigo ? 'Seu código não é mais válido. Digite o código atual.' : '');
                         msg.raiz.remove();
                         areaMensagens.lastElementChild?.remove();
                         campoPergunta.value = pergunta;
                         return;
                     }
-                    throw new Error(corpo.erro || `O assistente não respondeu (erro ${resposta.status}).`);
+                    throw new Error(corpo.erro || `O assistente não respondeu (erro ${resposta.status}). Tente de novo.`);
                 }
 
                 for await (const { evento, dados } of lerFluxoSSE(resposta)) {
@@ -558,7 +561,7 @@
             formEntrada.hidden = true;
             areaMensagens.hidden = false;
             formPergunta.hidden = false;
-            botaoSair.hidden = false;
+            botaoSair.hidden = !estado.codigo;
             botaoNova.hidden = false;
             if (!estado.historico.length && !areaMensagens.children.length) renderizarBoasVindas();
             // Veio do balão de apresentação: deixa o exemplo pronto para enviar
@@ -614,11 +617,10 @@
                 botaoSair.hidden = true;
                 areaMensagens.hidden = false;
                 renderizarBoasVindas();
-            } else if (estado.codigo) {
+            } else {
+                // Sem código salvo, vai direto à conversa; a tela de código só aparece se o proxy pedir
                 mostrarConversa();
                 campoPergunta.focus();
-            } else {
-                mostrarEntrada();
             }
         };
 
