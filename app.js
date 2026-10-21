@@ -1394,7 +1394,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 blocksHtml.push(`
                     <article class="transcript-dialogue-card ${isHerman ? 'transcript-dialogue-card--herman' : ''}">
                         <div class="dialogue-card-header">
-                            <span class="dialogue-speaker-badge">${highlightMatches(speaker || 'Manifestação', filterQuery)}</span>
+                            ${speaker ? `<span class="dialogue-speaker-badge">${highlightMatches(speaker, filterQuery)}</span>` : ''}
                             ${tsPill}
                         </div>
                         <p class="dialogue-card-text">${formattedBody}</p>
