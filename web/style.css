@@ -2675,18 +2675,51 @@ code {
     display: none;
 }
 
-.assistant-spinner {
-    width: 12px;
-    height: 12px;
-    border: 2px solid var(--border-strong);
-    border-top-color: var(--brand-navy);
+/* Indicador de espera no estilo dos assistentes de IA: ponto pulsando e brilho percorrendo o texto */
+.assistant-dot {
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
-    animation: assistant-spin 0.8s linear infinite;
+    background: var(--text-primary);
+    flex-shrink: 0;
+    animation: assistant-pulse 1.2s ease-in-out infinite;
 }
 
-@keyframes assistant-spin {
+@keyframes assistant-pulse {
+    0%, 100% {
+        transform: scale(0.75);
+        opacity: 0.55;
+    }
+    50% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.assistant-status-text {
+    font-size: var(--fs-sm);
+    background: linear-gradient(90deg, var(--text-muted) 0%, var(--text-muted) 40%, var(--text-primary) 50%, var(--text-muted) 60%, var(--text-muted) 100%);
+    background-size: 250% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: assistant-shimmer 2s linear infinite;
+}
+
+@keyframes assistant-shimmer {
+    from {
+        background-position: 100% 0;
+    }
     to {
-        transform: rotate(360deg);
+        background-position: 0 0;
+    }
+}
+
+/* Sem animação, o texto fica legível em cor sólida */
+@media (prefers-reduced-motion: reduce) {
+    .assistant-status-text {
+        color: var(--text-muted);
+        background: none;
     }
 }
 

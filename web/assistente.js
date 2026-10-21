@@ -5,6 +5,9 @@
 (() => {
     const config = window.ASSISTENTE_CONFIG || {};
     const apiUrl = String(config.apiUrl || '').replace(/\/+$/, '');
+    const siteUrl = String(config.siteUrl || '');
+    // Aberto com duplo clique no index.html (file://): o navegador manda origem "null" e o proxy recusa
+    const arquivoLocal = window.location.protocol === 'file:';
     const CHAVE_CODIGO = 'stj_gmhb_assistente_codigo';
     const MAX_MENSAGENS_HISTORICO = 10;
     const MAX_CARACTERES_RESPOSTA_HISTORICO = 6000;
@@ -242,28 +245,36 @@
 
             const materia = materias.find((m) => String(m.id) === estado.materiaId);
             const lista = sessoesNoEscopo();
-            let texto;
+            // "Pesquisando em: ..." resume o que o assistente vai ler, no mesmo formato em todos os escopos
+            let alvo = null;
+            let aviso = null;
             if (estado.escopo === 'sessao') {
                 const s = sessoesPorId.get(sessaoAtivaId);
-                texto = s
-                    ? `Consulta a sessão aberta (${s.title}): resumo, pauta e transcrição completa.`
-                    : 'Abra uma sessão para perguntar sobre ela.';
-                if (materia) texto += ` Foco em ${materia.short}.`;
+                if (s) {
+                    alvo = `${nomeOrgao(s.orgaoSlug)}, ${s.date} · resumo, pauta e transcrição`;
+                    if (materia) alvo += ` · foco em ${materia.short}`;
+                } else {
+                    aviso = 'Abra uma sessão para perguntar sobre ela.';
+                }
             } else if (!lista.length) {
-                texto = materia
+                aviso = materia
                     ? `Nenhuma sessão${estado.escopo === 'todas' ? '' : ` da ${nomeOrgao(estado.escopo)}`} com processos de ${materia.short}.`
                     : 'Nenhuma sessão disponível neste escopo.';
             } else {
-                const datas = lista.map((s) => s.isoDate).sort();
-                const periodo = datas.length > 1
-                    ? `de ${lista.find((s) => s.isoDate === datas[0]).date} a ${lista.find((s) => s.isoDate === datas.at(-1)).date}`
-                    : `de ${lista[0].date}`;
-                const onde = estado.escopo === 'todas' ? 'da 1ª Turma e da 1ª Seção' : `da ${nomeOrgao(estado.escopo)}`;
-                texto = `Consulta ${lista.length} ${lista.length === 1 ? 'sessão' : 'sessões'} ${onde} (${periodo})`;
-                texto += materia ? ` com processos de ${materia.short}.` : '.';
-                if (lista.length > 2) texto += ' Com muitas sessões, o assistente lê o índice de todas e escolhe as mais relevantes para ler na íntegra.';
+                const datas = lista.map((s) => s.date).sort((a, b) => a.split('/').reverse().join('').localeCompare(b.split('/').reverse().join('')));
+                const [primeira, ultima] = [datas[0], datas.at(-1)];
+                const periodo = primeira === ultima
+                    ? ultima
+                    : `${primeira.slice(-4) === ultima.slice(-4) ? primeira.slice(0, 5) : primeira} a ${ultima}`;
+                const quantas = `${lista.length} ${lista.length === 1 ? 'sessão' : 'sessões'}`;
+                let onde = '';
+                if (estado.escopo !== 'todas') onde = ` da ${nomeOrgao(estado.escopo)}`;
+                else if (!materia) onde = ' da 1ª Turma e da 1ª Seção';
+                alvo = `${quantas}${onde}${materia ? ` com processos de ${materia.short}` : ''} · ${periodo}`;
             }
-            dicaEscopo.textContent = texto;
+            dicaEscopo.innerHTML = alvo
+                ? `<strong>Pesquisando em:</strong> ${escapar(alvo)}`
+                : escapar(aviso);
             if (!estado.historico.length && !estado.controle) renderizarBoasVindas();
         };
         window.__assistenteAtualizarEscopo = atualizarEscopo;
@@ -309,6 +320,15 @@
         };
 
         const renderizarBoasVindas = () => {
+            if (arquivoLocal) {
+                areaMensagens.innerHTML = `
+                    <div class="assistant-welcome">
+                        <p class="assistant-welcome-text"><strong>O assistente não funciona com o portal aberto como arquivo</strong> (endereço começando com <code>file:///</code>). Por segurança, o servidor do assistente só atende o site publicado.</p>
+                        ${siteUrl ? `<p class="assistant-welcome-text"><a href="${escapar(siteUrl)}" target="_blank" rel="noopener noreferrer">Abrir o portal publicado</a> e usar o assistente por lá.</p>` : ''}
+                        <p class="assistant-welcome-text">Para testar no seu computador, rode <code>npm run local</code> na pasta <code>worker</code> e abra http://localhost:8791.</p>
+                    </div>`;
+                return;
+            }
             const sugestoes = estado.escopo === 'sessao' ? SUGESTOES.sessao : SUGESTOES.varias;
             areaMensagens.innerHTML = `
                 <div class="assistant-welcome">
@@ -337,7 +357,7 @@
             const div = document.createElement('article');
             div.className = 'assistant-msg assistant-msg--bot';
             div.innerHTML = `
-                <div class="assistant-status"><span class="assistant-spinner" aria-hidden="true"></span><span class="assistant-status-text">Enviando a pergunta…</span></div>
+                <div class="assistant-status" role="status"><span class="assistant-dot" aria-hidden="true"></span><span class="assistant-status-text">Pensando…</span></div>
                 <div class="assistant-answer"></div>
                 <div class="assistant-meta" hidden></div>`;
             areaMensagens.appendChild(div);
@@ -409,14 +429,6 @@
             ajustarAltura();
             const msg = criarMensagemAssistente();
 
-            // Mostra há quanto tempo está esperando: a primeira resposta pode levar alguns segundos
-            let etapa = 'Enviando a pergunta…';
-            const inicioEspera = Date.now();
-            const atualizarStatus = () => {
-                const s = Math.round((Date.now() - inicioEspera) / 1000);
-                msg.statusTexto.textContent = s >= 2 ? `${etapa} ${s} s` : etapa;
-            };
-            const relogio = setInterval(atualizarStatus, 1000);
             rolarParaFim();
 
             const controle = new AbortController();
@@ -468,15 +480,11 @@
 
                 for await (const { evento, dados } of lerFluxoSSE(resposta)) {
                     if (evento === 'estado') {
-                        etapa = dados.texto;
-                        atualizarStatus();
+                        msg.statusTexto.textContent = dados.texto;
                     } else if (evento === 'fontes') {
                         fontes = dados;
                     } else if (evento === 'texto') {
-                        if (!texto) {
-                            msg.status.hidden = true;
-                            clearInterval(relogio);
-                        }
+                        if (!texto) msg.status.hidden = true;
                         texto += dados.t;
                         if (!agendado) {
                             agendado = true;
@@ -497,7 +505,6 @@
                         : 'Não foi possível falar com o assistente. Verifique a conexão e tente de novo.';
                 }
             } finally {
-                clearInterval(relogio);
                 estado.controle = null;
                 definirEnviando(false);
             }
@@ -593,7 +600,14 @@
             appShell?.classList.add('assistant-open');
             botaoAbrir.setAttribute('aria-expanded', 'true');
             atualizarEscopo();
-            if (estado.codigo) {
+            if (arquivoLocal) {
+                formEntrada.hidden = true;
+                formPergunta.hidden = true;
+                botaoNova.hidden = true;
+                botaoSair.hidden = true;
+                areaMensagens.hidden = false;
+                renderizarBoasVindas();
+            } else if (estado.codigo) {
                 mostrarConversa();
                 campoPergunta.focus();
             } else {

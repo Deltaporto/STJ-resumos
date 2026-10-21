@@ -97,6 +97,8 @@ function instalarGeminiSimulado() {
         const codificador = new TextEncoder();
         const fluxo = new ReadableStream({
             async start(controle) {
+                // Simula o tempo que o modelo leva para começar a responder
+                await new Promise((r) => setTimeout(r, 2000));
                 for (const parte of resposta) {
                     await new Promise((r) => setTimeout(r, 180));
                     const pedaco = { candidates: [{ content: { parts: [{ text: parte }], role: 'model' } }] };

@@ -153,7 +153,7 @@ async function planejarContexto(env, pedido, emitir, signal) {
     const total = candidatas.reduce((s, c) => s + (c.caracteres || 0), 0);
 
     if (pedido.escopo.tipo === 'sessao' || total <= orcamento) {
-        emitir('estado', { texto: 'Lendo o material das sessões…' });
+        emitir('estado', { texto: lendo(candidatas.length) });
         const textos = await carregarSessoes(env, candidatas);
         return {
             modo: 'integral',
@@ -165,7 +165,7 @@ async function planejarContexto(env, pedido, emitir, signal) {
 
     // Escopo grande: índice resumido de tudo (até o limite) + leitura integral das mais relevantes
     const noIndice = cortarPorOrcamento(candidatas, (c) => (c.indice || '').length, orcamentoIndice);
-    emitir('estado', { texto: `Escolhendo as sessões mais relevantes entre ${candidatas.length}…` });
+    emitir('estado', { texto: 'Procurando as sessões relevantes…' });
 
     let escolhidosIds = [];
     let usoRoteador = null;
@@ -193,7 +193,7 @@ async function planejarContexto(env, pedido, emitir, signal) {
     const porId = new Map(candidatas.map((c) => [c.id, c]));
     const escolhidas = [...new Set(escolhidosIds)].map((id) => porId.get(id)).filter(Boolean).slice(0, maxCompletas);
     const completas = escolhidas.length ? cortarPorOrcamento(escolhidas, (c) => c.caracteres || 0, orcamento) : [];
-    if (completas.length) emitir('estado', { texto: 'Lendo as sessões escolhidas na íntegra…' });
+    if (completas.length) emitir('estado', { texto: lendo(completas.length) });
     const textos = completas.length ? await carregarSessoes(env, completas) : [];
 
     return {
@@ -203,6 +203,11 @@ async function planejarContexto(env, pedido, emitir, signal) {
         usoRoteador,
         material: montarMaterial({ descricao, indice: noIndice, completas, textosCompletos: textos }),
     };
+}
+
+// Textos curtos de andamento mostrados no painel enquanto a resposta não chega
+function lendo(quantidade) {
+    return quantidade === 1 ? 'Lendo a sessão…' : `Lendo ${quantidade} sessões…`;
 }
 
 function resumoFonte(c) {
@@ -226,7 +231,7 @@ async function responderEmFluxo(env, pedido, usuario, escrever, signal) {
         integrais: plano.completas.map(resumoFonte),
         indice: plano.indice.map(resumoFonte),
     });
-    await emitir('estado', { texto: 'Redigindo a resposta…' });
+    await emitir('estado', { texto: 'Pensando…' });
 
     const corpo = montarCorpo({
         instrucao: instrucaoResposta(plano.material),
