@@ -164,7 +164,7 @@
 - **Tese fixada:** É da competência material absoluta da Segunda Seção (Direito Privado) o processamento e julgamento de litígios envolvendo a natureza concursal de crédito indenizatório contra concessionária de serviço público em recuperação judicial, consoante a tese vinculante do Tema 1.051/STJ.
 - **Resumo da discussão:** Em cumprimento de sentença de indenização por acidente ferroviário contra concessionária em recuperação judicial, discutia-se a sujeição do crédito ao plano concursal e a necessidade de desconsideração da personalidade jurídica. O Min. Gurgel de Faria suscitou questão de ordem apontando a incompetência das Turmas de Direito Público. A Turma acolheu a preliminar à unanimidade, determinando a anulação da decisão monocrática agravada e a redistribuição dos autos à Segunda Seção.
 
-### 15. AREsp 3.057.538 - Servidor Público e Adiantamento de Julgamento (Início: 03:56:15)
+### 15. AREsp 3.057.538 - Servidor Público e Adiamento de Julgamento (Início: 03:56:15)
 - **Matéria:** 4. Servidor Público Civil e Militar
 - **Relator:** Min. Sérgio Kukina
 - **Resultado:** Adiado
