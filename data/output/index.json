@@ -1,6 +1,26 @@
 {
   "videos": [
     {
+      "video_id": "0FGesOiZWDQ",
+      "title": "Primeira Turma - STJ -  03/11/2026",
+      "upload_date": "2026-11-03",
+      "url": "https://www.youtube.com/watch?v=0FGesOiZWDQ",
+      "duration": 14305,
+      "orgao": "primeira_turma",
+      "processado_em": "2026-11-04T17:16:03.847649",
+      "arquivos": {
+        "pauta_json": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_pauta.json",
+        "pauta_md": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_pauta.md",
+        "pauta_pdf": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_pauta.pdf",
+        "transcricao_bruta": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_transcricao_revisada.md",
+        "transcricao_revisada_docx": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_transcricao_revisada.docx",
+        "resumo_bruto": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_resumo_bruto.md",
+        "resumo": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_resumo.md",
+        "resumo_meta": "primeira_turma/2026-11-03_primeira_turma_0FGesOiZWDQ_resumo_meta.json"
+      }
+    },
+    {
       "video_id": "pZYPi4InaVk",
       "title": "Primeira Turma - STJ -  20/10/2026",
       "upload_date": "2026-10-20",
@@ -62,6 +82,6 @@
       }
     }
   ],
-  "ultima_atualizacao": "2026-10-21T19:28:13.644832",
-  "total_videos": 3
+  "ultima_atualizacao": "2026-11-04T17:16:03.847660",
+  "total_videos": 4
 }

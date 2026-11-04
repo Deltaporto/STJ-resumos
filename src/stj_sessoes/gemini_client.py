@@ -98,20 +98,26 @@ class GeminiClient:
         return False, "", "Falha ao executar chamada Gemini."
 
     def _gerar_via_sdk(self, prompt: str, modelo: str) -> tuple[bool, str, str | None]:
-        try:
-            from google import genai
+        from google import genai
 
-            client = genai.Client(api_key=self.api_key)
-            response = client.models.generate_content(
-                model=modelo,
-                contents=prompt,
-            )
-            texto = (response.text or "").strip()
-            if not texto:
-                return False, "", "Resposta vazia da API Gemini."
-            return True, texto, None
-        except Exception as exc:
-            return False, "", str(exc)
+        ultimo_erro = None
+        for tentativa in range(1, 4):
+            try:
+                client = genai.Client(api_key=self.api_key)
+                response = client.models.generate_content(
+                    model=modelo,
+                    contents=prompt,
+                )
+                texto = (response.text or "").strip()
+                if not texto:
+                    return False, "", "Resposta vazia da API Gemini."
+                return True, texto, None
+            except Exception as exc:
+                ultimo_erro = str(exc)
+                logger.warning("Tentativa %d/3 falhou no SDK Gemini (%s)", tentativa, exc)
+                if tentativa < 3:
+                    time.sleep(2.0 * tentativa)
+        return False, "", ultimo_erro
 
     def _gerar_via_cli(self, prompt: str, modelo: str) -> tuple[bool, str, str | None]:
         if not self.cli_executable:

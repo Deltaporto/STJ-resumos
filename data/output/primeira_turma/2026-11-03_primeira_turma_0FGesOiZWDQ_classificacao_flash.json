@@ -1,0 +1,175 @@
+{
+  "classifications": [
+    {
+      "index": 1,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "materia_id": 6,
+      "materia": {
+        "id": 6,
+        "code": "6. Licitações e Contratos",
+        "short": "Licitações e Contratos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Benedito Gonçalves",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Benedito Gonçalves",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 6,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Benedito Gonçalves",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "materia_id": 10,
+      "materia": {
+        "id": 10,
+        "code": "10. Ação Civil Pública",
+        "short": "Ação Civil Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Benedito Gonçalves",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 8,
+      "materia_id": 7,
+      "materia": {
+        "id": 7,
+        "code": "7. Responsabilidade Civil da Administração",
+        "short": "Responsabilidade Civil da Administração"
+      },
+      "relatores": [
+        {
+          "name": "Min. Benedito Gonçalves",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    }
+  ]
+}
