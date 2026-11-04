@@ -284,14 +284,22 @@ def extrair_processos_estruturados(
     if classificacao_cache_path and classificacao_cache_path.exists():
         try:
             cached_data = json.loads(classificacao_cache_path.read_text(encoding="utf-8"))
-            for item in cached_data.get("classifications") or []:
-                idx_item = int(item["index"])
-                mapa_flash[idx_item] = {
-                    "materia": obter_materia_por_id(item.get("materia_id") or item.get("materia")),
-                    "relatores": item.get("relatores") or [],
-                    "has_herman": bool(item.get("has_herman")),
-                    "is_relevant": bool(item.get("is_relevant")),
-                }
+            cached_items = cached_data.get("classifications") or []
+            if len(cached_items) == len(processos):
+                for item in cached_items:
+                    idx_item = int(item["index"])
+                    mapa_flash[idx_item] = {
+                        "materia": obter_materia_por_id(item.get("materia_id") or item.get("materia")),
+                        "relatores": item.get("relatores") or [],
+                        "has_herman": bool(item.get("has_herman")),
+                        "is_relevant": bool(item.get("is_relevant")),
+                    }
+            else:
+                logger.warning(
+                    "Cache de classificação Flash com contagem incompatível (%d vs %d processos). Recalculando com Subagente Flash.",
+                    len(cached_items),
+                    len(processos),
+                )
         except Exception as exc:
             logger.warning("Falha ao ler cache de classificação Flash (%s): %s", classificacao_cache_path, exc)
 

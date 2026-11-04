@@ -2,6 +2,44 @@
   "classifications": [
     {
       "index": 1,
+      "materia_id": 3,
+      "materia": {
+        "id": 3,
+        "code": "3. Reforma Agrária",
+        "short": "Reforma Agrária"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 2,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 3,
       "materia_id": 5,
       "materia": {
         "id": 5,
@@ -20,7 +58,7 @@
       "is_relevant": true
     },
     {
-      "index": 2,
+      "index": 4,
       "materia_id": 6,
       "materia": {
         "id": 6,
@@ -35,11 +73,87 @@
           "is_herman": false
         }
       ],
-      "has_herman": false,
+      "has_herman": true,
+      "is_relevant": false
+    },
+    {
+      "index": 5,
+      "materia_id": 9,
+      "materia": {
+        "id": 9,
+        "code": "9. Poder de Polícia (Exceto Ambiental)",
+        "short": "Poder de Polícia (Exceto Ambiental)"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": false
+    },
+    {
+      "index": 6,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": false
+    },
+    {
+      "index": 7,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
       "is_relevant": true
     },
     {
-      "index": 3,
+      "index": 8,
+      "materia_id": 12,
+      "materia": {
+        "id": 12,
+        "code": "12. Direito Ambiental Urbanístico",
+        "short": "Direito Ambiental Urbanístico"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": false
+    },
+    {
+      "index": 9,
       "materia_id": 4,
       "materia": {
         "id": 4,
@@ -58,7 +172,7 @@
       "is_relevant": true
     },
     {
-      "index": 4,
+      "index": 10,
       "materia_id": 4,
       "materia": {
         "id": 4,
@@ -77,7 +191,7 @@
       "is_relevant": true
     },
     {
-      "index": 5,
+      "index": 11,
       "materia_id": 4,
       "materia": {
         "id": 4,
@@ -96,7 +210,7 @@
       "is_relevant": false
     },
     {
-      "index": 6,
+      "index": 12,
       "materia_id": 1,
       "materia": {
         "id": 1,
@@ -115,7 +229,7 @@
       "is_relevant": true
     },
     {
-      "index": 7,
+      "index": 13,
       "materia_id": 10,
       "materia": {
         "id": 10,
@@ -134,7 +248,7 @@
       "is_relevant": false
     },
     {
-      "index": 8,
+      "index": 14,
       "materia_id": 7,
       "materia": {
         "id": 7,
@@ -153,7 +267,7 @@
       "is_relevant": true
     },
     {
-      "index": 9,
+      "index": 15,
       "materia_id": 4,
       "materia": {
         "id": 4,
