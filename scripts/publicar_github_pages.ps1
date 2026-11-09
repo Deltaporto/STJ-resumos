@@ -55,14 +55,17 @@ Copy-Item -Path (Join-Path $WebDir "*") -Destination $SyncDir -Recurse -Force
 Push-Location -LiteralPath $SyncDir
 try {
     $Status = git status --porcelain
-    if (-not $Status) {
+    if ($Status) {
+        git add -A
+        $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
+        git commit -m "Atualizacao de sessoes da 1a Turma e 1a Secao ($Timestamp)"
+    }
+
+    $Ahead = git rev-list "@{u}..HEAD" --count 2>$null
+    if (-not $Status -and ($null -eq $Ahead -or [int]$Ahead -eq 0)) {
         Write-Host "Nenhuma alteracao pendente para publicacao."
         exit 0
     }
-
-    git add -A
-    $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
-    git commit -m "Atualizacao de sessoes da 1a Turma e 1a Secao ($Timestamp)"
 
     if (-not $SkipPush) {
         Write-Host "[4/4] Enviando para o GitHub Pages ($RemoteUrl)..."

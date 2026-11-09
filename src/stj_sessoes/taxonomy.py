@@ -112,6 +112,7 @@ MINISTROS_TITULARES_1A_SECAO: tuple[str, ...] = (
     "Min. Teodoro Silva Santos",
     "Min. Afrânio Vilela",
     "Min. Maria Thereza de Assis Moura",
+    "Min. Marco Aurélio Bellizze",
     "Min. Assusete Magalhães",
     "Min. Og Fernandes",
 )

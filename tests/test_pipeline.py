@@ -651,3 +651,13 @@ def test_config_nao_carrega_chave_de_arquivos_locais(monkeypatch) -> None:
 
     assert "GEMINI_API_KEY" not in os.environ
     assert not hasattr(config, "_carregar_chave_gemini_local")
+
+def test_normalizacao_e_taxonomia_ministro_bellizze() -> None:
+    from stj_sessoes.taxonomy import MINISTROS_TITULARES_1A_SECAO
+
+    assert "Min. Marco Aurélio Bellizze" in MINISTROS_TITULARES_1A_SECAO
+
+    bruta = "[01:00:00] Com a palavra o ministro Belizário para proferir voto."
+    saneada = pre_sanear_transcricao(bruta)
+    assert "Min. Marco Aurélio Bellizze" in saneada
+    assert "Belizário" not in saneada

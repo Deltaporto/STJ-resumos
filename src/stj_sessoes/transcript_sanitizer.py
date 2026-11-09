@@ -80,6 +80,7 @@ GLOSSARIO_FONETICO_STJ: tuple[tuple[re.Pattern[str], str], ...] = (
     (re.compile(r"\b(?:ministr[oa]\s+|min\.\s+)?(?:teodoro\s+silva\s+santos)\b", re.IGNORECASE), "Min. Teodoro Silva Santos"),
     (re.compile(r"\b(?:ministr[oa]\s+|min\.\s+)?(?:afr[aâ]n(?:io)?\s+vilela)\b", re.IGNORECASE), "Min. Afrânio Vilela"),
     (re.compile(r"\b(?:ministr[oa]\s+|min\.\s+)?(?:maria\s+th?ere[sz]a(?:\s+de\s+assis\s+moura)?)\b", re.IGNORECASE), "Min. Maria Thereza de Assis Moura"),
+    (re.compile(r"\b(?:ministr[oa]\s+|min\.\s+)?(?:marco\s+aur[eé]lio\s+)?(?:beliz[aá]rio|beliz[ze]{2,3}|belise)\b", re.IGNORECASE), "Min. Marco Aurélio Bellizze"),
     (re.compile(r"\bs[uú]mula\s+sete\b", re.IGNORECASE), "Súmula 7"),
     (re.compile(r"\bs[uú]mula\s+oitenta\s+e\s+tr[eê]s\b", re.IGNORECASE), "Súmula 83"),
     (re.compile(r"\bs[uú]mula\s+duzentos\s+e\s+onze\b", re.IGNORECASE), "Súmula 211"),
