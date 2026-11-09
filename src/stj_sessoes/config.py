@@ -9,29 +9,9 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 
-def _carregar_chave_gemini_local() -> None:
-    """Lê a chave do Gemini de arquivos locais (fora do git) quando não está no ambiente.
-
-    Procura, nesta ordem, `.env` na raiz do projeto e `worker/.dev.vars` (o mesmo arquivo
-    usado pelo proxy do assistente). Assim a chave fica num lugar só.
-    """
-    if os.environ.get("STJ_GEMINI_DESATIVADO") == "1":
-        return
-    if os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"):
-        return
-    for arquivo in (PROJECT_ROOT / ".env", PROJECT_ROOT / "worker" / ".dev.vars"):
-        if not arquivo.exists():
-            continue
-        for linha in arquivo.read_text(encoding="utf-8-sig").splitlines():
-            nome, _, valor = linha.partition("=")
-            if nome.strip() == "GEMINI_API_KEY":
-                valor = valor.strip().strip("\"'").strip()
-                if valor and "cole-aqui" not in valor:
-                    os.environ["GEMINI_API_KEY"] = valor
-                    return
-
-
-_carregar_chave_gemini_local()
+# O pipeline usa exclusivamente o Gemini CLI autenticado com a conta Google (assinatura).
+# Nenhuma chave de API é lida de `.env` ou de `worker/.dev.vars`; a chave do worker
+# serve só ao assistente do portal (Cloudflare) e não deve ser consumida aqui.
 
 DATA_DIR = PROJECT_ROOT / "data"
 CACHE_DIR = DATA_DIR / "cache"

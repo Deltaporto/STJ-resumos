@@ -49,10 +49,12 @@ Para refazer só a transcrição revisada (identificação de interlocutores) de
 uv run python scripts/processar_sessoes.py --video-url "https://www.youtube.com/watch?v=ID_DO_VIDEO" --apenas-transcrever --refazer-revisao
 ```
 
-**Chave do Gemini:** o pipeline usa `GEMINI_API_KEY` do ambiente ou, se não houver, a lê de `.env` na raiz do projeto
-ou de `worker/.dev.vars` (o mesmo arquivo do assistente). Sem chave, a transcrição sai **sem interlocutores**,
-marcada como "Saneamento determinístico", e o log avisa. Modelos padrão: `gemini-3.8-flash` (revisão e classificação)
-e `gemini-3.1-pro-preview` (resumos), ajustáveis por `GEMINI_MODEL_FLASH` e `GEMINI_MODEL_PRO`.
+**Gemini (somente assinatura):** o pipeline usa exclusivamente o Gemini CLI autenticado com a conta Google
+(`gemini` no terminal, login `oauth-personal`). Nenhuma chave de API é lida nem repassada ao CLI;
+`GEMINI_API_KEY`/`GOOGLE_API_KEY` são removidas do ambiente do subprocesso. A chave de `worker/.dev.vars`
+serve apenas ao assistente do portal. Sem login válido, o pipeline para de chamar o CLI e a transcrição sai
+**sem interlocutores**, marcada como "Saneamento determinístico". Modelos padrão: `gemini-3.8-flash`
+(revisão e classificação) e `gemini-3.1-pro-preview` (resumos), ajustáveis por `GEMINI_MODEL_FLASH` e `GEMINI_MODEL_PRO`.
 
 ### 4. Recompilar `web/data.js`, `web/transcricoes/`, `web/pautas/` e `web/assistente/`
 ```powershell

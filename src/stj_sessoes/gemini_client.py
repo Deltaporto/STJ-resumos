@@ -1,4 +1,4 @@
-"""Cliente de integração com Google Gemini (SDK google-genai ou Gemini CLI headless no Windows)."""
+"""Cliente de integração com Google Gemini via Gemini CLI headless (conta Google / assinatura)."""
 
 from __future__ import annotations
 
@@ -21,29 +21,58 @@ from stj_sessoes.config import (
 
 logger = logging.getLogger(__name__)
 
+# Variáveis que fariam o CLI (ou bibliotecas Google) usar chave de API ou Vertex em vez do login OAuth.
+# São sempre removidas do ambiente do subprocesso: o pipeline nunca consome chave de API.
+VARIAVEIS_CREDENCIAL_API: tuple[str, ...] = (
+    "GEMINI_API_KEY",
+    "GOOGLE_API_KEY",
+    "GOOGLE_GENAI_USE_VERTEXAI",
+    "GOOGLE_CLOUD_PROJECT",
+    "GOOGLE_APPLICATION_CREDENTIALS",
+)
+
+# Trechos de saída que indicam que o CLI não tem sessão Google válida e tentou login interativo.
+SINAIS_FALTA_LOGIN: tuple[str, ...] = (
+    "failed to open browser",
+    "login required",
+    "please sign in",
+    "authenticate",
+    "oauth",
+)
+
+MENSAGEM_FALTA_LOGIN = (
+    "Gemini CLI sem sessão Google válida. Abra um terminal, rode `gemini`, entre com a conta "
+    "da assinatura e execute o pipeline de novo."
+)
+
+
+def montar_ambiente_cli(base: dict[str, str] | None = None) -> dict[str, str]:
+    """Copia o ambiente removendo credenciais de API e variáveis de integração com IDE."""
+    env = dict(os.environ if base is None else base)
+    for chave in list(env.keys()):
+        if chave in VARIAVEIS_CREDENCIAL_API or chave.startswith("GEMINI_CLI_IDE"):
+            del env[chave]
+    return env
+
 
 class GeminiClient:
     """
-    Cliente unificado para geração de texto jurídico com Gemini no Windows.
-    Prioriza a API oficial (google-genai) quando GEMINI_API_KEY/GOOGLE_API_KEY estiver definida,
-    e utiliza automaticamente o Gemini CLI headless instalado no Windows como backend padrão.
+    Cliente para geração de texto jurídico com Gemini no Windows.
+    Usa exclusivamente o Gemini CLI autenticado com a conta Google (cota da assinatura).
+    Chaves de API (GEMINI_API_KEY/GOOGLE_API_KEY) são ignoradas e nunca repassadas ao CLI.
     """
 
     def __init__(self) -> None:
-        self.api_key = (
-            os.environ.get("GEMINI_API_KEY")
-            or os.environ.get("GOOGLE_API_KEY")
-            or ""
-        ).strip()
         self.model_pro = GEMINI_MODEL_PRO
         self.model_flash = GEMINI_MODEL_FLASH
         self.timeout = GEMINI_CLI_TIMEOUT
         self.rate_limit = max(1, GEMINI_RATE_LIMIT_RPM)
         self._request_times: deque[float] = deque(maxlen=self.rate_limit)
         self._lock = threading.Lock()
+        self._erro_login: str | None = None
 
         self.cli_executable = self._resolver_cli_windows(GEMINI_CLI_COMMAND)
-        self.disponivel = bool(self.api_key or self.cli_executable)
+        self.disponivel = bool(self.cli_executable)
         # STJ_GEMINI_DESATIVADO=1 impede qualquer chamada real (ex.: nos testes automatizados)
         if os.environ.get("STJ_GEMINI_DESATIVADO") == "1":
             self.disponivel = False
@@ -73,7 +102,7 @@ class GeminiClient:
         tier: str = "pro",
     ) -> tuple[bool, str, str | None]:
         """
-        Gera conteúdo via Gemini.
+        Gera conteúdo via Gemini CLI.
         Args:
             prompt: Prompt completo de entrada.
             tier: 'pro' (para resumos jurídicos complexos) ou 'flash' (para saneamento textual rápido).
@@ -81,43 +110,30 @@ class GeminiClient:
             (sucesso, texto_gerado, mensagem_erro)
         """
         if not self.disponivel:
-            return False, "", "Nenhum backend Gemini disponível (configure GEMINI_API_KEY ou instale gemini CLI)."
+            return False, "", "Gemini CLI não encontrado (instale com `npm install -g @google/gemini-cli`)."
+
+        # Depois de detectada falta de login, não insiste: evita travar o pipeline a cada segmento
+        if self._erro_login:
+            return False, "", self._erro_login
 
         modelo = self.model_pro if tier == "pro" else self.model_flash
         self._aguardar_rate_limit()
+        return self._gerar_via_cli(prompt, modelo)
 
-        if self.api_key:
-            ok, texto, erro = self._gerar_via_sdk(prompt, modelo)
-            if ok:
-                return True, texto, None
-            logger.warning("Falha no SDK Gemini (%s); tentando fallback CLI...", erro)
+    def _montar_comando(self, cmd_base: list[str]) -> list[str]:
+        if os.name == "nt" and self.cli_executable.lower().endswith(".ps1"):
+            return ["pwsh", "-NoProfile", "-NonInteractive", "-File", *cmd_base]
+        if os.name == "nt" and self.cli_executable.lower().endswith(".cmd"):
+            return ["cmd", "/d", "/s", "/c", subprocess.list2cmdline(cmd_base)]
+        return cmd_base
 
-        if self.cli_executable:
-            return self._gerar_via_cli(prompt, modelo)
-
-        return False, "", "Falha ao executar chamada Gemini."
-
-    def _gerar_via_sdk(self, prompt: str, modelo: str) -> tuple[bool, str, str | None]:
-        from google import genai
-
-        ultimo_erro = None
-        for tentativa in range(1, 4):
-            try:
-                client = genai.Client(api_key=self.api_key)
-                response = client.models.generate_content(
-                    model=modelo,
-                    contents=prompt,
-                )
-                texto = (response.text or "").strip()
-                if not texto:
-                    return False, "", "Resposta vazia da API Gemini."
-                return True, texto, None
-            except Exception as exc:
-                ultimo_erro = str(exc)
-                logger.warning("Tentativa %d/3 falhou no SDK Gemini (%s)", tentativa, exc)
-                if tentativa < 3:
-                    time.sleep(2.0 * tentativa)
-        return False, "", ultimo_erro
+    def _registrar_se_falta_login(self, saida: str) -> bool:
+        texto = (saida or "").lower()
+        if any(sinal in texto for sinal in SINAIS_FALTA_LOGIN):
+            self._erro_login = MENSAGEM_FALTA_LOGIN
+            logger.error(MENSAGEM_FALTA_LOGIN)
+            return True
+        return False
 
     def _gerar_via_cli(self, prompt: str, modelo: str) -> tuple[bool, str, str | None]:
         if not self.cli_executable:
@@ -133,23 +149,11 @@ class GeminiClient:
             "text",
             "Responder:",
         ]
-
-        if os.name == "nt" and self.cli_executable.lower().endswith(".ps1"):
-            cmd = ["pwsh", "-NoProfile", "-NonInteractive", "-File", *cmd_base]
-        elif os.name == "nt" and self.cli_executable.lower().endswith(".cmd"):
-            cmdline = subprocess.list2cmdline(cmd_base)
-            cmd = ["cmd", "/d", "/s", "/c", cmdline]
-        else:
-            cmd = cmd_base
-
-        env = os.environ.copy()
-        for k in list(env.keys()):
-            if k.startswith("GEMINI_CLI_IDE"):
-                del env[k]
+        env = montar_ambiente_cli()
 
         try:
             proc = subprocess.run(
-                cmd,
+                self._montar_comando(cmd_base),
                 input=prompt,
                 capture_output=True,
                 text=True,
@@ -158,17 +162,14 @@ class GeminiClient:
                 env=env,
             )
             if proc.returncode != 0:
+                erro_msg = (proc.stderr or proc.stdout or f"Exit code {proc.returncode}").strip()
+                if self._registrar_se_falta_login(erro_msg):
+                    return False, "", MENSAGEM_FALTA_LOGIN
+
                 # Fallback sem flag -m caso a versão local do CLI use modelo default
                 cmd_fallback = [c for c in cmd_base if c not in ("-m", modelo)]
-                if os.name == "nt" and self.cli_executable.lower().endswith(".ps1"):
-                    cmd_fb = ["pwsh", "-NoProfile", "-NonInteractive", "-File", *cmd_fallback]
-                elif os.name == "nt" and self.cli_executable.lower().endswith(".cmd"):
-                    cmd_fb = ["cmd", "/d", "/s", "/c", subprocess.list2cmdline(cmd_fallback)]
-                else:
-                    cmd_fb = cmd_fallback
-
                 proc = subprocess.run(
-                    cmd_fb,
+                    self._montar_comando(cmd_fallback),
                     input=prompt,
                     capture_output=True,
                     text=True,
@@ -178,10 +179,14 @@ class GeminiClient:
                 )
                 if proc.returncode != 0:
                     erro_msg = (proc.stderr or proc.stdout or f"Exit code {proc.returncode}").strip()
+                    if self._registrar_se_falta_login(erro_msg):
+                        return False, "", MENSAGEM_FALTA_LOGIN
                     return False, "", erro_msg
 
             saida = (proc.stdout or "").strip()
             if not saida:
+                if self._registrar_se_falta_login(proc.stderr or ""):
+                    return False, "", MENSAGEM_FALTA_LOGIN
                 return False, "", "Saída vazia do Gemini CLI."
 
             # Caso o CLI retorne envelope JSON por configuração global

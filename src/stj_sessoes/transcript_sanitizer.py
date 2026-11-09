@@ -452,7 +452,7 @@ def sanear_e_revisar_transcricao(
         if usar_llm:
             logger.warning(
                 "Gemini indisponível: a transcrição de %s sai SEM identificação de interlocutores "
-                "(apenas saneamento determinístico). Configure GEMINI_API_KEY e rode de novo com --refazer-revisao.",
+                "(apenas saneamento determinístico). Autentique o Gemini CLI (rode `gemini` e entre com a conta Google) e rode de novo com --refazer-revisao.",
                 video.video_id,
             )
         return gerar_documento_transcricao_revisada(

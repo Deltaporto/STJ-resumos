@@ -576,3 +576,78 @@ def test_nomes_inventados_viram_funcao() -> None:
     # Nome conhecido e ministros não são tocados
     assert "Dra. Andrea Gonçalves Fujishima (Secretária)" in saida
     assert "Min. Herman Benjamin" in saida
+
+
+# ------------------------------------------------------------------------------
+# Gemini: uso exclusivo do CLI autenticado com a conta Google (nunca chave de API)
+# ------------------------------------------------------------------------------
+
+
+class _ProcFalso:
+    def __init__(self, returncode: int = 0, stdout: str = "", stderr: str = "") -> None:
+        self.returncode = returncode
+        self.stdout = stdout
+        self.stderr = stderr
+
+
+def _cliente_cli_falso(monkeypatch):
+    from stj_sessoes import gemini_client as gc
+
+    monkeypatch.delenv("STJ_GEMINI_DESATIVADO", raising=False)
+    monkeypatch.setattr(gc.shutil, "which", lambda nome: "gemini" if nome == "gemini" else None)
+    cliente = gc.GeminiClient()
+    cliente._aguardar_rate_limit = lambda: None
+    return gc, cliente
+
+
+def test_gemini_nunca_repassa_chave_de_api_ao_cli(monkeypatch) -> None:
+    monkeypatch.setenv("GEMINI_API_KEY", "chave-que-nao-pode-vazar")
+    monkeypatch.setenv("GOOGLE_API_KEY", "outra-chave")
+    gc, cliente = _cliente_cli_falso(monkeypatch)
+    assert not hasattr(cliente, "api_key")
+
+    capturado: dict = {}
+
+    def run_falso(cmd, **kwargs):
+        capturado["env"] = kwargs["env"]
+        return _ProcFalso(stdout="resposta")
+
+    monkeypatch.setattr(gc.subprocess, "run", run_falso)
+    ok, texto, erro = cliente.gerar_conteudo("oi", tier="flash")
+
+    assert ok and texto == "resposta" and erro is None
+    assert "GEMINI_API_KEY" not in capturado["env"]
+    assert "GOOGLE_API_KEY" not in capturado["env"]
+
+
+def test_gemini_para_de_chamar_cli_sem_login(monkeypatch) -> None:
+    gc, cliente = _cliente_cli_falso(monkeypatch)
+    chamadas = {"n": 0}
+
+    def run_falso(cmd, **kwargs):
+        chamadas["n"] += 1
+        return _ProcFalso(returncode=1, stderr="Failed to open browser: spawn EPERM")
+
+    monkeypatch.setattr(gc.subprocess, "run", run_falso)
+    ok1, _, erro1 = cliente.gerar_conteudo("a")
+    ok2, _, erro2 = cliente.gerar_conteudo("b")
+
+    assert not ok1 and not ok2
+    assert erro1 == gc.MENSAGEM_FALTA_LOGIN == erro2
+    assert chamadas["n"] == 1
+
+
+def test_config_nao_carrega_chave_de_arquivos_locais(monkeypatch) -> None:
+    import importlib
+
+    from stj_sessoes import config
+
+    monkeypatch.delenv("GEMINI_API_KEY", raising=False)
+    monkeypatch.delenv("GOOGLE_API_KEY", raising=False)
+    monkeypatch.delenv("STJ_GEMINI_DESATIVADO", raising=False)
+    importlib.reload(config)
+
+    import os
+
+    assert "GEMINI_API_KEY" not in os.environ
+    assert not hasattr(config, "_carregar_chave_gemini_local")
