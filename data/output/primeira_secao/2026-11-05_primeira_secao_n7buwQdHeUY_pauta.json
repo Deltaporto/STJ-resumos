@@ -1,0 +1,1361 @@
+{
+  "seq_sessao": 2050235996,
+  "orgao_slug": "primeira_secao",
+  "cod_orgao_stj": "S1",
+  "nome_orgao": "Primeira Seção",
+  "data_iso": "2026-11-05",
+  "data_br": "05/11/2026",
+  "tipo_sessao": "Ordinária",
+  "hora_inicio": "",
+  "url_pauta_pdf": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/405270121/pdf",
+  "seq_doc_pauta": 405270121,
+  "tem_pdf_original": true,
+  "url_ata_pdf": "",
+  "documentos": [
+    {
+      "seq_documento": 405270121,
+      "cod_tipo": 40,
+      "tipo": "PAUTA DE JULGAMENTOS",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/405270121/pdf"
+    },
+    {
+      "seq_documento": null,
+      "cod_tipo": 0,
+      "tipo": "SUST. ORAL",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/2050235996/sustentacoes-orais"
+    }
+  ],
+  "total_itens": 33,
+  "total_sustentacoes": 18,
+  "itens": [
+    {
+      "item": 1,
+      "num_registro": "202603237211",
+      "registro_formatado": "2026/0323721-1",
+      "sg_classe": "Rcl",
+      "classe_completa": "Rcl",
+      "num_proc_classe": "51851",
+      "numero_formatado": "51851",
+      "uf": "BA",
+      "processo": "Rcl 51.851/BA",
+      "cabecalho_pdf": "RECLAMAÇÃO Nº 51851 - BA (2026/0323721-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Seguro Acidentes do Trabalho",
+      "resultado_oficial": "JULGOU PROCEDENTE",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [
+        "ERALDO RAMOS TAVARES JUNIOR - BA021078"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "PEDRO JOSE DE OLIVEIRA JUNIOR",
+          "partes": "CIA DE FERRO LIGAS DA BAHIA FERBASA"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "num_registro": "202402028189",
+      "registro_formatado": "2024/0202818-9",
+      "sg_classe": "EREsp",
+      "classe_completa": "EREsp",
+      "num_proc_classe": "2148664",
+      "numero_formatado": "2148664",
+      "uf": "RJ",
+      "processo": "EREsp 2.148.664/RJ",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 2148664 - RJ (2024/0202818-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Gratificação de Incentivo",
+      "resultado_oficial": "DEU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "MARIA DE LOURDES CABRAL DE MORAES"
+        }
+      ],
+      "advogados": [
+        "ANAMARIA REYS RESENDE - DF005069"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "THAIS FERREIRA DE ALMEIDA",
+          "partes": "UNIÃO"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "num_registro": "202501483403",
+      "registro_formatado": "2025/0148340-3",
+      "sg_classe": "MS",
+      "classe_completa": "MS",
+      "num_proc_classe": "31261",
+      "numero_formatado": "31261",
+      "uf": "DF",
+      "processo": "MS 31.261/DF",
+      "cabecalho_pdf": "MANDADO DE SEGURANÇA Nº 31261 - DF (2025/0148340-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Concurso para servidor",
+      "resultado_oficial": "CONCEDEU A ORDEM",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Impetrante",
+          "nome": "HENRIQUE BERNINI"
+        },
+        {
+          "papel": "Impetrado",
+          "nome": "MINISTRA DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO"
+        }
+      ],
+      "advogados": [
+        "DENIELE RIBEIRO MENDONÇA - SP518444"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "DENIELE RIBEIRO MENDONÇA",
+          "partes": "HENRIQUE BERNINI"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "num_registro": "202601533949",
+      "registro_formatado": "2026/0153394-9",
+      "sg_classe": "MS",
+      "classe_completa": "MS",
+      "num_proc_classe": "32185",
+      "numero_formatado": "32185",
+      "uf": "DF",
+      "processo": "MS 32.185/DF",
+      "cabecalho_pdf": "MANDADO DE SEGURANÇA Nº 32185 - DF (2026/0153394-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Remoção",
+      "resultado_oficial": "DENEGOU A SEGURANÇA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Impetrante",
+          "nome": "ANDRE SABOYA MARTINS"
+        },
+        {
+          "papel": "Impetrado",
+          "nome": "MINISTRO DAS RELAÇÕES EXTERIORES"
+        }
+      ],
+      "advogados": [
+        "JOÃO HENRIQUE SABOYA MARTINS - CE012422"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "JOÃO HENRIQUE SABOYA MARTINS",
+          "partes": "ANDRE SABOYA MARTINS"
+        },
+        {
+          "advogado": "MARCELO ELIAS DE ANDRADE",
+          "partes": "UNIÃO"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "num_registro": "202501609861",
+      "registro_formatado": "2025/0160986-1",
+      "sg_classe": "MS",
+      "classe_completa": "MS",
+      "num_proc_classe": "31287",
+      "numero_formatado": "31287",
+      "uf": "DF",
+      "processo": "MS 31.287/DF",
+      "cabecalho_pdf": "MANDADO DE SEGURANÇA Nº 31287 - DF (2025/0160986-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "II/ Imposto sobre Importação",
+      "resultado_oficial": "DENEGOU A SEGURANÇA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Impetrante",
+          "nome": "ASSOCIACAO PELA INDUSTRIA E COMERCIO ESPORTIVO-"
+        },
+        {
+          "papel": "Impetrado",
+          "nome": "MINISTRO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E"
+        },
+        {
+          "papel": "Impetrado",
+          "nome": "COORDENADOR-GERAL DE ADMINISTRAÇÃO ADUANEIRA"
+        }
+      ],
+      "advogados": [
+        "PRISCILA FARICELLI DE MENDONÇA - SP234846"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "PRISCILA FARICELLI DE MENDONÇA",
+          "partes": "ASSOCIACAO PELA INDUSTRIA E COMERCIO ESPORTIVO- APICE"
+        }
+      ]
+    },
+    {
+      "item": 6,
+      "num_registro": "202203942951",
+      "registro_formatado": "2022/0394295-1",
+      "sg_classe": "AR",
+      "classe_completa": "AR",
+      "num_proc_classe": "7416",
+      "numero_formatado": "7416",
+      "uf": "DF",
+      "processo": "AR 7.416/DF",
+      "cabecalho_pdf": "AÇÃO RESCISÓRIA Nº 7416 - DF (2022/0394295-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Cofins",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Autor",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Réu",
+          "nome": "FAN DISTRIBUIDORA DE PETRÓLEO LTDA"
+        }
+      ],
+      "advogados": [
+        "PEDRO ELEUTÉRIO DE ALBUQUERQUE E OUTRO(S) - CE014124",
+        "LUIZ GUSTAVO ANTÔNIO SILVA BICHARA - RJ112310",
+        "RICARDO ZAMARIOLA JUNIOR - SP224324"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LUCIANO DE SOUZA GODOY",
+          "partes": "IPIRANGA PRODUTOS DE PETRÓLEO S.A"
+        },
+        {
+          "advogado": "GUILHERME CARDOSO LEITE",
+          "partes": "ASSOCIAÇÃO BRASILEIRA DE DOWNSTREAM ABD"
+        },
+        {
+          "advogado": "RENATO CALMON ALVES BERNARDO DA CUNHA",
+          "partes": "FAN DISTRIBUIDORA DE PETRÓLEO LTDA"
+        },
+        {
+          "advogado": "MARCELO KOSMINSKY",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 7,
+      "num_registro": "202102612724",
+      "registro_formatado": "2021/0261272-4",
+      "sg_classe": "AR",
+      "classe_completa": "AR",
+      "num_proc_classe": "7054",
+      "numero_formatado": "7054",
+      "uf": "DF",
+      "processo": "AR 7.054/DF",
+      "cabecalho_pdf": "AÇÃO RESCISÓRIA Nº 7054 - DF (2021/0261272-4)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Desapropriação Indireta",
+      "resultado_oficial": "JULGOU IMPROCEDENTE",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Autor",
+          "nome": "MARCOS CASANOVA"
+        },
+        {
+          "papel": "Autor",
+          "nome": "MAURO CASANOVA"
+        },
+        {
+          "papel": "Autor",
+          "nome": "AURORA SOGARI CASANOVA - ESPÓLIO"
+        },
+        {
+          "papel": "Autor",
+          "nome": "CARLOS IZIDORIO CASANOVA - ESPÓLIO"
+        },
+        {
+          "papel": "Réu",
+          "nome": "ESTADO DE SANTA CATARINA"
+        }
+      ],
+      "advogados": [
+        "RODRIGO PEREIRA DE MELLO - DF010417",
+        "MARCELO LUIS KOCH - SC059326"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "FABRICIO DE ALENCASTRO GAERTNER",
+          "partes": "MARCOS CASANOVA; AURORA SOGARI CASANOVA; MAURO CASANOVA; CARLOS IZIDORIO CASANOVA"
+        }
+      ]
+    },
+    {
+      "item": 8,
+      "num_registro": "201300426559",
+      "registro_formatado": "2013/0042655-9",
+      "sg_classe": "EAR",
+      "classe_completa": "EMBARGOS INFRINGENTES EM AR",
+      "num_proc_classe": "2075",
+      "numero_formatado": "2075",
+      "uf": "PR",
+      "processo": "EMBARGOS INFRINGENTES EM AR 2.075/PR",
+      "cabecalho_pdf": "EMBARGOS INFRINGENTES EM AR Nº 2075 - PR (2013/0042655-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Desapropriação Indireta",
+      "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "MADEIREIRA SÃO PEDRO DE VACARIA LTDA"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "ESTADO DO PARANÁ"
+        }
+      ],
+      "advogados": [
+        "PAULO MACARINI - PR004021"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "CESAR AUGUSTO BINDER",
+          "partes": "ESTADO DO PARANÁ"
+        },
+        {
+          "advogado": "ANDRÉA SOARES DA ROCHA",
+          "partes": "MADEIREIRA SÃO PEDRO DE VACARIA LTDA"
+        }
+      ]
+    },
+    {
+      "item": 9,
+      "num_registro": "202403922513",
+      "registro_formatado": "2024/0392251-3",
+      "sg_classe": "AR",
+      "classe_completa": "AR",
+      "num_proc_classe": "7793",
+      "numero_formatado": "7793",
+      "uf": "BA",
+      "processo": "AR 7.793/BA",
+      "cabecalho_pdf": "AÇÃO RESCISÓRIA Nº 7793 - BA (2024/0392251-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Francisco Falcão",
+      "vistor": "",
+      "ministro_sessao": "Min. Francisco Falcão",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Autor",
+          "nome": "JOSE ROBERTO DA SILVA LEMOS"
+        },
+        {
+          "papel": "Réu",
+          "nome": "ESTADO DA BAHIA"
+        }
+      ],
+      "advogados": [
+        "LUIZ CARLOS DE SEIXAS OLIVEIRA FILHO - BA031121"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LUIZ PAULO ROMANO",
+          "partes": "ESTADO DA BAHIA"
+        },
+        {
+          "advogado": "LUIZ CARLOS DE SEIXAS OLIVEIRA FILHO",
+          "partes": "JOSE ROBERTO DA SILVA LEMOS"
+        }
+      ]
+    },
+    {
+      "item": 10,
+      "num_registro": "201901431677",
+      "registro_formatado": "2019/0143167-7",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2228998",
+      "numero_formatado": "2228998",
+      "uf": "SP",
+      "processo": "REsp 2.228.998/SP",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2228998 - SP (2019/0143167-7)",
+      "tema_repetitivo": "",
+      "relator": "Min. Francisco Falcão",
+      "vistor": "",
+      "ministro_sessao": "Min. Francisco Falcão",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Cofins",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "TIM CELULAR S.A"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "EDUARDO MANEIRA - MG053500"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "JOÃO RAFAEL LAVANDEIRA GÂNDARA DE CARVALHO",
+          "partes": "TIM CELULAR S.A"
+        },
+        {
+          "advogado": "THIAGO KERENSKY DE MORAIS COUTO",
+          "partes": "FAZENDA NACIONAL"
+        }
+      ]
+    },
+    {
+      "item": 11,
+      "num_registro": "201903510913",
+      "registro_formatado": "2019/0351091-3",
+      "sg_classe": "EAREsp",
+      "classe_completa": "EAREsp",
+      "num_proc_classe": "1626062",
+      "numero_formatado": "1626062",
+      "uf": "SP",
+      "processo": "EAREsp 1.626.062/SP",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL Nº 1626062 - SP (2019/0351091-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "Min. Paulo Sérgio Domingues",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "IRPF/Imposto de Renda de Pessoa Física",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "FRANCISCO RAYMUNDO"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "ANTONIO DE PÁDUA SOUBHIE NOGUEIRA - SP139461"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 12,
+      "num_registro": "202501957950",
+      "registro_formatado": "2025/0195795-0",
+      "sg_classe": "AR",
+      "classe_completa": "AR",
+      "num_proc_classe": "7907",
+      "numero_formatado": "7907",
+      "uf": "MA",
+      "processo": "AR 7.907/MA",
+      "cabecalho_pdf": "AÇÃO RESCISÓRIA Nº 7907 - MA (2025/0195795-0)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "Min. Regina Helena Costa",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Desapropriação por Interesse Social para Reforma Agrária",
+      "resultado_oficial": "DEU PARCIAL PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Autor",
+          "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+        },
+        {
+          "papel": "Réu",
+          "nome": "DJALMA TENORIO BRITO - ESPÓLIO"
+        },
+        {
+          "papel": "Réu",
+          "nome": "RAIMUNDO ALBERTO DA COSTA - ESPÓLIO"
+        },
+        {
+          "papel": "Réu",
+          "nome": "GLEYSON GADELHA MELO"
+        }
+      ],
+      "advogados": [
+        "PAULO GUSTAVO MEDEIROS CARVALHO - DF014258",
+        "GLEYSON GADELHA MELO - MA005280"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 13,
+      "num_registro": "202501174923",
+      "registro_formatado": "2025/0117492-3",
+      "sg_classe": "EREsp",
+      "classe_completa": "EREsp",
+      "num_proc_classe": "2215482",
+      "numero_formatado": "2215482",
+      "uf": "SP",
+      "processo": "EREsp 2.215.482/SP",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 2215482 - SP (2025/0117492-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "PIS",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "LINS AGROINDUSTRIAL S.A."
+        },
+        {
+          "papel": "Embargado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "PAULO CAMARGO TEDESCO - SP234916",
+        "JULIANA DE SAMPAIO LEMOS - SP146959"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 14,
+      "num_registro": "202502142402",
+      "registro_formatado": "2025/0214240-2",
+      "sg_classe": "AR",
+      "classe_completa": "AR",
+      "num_proc_classe": "7922",
+      "numero_formatado": "7922",
+      "uf": "MT",
+      "processo": "AR 7.922/MT",
+      "cabecalho_pdf": "AÇÃO RESCISÓRIA Nº 7922 - MT (2025/0214240-2)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "Min. Regina Helena Costa",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Desapropriação",
+      "resultado_oficial": "DEU PARCIAL PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Autor",
+          "nome": "INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA"
+        },
+        {
+          "papel": "Réu",
+          "nome": "ANTONIO DE MELLO NUNES - ESPÓLIO"
+        },
+        {
+          "papel": "Réu",
+          "nome": "AFRA PERES DE MELLO NUNES"
+        },
+        {
+          "papel": "Réu",
+          "nome": "MARCELO BERTOLDO BARCHET"
+        }
+      ],
+      "advogados": [
+        "MARCELO BERTOLDO BARCHET - MT005665O"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 15,
+      "num_registro": "202404315947",
+      "registro_formatado": "2024/0431594-7",
+      "sg_classe": "EREsp",
+      "classe_completa": "EREsp",
+      "num_proc_classe": "2182950",
+      "numero_formatado": "2182950",
+      "uf": "SE",
+      "processo": "EREsp 2.182.950/SE",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 2182950 - SE (2024/0431594-7)",
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "PIS",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "DUAS RODAS NORDESTE INDUSTRIA DE ALIMENTOS LTDA"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "SACHA CALMON NAVARRO COELHO - MG009007",
+        "TULIO FREITAS DO EGITO COELHO - DF004111"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 16,
+      "num_registro": "201803187621",
+      "registro_formatado": "2018/0318762-1",
+      "sg_classe": "AR",
+      "classe_completa": "AgInt na AR",
+      "num_proc_classe": "6368",
+      "numero_formatado": "6368",
+      "uf": "SP",
+      "processo": "AgInt na AR 6.368/SP",
+      "cabecalho_pdf": "AgInt na AÇÃO RESCISÓRIA Nº 6368 - SP (2018/0318762-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Francisco Falcão",
+      "vistor": "",
+      "ministro_sessao": "Min. Francisco Falcão",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Cofins",
+      "resultado_oficial": "ADIAMENTO DE JULGAMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "CAOA CEAZA COMÉRCIO DE VEÍCULOS LTDA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "ALESSANDER DA MOTA MENDES - ES010405",
+        "PROCURADORIA-GERAL DA FAZENDA NACIONAL"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 17,
+      "num_registro": "201201165981",
+      "registro_formatado": "2012/0116598-1",
+      "sg_classe": "EAR",
+      "classe_completa": "AgRg nos EMBARGOS INFRINGENTES EM AR",
+      "num_proc_classe": "2702",
+      "numero_formatado": "2702",
+      "uf": "MG",
+      "processo": "AgRg nos EMBARGOS INFRINGENTES EM AR 2.702/MG",
+      "cabecalho_pdf": "AgRg nos EMBARGOS INFRINGENTES EM AR Nº 2702 - MG (2012/0116598-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "ICMS/ Imposto sobre Circulação de Mercadorias",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ARCELORMITTAL INOX BRASIL S/A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DE MINAS GERAIS"
+        }
+      ],
+      "advogados": [
+        "CARLOS MARIO DA SILVA VELLOSO FILHO E OUTRO(S) -",
+        "CARLOS VICTOR MUZZI FILHO E OUTRO(S) - MG059966"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "CARLOS MARIO DA SILVA VELLOSO FILHO",
+          "partes": "ARCELORMITTAL INOX BRASIL S/A"
+        }
+      ]
+    },
+    {
+      "item": 18,
+      "num_registro": "202601276753",
+      "registro_formatado": "2026/0127675-3",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "220775",
+      "numero_formatado": "220775",
+      "uf": "SC",
+      "processo": "AgInt no CC 220.775/SC",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 220775 - SC (2026/0127675-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Fornecimento de medicamentos",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DE SANTA CATARINA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUÍZO DE DIREITO DA UNIDADE ESTADUAL DE SAÚDE"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUÍZO FEDERAL DA 1A VARA DE BRUSQUE - SJ/SC"
+        }
+      ],
+      "advogados": [
+        "ÉRICK CASAGRANDE - SC066553"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 19,
+      "num_registro": "202505039071",
+      "registro_formatado": "2025/0503907-1",
+      "sg_classe": "AR",
+      "classe_completa": "AR",
+      "num_proc_classe": "8069",
+      "numero_formatado": "8069",
+      "uf": "RJ",
+      "processo": "AR 8.069/RJ",
+      "cabecalho_pdf": "AÇÃO RESCISÓRIA Nº 8069 - RJ (2025/0503907-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Improbidade Administrativa",
+      "resultado_oficial": "JULGOU IMPROCEDENTE",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Autor",
+          "nome": "FERNANDO SARMENTO BASTOS"
+        },
+        {
+          "papel": "Réu",
+          "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        }
+      ],
+      "advogados": [
+        "GABRIEL PORTELLA FAGUNDES NETO - DF020084"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 20,
+      "num_registro": "202601669441",
+      "registro_formatado": "2026/0166944-1",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "221376",
+      "numero_formatado": "221376",
+      "uf": "SC",
+      "processo": "AgInt no CC 221.376/SC",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 221376 - SC (2026/0166944-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Sem registro na ANVISA",
+      "resultado_oficial": "NÃO CONHECEU",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DE SANTA CATARINA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUÍZO DE DIREITO DA 1A VARA CÍVEL DE PORTO BELO - SC"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUÍZO FEDERAL DA 1A VARA DE BRUSQUE - SJ/SC"
+        }
+      ],
+      "advogados": [
+        "RONALDO SOARES DE PAULA - SC055113"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 21,
+      "num_registro": "202504159659",
+      "registro_formatado": "2025/0415965-9",
+      "sg_classe": "AR",
+      "classe_completa": "EDcl na AR",
+      "num_proc_classe": "8020",
+      "numero_formatado": "8020",
+      "uf": "PE",
+      "processo": "EDcl na AR 8.020/PE",
+      "cabecalho_pdf": "EDcl na AÇÃO RESCISÓRIA Nº 8020 - PE (2025/0415965-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "COFINS - Importação",
+      "resultado_oficial": "REJEITOU OS EMBARGOS DE DECLARAÇÃO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "TECPEL IMPORTACAO E DISTRIBUICAO DE PAPEIS LTDA"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "EDUARDO PORANGABA TEIXEIRA - PE018895"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 22,
+      "num_registro": "202601652904",
+      "registro_formatado": "2026/0165290-4",
+      "sg_classe": "CC",
+      "classe_completa": "CC",
+      "num_proc_classe": "221347",
+      "numero_formatado": "221347",
+      "uf": "RJ",
+      "processo": "CC 221.347/RJ",
+      "cabecalho_pdf": "CONFLITO DE COMPETÊNCIA Nº 221347 - RJ (2026/0165290-4)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Não Discriminação",
+      "resultado_oficial": "CONHECEU DO CONFLITO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Suscitante",
+          "nome": "JUIZO FEDERAL DA 2A VARA DA SEÇÃO JUDICIÁRIA DO"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "NÃO INDICADO"
+        }
+      ],
+      "advogados": [
+        "FERNANDA APARECIDA GONÇALVES PERREGIL - SP236036",
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 23,
+      "num_registro": "202602930124",
+      "registro_formatado": "2026/0293012-4",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "222920",
+      "numero_formatado": "222920",
+      "uf": "SP",
+      "processo": "AgInt no CC 222.920/SP",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 222920 - SP (2026/0293012-4)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Sem registro na ANVISA",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DE SÃO PAULO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUIZO DE DIREITO DA VARA DA INFÂNCIA E DA JUVENTUDE"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUÍZO FEDERAL DA 11A VARA CÍVEL DA SEÇÃO JUDICIÁRIA"
+        }
+      ],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 24,
+      "num_registro": "202601894659",
+      "registro_formatado": "2026/0189465-9",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "221691",
+      "numero_formatado": "221691",
+      "uf": "SC",
+      "processo": "AgInt no CC 221.691/SC",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 221691 - SC (2026/0189465-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Sem registro na ANVISA",
+      "resultado_oficial": "NÃO CONHECEU",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DE SANTA CATARINA"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUÍZO DE DIREITO DA 2A VARA DA FAZENDA PÚBLICA DE"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUÍZO FEDERAL DA 1A VARA DE BRUSQUE - SJ/SC"
+        }
+      ],
+      "advogados": [
+        "TAIS ELIAS CORREA - SP351016"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 25,
+      "num_registro": "202602820423",
+      "registro_formatado": "2026/0282042-3",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "222806",
+      "numero_formatado": "222806",
+      "uf": "PR",
+      "processo": "AgInt no CC 222.806/PR",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 222806 - PR (2026/0282042-3)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Fornecimento de medicamentos",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DO PARANÁ"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUÍZO DE DIREITO DA VARA DE FAMÍLIA E SUCESSÕES DE"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUÍZO FEDERAL DA SEÇÃO JUDICIÁRIA DO ESTADO DO"
+        }
+      ],
+      "advogados": [
+        "ALEX JOSÉ CIBOTO - PR053823"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 26,
+      "num_registro": "202600346007",
+      "registro_formatado": "2026/0034600-7",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "219321",
+      "numero_formatado": "219321",
+      "uf": "MG",
+      "processo": "AgInt no CC 219.321/MG",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 219321 - MG (2026/0034600-7)",
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Fornecimento de medicamentos",
+      "resultado_oficial": "NÃO CONHECEU",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DE MINAS GERAIS"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL E CRIMINAL"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUIZO DE DIREITO DA VARA UNICA DE ENTRE RIOS DE MINAS"
+        }
+      ],
+      "advogados": [
+        "LUCAS LEONARDO FONSECA E SILVA - MG097154",
+        "DOGLAS ANTONIO DA SILVA - MG153228",
+        "JOSIENE APARECIDA DE SOUZA CAMARGO - MG165456"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 27,
+      "num_registro": "202404607780",
+      "registro_formatado": "2024/0460778-0",
+      "sg_classe": "PUIL",
+      "classe_completa": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+      "num_proc_classe": "4579",
+      "numero_formatado": "4579",
+      "uf": "SC",
+      "processo": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI 4.579/SC",
+      "cabecalho_pdf": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI Nº 4579 - SC (2024/0460778-0)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Acidente de Trânsito",
+      "resultado_oficial": "INDEFERIU O PEDIDO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Requerente",
+          "nome": "MUNICIPIO DE NAVEGANTES"
+        },
+        {
+          "papel": "Requerido",
+          "nome": "ADRISSON DE SOUSA ALENCAR"
+        }
+      ],
+      "advogados": [
+        "GABRIEL FELIPE MARTINS - SC055325",
+        "GENI ALBA REBELLO - SC013310"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 28,
+      "num_registro": "202401533561",
+      "registro_formatado": "2024/0153356-1",
+      "sg_classe": "EREsp",
+      "classe_completa": "EREsp",
+      "num_proc_classe": "2140230",
+      "numero_formatado": "2140230",
+      "uf": "RS",
+      "processo": "EREsp 2.140.230/RS",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM RESP Nº 2140230 - RS (2024/0153356-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Urgência",
+      "resultado_oficial": "DEU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "INSTITUTO DE ASSISTENCIA A SAUDE DOS SERVIDORES"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "ZELI DE FIGUEIREDO FERNANDES"
+        }
+      ],
+      "advogados": [
+        "ANDRÉ AZAMBUJA DE VASCONCELLOS CHAVES - RS030642"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 29,
+      "num_registro": "202402234781",
+      "registro_formatado": "2024/0223478-1",
+      "sg_classe": "EAREsp",
+      "classe_completa": "EAREsp",
+      "num_proc_classe": "2672672",
+      "numero_formatado": "2672672",
+      "uf": "SP",
+      "processo": "EAREsp 2.672.672/SP",
+      "cabecalho_pdf": "EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL Nº 2672672 - SP (2024/0223478-1)",
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis",
+      "resultado_oficial": "DEU PROVIMENTO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "TREXX PROPERTIES EMPREENDIMENTOS IMOBILIARIOS LTDA."
+        },
+        {
+          "papel": "Embargado",
+          "nome": "MUNICÍPIO DE SÃO PAULO"
+        }
+      ],
+      "advogados": [
+        "VICTOR MIRANDA DE TOLEDO - SP243323",
+        "MARCO AURÉLIO NADAI SILVINO - SP299506"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 30,
+      "num_registro": "202001283362",
+      "registro_formatado": "2020/0128336-2",
+      "sg_classe": "AR",
+      "classe_completa": "AR",
+      "num_proc_classe": "6769",
+      "numero_formatado": "6769",
+      "uf": "DF",
+      "processo": "AR 6.769/DF",
+      "cabecalho_pdf": "AÇÃO RESCISÓRIA Nº 6769 - DF (2020/0128336-2)",
+      "tema_repetitivo": "",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Restabelecimento",
+      "resultado_oficial": "JULGOU IMPROCEDENTE",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Autor",
+          "nome": "SÍLVIA DIAS SALGADO RODRIGUES"
+        },
+        {
+          "papel": "Réu",
+          "nome": "ESTADO DO RIO DE JANEIRO"
+        }
+      ],
+      "advogados": [
+        "GUILHERME LUIZ DA VEIGA PADUANO - RJ146097"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 31,
+      "num_registro": "202601720659",
+      "registro_formatado": "2026/0172065-9",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "221459",
+      "numero_formatado": "221459",
+      "uf": "SC",
+      "processo": "AgInt no CC 221.459/SC",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 221459 - SC (2026/0172065-9)",
+      "tema_repetitivo": "",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Fornecimento de medicamentos",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DE SANTA CATARINA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUÍZO DE DIREITO DA VARA ESTADUAL DE SAUDE PUBLICA E"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUÍZO FEDERAL DA 1A VARA DE BRUSQUE - SJ/SC"
+        }
+      ],
+      "advogados": [
+        "LETÍCIA DA SILVA BRÍGIDO - RS125726"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 32,
+      "num_registro": "202401320098",
+      "registro_formatado": "2024/0132009-8",
+      "sg_classe": "CC",
+      "classe_completa": "AgInt no CC",
+      "num_proc_classe": "204395",
+      "numero_formatado": "204395",
+      "uf": "RS",
+      "processo": "AgInt no CC 204.395/RS",
+      "cabecalho_pdf": "AgInt no CONFLITO DE COMPETÊNCIA Nº 204395 - RS (2024/0132009-8)",
+      "tema_repetitivo": "",
+      "relator": "Min. Teodoro Silva Santos",
+      "vistor": "",
+      "ministro_sessao": "Min. Teodoro Silva Santos",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "Oncológico",
+      "resultado_oficial": "NEGOU PROVIMENTO AO AGRAVO INTERNO",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ESTADO DO RIO GRANDE DO SUL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        },
+        {
+          "papel": "Suscitante",
+          "nome": "JUÍZO DE DIREITO DA 6A VARA CÍVEL ESPECIALIZADA EM"
+        },
+        {
+          "papel": "Suscitado",
+          "nome": "JUÍZO FEDERAL DA 2A VARA DE PELOTAS - SJ/RS"
+        }
+      ],
+      "advogados": [
+        "JOSE ELINALDO RODRIGUES DE SOUSA - RS031471",
+        "CARLOS ANTONIO VECCHI - RS030958",
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 33,
+      "num_registro": "202600514555",
+      "registro_formatado": "2026/0051455-5",
+      "sg_classe": "Rcl",
+      "classe_completa": "Rcl",
+      "num_proc_classe": "50883",
+      "numero_formatado": "50883",
+      "uf": "GO",
+      "processo": "Rcl 50.883/GO",
+      "cabecalho_pdf": "RECLAMAÇÃO Nº 50883 - GO (2026/0051455-5)",
+      "tema_repetitivo": "",
+      "relator": "Min. Afrânio Vilela",
+      "vistor": "",
+      "ministro_sessao": "Min. Afrânio Vilela",
+      "categoria": "Bloco",
+      "ind_categoria": "BL",
+      "assunto": "PIS - Cofins",
+      "resultado_oficial": "NÃO CONHECEU",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [
+        "JOSÉ CARLOS BRAGA MONTEIRO - RS045707"
+      ],
+      "sustentacoes_orais": []
+    }
+  ]
+}

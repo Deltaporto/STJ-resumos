@@ -1,6 +1,27 @@
 {
   "videos": [
     {
+      "video_id": "n7buwQdHeUY",
+      "title": "Primeira Seção - STJ - 05/11/2026",
+      "upload_date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=n7buwQdHeUY",
+      "duration": 14610,
+      "orgao": "primeira_secao",
+      "processado_em": "2026-11-09T12:58:16.608752",
+      "arquivos": {
+        "pauta_json": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_pauta.json",
+        "pauta_md": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_pauta.md",
+        "pauta_pdf": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_pauta.pdf",
+        "transcricao_bruta": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_transcricao_revisada.md",
+        "transcricao_revisada_docx": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_transcricao_revisada.docx",
+        "resumo_bruto": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_resumo_bruto.md",
+        "resumo": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_resumo.md",
+        "resumo_meta": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_resumo_meta.json",
+        "classificacao_flash": "primeira_secao/2026-11-05_primeira_secao_n7buwQdHeUY_classificacao_flash.json"
+      }
+    },
+    {
       "video_id": "0FGesOiZWDQ",
       "title": "Primeira Turma - STJ -  03/11/2026",
       "upload_date": "2026-11-03",
@@ -82,6 +103,6 @@
       }
     }
   ],
-  "ultima_atualizacao": "2026-11-04T17:16:03.847660",
-  "total_videos": 4
+  "ultima_atualizacao": "2026-11-09T13:12:01.163358",
+  "total_videos": 5
 }
