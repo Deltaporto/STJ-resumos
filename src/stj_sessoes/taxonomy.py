@@ -100,6 +100,7 @@ MATERIAS_GABINETE: tuple[MateriaGabinete, ...] = (
 MATERIA_POR_ID: dict[int, MateriaGabinete] = {m.id: m for m in MATERIAS_GABINETE}
 MATERIA_PADRAO = MATERIA_POR_ID[5]
 
+# Ministros Titulares em exercício na Primeira Turma e Primeira Seção (Direito Público)
 MINISTROS_TITULARES_1A_SECAO: tuple[str, ...] = (
     "Min. Herman Benjamin",
     "Min. Regina Helena Costa",
@@ -113,8 +114,17 @@ MINISTROS_TITULARES_1A_SECAO: tuple[str, ...] = (
     "Min. Afrânio Vilela",
     "Min. Maria Thereza de Assis Moura",
     "Min. Marco Aurélio Bellizze",
+)
+
+# Ministros aposentados ou históricos que ainda figuram em rescisórias, embargos ou acórdãos paradigmas
+MINISTROS_HISTORICOS_1A_SECAO: tuple[str, ...] = (
     "Min. Assusete Magalhães",
     "Min. Og Fernandes",
+)
+
+TODOS_MINISTROS_CONHECIDOS_1A_SECAO: tuple[str, ...] = (
+    *MINISTROS_TITULARES_1A_SECAO,
+    *MINISTROS_HISTORICOS_1A_SECAO,
 )
 
 

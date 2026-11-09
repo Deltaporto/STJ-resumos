@@ -15,6 +15,7 @@ from pypdf import PdfReader
 from stj_sessoes.config import PAUTA_CACHE_DIR, STJ_CALENDARIO_API_BASE
 from stj_sessoes.taxonomy import (
     MINISTROS_TITULARES_1A_SECAO,
+    TODOS_MINISTROS_CONHECIDOS_1A_SECAO,
     nome_orgao_canonico,
     normalizar_chave,
 )
@@ -71,7 +72,7 @@ def formatar_nome_ministro_canonico(nome_bruto: str) -> str:
     limpo = re.sub(r"\s+", " ", str(nome_bruto)).strip()
     chave = normalizar_chave(limpo)
 
-    for titular in MINISTROS_TITULARES_1A_SECAO:
+    for titular in TODOS_MINISTROS_CONHECIDOS_1A_SECAO:
         sem_prefixo = titular.replace("Min. ", "")
         if normalizar_chave(sem_prefixo) in chave:
             return titular
