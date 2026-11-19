@@ -1,0 +1,1459 @@
+{
+  "classifications": [
+    {
+      "index": 1,
+      "materia_id": 14,
+      "materia": {
+        "id": 14,
+        "code": "14. Saúde Pública",
+        "short": "Saúde Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "materia_id": 14,
+      "materia": {
+        "id": 14,
+        "code": "14. Saúde Pública",
+        "short": "Saúde Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "materia_id": 14,
+      "materia": {
+        "id": 14,
+        "code": "14. Saúde Pública",
+        "short": "Saúde Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "materia_id": 14,
+      "materia": {
+        "id": 14,
+        "code": "14. Saúde Pública",
+        "short": "Saúde Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "materia_id": 3,
+      "materia": {
+        "id": 3,
+        "code": "3. Reforma Agrária",
+        "short": "Reforma Agrária"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "materia_id": 3,
+      "materia": {
+        "id": 3,
+        "code": "3. Reforma Agrária",
+        "short": "Reforma Agrária"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "materia_id": 3,
+      "materia": {
+        "id": 3,
+        "code": "3. Reforma Agrária",
+        "short": "Reforma Agrária"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "materia_id": 3,
+      "materia": {
+        "id": 3,
+        "code": "3. Reforma Agrária",
+        "short": "Reforma Agrária"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "materia_id": 7,
+      "materia": {
+        "id": 7,
+        "code": "7. Responsabilidade Civil da Administração",
+        "short": "Responsabilidade Civil da Administração"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "materia_id": 7,
+      "materia": {
+        "id": 7,
+        "code": "7. Responsabilidade Civil da Administração",
+        "short": "Responsabilidade Civil da Administração"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "materia_id": 7,
+      "materia": {
+        "id": 7,
+        "code": "7. Responsabilidade Civil da Administração",
+        "short": "Responsabilidade Civil da Administração"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Marco Aurélio Bellizze",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Marco Aurélio Bellizze",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "materia_id": 14,
+      "materia": {
+        "id": 14,
+        "code": "14. Saúde Pública",
+        "short": "Saúde Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "materia_id": 14,
+      "materia": {
+        "id": 14,
+        "code": "14. Saúde Pública",
+        "short": "Saúde Pública"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Marco Aurélio Bellizze",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Marco Aurélio Bellizze",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Marco Aurélio Bellizze",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 24,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 25,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 26,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 27,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 29,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 30,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 31,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 32,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 33,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 34,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 35,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 36,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 37,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 38,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 39,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 40,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 41,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 42,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 43,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 44,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 45,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 46,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 47,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 48,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 49,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 50,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 51,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 52,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 53,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 54,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 55,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 56,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 57,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Francisco Falcão",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 58,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Francisco Falcão",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 59,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Francisco Falcão",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 60,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Francisco Falcão",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 61,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Francisco Falcão",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 62,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Francisco Falcão",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 63,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Francisco Falcão",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 64,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 65,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 66,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 67,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 68,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 69,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 70,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 71,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Maria Thereza de Assis Moura",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 72,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Maria Thereza de Assis Moura",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 73,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 74,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 75,
+      "materia_id": 11,
+      "materia": {
+        "id": 11,
+        "code": "11. Direito Previdenciário",
+        "short": "Direito Previdenciário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Teodoro Silva Santos",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 76,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 77,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Afrânio Vilela",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "classifications": [
+    {
+      "index": 1,
+      "materia_id": 12,
+      "materia": {
+        "id": 12,
+        "code": "12. Direito Ambiental Urbanístico",
+        "short": "Direito Ambiental Urbanístico"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "materia_id": 12,
+      "materia": {
+        "id": 12,
+        "code": "12. Direito Ambiental Urbanístico",
+        "short": "Direito Ambiental Urbanístico"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 6,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 7,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Herman Benjamin",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": true
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 9,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 10,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 11,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 12,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 13,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 14,
+      "materia_id": 2,
+      "materia": {
+        "id": 2,
+        "code": "2. Desapropriação / Intervenção do Estado",
+        "short": "Desapropriação / Intervenção do Estado"
+      },
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 15,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 16,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 17,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 18,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 19,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 20,
+      "materia_id": 2,
+      "materia": {
+        "id": 2,
+        "code": "2. Desapropriação / Intervenção do Estado",
+        "short": "Desapropriação / Intervenção do Estado"
+      },
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 21,
+      "materia_id": 12,
+      "materia": {
+        "id": 12,
+        "code": "12. Direito Ambiental Urbanístico",
+        "short": "Direito Ambiental Urbanístico"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 22,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 23,
+      "materia_id": 8,
+      "materia": {
+        "id": 8,
+        "code": "8. Direito Tributário",
+        "short": "Direito Tributário"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 24,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [
+        {
+          "name": "Min. Sérgio Kukina",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 25,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 26,
+      "materia_id": 1,
+      "materia": {
+        "id": 1,
+        "code": "1. Improbidade Administrativa",
+        "short": "Improbidade Administrativa"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 27,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Regina Helena Costa",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": true,
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "materia_id": 12,
+      "materia": {
+        "id": 12,
+        "code": "12. Direito Ambiental Urbanístico",
+        "short": "Direito Ambiental Urbanístico"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 29,
+      "materia_id": 12,
+      "materia": {
+        "id": 12,
+        "code": "12. Direito Ambiental Urbanístico",
+        "short": "Direito Ambiental Urbanístico"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 30,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 31,
+      "materia_id": null,
+      "materia": null,
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 32,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 33,
+      "materia_id": 4,
+      "materia": {
+        "id": 4,
+        "code": "4. Servidor Público Civil e Militar",
+        "short": "Servidor Público Civil e Militar"
+      },
+      "relatores": [
+        {
+          "name": "Min. Gurgel de Faria",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": false
+    },
+    {
+      "index": 34,
+      "materia_id": 5,
+      "materia": {
+        "id": 5,
+        "code": "5. Atos Administrativos",
+        "short": "Atos Administrativos"
+      },
+      "relatores": [
+        {
+          "name": "Min. Paulo Sérgio Domingues",
+          "role": "titular",
+          "category_label": "Ministros Titulares",
+          "is_herman": false
+        }
+      ],
+      "has_herman": false,
+      "is_relevant": true
+    }
+  ]
+}

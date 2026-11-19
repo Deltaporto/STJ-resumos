@@ -87,14 +87,20 @@ def atualizar_index_json(output_dir: Path, video: VideoInfo, arquivos: dict[str,
 
     # Mantém os arquivos já registrados que esta execução não regerou
     # (ex.: --apenas-transcrever não pode apagar o resumo já existente)
-    anteriores = next(
-        (v.get("arquivos") or {} for v in index.get("videos", []) if v.get("video_id") == video.video_id),
-        {},
+    entrada_anterior = next(
+        (v for v in index.get("videos", []) if v.get("video_id") == video.video_id), {}
     )
+    anteriores = entrada_anterior.get("arquivos") or {}
+    controle_publicacao = {
+        chave: entrada_anterior[chave]
+        for chave in ("publicacao_restrita", "manifestacoes_explicitas")
+        if chave in entrada_anterior
+    }
     index["videos"] = [v for v in index.get("videos", []) if v.get("video_id") != video.video_id]
     index["videos"].append(
         {
             **video.to_dict(),
+            **controle_publicacao,
             "processado_em": datetime.now().isoformat(),
             "arquivos": {**anteriores, **arquivos},
         }

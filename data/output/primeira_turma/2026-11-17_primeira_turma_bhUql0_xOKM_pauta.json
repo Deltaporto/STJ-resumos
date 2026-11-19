@@ -1,0 +1,1001 @@
+{
+  "seq_sessao": 2050236446,
+  "orgao_slug": "primeira_turma",
+  "cod_orgao_stj": "T1",
+  "nome_orgao": "Primeira Turma",
+  "data_iso": "2026-11-17",
+  "data_br": "17/11/2026",
+  "tipo_sessao": "Ordinária",
+  "hora_inicio": "",
+  "url_pauta_pdf": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/408593326/pdf",
+  "seq_doc_pauta": 408593326,
+  "tem_pdf_original": true,
+  "url_ata_pdf": "",
+  "documentos": [
+    {
+      "seq_documento": 408593326,
+      "cod_tipo": 40,
+      "tipo": "PAUTA DE JULGAMENTOS",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/documentos/408593326/pdf"
+    },
+    {
+      "seq_documento": null,
+      "cod_tipo": 0,
+      "tipo": "SUST. ORAL",
+      "url": "https://calendario-sessoes.web.stj.jus.br/api/sessoes-julgamento/2050236446/sustentacoes-orais"
+    }
+  ],
+  "total_itens": 27,
+  "total_sustentacoes": 12,
+  "itens": [
+    {
+      "item": 1,
+      "num_registro": "202103422850",
+      "registro_formatado": "2021/0342285-0",
+      "sg_classe": "AgInt nos EDcl no REsp",
+      "classe_completa": "AgInt nos EDcl no REsp",
+      "num_proc_classe": "1970722",
+      "numero_formatado": "1970722",
+      "uf": "PR",
+      "processo": "AgInt nos EDcl no REsp 1.970.722/PR",
+      "cabecalho_pdf": "",
+      "incidentes_pdf_multiplos": true,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Utilização de bens públicos",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LUCIANO FELICIO FUCK",
+          "partes": "TERESA CRISTINA CARMO SOARES"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "num_registro": "201702011182",
+      "registro_formatado": "2017/0201118-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1695943",
+      "numero_formatado": "1695943",
+      "uf": "RS",
+      "processo": "REsp 1.695.943/RS",
+      "cabecalho_pdf": "",
+      "incidentes_pdf_multiplos": true,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Adicional de Periculosidade",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LUANA MARQUES DE ALBUQUERQUE",
+          "partes": "EDMUNDO STARLING LOUREIRO FRANÇA"
+        },
+        {
+          "advogado": "Arielle Rego Barbosa / ADVOCACIA-GERAL DA UNIÃO (AGU) matrícula 3413323 OAB 20218/PI",
+          "partes": "UNIÃO"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "num_registro": "202600230963",
+      "registro_formatado": "2026/0023096-3",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2254583",
+      "numero_formatado": "2254583",
+      "uf": "SP",
+      "processo": "AgInt no REsp 2.254.583/SP",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2254583 - SP (2026/0023096-3)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Suspensão da Exigibilidade",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "BANCO BTG PACTUAL S.A"
+        }
+      ],
+      "advogados": [
+        "RUBENS JOSE NOVAKOSKI F VELLOZA - SP110862"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LEANDRO CABRAL E SILVA",
+          "partes": "BANCO BTG PACTUAL S.A"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "num_registro": "202400081350",
+      "registro_formatado": "2024/0008135-0",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2117851",
+      "numero_formatado": "2117851",
+      "uf": "RJ",
+      "processo": "AgInt no REsp 2.117.851/RJ",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2117851 - RJ (2024/0008135-0)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Anulação de Débito Fiscal",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "COMPANHIA SIDERURGICA NACIONAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DO RIO DE JANEIRO"
+        }
+      ],
+      "advogados": [
+        "RONALDO REDENSCHI - RJ094238",
+        "RAFAEL SANTANA BASTOS"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "ADMAR GONZAGA NETO",
+          "partes": "COMPANHIA SIDERURGICA NACIONAL"
+        },
+        {
+          "advogado": "JULIANA FLORENTINO DE MOURA",
+          "partes": "ESTADO DO RIO DE JANEIRO"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "num_registro": "201702011182",
+      "registro_formatado": "2017/0201118-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1695943",
+      "numero_formatado": "1695943",
+      "uf": "RS",
+      "processo": "REsp 1.695.943/RS",
+      "cabecalho_pdf": "",
+      "incidentes_pdf_multiplos": true,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Adicional de Periculosidade",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LUANA MARQUES DE ALBUQUERQUE",
+          "partes": "EDMUNDO STARLING LOUREIRO FRANÇA"
+        },
+        {
+          "advogado": "Arielle Rego Barbosa / ADVOCACIA-GERAL DA UNIÃO (AGU) matrícula 3413323 OAB 20218/PI",
+          "partes": "UNIÃO"
+        }
+      ]
+    },
+    {
+      "item": 6,
+      "num_registro": "202303630875",
+      "registro_formatado": "2023/0363087-5",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2163713",
+      "numero_formatado": "2163713",
+      "uf": "SP",
+      "processo": "AgInt no REsp 2.163.713/SP",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2163713 - SP (2023/0363087-5)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Reajustes de Remuneração, Proventos ou Pensão",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "SIMEC - SINDICATO DOS MEDIADORES E CONCILIADORES"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DE SÃO PAULO"
+        }
+      ],
+      "advogados": [
+        "FLAVIO GASPAR SALLES VIANNA - SP114646"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "DANIEL ELOI DE PAULA RODRIGUES",
+          "partes": "SIMEC - SINDICATO DOS MEDIADORES E CONCILIADORES JUDICIAIS E EXTRAJUDICIAIS DO ESTADO DE SAO PAULO"
+        }
+      ]
+    },
+    {
+      "item": 7,
+      "num_registro": "202403334800",
+      "registro_formatado": "2024/0333480-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2290759",
+      "numero_formatado": "2290759",
+      "uf": "PA",
+      "processo": "REsp 2.290.759/PA",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 2290759 - PA (2024/0333480-0)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Tomada de Preço",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "ESTADO DO PARÁ"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "AGROPALMA S/A"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "INSTITUTO DE TERRAS DO PARA"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "IBD CERTIFICACOES LTDA"
+        }
+      ],
+      "advogados": [
+        "ROBERTO TAMER XERFAN JÚNIOR - PA009117",
+        "SEM REPRESENTAÇÃO NOS AUTOS - SE000000M"
+      ],
+      "sustentacoes_orais": [
+        {
+          "advogado": "SANDERSON LIENIO DA SILVA MAFRA",
+          "partes": "AGROPALMA S/A"
+        }
+      ]
+    },
+    {
+      "item": 8,
+      "num_registro": "202103422850",
+      "registro_formatado": "2021/0342285-0",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1970722",
+      "numero_formatado": "1970722",
+      "uf": "PR",
+      "processo": "REsp 1.970.722/PR",
+      "cabecalho_pdf": "",
+      "incidentes_pdf_multiplos": true,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Sustentações Orais",
+      "ind_categoria": "SO",
+      "assunto": "Utilização de bens públicos",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": [
+        {
+          "advogado": "LUCIANO FELICIO FUCK",
+          "partes": "TERESA CRISTINA CARMO SOARES"
+        }
+      ]
+    },
+    {
+      "item": 9,
+      "num_registro": "202404336482",
+      "registro_formatado": "2024/0433648-2",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "2182882",
+      "numero_formatado": "2.182.882",
+      "uf": "",
+      "processo": "REsp 2.182.882",
+      "cabecalho_pdf": "",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Prioritários",
+      "ind_categoria": "PR",
+      "assunto": "Energia Elétrica",
+      "resultado_oficial": "QUESTÃO DE ORDEM",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 10,
+      "num_registro": "202201752891",
+      "registro_formatado": "2022/0175289-1",
+      "sg_classe": "EDcl no AgInt no AgInt no AREsp",
+      "classe_completa": "EDcl no AgInt no AgInt no AREsp",
+      "num_proc_classe": "2147124",
+      "numero_formatado": "2147124",
+      "uf": "RS",
+      "processo": "EDcl no AgInt no AgInt no AREsp 2.147.124/RS",
+      "cabecalho_pdf": "EDcl no AgInt no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2147124 - RS (2022/0175289-1)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Benedito Gonçalves",
+      "vistor": "",
+      "ministro_sessao": "Min. Benedito Gonçalves",
+      "categoria": "Preferências de Julgamento",
+      "ind_categoria": "PJ",
+      "assunto": "Cofins",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Embargante",
+          "nome": "SERRA MORENA CORRETORA LTDA"
+        },
+        {
+          "papel": "Embargado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "MILTON TERRA MACHADO - RS024114"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 11,
+      "num_registro": "202301727692",
+      "registro_formatado": "2023/0172769-2",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2074966",
+      "numero_formatado": "2074966",
+      "uf": "RS",
+      "processo": "AgInt no REsp 2.074.966/RS",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2074966 - RS (2023/0172769-2)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Herman Benjamin",
+      "vistor": "",
+      "ministro_sessao": "Min. Herman Benjamin",
+      "categoria": "Preferências de Julgamento",
+      "ind_categoria": "PJ",
+      "assunto": "Benefícios em Espécie",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+        }
+      ],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 12,
+      "num_registro": "202501992655",
+      "registro_formatado": "2025/0199265-5",
+      "sg_classe": "RMS",
+      "classe_completa": "AgInt no RMS",
+      "num_proc_classe": "76452",
+      "numero_formatado": "76452",
+      "uf": "BA",
+      "processo": "AgInt no RMS 76.452/BA",
+      "cabecalho_pdf": "AgInt no RECURSO EM MANDADO DE SEGURANÇA Nº 76452 - BA (2025/0199265-5)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Benedito Gonçalves",
+      "vistor": "",
+      "ministro_sessao": "Min. Benedito Gonçalves",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Retido na fonte",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "CNO S.A. EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DA BAHIA"
+        }
+      ],
+      "advogados": [
+        "CARLOS FREDERICO GUERRA ANDRADE - BA015051",
+        "TIAGO ARAUJO COSTA"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 13,
+      "num_registro": "201703101353",
+      "registro_formatado": "2017/0310135-3",
+      "sg_classe": "AgInt no AgInt no AREsp",
+      "classe_completa": "AgInt no AgInt no AREsp",
+      "num_proc_classe": "1214884",
+      "numero_formatado": "1214884",
+      "uf": "MG",
+      "processo": "AgInt no AgInt no AREsp 1.214.884/MG",
+      "cabecalho_pdf": "",
+      "incidentes_pdf_multiplos": true,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Improbidade Administrativa",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 14,
+      "num_registro": "201703101353",
+      "registro_formatado": "2017/0310135-3",
+      "sg_classe": "AREsp",
+      "classe_completa": "AREsp",
+      "num_proc_classe": "1214884",
+      "numero_formatado": "1214884",
+      "uf": "MG",
+      "processo": "AREsp 1.214.884/MG",
+      "cabecalho_pdf": "",
+      "incidentes_pdf_multiplos": true,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Improbidade Administrativa",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [],
+      "advogados": [],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 15,
+      "num_registro": "202404900049",
+      "registro_formatado": "2024/0490004-9",
+      "sg_classe": "AREsp",
+      "classe_completa": "AgInt no AREsp",
+      "num_proc_classe": "2829339",
+      "numero_formatado": "2829339",
+      "uf": "MT",
+      "processo": "AgInt no AREsp 2.829.339/MT",
+      "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2829339 - MT (2024/0490004-9)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "Multas e demais Sanções",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ROBERTO ANGELO DE FARIAS"
+        }
+      ],
+      "advogados": [
+        "EZEQUIEL BORGES DE CAMPOS",
+        "JOÃO JAKSON VIEIRA GOMES - MT020239O"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 16,
+      "num_registro": "202502384485",
+      "registro_formatado": "2025/0238448-5",
+      "sg_classe": "AREsp",
+      "classe_completa": "AgInt no AREsp",
+      "num_proc_classe": "2975996",
+      "numero_formatado": "2975996",
+      "uf": "SP",
+      "processo": "AgInt no AREsp 2.975.996/SP",
+      "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2975996 - SP (2025/0238448-5)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "ICMS/ Imposto sobre Circulação de Mercadorias",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "VINICOLA SALTON S.A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DE SÃO PAULO"
+        }
+      ],
+      "advogados": [
+        "RICARDO ALEXANDRE HIDALGO PACE - SP182632",
+        "PAULO GUILHERME GORSKI DE QUEIROZ - SP223839",
+        "FABIOLA TEIXEIRA SALZANO - SP123295"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 17,
+      "num_registro": "202501676590",
+      "registro_formatado": "2025/0167659-0",
+      "sg_classe": "AREsp",
+      "classe_completa": "AgInt no AREsp",
+      "num_proc_classe": "2932213",
+      "numero_formatado": "2932213",
+      "uf": "SP",
+      "processo": "AgInt no AREsp 2.932.213/SP",
+      "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2932213 - SP (2025/0167659-0)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Votos-Vista",
+      "ind_categoria": "VV",
+      "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "GUARULHOS TRANSPORTES S.A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "IGOR MAULER SANTIAGO - SP249340"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 18,
+      "num_registro": "202600647154",
+      "registro_formatado": "2026/0064715-4",
+      "sg_classe": "RMS",
+      "classe_completa": "AgInt no RMS",
+      "num_proc_classe": "78519",
+      "numero_formatado": "78519",
+      "uf": "BA",
+      "processo": "AgInt no RMS 78.519/BA",
+      "cabecalho_pdf": "AgInt no RECURSO EM MANDADO DE SEGURANÇA Nº 78519 - BA (2026/0064715-4)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Promoção",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ANTONIO ROQUE CARDOSO DA ENCARNACAO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DA BAHIA"
+        }
+      ],
+      "advogados": [
+        "FABIANO SAMARTIN FERNANDES - BA021439",
+        "RICARDO JOSÉ COSTA VILLAÇA - BA015968"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 19,
+      "num_registro": "202501676590",
+      "registro_formatado": "2025/0167659-0",
+      "sg_classe": "AREsp",
+      "classe_completa": "AgInt no AREsp",
+      "num_proc_classe": "2932213",
+      "numero_formatado": "2932213",
+      "uf": "SP",
+      "processo": "AgInt no AREsp 2.932.213/SP",
+      "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2932213 - SP (2025/0167659-0)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "IRPJ/Imposto de Renda de Pessoa Jurídica",
+      "resultado_oficial": "PEDIDO DE VISTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "GUARULHOS TRANSPORTES S.A"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "IGOR MAULER SANTIAGO - SP249340"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 20,
+      "num_registro": "202501969698",
+      "registro_formatado": "2025/0196969-8",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2216080",
+      "numero_formatado": "2216080",
+      "uf": "SP",
+      "processo": "AgInt no REsp 2.216.080/SP",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2216080 - SP (2025/0196969-8)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Pensão",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "MARIA MARGARIDA CUNHA LOUZADA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "SAO PAULO PREVIDENCIA - SPPREV"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA DO ESTADO DE SÃO PAULO"
+        }
+      ],
+      "advogados": [
+        "ANA CAROLINA CARUSO CAVAZZA - SP269595"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 21,
+      "num_registro": "202600647154",
+      "registro_formatado": "2026/0064715-4",
+      "sg_classe": "RMS",
+      "classe_completa": "AgInt no RMS",
+      "num_proc_classe": "78519",
+      "numero_formatado": "78519",
+      "uf": "BA",
+      "processo": "AgInt no RMS 78.519/BA",
+      "cabecalho_pdf": "AgInt no RECURSO EM MANDADO DE SEGURANÇA Nº 78519 - BA (2026/0064715-4)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Sérgio Kukina",
+      "vistor": "",
+      "ministro_sessao": "Min. Sérgio Kukina",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Promoção",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ANTONIO ROQUE CARDOSO DA ENCARNACAO"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "ESTADO DA BAHIA"
+        }
+      ],
+      "advogados": [
+        "FABIANO SAMARTIN FERNANDES - BA021439",
+        "RICARDO JOSÉ COSTA VILLAÇA - BA015968"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 22,
+      "num_registro": "202504508293",
+      "registro_formatado": "2025/0450829-3",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2277029",
+      "numero_formatado": "2277029",
+      "uf": "RS",
+      "processo": "AgInt no REsp 2.277.029/RS",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2277029 - RS (2025/0450829-3)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Valores Antecipados na Tutela Revogada/Cassada",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "ELZA SASSET ZANCHETA"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "UNIÃO"
+        }
+      ],
+      "advogados": [
+        "DOUGLAS MOTTER - RS103690"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 23,
+      "num_registro": "202103230051",
+      "registro_formatado": "2021/0323005-1",
+      "sg_classe": "REsp",
+      "classe_completa": "REsp",
+      "num_proc_classe": "1966966",
+      "numero_formatado": "1966966",
+      "uf": "PB",
+      "processo": "REsp 1.966.966/PB",
+      "cabecalho_pdf": "RECURSO ESPECIAL Nº 1966966 - PB (2021/0323005-1)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Regina Helena Costa",
+      "vistor": "",
+      "ministro_sessao": "Min. Regina Helena Costa",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Anulação",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Recorrente",
+          "nome": "MINISTÉRIO PÚBLICO FEDERAL"
+        },
+        {
+          "papel": "Recorrido",
+          "nome": "MUNICÍPIO DE MARCAÇÃO"
+        }
+      ],
+      "advogados": [
+        "ANDRE LEANDRO DE CARVALHO LEMES - PB015000"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 24,
+      "num_registro": "202601829243",
+      "registro_formatado": "2026/0182924-3",
+      "sg_classe": "AREsp",
+      "classe_completa": "AREsp",
+      "num_proc_classe": "3263832",
+      "numero_formatado": "3263832",
+      "uf": "RS",
+      "processo": "AREsp 3.263.832/RS",
+      "cabecalho_pdf": "AGRAVO EM RECURSO ESPECIAL Nº 3263832 - RS (2026/0182924-3)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Gurgel de Faria",
+      "vistor": "",
+      "ministro_sessao": "Min. Gurgel de Faria",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Auxílio-Acidente (Art. 86)",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "RODRIGO SCHAERER"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL"
+        }
+      ],
+      "advogados": [
+        "RICARDO BÜCHELE RODRIGUES - SC030707"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 25,
+      "num_registro": "202402148180",
+      "registro_formatado": "2024/0214818-0",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2150671",
+      "numero_formatado": "2150671",
+      "uf": "RJ",
+      "processo": "AgInt no REsp 2.150.671/RJ",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2150671 - RJ (2024/0214818-0)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Dívida Ativa (Execução Fiscal)",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "EDWARD DA COSTA LOPES"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "FAZENDA NACIONAL"
+        }
+      ],
+      "advogados": [
+        "MURILO NUNO RABAT - RJ100748"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 26,
+      "num_registro": "202403885426",
+      "registro_formatado": "2024/0388542-6",
+      "sg_classe": "REsp",
+      "classe_completa": "AgInt no REsp",
+      "num_proc_classe": "2176214",
+      "numero_formatado": "2176214",
+      "uf": "RJ",
+      "processo": "AgInt no REsp 2.176.214/RJ",
+      "cabecalho_pdf": "AgInt no RECURSO ESPECIAL Nº 2176214 - RJ (2024/0388542-6)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Dívida Ativa (Execução Fiscal)",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "PENNANT-SERVIÇOS MARÍTIMOS LTDA"
+        }
+      ],
+      "advogados": [
+        "EDUARDO DE ABREU BERBIGIER - RS041877A"
+      ],
+      "sustentacoes_orais": []
+    },
+    {
+      "item": 27,
+      "num_registro": "202404040242",
+      "registro_formatado": "2024/0404024-2",
+      "sg_classe": "AREsp",
+      "classe_completa": "AgInt no AREsp",
+      "num_proc_classe": "2778280",
+      "numero_formatado": "2778280",
+      "uf": "SP",
+      "processo": "AgInt no AREsp 2.778.280/SP",
+      "cabecalho_pdf": "AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2778280 - SP (2024/0404024-2)",
+      "incidentes_pdf_multiplos": false,
+      "tema_repetitivo": "",
+      "relator": "Min. Paulo Sérgio Domingues",
+      "vistor": "",
+      "ministro_sessao": "Min. Paulo Sérgio Domingues",
+      "categoria": "Destaques",
+      "ind_categoria": "DM",
+      "assunto": "Dívida Ativa (Execução Fiscal)",
+      "resultado_oficial": "RETIRADA DE PAUTA",
+      "segredo_justica": false,
+      "partes": [
+        {
+          "papel": "Agravante",
+          "nome": "FAZENDA NACIONAL"
+        },
+        {
+          "papel": "Agravado",
+          "nome": "EMPRESA AUTO ONIBUS PENHA SAO MIGUEL LIMITADA"
+        }
+      ],
+      "advogados": [
+        "LUIS FERNANDO DIEDRICH - SP195382"
+      ],
+      "sustentacoes_orais": []
+    }
+  ]
+}

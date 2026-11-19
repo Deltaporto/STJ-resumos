@@ -1,0 +1,21 @@
+{
+  "video_id": "bhUql0_xOKM",
+  "upload_date": "2026-11-17",
+  "orgao": "primeira_turma",
+  "validated_at": "2026-11-19T19:44:24.981362",
+  "required_sections_ok": true,
+  "missing_sections": [],
+  "sections": [
+    "Atuação e Manifestações do Min. Herman Benjamin",
+    "Destaques da Sessão",
+    "Processos Julgados",
+    "Estatísticas"
+  ],
+  "process_count": 33,
+  "materia_count": 33,
+  "herman_process_manifestations": 6,
+  "timestamp_coverage": {
+    "with_timestamp": 13,
+    "without_timestamp": 20
+  }
+}

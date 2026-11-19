@@ -178,6 +178,9 @@ def parsear_pdf_pauta(pdf_bytes: bytes) -> dict[str, dict[str, Any]]:
     texto_limpo = re.sub(r"(?m)^\s*SUPERIOR TRIBUNAL DE JUSTIÇA\s*$", "", texto_limpo)
 
     # Unir quebras de linha em cabeçalhos longos antes do registro (YYYY/NNNNNNN-D) ou Tema Repetitivo
+    # Alguns PDFs quebram a linha dentro do próprio registro, inclusive entre
+    # o hífen e o dígito verificador. Normalize somente esse padrão delimitado.
+    texto_limpo = re.sub(r"\((\d{4})/\s*(\d{7})-\s*(\d)\)", r"(\1/\2-\3)", texto_limpo)
     texto_limpo = re.sub(r"\n\s*(\(\d{4}/\d{7}-\d\))", r" \1", texto_limpo)
     texto_limpo = re.sub(r"(-\s*Tema\s+Repetitivo)\s*\n\s*(n\.\s*\d+)", r"\1 \2", texto_limpo)
 
@@ -214,7 +217,7 @@ def parsear_pdf_pauta(pdf_bytes: bytes) -> dict[str, dict[str, Any]]:
             if not valor_s:
                 continue
 
-            if rotulo_u == "RELATOR":
+            if rotulo_u in ("RELATOR", "RELATORA"):
                 relator_pdf = formatar_nome_ministro_canonico(valor_s)
             elif rotulo_u in (
                 "RECORRENTE",
@@ -239,7 +242,7 @@ def parsear_pdf_pauta(pdf_bytes: bytes) -> dict[str, dict[str, Any]]:
             elif rotulo_u in ("ADVOGADO", "ADVOGADOS", "ADVOGADA", "PROCURADOR", "DEFENSORIA"):
                 advogados.append(valor_s)
 
-        resultado[num_registro] = {
+        metadados = {
             "num_registro": num_registro,
             "registro_formatado": reg_fmt,
             "uf": uf,
@@ -252,6 +255,23 @@ def parsear_pdf_pauta(pdf_bytes: bytes) -> dict[str, dict[str, Any]]:
             "partes": partes,
             "advogados": advogados,
         }
+
+        if num_registro in resultado:
+            anterior = resultado[num_registro]
+            # O mesmo registro pode conter incidentes diferentes, com partes e
+            # cadeias de classe distintas. A chave da API não identifica, por si
+            # só, qual cabeçalho corresponde a cada entrada; não reutilizar os
+            # dados de um incidente em outro.
+            metadados["incidentes_multiplos"] = True
+            for campo in ("cabecalho", "classe_completa", "tema_repetitivo", "identificacao_curta"):
+                metadados[campo] = ""
+            metadados["partes"] = []
+            metadados["advogados"] = []
+            if anterior.get("relator_pdf") != relator_pdf:
+                metadados["relator_pdf"] = ""
+            if anterior.get("uf") != uf:
+                metadados["uf"] = ""
+        resultado[num_registro] = metadados
 
     return resultado
 
@@ -304,12 +324,15 @@ class PautaClient:
             return None
 
         cache_json = self._caminho_cache_json(data_iso, orgao_slug)
-        if not force and cache_json.exists():
+        dados_anteriores: dict[str, Any] | None = None
+        if cache_json.exists():
             try:
                 dados = json.loads(cache_json.read_text(encoding="utf-8"))
-                if isinstance(dados, dict) and dados.get("itens") is not None:
+                if isinstance(dados, dict) and isinstance(dados.get("itens"), list):
+                    dados_anteriores = dados
+                if not force and dados_anteriores and dados_anteriores["itens"]:
                     logger.info("Pauta carregada do cache local: %s", cache_json.name)
-                    return dados
+                    return dados_anteriores
             except Exception as exc:
                 logger.warning("Falha ao ler cache de pauta %s: %s", cache_json, exc)
 
@@ -327,7 +350,7 @@ class PautaClient:
             payload_cron = resp_cron.json() or {}
         except Exception as exc:
             logger.warning("Não foi possível consultar o cronograma do STJ para %s (%s): %s", data_br, orgao_slug, exc)
-            return None
+            return dados_anteriores
 
         cronogramas = payload_cron.get("cronogramas") or []
         sessao_alvo: dict[str, Any] | None = None
@@ -344,7 +367,7 @@ class PautaClient:
 
         if not sessao_alvo:
             logger.info("Nenhuma sessão colegiada presencial encontrada no calendário STJ para %s em %s.", orgao_slug, data_br)
-            return None
+            return dados_anteriores
 
         seq_sessao = int(sessao_alvo["seq"])
         tipo_sessao = (sessao_alvo.get("tipoSessao") or {}).get("nomeSessao") or "Ordinária"
@@ -388,9 +411,9 @@ class PautaClient:
 
         # 3. Baixar e parsear o PDF da Pauta de Julgamentos (para UF, Partes, Tema Repetitivo e Relator original)
         mapa_pdf: dict[str, dict[str, Any]] = {}
+        pdf_bytes = b""
         if url_pauta_pdf and seq_doc_pauta:
             cache_pdf = self._caminho_cache_pdf(data_iso, orgao_slug, seq_doc_pauta)
-            pdf_bytes = b""
             if not force and cache_pdf.exists():
                 pdf_bytes = cache_pdf.read_bytes()
             else:
@@ -501,6 +524,7 @@ class PautaClient:
                     "uf": uf,
                     "processo": processo_id,
                     "cabecalho_pdf": info_pdf.get("cabecalho") or "",
+                    "incidentes_pdf_multiplos": bool(info_pdf.get("incidentes_multiplos")),
                     "tema_repetitivo": tema_rep,
                     "relator": relator_final,
                     "vistor": vistor_final,
@@ -534,6 +558,13 @@ class PautaClient:
             "total_sustentacoes": len(sustentacoes_api),
             "itens": itens_pauta,
         }
+
+        # A API pode disponibilizar a ordem do dia mais tarde ou falhar
+        # temporariamente. Nunca sobrescrever a captura anterior com uma
+        # resposta vazia; a próxima consulta deverá tentar novamente.
+        if not itens_pauta and dados_anteriores is not None:
+            logger.warning("Ordem do dia vazia; preservando cache anterior de %s.", cache_json.name)
+            return dados_anteriores
 
         try:
             cache_json.write_text(

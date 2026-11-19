@@ -2,9 +2,12 @@
 
 from __future__ import annotations
 
+import hashlib
 import json
 import logging
 import re
+import tempfile
+import zipfile
 from pathlib import Path
 from typing import Any
 
@@ -64,20 +67,39 @@ def classificar_categoria_resultado(resultado: str) -> tuple[str, str]:
     """Retorna (slug_categoria, rotulo_curto) para o badge de resultado."""
     norm = normalizar_chave(resultado)
     if not norm:
-        return "outros", "Julgado"
+        return "outros", "Resultado não informado"
     if "vista" in norm:
         return "vista", "Pedido de Vista"
-    if "adiad" in norm or "retirad" in norm or "suspens" in norm:
+    if "adiad" in norm or "adiam" in norm or "retirad" in norm or "suspens" in norm:
         return "adiado", "Adiado / Suspenso"
+    if "parcial" in norm and ("acolh" in norm or "acolhimento" in norm):
+        return "parcial", "Parcialmente acolhido"
+    if "parcial" in norm and ("negou provimento" in norm or "negado provimento" in norm or "desprovid" in norm):
+        return "desprovido", "Desprovido"
     if "parcial" in norm:
         return "parcial", "Parcialmente Provido"
-    if "nao conhecid" in norm or "nao se conhec" in norm:
+    if "nao conhecid" in norm or "nao se conhec" in norm or "nao conheceu" in norm:
         return "nao_conhecido", "Não Conhecido"
-    if "desprovid" in norm or "negado provimento" in norm or "negar provimento" in norm or "improvid" in norm or "rejeitad" in norm:
+    if "desprovid" in norm or "negado provimento" in norm or "negou provimento" in norm or "negar provimento" in norm or "improvid" in norm or "rejeitad" in norm:
         return "desprovido", "Desprovido"
-    if "provid" in norm or "dar provimento" in norm or "acolhid" in norm:
+    if "provid" in norm or "dar provimento" in norm or "deu provimento" in norm or "acolhid" in norm:
         return "provido", "Provido"
     return "outros", limpar_markdown_inline(resultado)[:28]
+
+
+def _materia_identificada(valor: Any) -> dict[str, Any] | None:
+    """Só retorna matéria quando o texto identifica uma das categorias oficiais."""
+    texto = str(valor or "").strip()
+    if not texto:
+        return None
+    numero = re.match(r"^(1[0-5]|[1-9])(?:\.|\s|$)", texto)
+    if numero:
+        return obter_materia_por_id(numero.group(1))
+    chave = normalizar_chave(texto)
+    for materia in MATERIAS_GABINETE:
+        if chave in (normalizar_chave(materia.code), normalizar_chave(materia.short)):
+            return obter_materia_por_id(materia.id)
+    return None
 
 
 def extrair_secoes_nivel2(markdown: str) -> dict[str, str]:
@@ -153,6 +175,7 @@ def extrair_processos_estruturados(
     start_index: int = 1,
     classificacao_cache_path: Path | None = None,
     usar_subagente_flash: bool = True,
+    exigir_manifestacao_explicita: bool = False,
 ) -> list[dict[str, Any]]:
     """
     Analisa a seção '## Processos Julgados' e utiliza a classificação gerada pelo
@@ -215,7 +238,7 @@ def extrair_processos_estruturados(
 
         raw_materia = limpar_markdown_inline(campos.get("materia", ""))
         raw_relator = limpar_markdown_inline(campos.get("relator", "Não identificado"))
-        raw_resultado = limpar_markdown_inline(campos.get("resultado", "Julgado"))
+        raw_resultado = limpar_markdown_inline(campos.get("resultado", ""))
         raw_votacao = limpar_markdown_inline(campos.get("votacao", ""))
         raw_relevancia = limpar_markdown_inline(campos.get("relevancia", ""))
         raw_herman = limpar_markdown_inline(
@@ -259,7 +282,7 @@ def extrair_processos_estruturados(
                 "raw_materia": raw_materia,
                 "raw_relator": raw_relator,
                 "raw_relevancia": raw_relevancia,
-                "materia": obter_materia_por_id(raw_materia),
+                "materia": _materia_identificada(raw_materia),
                 "relator": raw_relator or "Não identificado",
                 "relatores": [],
                 "resultado": raw_resultado,
@@ -267,7 +290,7 @@ def extrair_processos_estruturados(
                 "resultadoLabel": res_label,
                 "votacao": raw_votacao,
                 "isRelevant": "alta" in normalizar_chave(raw_relevancia) or "destaque" in normalizar_chave(raw_relevancia),
-                "hasHerman": bool(raw_herman) or eh_herman_benjamin(raw_relator),
+                "hasHerman": bool(raw_herman) or (not exigir_manifestacao_explicita and eh_herman_benjamin(raw_relator)),
                 "isHermanRelator": eh_herman_benjamin(raw_relator),
                 "hermanManifestation": raw_herman,
                 "tese": tese_limpa,
@@ -288,8 +311,11 @@ def extrair_processos_estruturados(
             if len(cached_items) == len(processos):
                 for item in cached_items:
                     idx_item = int(item["index"])
+                    materia_cache = item.get("materia_id") or item.get("materia")
+                    if isinstance(materia_cache, dict):
+                        materia_cache = materia_cache.get("id") or materia_cache.get("code")
                     mapa_flash[idx_item] = {
-                        "materia": obter_materia_por_id(item.get("materia_id") or item.get("materia")),
+                        "materia": _materia_identificada(materia_cache),
                         "relatores": item.get("relatores") or [],
                         "has_herman": bool(item.get("has_herman")),
                         "is_relevant": bool(item.get("is_relevant")),
@@ -333,13 +359,15 @@ def extrair_processos_estruturados(
 
         info_flash = mapa_flash.get(local_idx) or mapa_flash.get(proc["index"])
         if info_flash:
-            proc["materia"] = info_flash["materia"]
+            if info_flash.get("materia"):
+                proc["materia"] = info_flash["materia"]
             rels = info_flash.get("relatores") or []
             proc["relatores"] = rels
             if rels:
                 proc["relator"] = ", ".join(r["name"] for r in rels)
             proc["isHermanRelator"] = any(r.get("is_herman") for r in rels) or proc["isHermanRelator"]
-            proc["hasHerman"] = bool(info_flash.get("has_herman")) or proc["hasHerman"] or proc["isHermanRelator"]
+            if not exigir_manifestacao_explicita:
+                proc["hasHerman"] = bool(info_flash.get("has_herman")) or proc["hasHerman"] or proc["isHermanRelator"]
             proc["isRelevant"] = bool(info_flash.get("is_relevant")) or proc["isRelevant"]
 
     return processos
@@ -382,6 +410,20 @@ def montar_sessoes_publicaveis(
     index_data = json.loads(index_path.read_text(encoding="utf-8"))
     videos = index_data.get("videos") or []
 
+    # O regime é da sessão inteira. A conferência precisa incluir também vídeos
+    # sem resumo, antes de qualquer descarte de entradas incompletas.
+    regimes: dict[tuple[str, str], set[bool]] = {}
+    for video in videos:
+        orgao_slug = video.get("orgao") or ""
+        upload_date = video.get("upload_date") or ""
+        if orgao_slug in ORGAOS_PUBLICAVEIS and upload_date:
+            restrita = video.get("publicacao_restrita", False)
+            if type(restrita) is not bool:
+                raise ValueError("O regime de publicação deve ser booleano explícito")
+            regimes.setdefault((upload_date, orgao_slug), set()).add(restrita)
+    if any(len(regime) > 1 for regime in regimes.values()):
+        raise ValueError("Todas as partes de uma sessão restrita devem ser marcadas como restritas")
+
     grupos: dict[tuple[str, str], list[dict[str, Any]]] = {}
     for video in videos:
         orgao_slug = video.get("orgao") or ""
@@ -391,6 +433,17 @@ def montar_sessoes_publicaveis(
 
         arquivos = video.get("arquivos") or {}
         resumo_rel = arquivos.get("resumo")
+        resumo_disponivel = bool(resumo_rel and (input_dir / resumo_rel).resolve().is_file())
+        if video.get("publicacao_restrita") and not resumo_disponivel:
+            # A falta de resumo não torna inacessíveis downloads de builds anteriores.
+            session_id = f"{upload_date}_{orgao_slug}"
+            for antigo in (
+                web_pautas_dir / f"{session_id}_pauta.pdf",
+                web_transcricoes_dir / f"{session_id}_transcricao_revisada.md",
+                web_transcricoes_dir / f"{session_id}_transcricao_revisada.docx",
+            ):
+                if antigo.exists():
+                    raise ValueError(f"Artefato público anterior requer conferência: {antigo}")
         if not resumo_rel:
             continue
 
@@ -398,7 +451,12 @@ def montar_sessoes_publicaveis(
         if not resumo_path.exists():
             continue
 
-        transcricao_rev_rel = arquivos.get("transcricao_revisada") or arquivos.get("transcricao")
+        # A sessão restrita só pode usar uma cópia pública explicitamente indicada;
+        # nunca recair silenciosamente no arquivo-fonte da transcrição.
+        if video.get("publicacao_restrita"):
+            transcricao_rev_rel = arquivos.get("transcricao_publica")
+        else:
+            transcricao_rev_rel = arquivos.get("transcricao_revisada") or arquivos.get("transcricao")
         transcricao_rev_path = (
             (input_dir / transcricao_rev_rel).resolve()
             if transcricao_rev_rel
@@ -421,6 +479,9 @@ def montar_sessoes_publicaveis(
 
     for (upload_date, orgao_slug), grupo in grupos_ordenados:
         grupo.sort(key=_ordem_parte)
+        publicacao_restrita = any(video.get("publicacao_restrita") for video in grupo)
+        if publicacao_restrita and not all(video.get("publicacao_restrita") for video in grupo):
+            raise ValueError("Todas as partes de uma sessão restrita devem ser marcadas como restritas")
         orgao_nome = nome_orgao_canonico(orgao_slug)
         data_br = formatar_data_br(upload_date)
         session_id = f"{upload_date}_{orgao_slug}"
@@ -476,6 +537,8 @@ def montar_sessoes_publicaveis(
                 part_label=rotulo,
                 start_index=contador_proc,
                 classificacao_cache_path=cache_flash_path,
+                usar_subagente_flash=False,
+                exigir_manifestacao_explicita=bool(video.get("manifestacoes_explicitas")),
             )
             contador_proc += len(procs_parte)
             todos_processos.extend(procs_parte)
@@ -537,9 +600,9 @@ def montar_sessoes_publicaveis(
                         "processTitle": proc["heading"],
                         "processNumber": proc["processNumber"],
                         "processIndex": proc["index"],
-                        "materiaId": proc["materia"]["id"],
-                        "materiaCode": proc["materia"]["code"],
-                        "materiaShort": proc["materia"]["short"],
+                        "materiaId": (proc["materia"] or {}).get("id"),
+                        "materiaCode": (proc["materia"] or {}).get("code", ""),
+                        "materiaShort": (proc["materia"] or {}).get("short", ""),
                         "relator": proc["relator"],
                         "timestamp": proc["timestamp"],
                         "videoUrl": proc["videoUrl"],
@@ -556,6 +619,8 @@ def montar_sessoes_publicaveis(
         # Agregar contagem por matéria do gabinete
         contagem_materias: dict[int, int] = {}
         for proc in todos_processos:
+            if not proc["materia"]:
+                continue
             m_id = proc["materia"]["id"]
             contagem_materias[m_id] = contagem_materias.get(m_id, 0) + 1
 
@@ -580,8 +645,9 @@ def montar_sessoes_publicaveis(
                 candidatos_pauta.append((input_dir / pauta_rel).resolve())
             res_p: Path = video["_resumo_path"]
             stem_base = res_p.name.replace("_resumo.md", "")
-            candidatos_pauta.append(res_p.with_name(f"{stem_base}_pauta.json"))
-            candidatos_pauta.append(PAUTA_CACHE_DIR / f"{upload_date}_{orgao_slug}_pauta.json")
+            if not publicacao_restrita:
+                candidatos_pauta.append(res_p.with_name(f"{stem_base}_pauta.json"))
+                candidatos_pauta.append(PAUTA_CACHE_DIR / f"{upload_date}_{orgao_slug}_pauta.json")
 
             for cand in candidatos_pauta:
                 if cand.exists():
@@ -593,6 +659,37 @@ def montar_sessoes_publicaveis(
             if pauta_sessao:
                 break
 
+        if publicacao_restrita and not pauta_sessao:
+            raise ValueError(f"Pauta identificada no índice é obrigatória para sessão restrita: {session_id}")
+        if publicacao_restrita and pauta_sessao:
+            itens_restritos = pauta_sessao.get("itens")
+            if not isinstance(itens_restritos, list) or any(
+                not isinstance(item, dict) or type(item.get("segredo_justica")) is not bool
+                for item in itens_restritos
+            ):
+                raise ValueError(f"Pauta restrita com marcação de sigilo inválida: {session_id}")
+            # Restringir por lista de campos permitidos, para que novos campos
+            # nominais na API não sejam copiados acidentalmente para o portal.
+            campos_pauta = {
+                "seq_sessao", "orgao_slug", "cod_orgao_stj", "nome_orgao",
+                "data_iso", "data_br", "tipo_sessao", "hora_inicio",
+                "total_itens", "total_sustentacoes", "itens",
+            }
+            pauta_sessao = {k: v for k, v in pauta_sessao.items() if k in campos_pauta}
+            campos_publicos = {
+                "item", "num_registro", "registro_formatado", "sg_classe",
+                "classe_completa", "num_proc_classe", "numero_formatado", "uf",
+                "processo", "tema_repetitivo", "relator", "vistor",
+                "ministro_sessao", "categoria", "ind_categoria", "segredo_justica",
+            }
+            pauta_sessao["itens"] = [
+                {k: v for k, v in item.items() if k in campos_publicos}
+                if item.get("segredo_justica") else item
+                for item in pauta_sessao.get("itens", [])
+            ]
+            pauta_sessao["url_pauta_pdf"] = ""
+            pauta_sessao["url_ata_pdf"] = ""
+            pauta_sessao["documentos"] = []
         pauta_sessao = vincular_processos_julgados_com_pauta(todos_processos, pauta_sessao)
 
         # Copiar PDF original da Pauta oficial para web/pautas/ (quando disponível)
@@ -615,7 +712,29 @@ def montar_sessoes_publicaveis(
                 pdf_encontrado = cand_pdf
                 break
 
-        if pdf_encontrado:
+        if publicacao_restrita:
+            # Um artefato antigo ainda seria acessível mesmo sem link no data.js.
+            # Não excluir arquivos silenciosamente: interromper para saneamento.
+            pdf_antigo = web_pautas_dir / f"{session_id}_pauta.pdf"
+            if pdf_antigo.exists():
+                raise ValueError(f"Artefato público anterior requer conferência: {pdf_antigo}")
+            md_antigo = web_transcricoes_dir / f"{session_id}_transcricao_revisada.md"
+            docx_antigo = web_transcricoes_dir / f"{session_id}_transcricao_revisada.docx"
+            selo = web_transcricoes_dir / f".{session_id}_restrita.json"
+            if md_antigo.exists() or docx_antigo.exists():
+                try:
+                    hashes = json.loads(selo.read_text(encoding="utf-8"))
+                    verificados = all(
+                        arquivo.is_file()
+                        and hashes.get(arquivo.name) == hashlib.sha256(arquivo.read_bytes()).hexdigest()
+                        for arquivo in (md_antigo, docx_antigo)
+                    )
+                except (OSError, ValueError, TypeError):
+                    verificados = False
+                if not transcricao_partes or not verificados:
+                    raise ValueError(f"Artefato público anterior requer conferência: {md_antigo}")
+
+        if pdf_encontrado and not publicacao_restrita:
             nome_pauta_pdf = f"{session_id}_pauta.pdf"
             destino_web_pdf = web_pautas_dir / nome_pauta_pdf
             if not destino_web_pdf.exists() or destino_web_pdf.stat().st_size != pdf_encontrado.stat().st_size:
@@ -633,23 +752,71 @@ def montar_sessoes_publicaveis(
             caminho_publico_docx = web_transcricoes_dir / nome_arquivo_docx
 
             transcript_markdown = "\n\n---\n\n".join(transcricao_partes).strip() + "\n"
-            caminho_publico_transc.write_text(transcript_markdown, encoding="utf-8")
-            transcript_rel_url = f"transcricoes/{nome_arquivo_transc}"
-
             try:
                 from stj_sessoes.docx_exporter import exportar_transcricao_para_docx
-
-                exportar_transcricao_para_docx(
-                    markdown_transcricao=transcript_markdown,
-                    output_path=caminho_publico_docx,
-                    video_url=partes_video[0]["url"] if partes_video else "",
-                    orgao=orgao_nome,
-                    data_sessao=data_br,
-                    titulo_sessao=title,
-                    pauta=pauta_sessao,
-                )
+                if publicacao_restrita:
+                    # Só substituir saídas antes verificadas depois de gerar ambas
+                    # as novas versões; falhas de exportação preservam as antigas.
+                    with tempfile.TemporaryDirectory(dir=web_transcricoes_dir) as tmp:
+                        staged_md = Path(tmp) / nome_arquivo_transc
+                        staged_docx = Path(tmp) / nome_arquivo_docx
+                        staged_md.write_text(transcript_markdown, encoding="utf-8")
+                        exportar_transcricao_para_docx(
+                            markdown_transcricao=transcript_markdown, output_path=staged_docx,
+                            video_url=partes_video[0]["url"] if partes_video else "",
+                            orgao=orgao_nome, data_sessao=data_br, titulo_sessao=title,
+                            pauta=pauta_sessao,
+                        )
+                        if not staged_docx.is_file() or not zipfile.is_zipfile(staged_docx):
+                            raise ValueError("Exportação DOCX não gerou arquivo válido")
+                        with zipfile.ZipFile(staged_docx) as documento:
+                            if documento.testzip() or "word/document.xml" not in documento.namelist():
+                                raise ValueError("Exportação DOCX não gerou arquivo válido")
+                        novos_hashes = {
+                            arquivo.name: hashlib.sha256(arquivo.read_bytes()).hexdigest()
+                            for arquivo in (staged_md, staged_docx)
+                        }
+                        staged_selo = Path(tmp) / "novo_selo.json"
+                        staged_selo.write_text(json.dumps(novos_hashes), encoding="utf-8")
+                        saidas = (caminho_publico_transc, caminho_publico_docx, selo)
+                        anteriores = {
+                            destino: destino.read_bytes() if destino.exists() else None
+                            for destino in saidas
+                        }
+                        alterados: list[Path] = []
+                        try:
+                            for origem, destino in zip((staged_md, staged_docx, staged_selo), saidas):
+                                origem.replace(destino)
+                                alterados.append(destino)
+                        except OSError:
+                            # Devolver exatamente os arquivos anteriores caso uma
+                            # troca intermediária falhe; nunca manter par misto.
+                            for destino in reversed(alterados):
+                                anterior = anteriores[destino]
+                                if anterior is None:
+                                    destino.unlink(missing_ok=True)
+                                else:
+                                    backup = Path(tmp) / f"backup_{destino.name}"
+                                    backup.write_bytes(anterior)
+                                    backup.replace(destino)
+                            raise
+                else:
+                    caminho_publico_transc.write_text(transcript_markdown, encoding="utf-8")
+                    transcript_rel_url = f"transcricoes/{nome_arquivo_transc}"
+                    exportar_transcricao_para_docx(
+                        markdown_transcricao=transcript_markdown,
+                        output_path=caminho_publico_docx,
+                        video_url=partes_video[0]["url"] if partes_video else "",
+                        orgao=orgao_nome,
+                        data_sessao=data_br,
+                        titulo_sessao=title,
+                        pauta=pauta_sessao,
+                    )
+                transcript_rel_url = f"transcricoes/{nome_arquivo_transc}"
                 transcript_docx_rel_url = f"transcricoes/{nome_arquivo_docx}"
             except Exception as exc:
+                if publicacao_restrita:
+                    raise
                 logger.error("Erro ao gerar versão DOCX para %s: %s", session_id, exc)
 
         # Estatísticas agregadas exatas

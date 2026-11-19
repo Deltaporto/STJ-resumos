@@ -1,6 +1,71 @@
 {
   "videos": [
     {
+      "video_id": "bhUql0_xOKM",
+      "title": "Primeira Turma - STJ -  17/11/2026",
+      "upload_date": "2026-11-17",
+      "url": "https://www.youtube.com/watch?v=bhUql0_xOKM",
+      "duration": 15035,
+      "orgao": "primeira_turma",
+      "processado_em": "2026-11-19T19:47:30",
+      "arquivos": {
+        "pauta_json": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_pauta.json",
+        "pauta_md": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_pauta.md",
+        "pauta_pdf": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_pauta.pdf",
+        "transcricao_bruta": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_transcricao_revisada.md",
+        "transcricao_revisada_docx": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_transcricao_revisada.docx",
+        "resumo_bruto": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_resumo_bruto.md",
+        "resumo": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_resumo.md",
+        "resumo_meta": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_resumo_meta.json",
+        "classificacao_flash": "primeira_turma/2026-11-17_primeira_turma_bhUql0_xOKM_classificacao_flash.json"
+      }
+    },
+    {
+      "video_id": "H_SLFWoB03A",
+      "title": "Primeira Seção - STJ - 11/11/2026",
+      "upload_date": "2026-11-11",
+      "url": "https://www.youtube.com/watch?v=H_SLFWoB03A",
+      "duration": 18646,
+      "orgao": "primeira_secao",
+      "processado_em": "2026-11-19T19:50:50",
+      "arquivos": {
+        "pauta_json": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_pauta.json",
+        "pauta_md": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_pauta.md",
+        "pauta_pdf": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_pauta.pdf",
+        "transcricao_bruta": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_transcricao_revisada.md",
+        "transcricao_revisada_docx": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_transcricao_revisada.docx",
+        "resumo_bruto": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_resumo_bruto.md",
+        "resumo": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_resumo.md",
+        "resumo_meta": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_resumo_meta.json",
+        "classificacao_flash": "primeira_secao/2026-11-11_primeira_secao_H_SLFWoB03A_classificacao_flash.json"
+      }
+    },
+    {
+      "video_id": "AtFVarahFSE",
+      "publicacao_restrita": true,
+      "title": "Primeira Turma - STJ - 10/11/2026",
+      "upload_date": "2026-11-10",
+      "url": "https://www.youtube.com/watch?v=AtFVarahFSE",
+      "duration": 16460,
+      "orgao": "primeira_turma",
+      "processado_em": "2026-11-19T19:50:06",
+      "arquivos": {
+        "pauta_json": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_pauta.json",
+        "pauta_md": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_pauta.md",
+        "pauta_pdf": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_pauta.pdf",
+        "transcricao_bruta": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_transcricao_bruta.md",
+        "transcricao_revisada": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_transcricao_revisada.md",
+        "transcricao_revisada_docx": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_transcricao_revisada.docx",
+        "transcricao_publica": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_transcricao_publica.md",
+        "resumo_bruto": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_resumo_bruto.md",
+        "resumo": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_resumo.md",
+        "resumo_meta": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_resumo_meta.json",
+        "classificacao_flash": "primeira_turma/2026-11-10_primeira_turma_AtFVarahFSE_classificacao_flash.json"
+      }
+    },
+    {
       "video_id": "n7buwQdHeUY",
       "title": "Primeira Seção - STJ - 05/11/2026",
       "upload_date": "2026-11-05",
@@ -103,6 +168,6 @@
       }
     }
   ],
-  "ultima_atualizacao": "2026-11-09T13:12:01.163358",
-  "total_videos": 5
+  "ultima_atualizacao": "2026-11-19T19:52:00",
+  "total_videos": 8
 }
