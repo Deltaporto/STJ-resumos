@@ -1133,9 +1133,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="process-badges-left">
                             <span class="process-index-badge">Nº ${proc.index}</span>
                             ${pautaBadge}
-                            <button type="button" class="materia-tag" data-materia-id="${escapeHtml(proc.materia?.id)}">
-                                ${highlightMatches(proc.materia?.code || 'Matéria não classificada', state.searchQuery)}
-                            </button>
+                            ${proc.materia?.id ? `<button type="button" class="materia-tag" data-materia-id="${escapeHtml(proc.materia.id)}">${highlightMatches(proc.materia.code, state.searchQuery)}</button>` : '<span class="materia-tag">Matéria pendente</span>'}
                             ${hermanBadge}
                             ${relevantBadge}
                         </div>
@@ -1196,7 +1194,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     });
                 }
 
-                const materiaBtn = card.querySelector('.materia-tag');
+                const materiaBtn = card.querySelector('button.materia-tag');
                 if (materiaBtn) {
                     materiaBtn.addEventListener('click', () => {
                         const mId = materiaBtn.getAttribute('data-materia-id');
